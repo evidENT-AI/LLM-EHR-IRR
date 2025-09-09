@@ -1,0 +1,1085 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 45
+    },
+    "semanticTags": {
+      "finding": 32
+    },
+    "language": {
+      "en": 45
+    },
+    "membership": {
+      "1322291000000109": 32,
+      "999004341000000106": 4,
+      "1127601000000107": 32,
+      "900000000000497000": 32,
+      "733073007": 32,
+      "999002271000000101": 30
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004341000000106": {
+      "conceptId": "999004341000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999004341000000106"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 45,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 45,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "No lesion on light microscopy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125114005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal tissue morphology by light microscopy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal tissue morphology by light microscopy",
+          "lang": "en"
+        },
+        "id": "125114005"
+      }
+    },
+    {
+      "term": "O/E - skin over lesion-normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164604009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - skin over lesion-normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - skin over lesion-normal",
+          "lang": "en"
+        },
+        "id": "164604009"
+      }
+    },
+    {
+      "term": "No lesion at margins of excision",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "55182004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surgical margin uninvolved by tumor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surgical margin uninvolved by tumor",
+          "lang": "en"
+        },
+        "id": "55182004"
+      }
+    },
+    {
+      "term": "Normal color of skin over lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "820948002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal color of skin over lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal color of skin over lesion",
+          "lang": "en"
+        },
+        "id": "820948002"
+      }
+    },
+    {
+      "term": "Normal colour of skin over lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "820948002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal color of skin over lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal color of skin over lesion",
+          "lang": "en"
+        },
+        "id": "820948002"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of hip region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718921002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of hip region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of hip region",
+          "lang": "en"
+        },
+        "id": "718921002"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of lower limb",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720024008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of lower limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of lower limb",
+          "lang": "en"
+        },
+        "id": "720024008"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of knee region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718932002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of knee region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of knee region",
+          "lang": "en"
+        },
+        "id": "718932002"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of head region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720013006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of head region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of head region",
+          "lang": "en"
+        },
+        "id": "720013006"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of back region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720027001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of back region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of back region",
+          "lang": "en"
+        },
+        "id": "720027001"
+      }
+    },
+    {
+      "term": "O/E - nonspecific respiratory lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162969001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - nonspecific respiratory lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - nonspecific respiratory lesion",
+          "lang": "en"
+        },
+        "id": "162969001"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of pubic region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720019005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of pubic region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of pubic region",
+          "lang": "en"
+        },
+        "id": "720019005"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of lumbar region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718929000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of lumbar region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of lumbar region",
+          "lang": "en"
+        },
+        "id": "718929000"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of pelvic region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720016003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of pelvic region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of pelvic region",
+          "lang": "en"
+        },
+        "id": "720016003"
+      }
+    },
+    {
+      "term": "Normal temperature of skin over lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "822961005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal temperature of skin over lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal temperature of skin over lesion",
+          "lang": "en"
+        },
+        "id": "822961005"
+      }
+    },
+    {
+      "term": "Low density (not containing fat) lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129746008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lesion with low radiographic density (not containing fat) (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Low density (not containing fat) lesion",
+          "lang": "en"
+        },
+        "id": "129746008"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of thoracic region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718938003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of thoracic region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of thoracic region",
+          "lang": "en"
+        },
+        "id": "718938003"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of cervical region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417347005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of cervical region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cervical somatic dysfunction",
+          "lang": "en"
+        },
+        "id": "417347005"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of region of trunk",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722411008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of region of trunk (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of region of trunk",
+          "lang": "en"
+        },
+        "id": "722411008"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of abdominal region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718922009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of abdominal region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of abdominal region",
+          "lang": "en"
+        },
+        "id": "718922009"
+      }
+    },
+    {
+      "term": "On examination - skin over lesion-normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164604009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - skin over lesion-normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - skin over lesion-normal",
+          "lang": "en"
+        },
+        "id": "164604009"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of the sacral region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718936004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of sacral region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of sacral region",
+          "lang": "en"
+        },
+        "id": "718936004"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of sacroiliac region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720473006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of sacroiliac region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of sacroiliac region",
+          "lang": "en"
+        },
+        "id": "720473006"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of lumbosacral region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722410009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of lumbosacral region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of lumbosacral region",
+          "lang": "en"
+        },
+        "id": "722410009"
+      }
+    },
+    {
+      "term": "Normal color of skin over lesion (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "820948002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal color of skin over lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal color of skin over lesion",
+          "lang": "en"
+        },
+        "id": "820948002"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of thoracolumbar region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718920001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of thoracolumbar region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of thoracolumbar region",
+          "lang": "en"
+        },
+        "id": "718920001"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of costochondral region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718939006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of costochondral region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of costochondral region",
+          "lang": "en"
+        },
+        "id": "718939006"
+      }
+    },
+    {
+      "term": "Surgical margins of excised lesion not clear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442479004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surgical margins of excised lesion not clear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surgical margins of excised lesion not clear",
+          "lang": "en"
+        },
+        "id": "442479004"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of sacrococcygeal region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718927003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of sacrococcygeal region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of sacrococcygeal region",
+          "lang": "en"
+        },
+        "id": "718927003"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of occipitocervical region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718919007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of occipitocervical region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of occipitocervical region",
+          "lang": "en"
+        },
+        "id": "718919007"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of sternoclavicular region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720015004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of sternoclavicular region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of sternoclavicular region",
+          "lang": "en"
+        },
+        "id": "720015004"
+      }
+    },
+    {
+      "term": "On examination - nonspecific respiratory lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162969001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - nonspecific respiratory lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - nonspecific respiratory lesion",
+          "lang": "en"
+        },
+        "id": "162969001"
+      }
+    },
+    {
+      "term": "No tumor-associated epithelial lesion identified",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "396664001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No tumor-associated epithelial lesion identified (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No tumor-associated epithelial lesion identified",
+          "lang": "en"
+        },
+        "id": "396664001"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of acromioclavicular region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720028006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of acromioclavicular region (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of acromioclavicular region",
+          "lang": "en"
+        },
+        "id": "720028006"
+      }
+    },
+    {
+      "term": "Normal temperature of skin over lesion (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "822961005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal temperature of skin over lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal temperature of skin over lesion",
+          "lang": "en"
+        },
+        "id": "822961005"
+      }
+    },
+    {
+      "term": "No tumour-associated epithelial lesion identified",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "396664001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No tumor-associated epithelial lesion identified (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No tumor-associated epithelial lesion identified",
+          "lang": "en"
+        },
+        "id": "396664001"
+      }
+    },
+    {
+      "term": "On examination - skin temperature on lesion normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164611008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - skin temperature on lesion normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "On examination - skin temperature on lesion normal",
+          "lang": "en"
+        },
+        "id": "164611008"
+      }
+    },
+    {
+      "term": "On examination - skin over lesion-normal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164604009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - skin over lesion-normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - skin over lesion-normal",
+          "lang": "en"
+        },
+        "id": "164604009"
+      }
+    },
+    {
+      "term": "Nonallopathic lesion of costovertebral joint structure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718940008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Somatic dysfunction of costovertebral joint structure (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Somatic dysfunction of costovertebral joint structure",
+          "lang": "en"
+        },
+        "id": "718940008"
+      }
+    },
+    {
+      "term": "Surgical margins of excised lesion not clear (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442479004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surgical margins of excised lesion not clear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surgical margins of excised lesion not clear",
+          "lang": "en"
+        },
+        "id": "442479004"
+      }
+    },
+    {
+      "term": "Lesion with low radiographic density (not containing fat)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129746008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lesion with low radiographic density (not containing fat) (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Low density (not containing fat) lesion",
+          "lang": "en"
+        },
+        "id": "129746008"
+      }
+    },
+    {
+      "term": "On examination - nonspecific respiratory lesion (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162969001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - nonspecific respiratory lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - nonspecific respiratory lesion",
+          "lang": "en"
+        },
+        "id": "162969001"
+      }
+    },
+    {
+      "term": "No tumor-associated epithelial lesion identified (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "396664001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No tumor-associated epithelial lesion identified (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No tumor-associated epithelial lesion identified",
+          "lang": "en"
+        },
+        "id": "396664001"
+      }
+    },
+    {
+      "term": "On examination - skin temperature on lesion normal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164611008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - skin temperature on lesion normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "On examination - skin temperature on lesion normal",
+          "lang": "en"
+        },
+        "id": "164611008"
+      }
+    },
+    {
+      "term": "Lesion with low radiographic density (not containing fat) (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129746008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lesion with low radiographic density (not containing fat) (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Low density (not containing fat) lesion",
+          "lang": "en"
+        },
+        "id": "129746008"
+      }
+    }
+  ]
+}

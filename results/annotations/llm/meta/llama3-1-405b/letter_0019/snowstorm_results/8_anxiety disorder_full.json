@@ -1,0 +1,1612 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 26,
+      "999000041000000102": 3,
+      "900000000000207008": 198
+    },
+    "semanticTags": {
+      "disorder": 67,
+      "environment": 1,
+      "assessment scale": 8,
+      "observable entity": 15,
+      "procedure": 3,
+      "finding": 2,
+      "situation": 2
+    },
+    "language": {
+      "en": 227
+    },
+    "membership": {
+      "1322291000000109": 98,
+      "999004331000000102": 2,
+      "1382541000000106": 1,
+      "999002671000000103": 1,
+      "2222211000000107": 1,
+      "999002271000000101": 88,
+      "2222191000000108": 1,
+      "999002651000000107": 1,
+      "991471000000104": 12,
+      "999002591000000100": 1,
+      "999002641000000109": 1,
+      "900000000000497000": 86,
+      "2181121000000105": 2,
+      "999002631000000100": 1,
+      "1323831000000101": 1,
+      "991411000000109": 2,
+      "1127601000000107": 71,
+      "1382531000000102": 62,
+      "999001871000000106": 1,
+      "966251000000103": 1,
+      "999002661000000105": 1,
+      "900000000000489007": 7,
+      "1128731000000105": 1,
+      "1128781000000109": 1,
+      "733073007": 98,
+      "991461000000106": 1,
+      "999004381000000103": 1,
+      "991381000000107": 1,
+      "966261000000100": 6,
+      "999001751000000105": 3
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1382541000000106": {
+      "conceptId": "1382541000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care sickness absence category simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care sickness absence category simple reference set",
+        "lang": "en"
+      },
+      "id": "1382541000000106"
+    },
+    "999002671000000103": {
+      "conceptId": "999002671000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure wellbeing scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure wellbeing scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002671000000103"
+    },
+    "2222211000000107": {
+      "conceptId": "2222211000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric general findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric general findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2222211000000107"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999002651000000107": {
+      "conceptId": "999002651000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure impairment scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure impairment scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002651000000107"
+    },
+    "991471000000104": {
+      "conceptId": "991471000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental health assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental health assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "991471000000104"
+    },
+    "999002591000000100": {
+      "conceptId": "999002591000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Perinatal mental health procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Perinatal mental health procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "999002591000000100"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002641000000109": {
+      "conceptId": "999002641000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure carer wellbeing scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure carer wellbeing scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002641000000109"
+    },
+    "2181121000000105": {
+      "conceptId": "2181121000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181121000000105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002631000000100": {
+      "conceptId": "999002631000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure activity scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure activity scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002631000000100"
+    },
+    "1323831000000101": {
+      "conceptId": "1323831000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Improving Access to Psychological Therapies assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "IAPT (Improving Access to Psychological Therapies) assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "1323831000000101"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999001871000000106": {
+      "conceptId": "999001871000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Respiratory medicine diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Respiratory medicine diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001871000000106"
+    },
+    "966251000000103": {
+      "conceptId": "966251000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy diagnostic procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy diagnostic procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "966251000000103"
+    },
+    "999002661000000105": {
+      "conceptId": "999002661000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure participation scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure participation scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002661000000105"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1128731000000105": {
+      "conceptId": "1128731000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional assessment scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional assessment scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "1128731000000105"
+    },
+    "1128781000000109": {
+      "conceptId": "1128781000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional assessment scale procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional assessment scale procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "1128781000000109"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "991461000000106": {
+      "conceptId": "991461000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental health assessment scale procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental health assessment scale procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991461000000106"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "991381000000107": {
+      "conceptId": "991381000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Comorbid conditions for selection simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Comorbid conditions for selection simple reference set",
+        "lang": "en"
+      },
+      "id": "991381000000107"
+    },
+    "966261000000100": {
+      "conceptId": "966261000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "966261000000100"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 227,
+  "totalPages": 5,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "197480006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder",
+          "lang": "en"
+        },
+        "id": "197480006"
+      }
+    },
+    {
+      "term": "Dream anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111487009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dream anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dream anxiety disorder",
+          "lang": "en"
+        },
+        "id": "111487009"
+      }
+    },
+    {
+      "term": "Social anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25501002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Social phobia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Social phobia",
+          "lang": "en"
+        },
+        "id": "25501002"
+      }
+    },
+    {
+      "term": "Phobic anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "386810004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phobic disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Phobic disorder",
+          "lang": "en"
+        },
+        "id": "386810004"
+      }
+    },
+    {
+      "term": "Organic anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "17496003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Organic anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Organic anxiety disorder",
+          "lang": "en"
+        },
+        "id": "17496003"
+      }
+    },
+    {
+      "term": "Illness anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16265701000119107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Illness anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Illness anxiety disorder",
+          "lang": "en"
+        },
+        "id": "16265701000119107"
+      }
+    },
+    {
+      "term": "Secondary anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52910006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder due to a general medical condition (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder due to a general medical condition",
+          "lang": "en"
+        },
+        "id": "52910006"
+      }
+    },
+    {
+      "term": "Separation anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11806006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Separation anxiety disorder of childhood (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Separation anxiety disorder of childhood",
+          "lang": "en"
+        },
+        "id": "11806006"
+      }
+    },
+    {
+      "term": "Anxiety disorder (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "197480006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder",
+          "lang": "en"
+        },
+        "id": "197480006"
+      }
+    },
+    {
+      "term": "Stranger anxiety (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "351861000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Stranger anxiety (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stranger anxiety",
+          "lang": "en"
+        },
+        "id": "351861000000106"
+      }
+    },
+    {
+      "term": "Generalized anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "21897009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Generalized anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Generalized anxiety disorder",
+          "lang": "en"
+        },
+        "id": "21897009"
+      }
+    },
+    {
+      "term": "Generalised anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "21897009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Generalized anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Generalized anxiety disorder",
+          "lang": "en"
+        },
+        "id": "21897009"
+      }
+    },
+    {
+      "term": "Anxiety disorder of childhood",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "53467004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder of childhood (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder of childhood",
+          "lang": "en"
+        },
+        "id": "53467004"
+      }
+    },
+    {
+      "term": "Separation anxiety (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "126943008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Separation anxiety (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Separation anxiety",
+          "lang": "en"
+        },
+        "id": "126943008"
+      }
+    },
+    {
+      "term": "Anxiety disorder of adolescence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37868008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder of adolescence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder of adolescence",
+          "lang": "en"
+        },
+        "id": "37868008"
+      }
+    },
+    {
+      "term": "Mood or anxiety disorder clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702883002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mood or anxiety disorder clinic (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mood or anxiety disorder clinic",
+          "lang": "en"
+        },
+        "id": "702883002"
+      }
+    },
+    {
+      "term": "Anxiety disorder caused by drug",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "22621000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by drug (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder caused by drug",
+          "lang": "en"
+        },
+        "id": "22621000119103"
+      }
+    },
+    {
+      "term": "Opioid-induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "724654009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by opioid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder caused by opioid",
+          "lang": "en"
+        },
+        "id": "724654009"
+      }
+    },
+    {
+      "term": "Anxiety in pregnancy (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "94641000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety in pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety in pregnancy",
+          "lang": "en"
+        },
+        "id": "94641000119109"
+      }
+    },
+    {
+      "term": "Cocaine-induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "51493001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by cocaine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder caused by cocaine",
+          "lang": "en"
+        },
+        "id": "51493001"
+      }
+    },
+    {
+      "term": "Alcohol-induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34938008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by alcohol (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder caused by alcohol",
+          "lang": "en"
+        },
+        "id": "34938008"
+      }
+    },
+    {
+      "term": "Cocaine induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "51493001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by cocaine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder caused by cocaine",
+          "lang": "en"
+        },
+        "id": "51493001"
+      }
+    },
+    {
+      "term": "Alcohol induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34938008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by alcohol (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder caused by alcohol",
+          "lang": "en"
+        },
+        "id": "34938008"
+      }
+    },
+    {
+      "term": "Adjustment disorder with anxiety",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47372000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adjustment disorder with anxious mood (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adjustment disorder with anxious mood",
+          "lang": "en"
+        },
+        "id": "47372000"
+      }
+    },
+    {
+      "term": "Inhalant-induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20876004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inhalant-induced anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inhalant-induced anxiety disorder",
+          "lang": "en"
+        },
+        "id": "20876004"
+      }
+    },
+    {
+      "term": "Cannabis-induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39951001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cannabis-induced anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cannabis-induced anxiety disorder",
+          "lang": "en"
+        },
+        "id": "39951001"
+      }
+    },
+    {
+      "term": "Caffeine-induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "70655008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Caffeine-induced anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Caffeine-induced anxiety disorder",
+          "lang": "en"
+        },
+        "id": "70655008"
+      }
+    },
+    {
+      "term": "Childhood phobic anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "192611004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Childhood phobic anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Childhood phobic anxiety disorder",
+          "lang": "en"
+        },
+        "id": "192611004"
+      }
+    },
+    {
+      "term": "Dream anxiety disorder (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111487009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dream anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dream anxiety disorder",
+          "lang": "en"
+        },
+        "id": "111487009"
+      }
+    },
+    {
+      "term": "Childhood social anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64165008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Avoidant disorder of childhood (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Avoidant disorder of childhood",
+          "lang": "en"
+        },
+        "id": "64165008"
+      }
+    },
+    {
+      "term": "Caffeine induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "70655008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Caffeine-induced anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Caffeine-induced anxiety disorder",
+          "lang": "en"
+        },
+        "id": "70655008"
+      }
+    },
+    {
+      "term": "Inhalant induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20876004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inhalant-induced anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inhalant-induced anxiety disorder",
+          "lang": "en"
+        },
+        "id": "20876004"
+      }
+    },
+    {
+      "term": "Cannabis induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39951001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cannabis-induced anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cannabis-induced anxiety disorder",
+          "lang": "en"
+        },
+        "id": "39951001"
+      }
+    },
+    {
+      "term": "Anxiety disorder caused by opioid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "724654009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by opioid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder caused by opioid",
+          "lang": "en"
+        },
+        "id": "724654009"
+      }
+    },
+    {
+      "term": "Ketamine-induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "724723002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by ketamine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder caused by ketamine",
+          "lang": "en"
+        },
+        "id": "724723002"
+      }
+    },
+    {
+      "term": "Family history of anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160332003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Anxiety state (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Anxiety state",
+          "lang": "en"
+        },
+        "id": "160332003"
+      }
+    },
+    {
+      "term": "GAD - Generalized anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "21897009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Generalized anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Generalized anxiety disorder",
+          "lang": "en"
+        },
+        "id": "21897009"
+      }
+    },
+    {
+      "term": "GAD - Generalised anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "21897009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Generalized anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Generalized anxiety disorder",
+          "lang": "en"
+        },
+        "id": "21897009"
+      }
+    },
+    {
+      "term": "Anxiety disorder caused by alcohol",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34938008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by alcohol (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder caused by alcohol",
+          "lang": "en"
+        },
+        "id": "34938008"
+      }
+    },
+    {
+      "term": "Anxiety disorder caused by cocaine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "51493001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by cocaine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder caused by cocaine",
+          "lang": "en"
+        },
+        "id": "51493001"
+      }
+    },
+    {
+      "term": "Organic anxiety disorder (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "17496003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Organic anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Organic anxiety disorder",
+          "lang": "en"
+        },
+        "id": "17496003"
+      }
+    },
+    {
+      "term": "Anxiety hyperventilation (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "69479009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety hyperventilation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety hyperventilation",
+          "lang": "en"
+        },
+        "id": "69479009"
+      }
+    },
+    {
+      "term": "Anxiety disorder caused by ketamine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "724723002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by ketamine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder caused by ketamine",
+          "lang": "en"
+        },
+        "id": "724723002"
+      }
+    },
+    {
+      "term": "Illness anxiety disorder (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16265701000119107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Illness anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Illness anxiety disorder",
+          "lang": "en"
+        },
+        "id": "16265701000119107"
+      }
+    },
+    {
+      "term": "Amphetamine-induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82339009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by amfetamine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Amphetamine-induced anxiety disorder",
+          "lang": "en"
+        },
+        "id": "82339009"
+      }
+    },
+    {
+      "term": "Episodic paroxysmal anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371631005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Panic disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Panic disorder",
+          "lang": "en"
+        },
+        "id": "371631005"
+      }
+    },
+    {
+      "term": "Amphetamine induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82339009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by amfetamine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Amphetamine-induced anxiety disorder",
+          "lang": "en"
+        },
+        "id": "82339009"
+      }
+    },
+    {
+      "term": "Anxiety disorder caused by stimulant",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "762331007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety disorder caused by stimulant (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety disorder caused by stimulant",
+          "lang": "en"
+        },
+        "id": "762331007"
+      }
+    },
+    {
+      "term": "Generalised anxiety disorder 2 scale",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "836551000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Generalised anxiety disorder 2 scale (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "GAD-2 (generalised anxiety disorder 2) scale",
+          "lang": "en"
+        },
+        "id": "836551000000102"
+      }
+    },
+    {
+      "term": "Hallucinogen-induced anxiety disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15277004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hallucinogen-induced anxiety disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hallucinogen-induced anxiety disorder",
+          "lang": "en"
+        },
+        "id": "15277004"
+      }
+    }
+  ]
+}

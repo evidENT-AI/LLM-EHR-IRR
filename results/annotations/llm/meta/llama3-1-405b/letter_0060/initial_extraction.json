@@ -1,0 +1,244 @@
+{
+  "labels": {
+    "10-month-old male": {
+      "context": "The patient is a 10-month-old male who was seen in the office 1 day prior to admission.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "fever": {
+      "context": "Admitting Diagnoses: 1. Fever.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "386661006"
+    },
+    "intermittent cough": {
+      "context": "He has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "11833005"
+    },
+    "nasal congestion": {
+      "context": "He has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "68235006"
+    },
+    "rhinorrhea": {
+      "context": "He has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "236599009"
+    },
+    "rashes": {
+      "context": "He has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "271807003"
+    },
+    "increased workup of breathing": {
+      "context": "Lungs showed increased workup of breathing, moderate tachypnea.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "lethargic": {
+      "context": "On exam, he was moderately ill appearing and lethargic.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "247682007"
+    },
+    "red and yellow tympanic membranes": {
+      "context": "Tympanic membranes were red and yellow, and opaque bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "opaque tympanic membranes": {
+      "context": "Tympanic membranes were red and yellow, and opaque bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "moderate tachypnea": {
+      "context": "Lungs showed increased workup of breathing, moderate tachypnea.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "236599009"
+    },
+    "otitis media": {
+      "context": "Admitting Diagnoses: 2. Otitis media.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "65363002"
+    },
+    "possible sepsis": {
+      "context": "Admitting Diagnoses: 3. Possible sepsis.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "236599009"
+    },
+    "electrolytes": {
+      "context": "He had electrolytes, BUN and creatinine, and glucose all of which were within normal limits.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "BUN and creatinine": {
+      "context": "He had electrolytes, BUN and creatinine, and glucose all of which were within normal limits.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "glucose": {
+      "context": "He had electrolytes, BUN and creatinine, and glucose all of which were within normal limits.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "white blood cell count": {
+      "context": "White blood cell count was 8.6 with 61% neutrophils, 21% lymphocytes, 17% monocytes, suggestive of a viral infection.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "urinalysis": {
+      "context": "Urinalysis was completely unremarkable.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "chest x-ray": {
+      "context": "Chest x-ray showed a suboptimal inspiration, but no evidence of an acute process in the chest.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "ceftriaxone": {
+      "context": "He was given ceftriaxone 500 mg IV once daily to treat otitis media and possible sepsis",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Tylenol": {
+      "context": "I will add Tylenol and ibuprofen as needed for fevers.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "ibuprofen": {
+      "context": "I will add Tylenol and ibuprofen as needed for fevers.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "albuterol aerosols": {
+      "context": "we instituted albuterol aerosols every 6 hours to help maintain good lung function.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Omnicef": {
+      "context": "He was continued Omnicef 125 mg/5 mL one teaspoon p.o. once daily",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    }
+  }
+}

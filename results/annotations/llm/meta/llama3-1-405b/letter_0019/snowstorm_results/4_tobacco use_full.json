@@ -1,0 +1,1242 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 68
+    },
+    "semanticTags": {
+      "disorder": 3,
+      "observable entity": 9,
+      "procedure": 6,
+      "finding": 15,
+      "situation": 2
+    },
+    "language": {
+      "en": 72
+    },
+    "membership": {
+      "1322291000000109": 35,
+      "1127601000000107": 18,
+      "999002571000000104": 2,
+      "900000000000497000": 33,
+      "733073007": 35,
+      "999002271000000101": 32,
+      "900000000000489007": 2,
+      "1382401000000109": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 72,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110483000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco user (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco user",
+          "lang": "en"
+        },
+        "id": "110483000"
+      }
+    },
+    {
+      "term": "Tobacco user",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110483000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco user (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco user",
+          "lang": "en"
+        },
+        "id": "110483000"
+      }
+    },
+    {
+      "term": "Ex-tobacco user",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702975009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-tobacco user (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-tobacco user",
+          "lang": "en"
+        },
+        "id": "702975009"
+      }
+    },
+    {
+      "term": "Moist tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228499007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding relating to moist tobacco use (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding relating to moist tobacco use",
+          "lang": "en"
+        },
+        "id": "228499007"
+      }
+    },
+    {
+      "term": "Never used tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702979003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Never used tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Never used tobacco",
+          "lang": "en"
+        },
+        "id": "702979003"
+      }
+    },
+    {
+      "term": "Maternal tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427189007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maternal tobacco use (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maternal tobacco use",
+          "lang": "en"
+        },
+        "id": "427189007"
+      }
+    },
+    {
+      "term": "Type of tobacco used",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "53661000146106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Type of tobacco used (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Type of tobacco used",
+          "lang": "en"
+        },
+        "id": "53661000146106"
+      }
+    },
+    {
+      "term": "Tobacco user (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110483000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco user (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco user",
+          "lang": "en"
+        },
+        "id": "110483000"
+      }
+    },
+    {
+      "term": "Continuous tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "191887008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco dependence, continuous (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco dependence, continuous",
+          "lang": "en"
+        },
+        "id": "191887008"
+      }
+    },
+    {
+      "term": "Tobacco use, continuous",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "191887008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco dependence, continuous (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco dependence, continuous",
+          "lang": "en"
+        },
+        "id": "191887008"
+      }
+    },
+    {
+      "term": "Tobacco use and exposure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229819007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco use and exposure (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco use and exposure",
+          "lang": "en"
+        },
+        "id": "229819007"
+      }
+    },
+    {
+      "term": "Uses moist tobacco daily",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449869005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uses moist tobacco daily (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uses moist tobacco daily",
+          "lang": "en"
+        },
+        "id": "449869005"
+      }
+    },
+    {
+      "term": "Tobacco use in childbirth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10761391000119102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco use in mother complicating childbirth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco use in mother complicating childbirth",
+          "lang": "en"
+        },
+        "id": "10761391000119102"
+      }
+    },
+    {
+      "term": "Ex-tobacco user (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702975009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-tobacco user (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-tobacco user",
+          "lang": "en"
+        },
+        "id": "702975009"
+      }
+    },
+    {
+      "term": "User of smokeless tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "713914004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "User of smokeless tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "User of smokeless tobacco",
+          "lang": "en"
+        },
+        "id": "713914004"
+      }
+    },
+    {
+      "term": "Assessment of tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711013002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Assessment of tobacco use (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment of tobacco use",
+          "lang": "en"
+        },
+        "id": "711013002"
+      }
+    },
+    {
+      "term": "Risk control: tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405140009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Risk control behavior: tobacco use (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Risk control behavior: tobacco use",
+          "lang": "en"
+        },
+        "id": "405140009"
+      }
+    },
+    {
+      "term": "Details of moist tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "363906001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Details of moist tobacco use (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Details of moist tobacco use",
+          "lang": "en"
+        },
+        "id": "363906001"
+      }
+    },
+    {
+      "term": "Never used tobacco (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702979003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Never used tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Never used tobacco",
+          "lang": "en"
+        },
+        "id": "702979003"
+      }
+    },
+    {
+      "term": "Counseling about tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711028002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Counseling about tobacco use (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Counseling about tobacco use",
+          "lang": "en"
+        },
+        "id": "711028002"
+      }
+    },
+    {
+      "term": "Total time moist tobacco used",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228507000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total time moist tobacco used (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total time moist tobacco used",
+          "lang": "en"
+        },
+        "id": "228507000"
+      }
+    },
+    {
+      "term": "Counselling about tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711028002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Counseling about tobacco use (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Counseling about tobacco use",
+          "lang": "en"
+        },
+        "id": "711028002"
+      }
+    },
+    {
+      "term": "Readiness to stop tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1421000175103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Readiness to stop tobacco use (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Readiness to stop tobacco use",
+          "lang": "en"
+        },
+        "id": "1421000175103"
+      }
+    },
+    {
+      "term": "User of moist powdered tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228504007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "User of moist powdered tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "User of moist powdered tobacco",
+          "lang": "en"
+        },
+        "id": "228504007"
+      }
+    },
+    {
+      "term": "Frequency of moist tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228505008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency of moist tobacco use (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Frequency of moist tobacco use",
+          "lang": "en"
+        },
+        "id": "228505008"
+      }
+    },
+    {
+      "term": "Dry powdered nasal tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228489002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Snuff use (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Snuff use",
+          "lang": "en"
+        },
+        "id": "228489002"
+      }
+    },
+    {
+      "term": "Maternal tobacco use (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427189007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maternal tobacco use (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maternal tobacco use",
+          "lang": "en"
+        },
+        "id": "427189007"
+      }
+    },
+    {
+      "term": "Tobacco use screening declined",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11351000175103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco use screening declined (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco use screening declined",
+          "lang": "en"
+        },
+        "id": "11351000175103"
+      }
+    },
+    {
+      "term": "Tobacco use cessation education",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702388001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco use cessation education (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco use cessation education",
+          "lang": "en"
+        },
+        "id": "702388001"
+      }
+    },
+    {
+      "term": "Uses moist tobacco occasionally",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449867007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uses moist tobacco occasionally (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uses moist tobacco occasionally",
+          "lang": "en"
+        },
+        "id": "449867007"
+      }
+    },
+    {
+      "term": "Compulsive tobacco user syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "89765005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco dependence syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco dependence syndrome",
+          "lang": "en"
+        },
+        "id": "89765005"
+      }
+    },
+    {
+      "term": "Never used moist powdered tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228502006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Never used moist powdered tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Never used moist powdered tobacco",
+          "lang": "en"
+        },
+        "id": "228502006"
+      }
+    },
+    {
+      "term": "Ex-user of moist powdered tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228503001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-user of moist powdered tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-user of moist powdered tobacco",
+          "lang": "en"
+        },
+        "id": "228503001"
+      }
+    },
+    {
+      "term": "Age at starting moist tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228508005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Age at starting moist tobacco use (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Age at starting moist tobacco use",
+          "lang": "en"
+        },
+        "id": "228508005"
+      }
+    },
+    {
+      "term": "Maternal tobacco use in pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "100801000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maternal tobacco use in pregnancy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maternal tobacco use in pregnancy",
+          "lang": "en"
+        },
+        "id": "100801000119107"
+      }
+    },
+    {
+      "term": "Uses moist tobacco daily (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449869005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uses moist tobacco daily (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uses moist tobacco daily",
+          "lang": "en"
+        },
+        "id": "449869005"
+      }
+    },
+    {
+      "term": "Risk control behavior: tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405140009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Risk control behavior: tobacco use (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Risk control behavior: tobacco use",
+          "lang": "en"
+        },
+        "id": "405140009"
+      }
+    },
+    {
+      "term": "Does not use moist powdered tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228501004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not use moist powdered tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not use moist powdered tobacco",
+          "lang": "en"
+        },
+        "id": "228501004"
+      }
+    },
+    {
+      "term": "Finding of tobacco use and exposure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "365980008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of tobacco use and exposure (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of tobacco use and exposure",
+          "lang": "en"
+        },
+        "id": "365980008"
+      }
+    },
+    {
+      "term": "User of smokeless tobacco (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "713914004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "User of smokeless tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "User of smokeless tobacco",
+          "lang": "en"
+        },
+        "id": "713914004"
+      }
+    },
+    {
+      "term": "Finding relating to moist tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228499007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding relating to moist tobacco use (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding relating to moist tobacco use",
+          "lang": "en"
+        },
+        "id": "228499007"
+      }
+    },
+    {
+      "term": "Assessment of tobacco use (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711013002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Assessment of tobacco use (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment of tobacco use",
+          "lang": "en"
+        },
+        "id": "711013002"
+      }
+    },
+    {
+      "term": "Tobacco use cessation case management",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "860648003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco use cessation case management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco use cessation case management",
+          "lang": "en"
+        },
+        "id": "860648003"
+      }
+    },
+    {
+      "term": "User of moist powdered tobacco (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228504007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "User of moist powdered tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "User of moist powdered tobacco",
+          "lang": "en"
+        },
+        "id": "228504007"
+      }
+    },
+    {
+      "term": "Counseling about tobacco use (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711028002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Counseling about tobacco use (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Counseling about tobacco use",
+          "lang": "en"
+        },
+        "id": "711028002"
+      }
+    },
+    {
+      "term": "Type of tobacco used (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "53661000146106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Type of tobacco used (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Type of tobacco used",
+          "lang": "en"
+        },
+        "id": "53661000146106"
+      }
+    },
+    {
+      "term": "Uses moist tobacco occasionally (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449867007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uses moist tobacco occasionally (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uses moist tobacco occasionally",
+          "lang": "en"
+        },
+        "id": "449867007"
+      }
+    },
+    {
+      "term": "Tobacco use screening declined (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11351000175103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco use screening declined (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco use screening declined",
+          "lang": "en"
+        },
+        "id": "11351000175103"
+      }
+    },
+    {
+      "term": "Never used moist powdered tobacco (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228502006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Never used moist powdered tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Never used moist powdered tobacco",
+          "lang": "en"
+        },
+        "id": "228502006"
+      }
+    },
+    {
+      "term": "Ex-user of moist powdered tobacco (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228503001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-user of moist powdered tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-user of moist powdered tobacco",
+          "lang": "en"
+        },
+        "id": "228503001"
+      }
+    }
+  ]
+}

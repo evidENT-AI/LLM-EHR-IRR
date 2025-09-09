@@ -1,0 +1,1257 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 3,
+      "900000000000207008": 119
+    },
+    "semanticTags": {
+      "regime/therapy": 1,
+      "disorder": 51,
+      "procedure": 1,
+      "situation": 1
+    },
+    "language": {
+      "en": 122
+    },
+    "membership": {
+      "1322291000000109": 54,
+      "991411000000109": 1,
+      "1127601000000107": 52,
+      "1382531000000102": 46,
+      "900000000000497000": 53,
+      "999002271000000101": 64,
+      "733073007": 54,
+      "2181141000000103": 1,
+      "900000000000489007": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "2181141000000103": {
+      "conceptId": "2181141000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric cardiovascular disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric cardiovascular disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181141000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 122,
+  "totalPages": 3,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Deep venous thrombosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128053003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis",
+          "lang": "en"
+        },
+        "id": "128053003"
+      }
+    },
+    {
+      "term": "No deep venous thrombosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1141709008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No deep vein thrombosis (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No deep vein thrombosis",
+          "lang": "en"
+        },
+        "id": "1141709008"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132281000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis",
+          "lang": "en"
+        },
+        "id": "132281000119108"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of leg",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404223003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of lower extremity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of lower extremity",
+          "lang": "en"
+        },
+        "id": "404223003"
+      }
+    },
+    {
+      "term": "Chronic deep venous thrombosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15760351000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic deep venous thrombosis",
+          "lang": "en"
+        },
+        "id": "15760351000119105"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of calf",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1204141008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thrombosis of deep vein of calf (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of calf",
+          "lang": "en"
+        },
+        "id": "1204141008"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128053003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis",
+          "lang": "en"
+        },
+        "id": "128053003"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis of calf",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132241000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis of calf (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis of calf",
+          "lang": "en"
+        },
+        "id": "132241000119103"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of lower limb",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404223003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of lower extremity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of lower extremity",
+          "lang": "en"
+        },
+        "id": "404223003"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis in puerperium",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56272000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis in puerperium (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis in puerperium",
+          "lang": "en"
+        },
+        "id": "56272000"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of pelvic vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128055005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of pelvic vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of pelvic vein",
+          "lang": "en"
+        },
+        "id": "128055005"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of tibial vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "438785004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of tibial vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of tibial vein",
+          "lang": "en"
+        },
+        "id": "438785004"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis of thigh",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132271000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis of thigh (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis of thigh",
+          "lang": "en"
+        },
+        "id": "132271000119105"
+      }
+    },
+    {
+      "term": "Chronic deep venous thrombosis of calf",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132131000119102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis of calf (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic deep venous thrombosis of calf",
+          "lang": "en"
+        },
+        "id": "132131000119102"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis risk assessment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "514561000000102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Assessment of risk for deep venous thrombosis (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis risk assessment",
+          "lang": "en"
+        },
+        "id": "514561000000102"
+      }
+    },
+    {
+      "term": "Chronic deep venous thrombosis of thigh",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132171000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis of thigh (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic deep venous thrombosis of thigh",
+          "lang": "en"
+        },
+        "id": "132171000119104"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of peroneal vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443210003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of peroneal vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of peroneal vein",
+          "lang": "en"
+        },
+        "id": "443210003"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132281000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis",
+          "lang": "en"
+        },
+        "id": "132281000119108"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of upper extremity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128054009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of upper extremity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of upper extremity",
+          "lang": "en"
+        },
+        "id": "128054009"
+      }
+    },
+    {
+      "term": "Chronic deep venous thrombosis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15760351000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic deep venous thrombosis",
+          "lang": "en"
+        },
+        "id": "15760351000119105"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of lower extremity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404223003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of lower extremity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of lower extremity",
+          "lang": "en"
+        },
+        "id": "404223003"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of deep femoral vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427775006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of profunda femoris vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of profunda femoris vein",
+          "lang": "en"
+        },
+        "id": "427775006"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis of pelvic vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132601000119102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis of pelvic vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis of pelvic vein",
+          "lang": "en"
+        },
+        "id": "132601000119102"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis of tibial vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132261000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis of tibial vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis of tibial vein",
+          "lang": "en"
+        },
+        "id": "132261000119104"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of the popliteal vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427776007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thrombosis of the popliteal vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thrombosis of the popliteal vein",
+          "lang": "en"
+        },
+        "id": "427776007"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis of femoral vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132291000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis of femoral vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis of femoral vein",
+          "lang": "en"
+        },
+        "id": "132291000119106"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis of axillary vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "134961000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis of axillary vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis of axillary vein",
+          "lang": "en"
+        },
+        "id": "134961000119104"
+      }
+    },
+    {
+      "term": "Chronic deep venous thrombosis of tibial vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132161000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis of tibial vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic deep venous thrombosis of tibial vein",
+          "lang": "en"
+        },
+        "id": "132161000119105"
+      }
+    },
+    {
+      "term": "Assessment of risk for deep venous thrombosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "514561000000102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Assessment of risk for deep venous thrombosis (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis risk assessment",
+          "lang": "en"
+        },
+        "id": "514561000000102"
+      }
+    },
+    {
+      "term": "Chronic deep venous thrombosis of femoral vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132191000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis of femoral vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic deep venous thrombosis of femoral vein",
+          "lang": "en"
+        },
+        "id": "132191000119103"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis of popliteal vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132251000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis of popliteal vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis of popliteal vein",
+          "lang": "en"
+        },
+        "id": "132251000119101"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of femoropopliteal vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "703277001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of femoropopliteal vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of femoropopliteal vein",
+          "lang": "en"
+        },
+        "id": "703277001"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of profunda femoris vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427775006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of profunda femoris vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of profunda femoris vein",
+          "lang": "en"
+        },
+        "id": "427775006"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis of upper extremity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132321000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis of upper extremity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis of upper extremity",
+          "lang": "en"
+        },
+        "id": "132321000119103"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of posterior tibial vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303880008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of posterior tibial vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of posterior tibial vein",
+          "lang": "en"
+        },
+        "id": "1303880008"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis in puerperium (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56272000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis in puerperium (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis in puerperium",
+          "lang": "en"
+        },
+        "id": "56272000"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis of calf (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132241000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis of calf (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis of calf",
+          "lang": "en"
+        },
+        "id": "132241000119103"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of pelvic vein (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128055005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of pelvic vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of pelvic vein",
+          "lang": "en"
+        },
+        "id": "128055005"
+      }
+    },
+    {
+      "term": "Chronic deep venous thrombosis of popliteal vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132151000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis of popliteal vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic deep venous thrombosis of popliteal vein",
+          "lang": "en"
+        },
+        "id": "132151000119108"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis of ileofemoral vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132301000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis of iliofemoral vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis of iliofemoral vein",
+          "lang": "en"
+        },
+        "id": "132301000119107"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of tibial vein (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "438785004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of tibial vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of tibial vein",
+          "lang": "en"
+        },
+        "id": "438785004"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis of iliofemoral vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132301000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis of iliofemoral vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis of iliofemoral vein",
+          "lang": "en"
+        },
+        "id": "132301000119107"
+      }
+    },
+    {
+      "term": "Acute deep venous thrombosis of thigh (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132271000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute deep venous thrombosis of thigh (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute deep venous thrombosis of thigh",
+          "lang": "en"
+        },
+        "id": "132271000119105"
+      }
+    },
+    {
+      "term": "Chronic deep venous thrombosis of upper extremity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132221000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis of upper extremity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic deep venous thrombosis of upper extremity",
+          "lang": "en"
+        },
+        "id": "132221000119109"
+      }
+    },
+    {
+      "term": "Chronic deep venous thrombosis of lower extremity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132141000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis of lower extremity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic deep venous thrombosis of lower extremity",
+          "lang": "en"
+        },
+        "id": "132141000119106"
+      }
+    },
+    {
+      "term": "Left peroneal vein chronic deep venous thrombosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "856856651000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis of left peroneal vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Left peroneal vein chronic deep venous thrombosis",
+          "lang": "en"
+        },
+        "id": "856856651000119109"
+      }
+    },
+    {
+      "term": "Chronic deep venous thrombosis of calf (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132131000119102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis of calf (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic deep venous thrombosis of calf",
+          "lang": "en"
+        },
+        "id": "132131000119102"
+      }
+    },
+    {
+      "term": "Chronic deep venous thrombosis of ileofemoral vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132201000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis of iliofemoral vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic deep venous thrombosis of iliofemoral vein",
+          "lang": "en"
+        },
+        "id": "132201000119100"
+      }
+    },
+    {
+      "term": "Deep venous thrombosis of peroneal vein (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443210003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep venous thrombosis of peroneal vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep venous thrombosis of peroneal vein",
+          "lang": "en"
+        },
+        "id": "443210003"
+      }
+    },
+    {
+      "term": "Chronic deep venous thrombosis of iliofemoral vein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "132201000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic deep venous thrombosis of iliofemoral vein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic deep venous thrombosis of iliofemoral vein",
+          "lang": "en"
+        },
+        "id": "132201000119100"
+      }
+    }
+  ]
+}

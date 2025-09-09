@@ -1,0 +1,740 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "999000041000000102": 2,
+      "900000000000207008": 18
+    },
+    "semanticTags": {
+      "finding": 10
+    },
+    "language": {
+      "en": 24
+    },
+    "membership": {
+      "1322291000000109": 10,
+      "1127601000000107": 10,
+      "999002061000000102": 3,
+      "900000000000497000": 8,
+      "2181171000000109": 1,
+      "1128991000000109": 3,
+      "999002271000000101": 15,
+      "733073007": 10,
+      "1128981000000107": 3,
+      "900000000000489007": 2
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "2181171000000109": {
+      "conceptId": "2181171000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181171000000109"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "1128981000000107": {
+      "conceptId": "1128981000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional anthropometry assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional anthropometry assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128981000000107"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    }
+  },
+  "totalElements": 24,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 24,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Obese",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414915002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese",
+          "lang": "en"
+        },
+        "id": "414915002"
+      }
+    },
+    {
+      "term": "Obese build",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271590003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese build (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese build",
+          "lang": "en"
+        },
+        "id": "271590003"
+      }
+    },
+    {
+      "term": "O/E - obese",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162690006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - obese (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - obese",
+          "lang": "en"
+        },
+        "id": "162690006"
+      }
+    },
+    {
+      "term": "Obese abdomen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249533007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese abdomen (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese abdomen",
+          "lang": "en"
+        },
+        "id": "249533007"
+      }
+    },
+    {
+      "term": "Obese class I",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443371000124107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese class I (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese class I",
+          "lang": "en"
+        },
+        "id": "443371000124107"
+      }
+    },
+    {
+      "term": "Obese class II",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443381000124105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese class II (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese class II",
+          "lang": "en"
+        },
+        "id": "443381000124105"
+      }
+    },
+    {
+      "term": "Obese (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414915002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese",
+          "lang": "en"
+        },
+        "id": "414915002"
+      }
+    },
+    {
+      "term": "Obese class III",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "819948005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese class III (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese class III",
+          "lang": "en"
+        },
+        "id": "819948005"
+      }
+    },
+    {
+      "term": "Obese build (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271590003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese build (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese build",
+          "lang": "en"
+        },
+        "id": "271590003"
+      }
+    },
+    {
+      "term": "On examination - obese",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162690006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - obese (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - obese",
+          "lang": "en"
+        },
+        "id": "162690006"
+      }
+    },
+    {
+      "term": "Obese abdomen (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249533007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese abdomen (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese abdomen",
+          "lang": "en"
+        },
+        "id": "249533007"
+      }
+    },
+    {
+      "term": "Obese class I (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443371000124107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese class I (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese class I",
+          "lang": "en"
+        },
+        "id": "443371000124107"
+      }
+    },
+    {
+      "term": "Obese class II (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443381000124105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese class II (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese class II",
+          "lang": "en"
+        },
+        "id": "443381000124105"
+      }
+    },
+    {
+      "term": "Obese class III (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "819948005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese class III (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese class III",
+          "lang": "en"
+        },
+        "id": "819948005"
+      }
+    },
+    {
+      "term": "On examination - obese (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162690006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - obese (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - obese",
+          "lang": "en"
+        },
+        "id": "162690006"
+      }
+    },
+    {
+      "term": "Body mass index 40+ - morbidly obese",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "408512008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Body mass index 40+ - severely obese (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Body mass index 40+ - severely obese",
+          "lang": "en"
+        },
+        "id": "408512008"
+      }
+    },
+    {
+      "term": "Body mass index 40+ - severely obese",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "408512008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Body mass index 40+ - severely obese (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Body mass index 40+ - severely obese",
+          "lang": "en"
+        },
+        "id": "408512008"
+      }
+    },
+    {
+      "term": "BMI (body mass index) 40+ - severely obese",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "408512008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Body mass index 40+ - severely obese (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Body mass index 40+ - severely obese",
+          "lang": "en"
+        },
+        "id": "408512008"
+      }
+    },
+    {
+      "term": "Obese class I (body mass index 30.0 - 34.9)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "914721000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Obese class I (body mass index 30.0 - 34.9) (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese class I (body mass index 30.0 - 34.9)",
+          "lang": "en"
+        },
+        "id": "914721000000105"
+      }
+    },
+    {
+      "term": "Obese class II (body mass index 35.0 - 39.9)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "914731000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Obese class II (body mass index 35.0 - 39.9) (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese class II (body mass index 35.0 - 39.9)",
+          "lang": "en"
+        },
+        "id": "914731000000107"
+      }
+    },
+    {
+      "term": "Body mass index 40+ - severely obese (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "408512008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Body mass index 40+ - severely obese (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Body mass index 40+ - severely obese",
+          "lang": "en"
+        },
+        "id": "408512008"
+      }
+    },
+    {
+      "term": "Obese class I (body mass index 30.0 - 34.9) (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "914721000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Obese class I (body mass index 30.0 - 34.9) (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese class I (body mass index 30.0 - 34.9)",
+          "lang": "en"
+        },
+        "id": "914721000000105"
+      }
+    },
+    {
+      "term": "Obese class II (body mass index 35.0 - 39.9) (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "914731000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Obese class II (body mass index 35.0 - 39.9) (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese class II (body mass index 35.0 - 39.9)",
+          "lang": "en"
+        },
+        "id": "914731000000107"
+      }
+    },
+    {
+      "term": "Obese class III (body mass index equal to or greater than 40.0)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "819948005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese class III (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese class III",
+          "lang": "en"
+        },
+        "id": "819948005"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1190 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 5,
+      "900000000000207008": 54
+    },
+    "semanticTags": {
+      "situation": 38
+    },
+    "language": {
+      "en": 59
+    },
+    "membership": {
+      "1322291000000109": 38,
+      "1127601000000107": 38,
+      "900000000000497000": 35,
+      "999002271000000101": 47,
+      "733073007": 38
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 59,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Family history of cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275937001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm",
+          "lang": "en"
+        },
+        "id": "275937001"
+      }
+    },
+    {
+      "term": "Family history of lung cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429011007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of lung (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of lung",
+          "lang": "en"
+        },
+        "id": "429011007"
+      }
+    },
+    {
+      "term": "Family history of skin cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429405004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of skin (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of skin",
+          "lang": "en"
+        },
+        "id": "429405004"
+      }
+    },
+    {
+      "term": "Family history of liver cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429236009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of liver (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of liver",
+          "lang": "en"
+        },
+        "id": "429236009"
+      }
+    },
+    {
+      "term": "Family history of breast cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429740004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of breast (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of breast cancer",
+          "lang": "en"
+        },
+        "id": "429740004"
+      }
+    },
+    {
+      "term": "Family history of cancer of colon",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312824007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of cancer of colon (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of cancer of colon",
+          "lang": "en"
+        },
+        "id": "312824007"
+      }
+    },
+    {
+      "term": "Family history of tracheal cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428269004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of trachea (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of trachea",
+          "lang": "en"
+        },
+        "id": "428269004"
+      }
+    },
+    {
+      "term": "Family history of prostate cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414205003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of prostate (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of prostate",
+          "lang": "en"
+        },
+        "id": "414205003"
+      }
+    },
+    {
+      "term": "No family history of bowel cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "758811000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "No family history of bowel cancer (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No family history of bowel cancer",
+          "lang": "en"
+        },
+        "id": "758811000000100"
+      }
+    },
+    {
+      "term": "Family history of cancer of uterus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429637009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of uterus (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of uterus",
+          "lang": "en"
+        },
+        "id": "429637009"
+      }
+    },
+    {
+      "term": "Family history of bronchial cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275110002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Bronchus cancer (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Bronchus cancer",
+          "lang": "en"
+        },
+        "id": "275110002"
+      }
+    },
+    {
+      "term": "Family history of cancer of kidney",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430703009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of kidney (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of kidney",
+          "lang": "en"
+        },
+        "id": "430703009"
+      }
+    },
+    {
+      "term": "Family history of heritable cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "81651000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of heritable malignancy (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of heritable malignancy",
+          "lang": "en"
+        },
+        "id": "81651000119109"
+      }
+    },
+    {
+      "term": "Family history of pancreatic cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429000004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of pancreas (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of pancreas",
+          "lang": "en"
+        },
+        "id": "429000004"
+      }
+    },
+    {
+      "term": "Family history of colorectal cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1421000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of colorectal cancer (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of colorectal cancer",
+          "lang": "en"
+        },
+        "id": "1421000119104"
+      }
+    },
+    {
+      "term": "No family history of ovarian cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "758821000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "No family history of ovarian cancer (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No family history of ovarian cancer",
+          "lang": "en"
+        },
+        "id": "758821000000106"
+      }
+    },
+    {
+      "term": "Family history of cancer of the bone",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429252007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of bone (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of bone",
+          "lang": "en"
+        },
+        "id": "429252007"
+      }
+    },
+    {
+      "term": "Family history of cancer of testicle",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430527008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of testis (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of testis",
+          "lang": "en"
+        },
+        "id": "430527008"
+      }
+    },
+    {
+      "term": "Family history of cancer of the ileum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428037003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of ileum (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of ileum",
+          "lang": "en"
+        },
+        "id": "428037003"
+      }
+    },
+    {
+      "term": "Family history of cancer of the brain",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429251000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of brain (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of brain",
+          "lang": "en"
+        },
+        "id": "429251000"
+      }
+    },
+    {
+      "term": "Family history of cancer of the liver",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429236009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of liver (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of liver",
+          "lang": "en"
+        },
+        "id": "429236009"
+      }
+    },
+    {
+      "term": "Family history of cancer of the vagina",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428276009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of vagina (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of vagina",
+          "lang": "en"
+        },
+        "id": "428276009"
+      }
+    },
+    {
+      "term": "Family history of cancer of the pancreas",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429000004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of pancreas (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of pancreas",
+          "lang": "en"
+        },
+        "id": "429000004"
+      }
+    },
+    {
+      "term": "Family history of cancer of the esophagus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430331003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of cancer of the esophagus (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of cancer of the esophagus",
+          "lang": "en"
+        },
+        "id": "430331003"
+      }
+    },
+    {
+      "term": "Family history of cancer of the oesophagus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430331003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of cancer of the esophagus (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of cancer of the esophagus",
+          "lang": "en"
+        },
+        "id": "430331003"
+      }
+    },
+    {
+      "term": "Family history of cancer of genital system",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430954001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of genital structure (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of genital structure",
+          "lang": "en"
+        },
+        "id": "430954001"
+      }
+    },
+    {
+      "term": "Family history of cancer of urinary bladder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430542006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of urinary bladder (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of urinary bladder",
+          "lang": "en"
+        },
+        "id": "430542006"
+      }
+    },
+    {
+      "term": "Family history of cancer of colon (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312824007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of cancer of colon (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of cancer of colon",
+          "lang": "en"
+        },
+        "id": "312824007"
+      }
+    },
+    {
+      "term": "No family history of bowel cancer (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "758811000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "No family history of bowel cancer (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No family history of bowel cancer",
+          "lang": "en"
+        },
+        "id": "758811000000100"
+      }
+    },
+    {
+      "term": "Family history of cancer of the uterine cervix",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428047000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of cervix uteri (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of cervix uteri",
+          "lang": "en"
+        },
+        "id": "428047000"
+      }
+    },
+    {
+      "term": "Family history of breast cancer 1 gene mutation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "431330007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of breast cancer 1 gene mutation (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of breast cancer 1 gene mutation",
+          "lang": "en"
+        },
+        "id": "431330007"
+      }
+    },
+    {
+      "term": "Family history of breast cancer 2 gene mutation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "431331006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of breast cancer 2 gene mutation (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of breast cancer 2 gene mutation",
+          "lang": "en"
+        },
+        "id": "431331006"
+      }
+    },
+    {
+      "term": "Family history of non-leukemic lymphatic cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71251000119103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of nonleukemic lymphatic malignancy (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of nonleukemic lymphatic malignancy",
+          "lang": "en"
+        },
+        "id": "71251000119103"
+      }
+    },
+    {
+      "term": "Family history of colorectal cancer (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1421000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of colorectal cancer (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of colorectal cancer",
+          "lang": "en"
+        },
+        "id": "1421000119104"
+      }
+    },
+    {
+      "term": "No family history of ovarian cancer (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "758821000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "No family history of ovarian cancer (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No family history of ovarian cancer",
+          "lang": "en"
+        },
+        "id": "758821000000106"
+      }
+    },
+    {
+      "term": "Family history of breast cancer gene BRCA mutation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31881000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of breast cancer gene BRCA mutation (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of breast cancer gene BRCA mutation",
+          "lang": "en"
+        },
+        "id": "31881000119108"
+      }
+    },
+    {
+      "term": "Family history of hereditary diffuse gastric cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "218432961000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of hereditary diffuse carcinoma of stomach (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of hereditary diffuse gastric cancer",
+          "lang": "en"
+        },
+        "id": "218432961000119106"
+      }
+    },
+    {
+      "term": "Family history of cancer of the hematopoietic system",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71241000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant hematopoietic neoplasm (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant hematopoietic neoplasm",
+          "lang": "en"
+        },
+        "id": "71241000119100"
+      }
+    },
+    {
+      "term": "Family history of cancer of the esophagus (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430331003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of cancer of the esophagus (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of cancer of the esophagus",
+          "lang": "en"
+        },
+        "id": "430331003"
+      }
+    },
+    {
+      "term": "Family history of cancer of the haematopoietic system",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71241000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant hematopoietic neoplasm (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant hematopoietic neoplasm",
+          "lang": "en"
+        },
+        "id": "71241000119100"
+      }
+    },
+    {
+      "term": "Family history of hereditary nonpolyposis colon cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1098871000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of hereditary nonpolyposis colon cancer (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of hereditary nonpolyposis colon cancer",
+          "lang": "en"
+        },
+        "id": "1098871000119109"
+      }
+    },
+    {
+      "term": "Family history of breast cancer 1 (BRCA1) gene mutation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "431330007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of breast cancer 1 gene mutation (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of breast cancer 1 gene mutation",
+          "lang": "en"
+        },
+        "id": "431330007"
+      }
+    },
+    {
+      "term": "Family history of breast cancer 2 (BRCA2) gene mutation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "431331006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of breast cancer 2 gene mutation (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of breast cancer 2 gene mutation",
+          "lang": "en"
+        },
+        "id": "431331006"
+      }
+    },
+    {
+      "term": "Family history of ovarian cancer in first degree relative",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2301000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of ovary in first degree relative (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of ovary in first degree relative",
+          "lang": "en"
+        },
+        "id": "2301000119106"
+      }
+    },
+    {
+      "term": "Family history of cancer of ovary in first degree relative",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2301000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of ovary in first degree relative (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of ovary in first degree relative",
+          "lang": "en"
+        },
+        "id": "2301000119106"
+      }
+    },
+    {
+      "term": "Family history of breast cancer 1 gene mutation (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "431330007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of breast cancer 1 gene mutation (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of breast cancer 1 gene mutation",
+          "lang": "en"
+        },
+        "id": "431330007"
+      }
+    },
+    {
+      "term": "Family history of breast cancer 2 gene mutation (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "431331006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of breast cancer 2 gene mutation (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of breast cancer 2 gene mutation",
+          "lang": "en"
+        },
+        "id": "431331006"
+      }
+    },
+    {
+      "term": "Family history of breast cancer gene BRCA mutation (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31881000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of breast cancer gene BRCA mutation (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of breast cancer gene BRCA mutation",
+          "lang": "en"
+        },
+        "id": "31881000119108"
+      }
+    },
+    {
+      "term": "Family history of female breast cancer diagnosed before age 50",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "767310001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of breast at under age 50 in second degree female relative (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of breast at under age 50 in second degree female relative",
+          "lang": "en"
+        },
+        "id": "767310001"
+      }
+    },
+    {
+      "term": "Family history of cancer of the ovary in second degree relative",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2291000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of ovary in second degree relative (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of ovary in second degree relative",
+          "lang": "en"
+        },
+        "id": "2291000119105"
+      }
+    }
+  ]
+}

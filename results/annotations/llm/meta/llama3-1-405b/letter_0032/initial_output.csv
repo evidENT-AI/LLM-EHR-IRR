@@ -1,0 +1,35 @@
+text,context,qualifier,laterality,presence,primary_secondary,experiencer,treatment_stage,snomed_ct
+2-1/2-year-old,"the patient is a 2-1/2-year-old, with a history of persistent bouts of otitis media, superimposed upon persistent middle ear effusions.",sociodemographics,,confirmed,primary,patient,,
+chronic otitis media,"chronic otitis media, adenoid hypertrophy.",diagnoses,,confirmed,primary,patient,,65363002
+adenoid hypertrophy,"chronic otitis media, adenoid hypertrophy.",diagnoses,,confirmed,primary,patient,,236599009
+persistent bouts of otitis media,"the patient is a 2-1/2-year-old, with a history of persistent bouts of otitis media, superimposed upon persistent middle ear effusions.",symptoms,,confirmed,primary,patient,,65363002
+persistent middle ear effusions,"the patient is a 2-1/2-year-old, with a history of persistent bouts of otitis media, superimposed upon persistent middle ear effusions.",symptoms,,confirmed,primary,patient,,236599009
+chronic mouth breathing,he also has a history of chronic mouth breathing and heroic snoring with examination revealing adenoid hypertrophy.,symptoms,,confirmed,primary,patient,,
+heroic snoring,he also has a history of chronic mouth breathing and heroic snoring with examination revealing adenoid hypertrophy.,symptoms,,confirmed,primary,patient,,236599009
+adenoidectomy,he is being admitted to the operating room at this time for adenoidectomy and bilateral myringotomy and insertion of pe tubes.,procedures,,confirmed,primary,patient,pre-treatment,236599009
+bilateral myringotomy,he is being admitted to the operating room at this time for adenoidectomy and bilateral myringotomy and insertion of pe tubes.,procedures,bilateral,confirmed,primary,patient,pre-treatment,236599009
+insertion of pe tubes,he is being admitted to the operating room at this time for adenoidectomy and bilateral myringotomy and insertion of pe tubes.,procedures,bilateral,confirmed,primary,patient,pre-treatment,236599009
+allergies,allergies: none.,sociodemographics,,negated,primary,patient,,
+diabetes,"family history: diabetes, heart disease, hearing loss, allergy and cancer.",risk factors,,confirmed,secondary,family,,73211009
+heart disease,"family history: diabetes, heart disease, hearing loss, allergy and cancer.",risk factors,,confirmed,secondary,family,,56265001
+hearing loss,"family history: diabetes, heart disease, hearing loss, allergy and cancer.",risk factors,,confirmed,secondary,family,,236599009
+allergy,"family history: diabetes, heart disease, hearing loss, allergy and cancer.",risk factors,,confirmed,secondary,family,,236599009
+cancer,"family history: diabetes, heart disease, hearing loss, allergy and cancer.",risk factors,,confirmed,secondary,family,,236599009
+second-hand tobacco exposure,social history: some minor second-hand tobacco exposure.,risk factors,,confirmed,primary,patient,,
+no pets in the home,social history: some minor second-hand tobacco exposure. there are no pets in the home.,sociodemographics,,negated,primary,patient,,
+immobile ears,"ears are well retracted, immobile.",signs,bilateral,confirmed,primary,patient,,
+effusions present bilaterally,tympanic membranes with effusions present bilaterally.,signs,bilateral,confirmed,primary,patient,,236599009
+no severe congestions,"no severe congestions, thick mucoid secretions, no airflow.",signs,,negated,primary,patient,,
+thick mucoid secretions,"no severe congestions, thick mucoid secretions, no airflow.",signs,,confirmed,primary,patient,,
+no airflow,"no severe congestions, thick mucoid secretions, no airflow.",signs,,negated,primary,patient,,
+2 to 3+ tonsils,oral cavity: oropharynx 2 to 3+ tonsils.,signs,,confirmed,primary,patient,,
+no exudates,no exudates.,signs,,negated,primary,patient,,
+"no nodes, masses or thyromegaly","neck: no nodes, masses or thyromegaly.",signs,,negated,primary,patient,,
+rare rhonchi,"lungs: reveal rare rhonchi, otherwise, clear.",signs,,confirmed,primary,patient,,
+clear lungs,"lungs: reveal rare rhonchi, otherwise, clear.",signs,,confirmed,primary,patient,,
+regular rate and rhythm,cardiac exam: regular rate and rhythm.,signs,,confirmed,primary,patient,,
+no murmurs,cardiac exam: regular rate and rhythm. no murmurs.,signs,,negated,primary,patient,,
+soft abdomen,"abdomen: soft, nontender.",signs,,confirmed,primary,patient,,
+nontender abdomen,"abdomen: soft, nontender.",signs,,negated,primary,patient,,
+positive bowel sounds,"abdomen: soft, nontender. positive bowel sounds.",signs,,confirmed,primary,patient,,
+nonfocal neurologic exam,neurologic exam: nonfocal.,signs,,confirmed,primary,patient,,

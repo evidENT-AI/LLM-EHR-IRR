@@ -1,0 +1,1238 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 258,
+      "999000041000000102": 26,
+      "900000000000207008": 25
+    },
+    "semanticTags": {
+      "observable entity": 136
+    },
+    "language": {
+      "en": 309
+    },
+    "membership": {
+      "1322291000000109": 136,
+      "1853551000000106": 15,
+      "1129001000000109": 1,
+      "900000000000497000": 11,
+      "733073007": 139,
+      "900000000000489007": 30,
+      "999002881000000100": 45
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1853551000000106": {
+      "conceptId": "1853551000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set",
+        "lang": "en"
+      },
+      "id": "1853551000000106"
+    },
+    "1129001000000109": {
+      "conceptId": "1129001000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional dietary assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional dietary assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "1129001000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    }
+  },
+  "totalElements": 309,
+  "totalPages": 7,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1018851000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glucose level",
+          "lang": "en"
+        },
+        "id": "1018851000000108"
+      }
+    },
+    {
+      "term": "Glucose intake",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "226341001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Glucose intake (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glucose intake",
+          "lang": "en"
+        },
+        "id": "226341001"
+      }
+    },
+    {
+      "term": "Blood glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "997671000000106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Blood glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood glucose level",
+          "lang": "en"
+        },
+        "id": "997671000000106"
+      }
+    },
+    {
+      "term": "Serum glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1010611000000107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Serum glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serum glucose level",
+          "lang": "en"
+        },
+        "id": "1010611000000107"
+      }
+    },
+    {
+      "term": "Blood glucose status",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405176005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blood glucose status (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood glucose status",
+          "lang": "en"
+        },
+        "id": "405176005"
+      }
+    },
+    {
+      "term": "Blood glucose series",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "994411000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Blood glucose series (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood glucose series",
+          "lang": "en"
+        },
+        "id": "994411000000106"
+      }
+    },
+    {
+      "term": "Faecal glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1003021000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Faecal glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Faecal glucose level",
+          "lang": "en"
+        },
+        "id": "1003021000000102"
+      }
+    },
+    {
+      "term": "Fluid sample glucose",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1010401000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Fluid sample glucose (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fluid sample glucose",
+          "lang": "en"
+        },
+        "id": "1010401000000107"
+      }
+    },
+    {
+      "term": "Plasma glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1010671000000102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Plasma glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Plasma glucose level",
+          "lang": "en"
+        },
+        "id": "1010671000000102"
+      }
+    },
+    {
+      "term": "Blood glucose method",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1031451000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Blood glucose method (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood glucose method",
+          "lang": "en"
+        },
+        "id": "1031451000000106"
+      }
+    },
+    {
+      "term": "Glucose control level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "434913004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Glucose concentration in quality control reagent (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glucose concentration in quality control reagent",
+          "lang": "en"
+        },
+        "id": "434913004"
+      }
+    },
+    {
+      "term": "Urinary glucose output",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251396006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urinary glucose output (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urinary glucose output",
+          "lang": "en"
+        },
+        "id": "251396006"
+      }
+    },
+    {
+      "term": "Urine test for glucose",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1003181000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Urine test for glucose (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine test for glucose",
+          "lang": "en"
+        },
+        "id": "1003181000000102"
+      }
+    },
+    {
+      "term": "Glucose tolerance test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1005711000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Glucose tolerance test (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glucose tolerance test",
+          "lang": "en"
+        },
+        "id": "1005711000000106"
+      }
+    },
+    {
+      "term": "Blood glucose tolerance",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1005711000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Glucose tolerance test (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glucose tolerance test",
+          "lang": "en"
+        },
+        "id": "1005711000000106"
+      }
+    },
+    {
+      "term": "Random blood glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1089381000000101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Random blood glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Random blood glucose level",
+          "lang": "en"
+        },
+        "id": "1089381000000101"
+      }
+    },
+    {
+      "term": "Serum random glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1028881000000105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Serum random glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serum random glucose level",
+          "lang": "en"
+        },
+        "id": "1028881000000105"
+      }
+    },
+    {
+      "term": "Urine dipstick for glucose",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1003181000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Urine test for glucose (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine test for glucose",
+          "lang": "en"
+        },
+        "id": "1003181000000102"
+      }
+    },
+    {
+      "term": "Blood glucose concentration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "434912009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blood glucose concentration (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood glucose concentration",
+          "lang": "en"
+        },
+        "id": "434912009"
+      }
+    },
+    {
+      "term": "Serum fasting glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1003131000000101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Serum fasting glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serum fasting glucose level",
+          "lang": "en"
+        },
+        "id": "1003131000000101"
+      }
+    },
+    {
+      "term": "Ascitic fluid glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1024431000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Ascitic fluid glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ascitic fluid glucose level",
+          "lang": "en"
+        },
+        "id": "1024431000000103"
+      }
+    },
+    {
+      "term": "Fasting blood glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "997681000000108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Fasting blood glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fasting blood glucose level",
+          "lang": "en"
+        },
+        "id": "997681000000108"
+      }
+    },
+    {
+      "term": "Plasma random glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1031331000000106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Plasma random glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Plasma random glucose level",
+          "lang": "en"
+        },
+        "id": "1031331000000106"
+      }
+    },
+    {
+      "term": "Plasma glucose concentration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "434911002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Plasma glucose concentration (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Plasma glucose concentration",
+          "lang": "en"
+        },
+        "id": "434911002"
+      }
+    },
+    {
+      "term": "Baseline blood glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "928041000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Baseline blood glucose concentration (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Baseline blood glucose concentration",
+          "lang": "en"
+        },
+        "id": "928041000000101"
+      }
+    },
+    {
+      "term": "Dialysis fluid glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "991521000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Dialysis fluid glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dialysis fluid glucose level",
+          "lang": "en"
+        },
+        "id": "991521000000102"
+      }
+    },
+    {
+      "term": "Plasma fasting glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1003141000000105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Plasma fasting glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Plasma fasting glucose level",
+          "lang": "en"
+        },
+        "id": "1003141000000105"
+      }
+    },
+    {
+      "term": "Blood glucose range overnight",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "773781000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Blood glucose range overnight (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood glucose range overnight",
+          "lang": "en"
+        },
+        "id": "773781000000106"
+      }
+    },
+    {
+      "term": "60 minute serum glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1010631000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "60 minute serum glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "60 minute serum glucose level",
+          "lang": "en"
+        },
+        "id": "1010631000000104"
+      }
+    },
+    {
+      "term": "90 minute serum glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1010641000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "90 minute serum glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "90 minute serum glucose level",
+          "lang": "en"
+        },
+        "id": "1010641000000108"
+      }
+    },
+    {
+      "term": "30 minute blood glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1003691000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "30 minute blood glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "30 minute blood glucose level",
+          "lang": "en"
+        },
+        "id": "1003691000000108"
+      }
+    },
+    {
+      "term": "90 minute blood glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1003711000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "90 minute blood glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "90 minute blood glucose level",
+          "lang": "en"
+        },
+        "id": "1003711000000105"
+      }
+    },
+    {
+      "term": "60 minute blood glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1003701000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "60 minute blood glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "60 minute blood glucose level",
+          "lang": "en"
+        },
+        "id": "1003701000000108"
+      }
+    },
+    {
+      "term": "30 minute serum glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1010621000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "30 minute serum glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "30 minute serum glucose level",
+          "lang": "en"
+        },
+        "id": "1010621000000101"
+      }
+    },
+    {
+      "term": "Blood glucose range at bedtime",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "773931000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Blood glucose range at bedtime (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood glucose range at bedtime",
+          "lang": "en"
+        },
+        "id": "773931000000105"
+      }
+    },
+    {
+      "term": "Blood glucose level at bedtime",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "873281000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Blood glucose level at bedtime (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood glucose level at bedtime",
+          "lang": "en"
+        },
+        "id": "873281000000104"
+      }
+    },
+    {
+      "term": "60 minute plasma glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1010691000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "60 minute plasma glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "60 minute plasma glucose level",
+          "lang": "en"
+        },
+        "id": "1010691000000103"
+      }
+    },
+    {
+      "term": "150 minute blood glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1003731000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "150 minute blood glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "150 minute blood glucose level",
+          "lang": "en"
+        },
+        "id": "1003731000000102"
+      }
+    },
+    {
+      "term": "150 minute serum glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1010661000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "150 minute serum glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "150 minute serum glucose level",
+          "lang": "en"
+        },
+        "id": "1010661000000109"
+      }
+    },
+    {
+      "term": "30 minute plasma glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1010681000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "30 minute plasma glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "30 minute plasma glucose level",
+          "lang": "en"
+        },
+        "id": "1010681000000100"
+      }
+    },
+    {
+      "term": "120 minute serum glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1010651000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "120 minute serum glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "120 minute serum glucose level",
+          "lang": "en"
+        },
+        "id": "1010651000000106"
+      }
+    },
+    {
+      "term": "120 minute blood glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1003721000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "120 minute blood glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "120 minute blood glucose level",
+          "lang": "en"
+        },
+        "id": "1003721000000104"
+      }
+    },
+    {
+      "term": "90 minute plasma glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1010701000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "90 minute plasma glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "90 minute plasma glucose level",
+          "lang": "en"
+        },
+        "id": "1010701000000103"
+      }
+    },
+    {
+      "term": "Blood glucose range after lunch",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "774341000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Blood glucose range after lunch (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood glucose range after lunch",
+          "lang": "en"
+        },
+        "id": "774341000000100"
+      }
+    },
+    {
+      "term": "Blood glucose level after lunch",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "873301000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Blood glucose level after lunch (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood glucose level after lunch",
+          "lang": "en"
+        },
+        "id": "873301000000103"
+      }
+    },
+    {
+      "term": "180 minute plasma glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1003121000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "180 minute plasma glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "180 minute plasma glucose level",
+          "lang": "en"
+        },
+        "id": "1003121000000103"
+      }
+    },
+    {
+      "term": "120 minute plasma glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1010711000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "120 minute plasma glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "120 minute plasma glucose level",
+          "lang": "en"
+        },
+        "id": "1010711000000101"
+      }
+    },
+    {
+      "term": "Extended glucose tolerance test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "996311000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Extended glucose tolerance test (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Extended glucose tolerance test",
+          "lang": "en"
+        },
+        "id": "996311000000105"
+      }
+    },
+    {
+      "term": "150 minute plasma glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1012661000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "150 minute plasma glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "150 minute plasma glucose level",
+          "lang": "en"
+        },
+        "id": "1012661000000105"
+      }
+    },
+    {
+      "term": "Estimated average glucose level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "996491000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Estimated average glucose level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estimated average glucose level",
+          "lang": "en"
+        },
+        "id": "996491000000105"
+      }
+    }
+  ]
+}

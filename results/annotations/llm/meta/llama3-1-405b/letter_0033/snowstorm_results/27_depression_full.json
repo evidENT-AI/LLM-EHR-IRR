@@ -1,0 +1,1824 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 229,
+      "999000041000000102": 18,
+      "900000000000207008": 636
+    },
+    "semanticTags": {
+      "regime/therapy": 3,
+      "disorder": 124,
+      "assessment scale": 51,
+      "morphologic abnormality": 2,
+      "observable entity": 76,
+      "body structure": 3,
+      "procedure": 51,
+      "finding": 36,
+      "situation": 13,
+      "record artifact": 1,
+      "qualifier value": 3
+    },
+    "language": {
+      "en": 883
+    },
+    "membership": {
+      "1322291000000109": 357,
+      "999004331000000102": 3,
+      "999001691000000109": 8,
+      "999002901000000102": 2,
+      "1323331000000106": 2,
+      "1382541000000106": 1,
+      "999002671000000103": 1,
+      "1127551000000109": 1,
+      "2181221000000101": 1,
+      "2222211000000107": 1,
+      "999002271000000101": 307,
+      "723264001": 3,
+      "2181141000000103": 1,
+      "999002651000000107": 1,
+      "991471000000104": 21,
+      "999002591000000100": 4,
+      "999002771000000107": 4,
+      "999002641000000109": 1,
+      "999002451000000109": 1,
+      "999002571000000104": 1,
+      "900000000000497000": 271,
+      "2181121000000105": 2,
+      "999002631000000100": 1,
+      "1382401000000109": 2,
+      "991411000000109": 1,
+      "1127601000000107": 172,
+      "999001681000000107": 6,
+      "1382531000000102": 115,
+      "999001871000000106": 1,
+      "966251000000103": 11,
+      "999003151000000105": 3,
+      "999002661000000105": 1,
+      "999002911000000100": 1,
+      "734138000": 2,
+      "900000000000489007": 43,
+      "446608001": 2,
+      "1128781000000109": 1,
+      "733073007": 363,
+      "991461000000106": 3,
+      "991381000000107": 1,
+      "966261000000100": 16,
+      "999003141000000107": 2,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "999001691000000109": {
+      "conceptId": "999001691000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy assessment observable simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy assessment observable simple reference set",
+        "lang": "en"
+      },
+      "id": "999001691000000109"
+    },
+    "999002901000000102": {
+      "conceptId": "999002901000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Podiatric assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Podiatric assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002901000000102"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "1382541000000106": {
+      "conceptId": "1382541000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care sickness absence category simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care sickness absence category simple reference set",
+        "lang": "en"
+      },
+      "id": "1382541000000106"
+    },
+    "999002671000000103": {
+      "conceptId": "999002671000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure wellbeing scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure wellbeing scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002671000000103"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "2222211000000107": {
+      "conceptId": "2222211000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric general findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric general findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2222211000000107"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "723264001": {
+      "conceptId": "723264001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Lateralizable body structure reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Lateralizable body structure reference set",
+        "lang": "en"
+      },
+      "id": "723264001"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "2181141000000103": {
+      "conceptId": "2181141000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric cardiovascular disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric cardiovascular disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181141000000103"
+    },
+    "999002651000000107": {
+      "conceptId": "999002651000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure impairment scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure impairment scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002651000000107"
+    },
+    "991471000000104": {
+      "conceptId": "991471000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental health assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental health assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "991471000000104"
+    },
+    "999002591000000100": {
+      "conceptId": "999002591000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Perinatal mental health procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Perinatal mental health procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "999002591000000100"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002641000000109": {
+      "conceptId": "999002641000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure carer wellbeing scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure carer wellbeing scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002641000000109"
+    },
+    "999002771000000107": {
+      "conceptId": "999002771000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Dementia diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Dementia diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999002771000000107"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "2181121000000105": {
+      "conceptId": "2181121000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181121000000105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002631000000100": {
+      "conceptId": "999002631000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure activity scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure activity scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002631000000100"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999001681000000107": {
+      "conceptId": "999001681000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy assessment procedure simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy assessment procedure simple reference set",
+        "lang": "en"
+      },
+      "id": "999001681000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999001871000000106": {
+      "conceptId": "999001871000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Respiratory medicine diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Respiratory medicine diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001871000000106"
+    },
+    "966251000000103": {
+      "conceptId": "966251000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy diagnostic procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy diagnostic procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "966251000000103"
+    },
+    "999003151000000105": {
+      "conceptId": "999003151000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen topography values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen topography values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003151000000105"
+    },
+    "999002661000000105": {
+      "conceptId": "999002661000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure participation scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure participation scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002661000000105"
+    },
+    "999002911000000100": {
+      "conceptId": "999002911000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Podiatric assessment procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Podiatric assessment procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "999002911000000100"
+    },
+    "734138000": {
+      "conceptId": "734138000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Anatomy structure and entire association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Anatomy structure and entire association reference set",
+        "lang": "en"
+      },
+      "id": "734138000"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "446608001": {
+      "conceptId": "446608001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT to ICD-O simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT to ICD-O simple map",
+        "lang": "en"
+      },
+      "id": "446608001"
+    },
+    "1128781000000109": {
+      "conceptId": "1128781000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional assessment scale procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional assessment scale procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "1128781000000109"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "991461000000106": {
+      "conceptId": "991461000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental health assessment scale procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental health assessment scale procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991461000000106"
+    },
+    "991381000000107": {
+      "conceptId": "991381000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Comorbid conditions for selection simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Comorbid conditions for selection simple reference set",
+        "lang": "en"
+      },
+      "id": "991381000000107"
+    },
+    "966261000000100": {
+      "conceptId": "966261000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "966261000000100"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 883,
+  "totalPages": 18,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "255339005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Depression - motion (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Depression - motion",
+          "lang": "en"
+        },
+        "id": "255339005"
+      }
+    },
+    {
+      "term": "Depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35489007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Depressive disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Depressive disorder",
+          "lang": "en"
+        },
+        "id": "35489007"
+      }
+    },
+    {
+      "term": "PR depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251245007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "PR depression (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "PR depression",
+          "lang": "en"
+        },
+        "id": "251245007"
+      }
+    },
+    {
+      "term": "TU depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251261009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "TU depression (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "TU depression",
+          "lang": "en"
+        },
+        "id": "251261009"
+      }
+    },
+    {
+      "term": "ST depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "26141007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "ST segment depression (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ST segment depression",
+          "lang": "en"
+        },
+        "id": "26141007"
+      }
+    },
+    {
+      "term": "ST Depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429622005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "ST Depression (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ST Depression",
+          "lang": "en"
+        },
+        "id": "429622005"
+      }
+    },
+    {
+      "term": "FH: Depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160329001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Depression (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Depression",
+          "lang": "en"
+        },
+        "id": "160329001"
+      }
+    },
+    {
+      "term": "Mild depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "310495003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mild depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mild depression",
+          "lang": "en"
+        },
+        "id": "310495003"
+      }
+    },
+    {
+      "term": "H/O: depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161469008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of depression (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: depression",
+          "lang": "en"
+        },
+        "id": "161469008"
+      }
+    },
+    {
+      "term": "Major depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "370143000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Major depressive disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Major depressive disorder",
+          "lang": "en"
+        },
+        "id": "370143000"
+      }
+    },
+    {
+      "term": "Acute depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "712823008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute depression",
+          "lang": "en"
+        },
+        "id": "712823008"
+      }
+    },
+    {
+      "term": "Depression level",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405049007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Level of depression (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Level of depression",
+          "lang": "en"
+        },
+        "id": "405049007"
+      }
+    },
+    {
+      "term": "Masked depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "231500002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Masked depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Masked depression",
+          "lang": "en"
+        },
+        "id": "231500002"
+      }
+    },
+    {
+      "term": "Severe depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "310497006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severe depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe depression",
+          "lang": "en"
+        },
+        "id": "310497006"
+      }
+    },
+    {
+      "term": "Chronic depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "192080009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic depression",
+          "lang": "en"
+        },
+        "id": "192080009"
+      }
+    },
+    {
+      "term": "Anxiety depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "231504006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mixed anxiety and depressive disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mixed anxiety and depressive disorder",
+          "lang": "en"
+        },
+        "id": "231504006"
+      }
+    },
+    {
+      "term": "Minimal depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718636001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Minimal depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Minimal depression",
+          "lang": "en"
+        },
+        "id": "718636001"
+      }
+    },
+    {
+      "term": "Has had depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161469008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of depression (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: depression",
+          "lang": "en"
+        },
+        "id": "161469008"
+      }
+    },
+    {
+      "term": "[X]Mild depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "310495003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mild depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mild depression",
+          "lang": "en"
+        },
+        "id": "310495003"
+      }
+    },
+    {
+      "term": "Scleral depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "789687002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Scleral depression (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Scleral depression",
+          "lang": "en"
+        },
+        "id": "789687002"
+      }
+    },
+    {
+      "term": "Agitated depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "83458005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Agitated depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Agitated depression",
+          "lang": "en"
+        },
+        "id": "83458005"
+      }
+    },
+    {
+      "term": "Depression - motion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "255339005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Depression - motion (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Depression - motion",
+          "lang": "en"
+        },
+        "id": "255339005"
+      }
+    },
+    {
+      "term": "Moderate depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "310496002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Moderate depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Moderate depression",
+          "lang": "en"
+        },
+        "id": "310496002"
+      }
+    },
+    {
+      "term": "Reactive depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87414006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Reactive depression (situational) (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reactive depression (situational)",
+          "lang": "en"
+        },
+        "id": "87414006"
+      }
+    },
+    {
+      "term": "Level of depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405049007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Level of depression (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Level of depression",
+          "lang": "en"
+        },
+        "id": "405049007"
+      }
+    },
+    {
+      "term": "Depression resolved",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "196381000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Depression resolved (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Depression resolved",
+          "lang": "en"
+        },
+        "id": "196381000000100"
+      }
+    },
+    {
+      "term": "Psychotic depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73867007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severe major depression with psychotic features (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe major depression with psychotic features",
+          "lang": "en"
+        },
+        "id": "73867007"
+      }
+    },
+    {
+      "term": "Stuporous depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79842004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stuporous depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stuporous depression",
+          "lang": "en"
+        },
+        "id": "79842004"
+      }
+    },
+    {
+      "term": "Recurrent depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "191616006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent depression",
+          "lang": "en"
+        },
+        "id": "191616006"
+      }
+    },
+    {
+      "term": "Postviral depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "192079006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postviral depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postviral depression",
+          "lang": "en"
+        },
+        "id": "192079006"
+      }
+    },
+    {
+      "term": "WHO depression scale",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "273929006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "World Health Organization depression scale (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "WHO depression scale",
+          "lang": "en"
+        },
+        "id": "273929006"
+      }
+    },
+    {
+      "term": "Depression screening",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "171207006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Depression screening (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Depression screening",
+          "lang": "en"
+        },
+        "id": "171207006"
+      }
+    },
+    {
+      "term": "Puerperal depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "58703003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postpartum depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postpartum depression",
+          "lang": "en"
+        },
+        "id": "58703003"
+      }
+    },
+    {
+      "term": "Suspected depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473126001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Suspected depressive disorder (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Suspected depressive disorder",
+          "lang": "en"
+        },
+        "id": "473126001"
+      }
+    },
+    {
+      "term": "Perinatal depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10211000132109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perinatal depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perinatal depression",
+          "lang": "en"
+        },
+        "id": "10211000132109"
+      }
+    },
+    {
+      "term": "Depression deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1287378005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Depression deformity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Depression deformity",
+          "lang": "en"
+        },
+        "id": "1287378005"
+      }
+    },
+    {
+      "term": "Antenatal depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "788120007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Antenatal depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Antenatal depression",
+          "lang": "en"
+        },
+        "id": "788120007"
+      }
+    },
+    {
+      "term": "ST segment depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "26141007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "ST segment depression (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ST segment depression",
+          "lang": "en"
+        },
+        "id": "26141007"
+      }
+    },
+    {
+      "term": "Mild major depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87512008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mild major depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mild major depression",
+          "lang": "en"
+        },
+        "id": "87512008"
+      }
+    },
+    {
+      "term": "Menopausal depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "84788008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Menopausal depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Menopausal depression",
+          "lang": "en"
+        },
+        "id": "84788008"
+      }
+    },
+    {
+      "term": "Congenital depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54426004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital notch (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital notch",
+          "lang": "en"
+        },
+        "id": "54426004"
+      }
+    },
+    {
+      "term": "Postpartum depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "58703003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postpartum depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postpartum depression",
+          "lang": "en"
+        },
+        "id": "58703003"
+      }
+    },
+    {
+      "term": "Myocardial depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233928007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Myocardial dysfunction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Myocardial dysfunction",
+          "lang": "en"
+        },
+        "id": "233928007"
+      }
+    },
+    {
+      "term": "Endogenous depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300706003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endogenous depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endogenous depression",
+          "lang": "en"
+        },
+        "id": "300706003"
+      }
+    },
+    {
+      "term": "History of depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161469008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of depression (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: depression",
+          "lang": "en"
+        },
+        "id": "161469008"
+      }
+    },
+    {
+      "term": "Episode of depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "871840004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Episode of depression (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Depressive episode",
+          "lang": "en"
+        },
+        "id": "871840004"
+      }
+    },
+    {
+      "term": "Respiratory depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80954004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Decreased respiratory function (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Decreased respiratory function",
+          "lang": "en"
+        },
+        "id": "80954004"
+      }
+    },
+    {
+      "term": "Child depression scale",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "273362008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Child depression scale (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child depression scale",
+          "lang": "en"
+        },
+        "id": "273362008"
+      }
+    },
+    {
+      "term": "Bone marrow depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307762000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bone marrow depression (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bone marrow depression",
+          "lang": "en"
+        },
+        "id": "307762000"
+      }
+    },
+    {
+      "term": "Symptoms of depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "394924000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Symptoms of depression (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Symptoms of depression",
+          "lang": "en"
+        },
+        "id": "394924000"
+      }
+    }
+  ]
+}

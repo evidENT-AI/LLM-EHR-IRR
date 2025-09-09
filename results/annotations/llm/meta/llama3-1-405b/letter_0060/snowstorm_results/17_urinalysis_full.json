@@ -1,0 +1,134 @@
+{
+  "buckets": {
+    "module": {
+      "999000041000000102": 2
+    },
+    "semanticTags": {
+      "observable entity": 1
+    },
+    "language": {
+      "en": 2
+    },
+    "membership": {
+      "1322291000000109": 1,
+      "999002571000000104": 1,
+      "733073007": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    }
+  },
+  "totalElements": 2,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 2,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Urinalysis observable",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "143541000237101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Urinalysis observable (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urinalysis observable",
+          "lang": "en"
+        },
+        "id": "143541000237101"
+      }
+    },
+    {
+      "term": "Urinalysis observable (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "143541000237101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Urinalysis observable (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urinalysis observable",
+          "lang": "en"
+        },
+        "id": "143541000237101"
+      }
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2,
+      "900000000000207008": 24
+    },
+    "semanticTags": {
+      "procedure": 14
+    },
+    "language": {
+      "en": 26
+    },
+    "membership": {
+      "1322291000000109": 14,
+      "900000000000497000": 13,
+      "733073007": 14,
+      "900000000000489007": 1,
+      "999001111000000105": 1,
+      "1382401000000109": 38
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999001111000000105": {
+      "conceptId": "999001111000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "United Kingdom diagnostic imaging procedure simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "United Kingdom diagnostic imaging procedure simple reference set",
+        "lang": "en"
+      },
+      "id": "999001111000000105"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 26,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 26,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Laparoscopy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73632009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy",
+          "lang": "en"
+        },
+        "id": "73632009"
+      }
+    },
+    {
+      "term": "Laparoscopy of rectum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443870002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy of rectum (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy of rectum",
+          "lang": "en"
+        },
+        "id": "443870002"
+      }
+    },
+    {
+      "term": "Laparoscopy with biopsy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63185002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with biopsy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with biopsy",
+          "lang": "en"
+        },
+        "id": "63185002"
+      }
+    },
+    {
+      "term": "Laparoscopy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73632009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy",
+          "lang": "en"
+        },
+        "id": "73632009"
+      }
+    },
+    {
+      "term": "Laparoscopy with aspiration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60186002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with aspiration (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with aspiration",
+          "lang": "en"
+        },
+        "id": "60186002"
+      }
+    },
+    {
+      "term": "Laparoscopy of rectum (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443870002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy of rectum (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy of rectum",
+          "lang": "en"
+        },
+        "id": "443870002"
+      }
+    },
+    {
+      "term": "Laparoscopy and peritoneal lavage",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "450435004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy and peritoneal lavage (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy and peritoneal lavage",
+          "lang": "en"
+        },
+        "id": "450435004"
+      }
+    },
+    {
+      "term": "Laparoscopy with lysis of adhesions",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9540004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic lysis of adhesions (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic lysis of adhesions",
+          "lang": "en"
+        },
+        "id": "9540004"
+      }
+    },
+    {
+      "term": "Laparoscopy with excision of lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30392007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with excision of lesion (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with excision of lesion",
+          "lang": "en"
+        },
+        "id": "30392007"
+      }
+    },
+    {
+      "term": "Laparoscopy with biopsy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63185002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with biopsy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with biopsy",
+          "lang": "en"
+        },
+        "id": "63185002"
+      }
+    },
+    {
+      "term": "Laparoscopy with peritoneal washout",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "450435004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy and peritoneal lavage (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy and peritoneal lavage",
+          "lang": "en"
+        },
+        "id": "450435004"
+      }
+    },
+    {
+      "term": "Laparoscopy with fulguration of lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14412009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with fulguration of lesion (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with fulguration of lesion",
+          "lang": "en"
+        },
+        "id": "14412009"
+      }
+    },
+    {
+      "term": "Laparoscopy with aspiration (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60186002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with aspiration (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with aspiration",
+          "lang": "en"
+        },
+        "id": "60186002"
+      }
+    },
+    {
+      "term": "Laparoscopy and biopsy of lesion of liver",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307619009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic biopsy of liver lesion (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic biopsy of liver lesion",
+          "lang": "en"
+        },
+        "id": "307619009"
+      }
+    },
+    {
+      "term": "Laparoscopy and peritoneal lavage (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "450435004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy and peritoneal lavage (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy and peritoneal lavage",
+          "lang": "en"
+        },
+        "id": "450435004"
+      }
+    },
+    {
+      "term": "Laparoscopy with removal of adnexal structures",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49273004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with removal of adnexal structures (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with removal of adnexal structures",
+          "lang": "en"
+        },
+        "id": "49273004"
+      }
+    },
+    {
+      "term": "Laparoscopy with excision of lesion (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30392007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with excision of lesion (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with excision of lesion",
+          "lang": "en"
+        },
+        "id": "30392007"
+      }
+    },
+    {
+      "term": "LAVH (Laparoscopy assisted vaginal hysterectomy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "75835007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic-assisted vaginal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic-assisted vaginal hysterectomy",
+          "lang": "en"
+        },
+        "id": "75835007"
+      }
+    },
+    {
+      "term": "Laparoscopy with fulguration of lesion (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14412009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with fulguration of lesion (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with fulguration of lesion",
+          "lang": "en"
+        },
+        "id": "14412009"
+      }
+    },
+    {
+      "term": "Laparoscopy with occlusion of fallopian tube by device",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "193331004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with occlusion of fallopian tube by device (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with occlusion of fallopian tube by device",
+          "lang": "en"
+        },
+        "id": "193331004"
+      }
+    },
+    {
+      "term": "Diagnostic laparoscopy with diathermy to endometriosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "804291000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Diagnostic laparoscopy with diathermy to endometriosis (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diagnostic laparoscopy with diathermy to endometriosis",
+          "lang": "en"
+        },
+        "id": "804291000000108"
+      }
+    },
+    {
+      "term": "Laparoscopy with removal of adnexal structures (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49273004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with removal of adnexal structures (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with removal of adnexal structures",
+          "lang": "en"
+        },
+        "id": "49273004"
+      }
+    },
+    {
+      "term": "Laparoscopy with occlusion of fallopian tube by device (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "193331004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with occlusion of fallopian tube by device (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with occlusion of fallopian tube by device",
+          "lang": "en"
+        },
+        "id": "193331004"
+      }
+    },
+    {
+      "term": "Diagnostic laparoscopy with diathermy to endometriosis (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "804291000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Diagnostic laparoscopy with diathermy to endometriosis (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diagnostic laparoscopy with diathermy to endometriosis",
+          "lang": "en"
+        },
+        "id": "804291000000108"
+      }
+    },
+    {
+      "term": "Laparoscopy with fulguration of fallopian tube using electrical energy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33015000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with fulguration of fallopian tube using electrical energy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with fulguration of fallopian tube using electrical energy",
+          "lang": "en"
+        },
+        "id": "33015000"
+      }
+    },
+    {
+      "term": "Laparoscopy with fulguration of fallopian tube using electrical energy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33015000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopy with fulguration of fallopian tube using electrical energy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopy with fulguration of fallopian tube using electrical energy",
+          "lang": "en"
+        },
+        "id": "33015000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,718 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000012004": 4,
+      "999000011000000103": 8,
+      "900000000000207008": 13
+    },
+    "semanticTags": {
+      "foundation metadata concept": 2,
+      "disorder": 4,
+      "observable entity": 1,
+      "procedure": 1,
+      "record artifact": 3,
+      "situation": 1
+    },
+    "language": {
+      "en": 25
+    },
+    "membership": {
+      "1322291000000109": 10,
+      "1127601000000107": 5,
+      "1382531000000102": 3,
+      "1127551000000109": 3,
+      "900000000000497000": 9,
+      "733073007": 12,
+      "999002271000000101": 5
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000012004": {
+      "conceptId": "900000000000012004",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT model component module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT model component",
+        "lang": "en"
+      },
+      "id": "900000000000012004"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 25,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 25,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Ended allergies",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1103671000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Ended allergies (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ended allergies",
+          "lang": "en"
+        },
+        "id": "1103671000000101"
+      }
+    },
+    {
+      "term": "Verifies allergies",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "370860007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Verification of allergy status (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Verification of allergy status",
+          "lang": "en"
+        },
+        "id": "370860007"
+      }
+    },
+    {
+      "term": "H/O: multiple allergies",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161614004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of multiple allergies (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: multiple allergies",
+          "lang": "en"
+        },
+        "id": "161614004"
+      }
+    },
+    {
+      "term": "History of multiple allergies",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161614004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of multiple allergies (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: multiple allergies",
+          "lang": "en"
+        },
+        "id": "161614004"
+      }
+    },
+    {
+      "term": "Allergies and adverse reaction",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "886921000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Allergies and adverse reaction (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergies and adverse reactions",
+          "lang": "en"
+        },
+        "id": "886921000000105"
+      }
+    },
+    {
+      "term": "Allergies and Adverse Reactions",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "163221000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Allergies and adverse reactions - care record element (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergies and Adverse Reactions",
+          "lang": "en"
+        },
+        "id": "163221000000102"
+      }
+    },
+    {
+      "term": "Allergies and adverse reactions",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "886921000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Allergies and adverse reaction (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergies and adverse reactions",
+          "lang": "en"
+        },
+        "id": "886921000000105"
+      }
+    },
+    {
+      "term": "Ended allergies (record artifact)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1103671000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Ended allergies (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ended allergies",
+          "lang": "en"
+        },
+        "id": "1103671000000101"
+      }
+    },
+    {
+      "term": "History of multiple allergies (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161614004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of multiple allergies (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: multiple allergies",
+          "lang": "en"
+        },
+        "id": "161614004"
+      }
+    },
+    {
+      "term": "Allergies reference set for GP/FP health issue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000012004",
+      "concept": {
+        "conceptId": "450989008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000012004",
+        "fsn": {
+          "term": "Allergies reference set for GP/FP health issue (foundation metadata concept)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergies reference set for GP/FP health issue",
+          "lang": "en"
+        },
+        "id": "450989008"
+      }
+    },
+    {
+      "term": "Allergies and adverse reaction (record artifact)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "886921000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Allergies and adverse reaction (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergies and adverse reactions",
+          "lang": "en"
+        },
+        "id": "886921000000105"
+      }
+    },
+    {
+      "term": "Allergies and Adverse Reactions - Care Record Element",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "163221000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Allergies and adverse reactions - care record element (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergies and Adverse Reactions",
+          "lang": "en"
+        },
+        "id": "163221000000102"
+      }
+    },
+    {
+      "term": "Allergies reference set for GP/FP reason for encounter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000012004",
+      "concept": {
+        "conceptId": "450980007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000012004",
+        "fsn": {
+          "term": "Allergies reference set for GP/FP reason for encounter (foundation metadata concept)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergies reference set for GP/FP reason for encounter",
+          "lang": "en"
+        },
+        "id": "450980007"
+      }
+    },
+    {
+      "term": "Severe dermatitis, multiple allergies, metabolic wasting syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774211005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severe dermatitis, multiple allergies, metabolic wasting syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe dermatitis, multiple allergies, metabolic wasting syndrome",
+          "lang": "en"
+        },
+        "id": "774211005"
+      }
+    },
+    {
+      "term": "Allergies and adverse reactions - care record element (record artifact)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "163221000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Allergies and adverse reactions - care record element (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergies and Adverse Reactions",
+          "lang": "en"
+        },
+        "id": "163221000000102"
+      }
+    },
+    {
+      "term": "Allergies reference set for GP/FP health issue (foundation metadata concept)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000012004",
+      "concept": {
+        "conceptId": "450989008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000012004",
+        "fsn": {
+          "term": "Allergies reference set for GP/FP health issue (foundation metadata concept)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergies reference set for GP/FP health issue",
+          "lang": "en"
+        },
+        "id": "450989008"
+      }
+    },
+    {
+      "term": "Severe dermatitis, multiple allergies, metabolic wasting syndrome (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774211005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severe dermatitis, multiple allergies, metabolic wasting syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe dermatitis, multiple allergies, metabolic wasting syndrome",
+          "lang": "en"
+        },
+        "id": "774211005"
+      }
+    },
+    {
+      "term": "Allergies reference set for GP/FP reason for encounter (foundation metadata concept)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000012004",
+      "concept": {
+        "conceptId": "450980007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000012004",
+        "fsn": {
+          "term": "Allergies reference set for GP/FP reason for encounter (foundation metadata concept)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergies reference set for GP/FP reason for encounter",
+          "lang": "en"
+        },
+        "id": "450980007"
+      }
+    },
+    {
+      "term": "Congenital erythroderma, hypotrichosis, recurrent infections, multiple food allergies syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774211005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severe dermatitis, multiple allergies, metabolic wasting syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe dermatitis, multiple allergies, metabolic wasting syndrome",
+          "lang": "en"
+        },
+        "id": "774211005"
+      }
+    },
+    {
+      "term": "Allergy status is a specific type of immune hypersensitivity. Allergies represent the most common and immediate form of hypersensitivity response.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1300212001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergy status (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergy status",
+          "lang": "en"
+        },
+        "id": "1300212001"
+      }
+    },
+    {
+      "term": "A rare hyper-IgE syndrome characterized by early-onset moderate to severe atopic dermatitis and recurrent infections of variable severity including molluscum contagiosum, pneumonia, abscesses, bacteremia, or eczema herpeticum, among others. Other reported manifestations include asthma, food allergies, colitis, chronic diarrhea, lymphoma, and seizures, as well as dysmorphic facial features, such as prominent forehead, broad nose, and poor dentition.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1336113009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Caspase recruitment domain family member 11-associated atopy with dominant interference of nuclear factor kappa-B signaling syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CADINS disease",
+          "lang": "en"
+        },
+        "id": "1336113009"
+      }
+    },
+    {
+      "term": "A rare hyper-IgE syndrome characterised by early-onset moderate to severe atopic dermatitis and recurrent infections of variable severity including molluscum contagiosum, pneumonia, abscesses, bacteraemia, or eczema herpeticum, among others. Other reported manifestations include asthma, food allergies, colitis, chronic diarrhoea, lymphoma, and seizures, as well as dysmorphic facial features, such as prominent forehead, broad nose, and poor dentition.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1336113009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Caspase recruitment domain family member 11-associated atopy with dominant interference of nuclear factor kappa-B signaling syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CADINS disease",
+          "lang": "en"
+        },
+        "id": "1336113009"
+      }
+    },
+    {
+      "term": "A rare genetic epidermal disorder with characteristics of congenital erythroderma with severe psoriasiform dermatitis, ichthyosis, severe palmoplantar keratoderma, yellow keratosis on the hands and feet, elevated immunoglobulin E, multiple food allergies, and metabolic wasting. Other variable features may include hypotrichosis, nail dystrophy, recurrent infections, mild global developmental delay, eosinophilia, nystagmus, growth impairment and cardiac defects.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774211005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severe dermatitis, multiple allergies, metabolic wasting syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe dermatitis, multiple allergies, metabolic wasting syndrome",
+          "lang": "en"
+        },
+        "id": "774211005"
+      }
+    },
+    {
+      "term": "A rare immune dysregulation disease with immunodeficiency with characteristics of infantile or childhood onset of a variable phenotype including recurrent/persistent bacterial, fungal and viral infections with involvement of the skin, lower respiratory tract, gastrointestinal tract, eczema, allergies and inflammatory bowel disease. Epstein-Barr related smooth muscle neoplasms have also been reported. Immunophenotyping shows decreased Treg counts, as well as a deficient CD3/CD28 co-stimulation response in CD4+ and CD8+ T-cells.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1186712009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Combined immunodeficiency due to capping protein regulator and myosin 1 linker 2 deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Combined immunodeficiency due to CARMIL2 deficiency",
+          "lang": "en"
+        },
+        "id": "1186712009"
+      }
+    },
+    {
+      "term": "A form of T and B cell immunodeficiency with characteristics of recurrent cutaneous viral infections, susceptibility to cancer and elevated serum levels of immunoglobulin E (IgE). Patients present in childhood with symptoms including atopic dermatitis, severe food and environmental allergies, asthma, recurrent upper and lower respiratory tract infections including otitis media, recurrent sinusitis, bronchitis and pneumonia, and extensive cutaneous viral and bacterial infections. Caused by homozygous or compound heterozygous deletions and point mutations in the DOCK8 gene (9p24), which leads to an absence of DOCK8 protein in lymphocytes, resulting in low absolute T and B lymphocyte counts, mild-to-moderate eosinophilia and very high levels of serum IgE. Transmission is autosomal recessive.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1197205005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Combined immunodeficiency due to dedicator of cytokinesis 8 deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Combined immunodeficiency due to DOCK8 deficiency",
+          "lang": "en"
+        },
+        "id": "1197205005"
+      }
+    }
+  ]
+}

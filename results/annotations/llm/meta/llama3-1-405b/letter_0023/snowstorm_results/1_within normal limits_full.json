@@ -1,0 +1,439 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 15
+    },
+    "semanticTags": {
+      "finding": 8
+    },
+    "language": {
+      "en": 15
+    },
+    "membership": {
+      "1322291000000109": 8,
+      "1127601000000107": 8,
+      "900000000000497000": 8,
+      "733073007": 8,
+      "999002271000000101": 8
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 15,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 15,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "ECG within normal limits",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164854000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electrocardiogram normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ECG normal",
+          "lang": "en"
+        },
+        "id": "164854000"
+      }
+    },
+    {
+      "term": "Morphology within normal limits",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125112009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Morphology within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Morphology within normal limits",
+          "lang": "en"
+        },
+        "id": "125112009"
+      }
+    },
+    {
+      "term": "Long-term memory within normal limits",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247587007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Long-term memory within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Long-term memory within normal limits",
+          "lang": "en"
+        },
+        "id": "247587007"
+      }
+    },
+    {
+      "term": "Short-term memory within normal limits",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247590001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Short-term memory within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Short-term memory within normal limits",
+          "lang": "en"
+        },
+        "id": "247590001"
+      }
+    },
+    {
+      "term": "Maternal blood loss within normal limits",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289244001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maternal blood loss within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maternal blood loss within normal limits",
+          "lang": "en"
+        },
+        "id": "289244001"
+      }
+    },
+    {
+      "term": "ECG within normal limits for age and sex",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164854000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electrocardiogram normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ECG normal",
+          "lang": "en"
+        },
+        "id": "164854000"
+      }
+    },
+    {
+      "term": "Global memory recall within normal limits",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247602005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Memory function normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Memory function normal",
+          "lang": "en"
+        },
+        "id": "247602005"
+      }
+    },
+    {
+      "term": "Morphology within normal limits (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125112009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Morphology within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Morphology within normal limits",
+          "lang": "en"
+        },
+        "id": "125112009"
+      }
+    },
+    {
+      "term": "Serum tumor marker levels within normal limits",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "399406009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Serum tumor marker levels within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serum tumor marker levels within normal limits",
+          "lang": "en"
+        },
+        "id": "399406009"
+      }
+    },
+    {
+      "term": "Long-term memory within normal limits (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247587007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Long-term memory within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Long-term memory within normal limits",
+          "lang": "en"
+        },
+        "id": "247587007"
+      }
+    },
+    {
+      "term": "Serum tumour marker levels within normal limits",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "399406009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Serum tumor marker levels within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serum tumor marker levels within normal limits",
+          "lang": "en"
+        },
+        "id": "399406009"
+      }
+    },
+    {
+      "term": "Short-term memory within normal limits (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247590001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Short-term memory within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Short-term memory within normal limits",
+          "lang": "en"
+        },
+        "id": "247590001"
+      }
+    },
+    {
+      "term": "Maternal blood loss within normal limits (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289244001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maternal blood loss within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maternal blood loss within normal limits",
+          "lang": "en"
+        },
+        "id": "289244001"
+      }
+    },
+    {
+      "term": "S0: Serum marker study levels within normal limits",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "313139000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Serum tumor marker stage S0 (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serum tumor marker stage S0",
+          "lang": "en"
+        },
+        "id": "313139000"
+      }
+    },
+    {
+      "term": "Serum tumor marker levels within normal limits (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "399406009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Serum tumor marker levels within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serum tumor marker levels within normal limits",
+          "lang": "en"
+        },
+        "id": "399406009"
+      }
+    }
+  ]
+}

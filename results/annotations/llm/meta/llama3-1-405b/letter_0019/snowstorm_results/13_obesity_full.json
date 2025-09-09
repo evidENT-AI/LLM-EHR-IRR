@@ -1,0 +1,933 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 16,
+      "900000000000207008": 21
+    },
+    "semanticTags": {
+      "finding": 18
+    },
+    "language": {
+      "en": 37
+    },
+    "membership": {
+      "1322291000000109": 18,
+      "1127601000000107": 17,
+      "999002571000000104": 1,
+      "900000000000497000": 10,
+      "733073007": 18,
+      "999002271000000101": 6
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 37,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 37,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Fear of obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247824007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fear of becoming fat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fear of becoming fat",
+          "lang": "en"
+        },
+        "id": "247824007"
+      }
+    },
+    {
+      "term": "Obesity resolved",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "198181000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Obesity resolved (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity resolved",
+          "lang": "en"
+        },
+        "id": "198181000000102"
+      }
+    },
+    {
+      "term": "BMI 30+ - obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162864005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Body mass index 30+ - obesity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Body mass index 30+ - obesity",
+          "lang": "en"
+        },
+        "id": "162864005"
+      }
+    },
+    {
+      "term": "Anxiety about obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277831002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety about becoming fat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety about becoming fat",
+          "lang": "en"
+        },
+        "id": "277831002"
+      }
+    },
+    {
+      "term": "Obesity monitoring status",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "243862009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity monitoring status (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity monitoring status",
+          "lang": "en"
+        },
+        "id": "243862009"
+      }
+    },
+    {
+      "term": "Obesity monitoring default",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185743004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity monitoring default (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity monitoring default",
+          "lang": "en"
+        },
+        "id": "185743004"
+      }
+    },
+    {
+      "term": "Obesity monitoring deleted",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185749000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity monitoring deleted (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity monitoring deleted",
+          "lang": "en"
+        },
+        "id": "185749000"
+      }
+    },
+    {
+      "term": "Obesity resolved (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "198181000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Obesity resolved (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity resolved",
+          "lang": "en"
+        },
+        "id": "198181000000102"
+      }
+    },
+    {
+      "term": "Has seen dietitian - obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170797005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Has seen dietitian - obesity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has seen dietitian - obesity",
+          "lang": "en"
+        },
+        "id": "170797005"
+      }
+    },
+    {
+      "term": "Has seen dietician - obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170797005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Has seen dietitian - obesity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has seen dietitian - obesity",
+          "lang": "en"
+        },
+        "id": "170797005"
+      }
+    },
+    {
+      "term": "Obesity monitoring check done",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185750000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity monitoring check done (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity monitoring check done",
+          "lang": "en"
+        },
+        "id": "185750000"
+      }
+    },
+    {
+      "term": "Body mass index 30+ - obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162864005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Body mass index 30+ - obesity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Body mass index 30+ - obesity",
+          "lang": "en"
+        },
+        "id": "162864005"
+      }
+    },
+    {
+      "term": "Amenorrhea associated with obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413487000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Amenorrhea associated with obesity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Amenorrhea associated with obesity",
+          "lang": "en"
+        },
+        "id": "413487000"
+      }
+    },
+    {
+      "term": "Obesity monitoring status (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "243862009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity monitoring status (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity monitoring status",
+          "lang": "en"
+        },
+        "id": "243862009"
+      }
+    },
+    {
+      "term": "Amenorrhoea associated with obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413487000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Amenorrhea associated with obesity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Amenorrhea associated with obesity",
+          "lang": "en"
+        },
+        "id": "413487000"
+      }
+    },
+    {
+      "term": "Obesity monitoring default (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185743004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity monitoring default (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity monitoring default",
+          "lang": "en"
+        },
+        "id": "185743004"
+      }
+    },
+    {
+      "term": "Obesity monitoring deleted (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185749000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity monitoring deleted (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity monitoring deleted",
+          "lang": "en"
+        },
+        "id": "185749000"
+      }
+    },
+    {
+      "term": "Has seen dietitian - obesity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170797005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Has seen dietitian - obesity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has seen dietitian - obesity",
+          "lang": "en"
+        },
+        "id": "170797005"
+      }
+    },
+    {
+      "term": "Body mass index 30+ - obesity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162864005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Body mass index 30+ - obesity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Body mass index 30+ - obesity",
+          "lang": "en"
+        },
+        "id": "162864005"
+      }
+    },
+    {
+      "term": "Obesity monitoring check done (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185750000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity monitoring check done (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity monitoring check done",
+          "lang": "en"
+        },
+        "id": "185750000"
+      }
+    },
+    {
+      "term": "Reason for obesity therapy - occupational",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170807005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Reason for obesity therapy - occupational (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reason for obesity therapy - occupational",
+          "lang": "en"
+        },
+        "id": "170807005"
+      }
+    },
+    {
+      "term": "Amenorrhea associated with obesity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413487000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Amenorrhea associated with obesity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Amenorrhea associated with obesity",
+          "lang": "en"
+        },
+        "id": "413487000"
+      }
+    },
+    {
+      "term": "Exception reporting - obesity quality indicators",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "753691000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Exception reporting - obesity quality indicators (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Exception reporting - obesity quality indicators",
+          "lang": "en"
+        },
+        "id": "753691000000104"
+      }
+    },
+    {
+      "term": "Reason for obesity therapy - occupational (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170807005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Reason for obesity therapy - occupational (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reason for obesity therapy - occupational",
+          "lang": "en"
+        },
+        "id": "170807005"
+      }
+    },
+    {
+      "term": "Exception reporting - obesity quality indicators (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "753691000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Exception reporting - obesity quality indicators (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Exception reporting - obesity quality indicators",
+          "lang": "en"
+        },
+        "id": "753691000000104"
+      }
+    },
+    {
+      "term": "Excepted from obesity quality indicators - informed dissent",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "753771000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Excepted from obesity quality indicators - informed dissent (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excepted from obesity quality indicators - informed dissent",
+          "lang": "en"
+        },
+        "id": "753771000000107"
+      }
+    },
+    {
+      "term": "Excepted from obesity quality indicators - patient unsuitable",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "753751000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Excepted from obesity quality indicators - patient unsuitable (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excepted from obesity quality indicators - patient unsuitable",
+          "lang": "en"
+        },
+        "id": "753751000000103"
+      }
+    },
+    {
+      "term": "Risk to health associated with overweight and obesity, at high risk",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "755921000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Risk to health associated with overweight and obesity, at high risk (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Risk to health associated with overweight and obesity, at high risk",
+          "lang": "en"
+        },
+        "id": "755921000000105"
+      }
+    },
+    {
+      "term": "Excepted from obesity quality indicators - informed dissent (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "753771000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Excepted from obesity quality indicators - informed dissent (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excepted from obesity quality indicators - informed dissent",
+          "lang": "en"
+        },
+        "id": "753771000000107"
+      }
+    },
+    {
+      "term": "Excepted from obesity quality indicators - patient unsuitable (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "753751000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Excepted from obesity quality indicators - patient unsuitable (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excepted from obesity quality indicators - patient unsuitable",
+          "lang": "en"
+        },
+        "id": "753751000000103"
+      }
+    },
+    {
+      "term": "Risk to health associated with overweight and obesity, at increased risk",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "755901000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Risk to health associated with overweight and obesity, at increased risk (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Risk to health associated with overweight and obesity, at increased risk",
+          "lang": "en"
+        },
+        "id": "755901000000101"
+      }
+    },
+    {
+      "term": "Risk to health associated with overweight and obesity, at very high risk",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "755941000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Risk to health associated with overweight and obesity, at very high risk (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Risk to health associated with overweight and obesity, at very high risk",
+          "lang": "en"
+        },
+        "id": "755941000000103"
+      }
+    },
+    {
+      "term": "Risk to health associated with overweight and obesity, at no increased risk",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "755881000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Risk to health associated with overweight and obesity, at no increased risk (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Risk to health associated with overweight and obesity, at no increased risk",
+          "lang": "en"
+        },
+        "id": "755881000000104"
+      }
+    },
+    {
+      "term": "Risk to health associated with overweight and obesity, at high risk (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "755921000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Risk to health associated with overweight and obesity, at high risk (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Risk to health associated with overweight and obesity, at high risk",
+          "lang": "en"
+        },
+        "id": "755921000000105"
+      }
+    },
+    {
+      "term": "Risk to health associated with overweight and obesity, at increased risk (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "755901000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Risk to health associated with overweight and obesity, at increased risk (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Risk to health associated with overweight and obesity, at increased risk",
+          "lang": "en"
+        },
+        "id": "755901000000101"
+      }
+    },
+    {
+      "term": "Risk to health associated with overweight and obesity, at very high risk (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "755941000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Risk to health associated with overweight and obesity, at very high risk (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Risk to health associated with overweight and obesity, at very high risk",
+          "lang": "en"
+        },
+        "id": "755941000000103"
+      }
+    },
+    {
+      "term": "Risk to health associated with overweight and obesity, at no increased risk (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "755881000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Risk to health associated with overweight and obesity, at no increased risk (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Risk to health associated with overweight and obesity, at no increased risk",
+          "lang": "en"
+        },
+        "id": "755881000000104"
+      }
+    }
+  ]
+}

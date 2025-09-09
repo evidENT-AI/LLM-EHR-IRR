@@ -1,0 +1,764 @@
+{
+  "labels": {
+    "48-year-old": {
+      "context": "The patient is a 48-year-old female who was seen in consultation requested from Dr. X on 05/28/2008 regarding chronic headaches and pulsatile tinnitus.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "female": {
+      "context": "The patient is a 48-year-old female who was seen in consultation requested from Dr. X on 05/28/2008 regarding chronic headaches and pulsatile tinnitus.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "chronic headaches": {
+      "context": "The patient is a 48-year-old female who was seen in consultation requested from Dr. X on 05/28/2008 regarding chronic headaches and pulsatile tinnitus.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "pulsatile tinnitus": {
+      "context": "The patient is a 48-year-old female who was seen in consultation requested from Dr. X on 05/28/2008 regarding chronic headaches and pulsatile tinnitus.",
+      "qualifier": "Symptoms",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "daily headaches": {
+      "context": "The patient reports she has been having daily headaches since 02/25/2008.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "pulsations in the head": {
+      "context": "She has been getting pulsations in the head with heartbeat sounds.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "headaches on top of the head": {
+      "context": "They are generally on the very top of the head according to the patient.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "weird sounds in the left ear": {
+      "context": "The patient does note that when she speaks on the phone, the left ear has \"weird sounds.\"",
+      "qualifier": "Symptoms",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "fullness in the left ear": {
+      "context": "She feels a general fullness in the left ear.",
+      "qualifier": "Symptoms",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "pulsation sounds in the left ear": {
+      "context": "She does note pulsation sounds within that left ear only.",
+      "qualifier": "Symptoms",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "dizzy episodes": {
+      "context": "She does report she has had dizzy episodes in the past with nausea, being off balance at times.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "nausea": {
+      "context": "She does report she has had dizzy episodes in the past with nausea, being off balance at times.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "hypercholesterolemia": {
+      "context": "CARDIOVASCULAR: Hypercholesterolemia.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "living kidney donor": {
+      "context": "GENITOURINARY: The patient is noted to be a living kidney donor and has only one kidney.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "one kidney": {
+      "context": "GENITOURINARY: The patient is noted to be a living kidney donor and has only one kidney.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "itching": {
+      "context": "DERMATOLOGIC: History of itching.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "skin cancer": {
+      "context": "DERMATOLOGIC: History of skin cancer on the arm and back.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "left nephrectomy": {
+      "context": "Past Surgical History: She has had a left nephrectomy, C-sections, mastoidectomy, laparoscopy, and T&A.",
+      "qualifier": "Procedures",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "C-sections": {
+      "context": "Past Surgical History: She has had a left nephrectomy, C-sections, mastoidectomy, laparoscopy, and T&A.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "mastoidectomy": {
+      "context": "Past Surgical History: She has had a left nephrectomy, C-sections, mastoidectomy, laparoscopy, and T&A.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "laparoscopy": {
+      "context": "Past Surgical History: She has had a left nephrectomy, C-sections, mastoidectomy, laparoscopy, and T&A.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "T&A": {
+      "context": "Past Surgical History: She has had a left nephrectomy, C-sections, mastoidectomy, laparoscopy, and T&A.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "father's history of cancer": {
+      "context": "Family History: Father, history of cancer, hypertension, and heart disease.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "father's history of hypertension": {
+      "context": "Family History: Father, history of cancer, hypertension, and heart disease.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "father's history of heart disease": {
+      "context": "Family History: Father, history of cancer, hypertension, and heart disease.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Tylenol": {
+      "context": "Current Medications: Tylenol, Excedrin, and she is on multivitamin and probiotic's.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Excedrin": {
+      "context": "Current Medications: Tylenol, Excedrin, and she is on multivitamin and probiotic's.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "multivitamin": {
+      "context": "Current Medications: Tylenol, Excedrin, and she is on multivitamin and probiotic's.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "probiotic's": {
+      "context": "Current Medications: Tylenol, Excedrin, and she is on multivitamin and probiotic's.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "allergic to codeine": {
+      "context": "Allergies: She is allergic to codeine and penicillin.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "allergic to penicillin": {
+      "context": "Allergies: She is allergic to codeine and penicillin.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "married": {
+      "context": "Social History: She is married.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "works at Eye Center": {
+      "context": "Social History: She works at Eye Center as a receptionist.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "previous smoker": {
+      "context": "Social History: She denies tobacco at this time though she was a previous smoker, stopped four years ago, and she denies alcohol use.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "blood pressure 120/78": {
+      "context": "VITAL SIGNS: Blood pressure 120/78, pulse 64 and regular, and the temperature is 97.4.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "pulse 64": {
+      "context": "VITAL SIGNS: Blood pressure 120/78, pulse 64 and regular, and the temperature is 97.4.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "temperature 97.4": {
+      "context": "VITAL SIGNS: Blood pressure 120/78, pulse 64 and regular, and the temperature is 97.4.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal-sounding voice": {
+      "context": "GENERAL: The patient is an alert, cooperative, well-developed 48-year-old female with a normal-sounding voice and good memory.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "good memory": {
+      "context": "GENERAL: The patient is an alert, cooperative, well-developed 48-year-old female with a normal-sounding voice and good memory.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "mastoidectomy scar": {
+      "context": "EARS: There is an old mastoidectomy scar, left ear.",
+      "qualifier": "Signs",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "clean and dry ear canals": {
+      "context": "EARS: The ear canals are clean and dry.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "intact and mobile drums": {
+      "context": "EARS: Drums intact and mobile.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Weber exam is midline": {
+      "context": "EARS: Weber exam is midline.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "clear drainage": {
+      "context": "NASAL: Reveals clear drainage.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "deviated nasal septum": {
+      "context": "Impression: 3. Deviated nasal septum.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "patent ostiomeatal complexes": {
+      "context": "NASAL: Ostiomeatal complexes are patent and turbinates are healthy.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "healthy turbinates": {
+      "context": "NASAL: Ostiomeatal complexes are patent and turbinates are healthy.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal oral cavity": {
+      "context": "ORAL: Oral cavity is normal with good moisture.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "good moisture": {
+      "context": "ORAL: Oral cavity is normal with good moisture.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal mucosa": {
+      "context": "Evaluation of the oropharynx reveals normal mucosa, normal palates, and posterior oropharynx.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal palates": {
+      "context": "Evaluation of the oropharynx reveals normal mucosa, normal palates, and posterior oropharynx.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal posterior oropharynx": {
+      "context": "Evaluation of the oropharynx reveals normal mucosa, normal palates, and posterior oropharynx.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal epiglottis": {
+      "context": "Examination of the larynx with a mirror reveals normal epiglottis, false and true vocal cords with good mobility of the cords.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal false vocal cords": {
+      "context": "Examination of the larynx with a mirror reveals normal epiglottis, false and true vocal cords with good mobility of the cords.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal true vocal cords": {
+      "context": "Examination of the larynx with a mirror reveals normal epiglottis, false and true vocal cords with good mobility of the cords.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "good mobility of the cords": {
+      "context": "Examination of the larynx with a mirror reveals normal epiglottis, false and true vocal cords with good mobility of the cords.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal nasopharynx": {
+      "context": "The nasopharynx was briefly examined by mirror with normal appearing mucosa, posterior choanae and eustachian tubes.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal mucosa in nasopharynx": {
+      "context": "The nasopharynx was briefly examined by mirror with normal appearing mucosa, posterior choanae and eustachian tubes.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal posterior choanae": {
+      "context": "The nasopharynx was briefly examined by mirror with normal appearing mucosa, posterior choanae and eustachian tubes.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal eustachian tubes": {
+      "context": "The nasopharynx was briefly examined by mirror with normal appearing mucosa, posterior choanae and eustachian tubes.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "pulsatile tinnitus, left ear": {
+      "context": "Impression: 1. Pulsatile tinnitus, left ear with eustachian tube disorder as the etiology.",
+      "qualifier": "Diagnoses",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "eustachian tube disorder": {
+      "context": "Impression: 1. Pulsatile tinnitus, left ear with eustachian tube disorder as the etiology.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal pressure hydrocephalus": {
+      "context": "Impression: 1. Pulsatile tinnitus, left ear with eustachian tube disorder as the etiology. Consider, also normal pressure hydrocephalus.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "recurrent headaches": {
+      "context": "Impression: 2. Recurrent headaches.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "dizziness": {
+      "context": "Impression: 4. Dizziness, again also consider possible Meniere disease.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Meniere disease": {
+      "context": "Impression: 4. Dizziness, again also consider possible Meniere disease.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "2 g or less sodium diet": {
+      "context": "Recommendations: I did recommend the patient begin a 2 g or less sodium diet.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "carotid ultrasound study": {
+      "context": "Recommendations: I have also ordered a carotid ultrasound study as part of the workup and evaluation.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Nasacort AQ nasal spray": {
+      "context": "Recommendations: I have started her on Nasacort AQ nasal spray one spray each nostril daily as this is eustachian tube related.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "hearing protection devices": {
+      "context": "Recommendations: Hearing protection devices should be used at all times as well.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "nasal decongestant": {
+      "context": "Recommendations: I did counsel the patient if she has any upcoming airplane trips to use nasal decongestant or topical nasal decongestant spray prior to boarding the plane, and also using the airplane ear plugs as these can be effective at helping to prevent eustachian tube issues.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "topical nasal decongestant spray": {
+      "context": "Recommendations: I did counsel the patient if she has any upcoming airplane trips to use nasal decongestant or topical nasal decongestant spray prior to boarding the plane, and also using the airplane ear plugs as these can be effective at helping to prevent eustachian tube issues.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "airplane ear plugs": {
+      "context": "Recommendations: I did counsel the patient if she has any upcoming airplane trips to use nasal decongestant or topical nasal decongestant spray prior to boarding the plane, and also using the airplane ear plugs as these can be effective at helping to prevent eustachian tube issues.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "myringotomy": {
+      "context": "Recommendations: If the pulsatile tinnitus at that time is not clear, we have discussed other treatment options including myringotomy or ear tube placement, which could be done here in the office.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "ear tube placement": {
+      "context": "Recommendations: If the pulsatile tinnitus at that time is not clear, we have discussed other treatment options including myringotomy or ear tube placement, which could be done here in the office.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "audio and tympanogram": {
+      "context": "Recommendations: She will be scheduled for a audio and tympanogram to be done as well prior to that procedure.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    }
+  }
+}

@@ -1,0 +1,1339 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 8,
+      "999000041000000102": 1,
+      "900000000000207008": 58
+    },
+    "semanticTags": {
+      "disorder": 11,
+      "assessment scale": 1,
+      "observable entity": 1,
+      "procedure": 2,
+      "finding": 13,
+      "situation": 4
+    },
+    "language": {
+      "en": 67
+    },
+    "membership": {
+      "1322291000000109": 32,
+      "1127601000000107": 28,
+      "1382531000000102": 8,
+      "991401000000107": 2,
+      "1128991000000109": 1,
+      "999002271000000101": 42,
+      "2222191000000108": 2,
+      "999001061000000106": 1,
+      "900000000000489007": 3,
+      "999003181000000104": 2,
+      "900000000000497000": 28,
+      "733073007": 32,
+      "999003191000000102": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "991401000000107": {
+      "conceptId": "991401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care presenting complaints or issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care presenting complaints or issues simple reference set",
+        "lang": "en"
+      },
+      "id": "991401000000107"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999003181000000104": {
+      "conceptId": "999003181000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003181000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999003191000000102": {
+      "conceptId": "999003191000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1D Central nervous system neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1D CNS (central nervous system) neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003191000000102"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    }
+  },
+  "totalElements": 67,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404640003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness",
+          "lang": "en"
+        },
+        "id": "404640003"
+      }
+    },
+    {
+      "term": "No dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1141711004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No dizziness (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No dizziness",
+          "lang": "en"
+        },
+        "id": "1141711004"
+      }
+    },
+    {
+      "term": "H/O dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "816651000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "History of dizziness (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O dizziness",
+          "lang": "en"
+        },
+        "id": "816651000000109"
+      }
+    },
+    {
+      "term": "No H/O dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "473074004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No history of dizziness (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No history of dizziness",
+          "lang": "en"
+        },
+        "id": "473074004"
+      }
+    },
+    {
+      "term": "Dizziness present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162260006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness present (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness present",
+          "lang": "en"
+        },
+        "id": "162260006"
+      }
+    },
+    {
+      "term": "Dizziness - giddy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271789005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness and giddiness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness and giddiness",
+          "lang": "en"
+        },
+        "id": "271789005"
+      }
+    },
+    {
+      "term": "Postural dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103017008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postural dizziness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postural dizziness",
+          "lang": "en"
+        },
+        "id": "103017008"
+      }
+    },
+    {
+      "term": "Dizziness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404640003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness",
+          "lang": "en"
+        },
+        "id": "404640003"
+      }
+    },
+    {
+      "term": "Exertional dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103018003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Exertional dizziness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Exertional dizziness",
+          "lang": "en"
+        },
+        "id": "103018003"
+      }
+    },
+    {
+      "term": "Functional dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "7956006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Psychogenic vertigo (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Psychogenic vertigo",
+          "lang": "en"
+        },
+        "id": "7956006"
+      }
+    },
+    {
+      "term": "Multisensory dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232289002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Multisensory dizziness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Multisensory dizziness",
+          "lang": "en"
+        },
+        "id": "232289002"
+      }
+    },
+    {
+      "term": "Drug-induced dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473188002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness caused by drug (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness caused by drug",
+          "lang": "en"
+        },
+        "id": "473188002"
+      }
+    },
+    {
+      "term": "Dizziness and giddiness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271789005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness and giddiness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness and giddiness",
+          "lang": "en"
+        },
+        "id": "271789005"
+      }
+    },
+    {
+      "term": "No history of dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473074004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No history of dizziness (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No history of dizziness",
+          "lang": "en"
+        },
+        "id": "473074004"
+      }
+    },
+    {
+      "term": "Assessment of dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "713131007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Assessment of dizziness (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment of dizziness",
+          "lang": "en"
+        },
+        "id": "713131007"
+      }
+    },
+    {
+      "term": "Dizziness on lying flat",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103286000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Horizontal vertigo (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Horizontal vertigo",
+          "lang": "en"
+        },
+        "id": "103286000"
+      }
+    },
+    {
+      "term": "Dizziness - light-headed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "386705008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lightheadedness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lightheadedness",
+          "lang": "en"
+        },
+        "id": "386705008"
+      }
+    },
+    {
+      "term": "Dizziness on standing up",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "407645004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness on standing up (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness on standing up",
+          "lang": "en"
+        },
+        "id": "407645004"
+      }
+    },
+    {
+      "term": "Dizziness caused by drug",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473188002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness caused by drug (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness caused by drug",
+          "lang": "en"
+        },
+        "id": "473188002"
+      }
+    },
+    {
+      "term": "No dizziness (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1141711004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No dizziness (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No dizziness",
+          "lang": "en"
+        },
+        "id": "1141711004"
+      }
+    },
+    {
+      "term": "Dizziness on lying still",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "919621000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Dizziness on lying still (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness on lying still",
+          "lang": "en"
+        },
+        "id": "919621000000103"
+      }
+    },
+    {
+      "term": "Dizziness of unknown cause",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429530004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness of unknown cause (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness of unknown cause",
+          "lang": "en"
+        },
+        "id": "429530004"
+      }
+    },
+    {
+      "term": "Dizziness on neck extension",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "794101000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Dizziness on neck extension (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness on neck extension",
+          "lang": "en"
+        },
+        "id": "794101000000105"
+      }
+    },
+    {
+      "term": "Postural dizziness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103017008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postural dizziness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postural dizziness",
+          "lang": "en"
+        },
+        "id": "103017008"
+      }
+    },
+    {
+      "term": "Chronic subjective dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103293001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Persistent postural perceptual dizziness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Persistent postural perceptual dizziness",
+          "lang": "en"
+        },
+        "id": "103293001"
+      }
+    },
+    {
+      "term": "Dizziness Handicap Inventory",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "951681000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Dizziness Handicap Inventory (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness Handicap Inventory",
+          "lang": "en"
+        },
+        "id": "951681000000109"
+      }
+    },
+    {
+      "term": "Dizziness present (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162260006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness present (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness present",
+          "lang": "en"
+        },
+        "id": "162260006"
+      }
+    },
+    {
+      "term": "Exertional dizziness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103018003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Exertional dizziness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Exertional dizziness",
+          "lang": "en"
+        },
+        "id": "103018003"
+      }
+    },
+    {
+      "term": "History of dizziness (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "816651000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "History of dizziness (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O dizziness",
+          "lang": "en"
+        },
+        "id": "816651000000109"
+      }
+    },
+    {
+      "term": "Dizziness and giddiness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271789005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness and giddiness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness and giddiness",
+          "lang": "en"
+        },
+        "id": "271789005"
+      }
+    },
+    {
+      "term": "Multisensory dizziness (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232289002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Multisensory dizziness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Multisensory dizziness",
+          "lang": "en"
+        },
+        "id": "232289002"
+      }
+    },
+    {
+      "term": "Dizziness Handicap Inventory score",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719339005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness Handicap Inventory score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness Handicap Inventory score",
+          "lang": "en"
+        },
+        "id": "719339005"
+      }
+    },
+    {
+      "term": "Dizziness on standing up (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "407645004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness on standing up (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness on standing up",
+          "lang": "en"
+        },
+        "id": "407645004"
+      }
+    },
+    {
+      "term": "Dizziness caused by drug (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473188002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness caused by drug (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness caused by drug",
+          "lang": "en"
+        },
+        "id": "473188002"
+      }
+    },
+    {
+      "term": "Dizziness following neck extension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "762244004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness following neck extension (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness following neck extension",
+          "lang": "en"
+        },
+        "id": "762244004"
+      }
+    },
+    {
+      "term": "Dizziness on lying still (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "919621000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Dizziness on lying still (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness on lying still",
+          "lang": "en"
+        },
+        "id": "919621000000103"
+      }
+    },
+    {
+      "term": "No history of dizziness (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473074004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No history of dizziness (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No history of dizziness",
+          "lang": "en"
+        },
+        "id": "473074004"
+      }
+    },
+    {
+      "term": "Assessment of dizziness (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "713131007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Assessment of dizziness (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment of dizziness",
+          "lang": "en"
+        },
+        "id": "713131007"
+      }
+    },
+    {
+      "term": "Dizziness experienced on lying down.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103286000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Horizontal vertigo (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Horizontal vertigo",
+          "lang": "en"
+        },
+        "id": "103286000"
+      }
+    },
+    {
+      "term": "Dizziness of unknown cause (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429530004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness of unknown cause (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness of unknown cause",
+          "lang": "en"
+        },
+        "id": "429530004"
+      }
+    },
+    {
+      "term": "Dizziness on neck extension (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "794101000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Dizziness on neck extension (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness on neck extension",
+          "lang": "en"
+        },
+        "id": "794101000000105"
+      }
+    },
+    {
+      "term": "Persistent postural perceptual dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103293001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Persistent postural perceptual dizziness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Persistent postural perceptual dizziness",
+          "lang": "en"
+        },
+        "id": "103293001"
+      }
+    },
+    {
+      "term": "Dizziness following neck extension (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "762244004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness following neck extension (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness following neck extension",
+          "lang": "en"
+        },
+        "id": "762244004"
+      }
+    },
+    {
+      "term": "Assessment using Dizziness Handicap Inventory",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719338002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Assessment using Dizziness Handicap Inventory (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment using Dizziness Handicap Inventory",
+          "lang": "en"
+        },
+        "id": "719338002"
+      }
+    },
+    {
+      "term": "PPPD - persistent postural perceptual dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103293001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Persistent postural perceptual dizziness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Persistent postural perceptual dizziness",
+          "lang": "en"
+        },
+        "id": "103293001"
+      }
+    },
+    {
+      "term": "Dizziness Handicap Inventory (assessment scale)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "951681000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Dizziness Handicap Inventory (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness Handicap Inventory",
+          "lang": "en"
+        },
+        "id": "951681000000109"
+      }
+    },
+    {
+      "term": "Persistent postural perceptual dizziness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103293001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Persistent postural perceptual dizziness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Persistent postural perceptual dizziness",
+          "lang": "en"
+        },
+        "id": "103293001"
+      }
+    },
+    {
+      "term": "Dizziness Handicap Inventory score (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719339005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dizziness Handicap Inventory score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dizziness Handicap Inventory score",
+          "lang": "en"
+        },
+        "id": "719339005"
+      }
+    },
+    {
+      "term": "Functional neurological symptom disorder with dizziness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "735548000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dissociative neurological symptom disorder co-occurrent with dizziness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dissociative neurological symptom disorder co-occurrent with dizziness",
+          "lang": "en"
+        },
+        "id": "735548000"
+      }
+    },
+    {
+      "term": "Assessment using Dizziness Handicap Inventory (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719338002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Assessment using Dizziness Handicap Inventory (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment using Dizziness Handicap Inventory",
+          "lang": "en"
+        },
+        "id": "719338002"
+      }
+    }
+  ]
+}

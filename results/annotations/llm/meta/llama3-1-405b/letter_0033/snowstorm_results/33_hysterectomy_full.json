@@ -1,0 +1,1206 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 14,
+      "900000000000207008": 193
+    },
+    "semanticTags": {
+      "procedure": 88
+    },
+    "language": {
+      "en": 207
+    },
+    "membership": {
+      "1322291000000109": 88,
+      "900000000000497000": 81,
+      "1127631000000101": 4,
+      "733073007": 88,
+      "900000000000489007": 7,
+      "1382401000000109": 400
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "1127631000000101": {
+      "conceptId": "1127631000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Maternal delivery procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Maternal delivery procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "1127631000000101"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 207,
+  "totalPages": 5,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236886002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hysterectomy",
+          "lang": "en"
+        },
+        "id": "236886002"
+      }
+    },
+    {
+      "term": "Total hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116140006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total hysterectomy",
+          "lang": "en"
+        },
+        "id": "116140006"
+      }
+    },
+    {
+      "term": "Radical hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116142003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical hysterectomy",
+          "lang": "en"
+        },
+        "id": "116142003"
+      }
+    },
+    {
+      "term": "Vaginal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "265056007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal hysterectomy",
+          "lang": "en"
+        },
+        "id": "265056007"
+      }
+    },
+    {
+      "term": "Partial hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387643005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial hysterectomy",
+          "lang": "en"
+        },
+        "id": "387643005"
+      }
+    },
+    {
+      "term": "Cesarean hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "41059002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cesarean hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cesarean hysterectomy",
+          "lang": "en"
+        },
+        "id": "41059002"
+      }
+    },
+    {
+      "term": "Subtotal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387643005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial hysterectomy",
+          "lang": "en"
+        },
+        "id": "387643005"
+      }
+    },
+    {
+      "term": "Abdominal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116141005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abdominal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abdominal hysterectomy",
+          "lang": "en"
+        },
+        "id": "116141005"
+      }
+    },
+    {
+      "term": "Caesarean hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "41059002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cesarean hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cesarean hysterectomy",
+          "lang": "en"
+        },
+        "id": "41059002"
+      }
+    },
+    {
+      "term": "Wertheim's hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307771009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical abdominal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical abdominal hysterectomy",
+          "lang": "en"
+        },
+        "id": "307771009"
+      }
+    },
+    {
+      "term": "Postpartum hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "860602007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postpartum excision of uterus (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postpartum hysterectomy",
+          "lang": "en"
+        },
+        "id": "860602007"
+      }
+    },
+    {
+      "term": "Hysterectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236886002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hysterectomy",
+          "lang": "en"
+        },
+        "id": "236886002"
+      }
+    },
+    {
+      "term": "Laparoscopic hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236887006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic hysterectomy",
+          "lang": "en"
+        },
+        "id": "236887006"
+      }
+    },
+    {
+      "term": "VH - Vaginal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "265056007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal hysterectomy",
+          "lang": "en"
+        },
+        "id": "265056007"
+      }
+    },
+    {
+      "term": "Hysterectomy in pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "288043009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hysterectomy in pregnancy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hysterectomy in pregnancy",
+          "lang": "en"
+        },
+        "id": "288043009"
+      }
+    },
+    {
+      "term": "Supracervical hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387644004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supracervical hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supracervical hysterectomy",
+          "lang": "en"
+        },
+        "id": "387644004"
+      }
+    },
+    {
+      "term": "Vaginal total hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "767610009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total hysterectomy via vaginal approach (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total hysterectomy via vaginal approach",
+          "lang": "en"
+        },
+        "id": "767610009"
+      }
+    },
+    {
+      "term": "Total abdominal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116143008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total abdominal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total abdominal hysterectomy",
+          "lang": "en"
+        },
+        "id": "116143008"
+      }
+    },
+    {
+      "term": "Radical vaginal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35955002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical vaginal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical vaginal hysterectomy",
+          "lang": "en"
+        },
+        "id": "35955002"
+      }
+    },
+    {
+      "term": "Vaginal subtotal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1187630003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subtotal hysterectomy via vaginal approach (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal subtotal hysterectomy",
+          "lang": "en"
+        },
+        "id": "1187630003"
+      }
+    },
+    {
+      "term": "Elective cesarean hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236988000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Elective cesarean hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Elective cesarean hysterectomy",
+          "lang": "en"
+        },
+        "id": "236988000"
+      }
+    },
+    {
+      "term": "Radical abdominal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307771009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical abdominal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical abdominal hysterectomy",
+          "lang": "en"
+        },
+        "id": "307771009"
+      }
+    },
+    {
+      "term": "Hysterectomy and fetus removal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "288042004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hysterectomy and fetus removal (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hysterectomy and fetus removal",
+          "lang": "en"
+        },
+        "id": "288042004"
+      }
+    },
+    {
+      "term": "Total hysterectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116140006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total hysterectomy",
+          "lang": "en"
+        },
+        "id": "116140006"
+      }
+    },
+    {
+      "term": "Subtotal abdominal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "176795006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subtotal abdominal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subtotal abdominal hysterectomy",
+          "lang": "en"
+        },
+        "id": "176795006"
+      }
+    },
+    {
+      "term": "Emergency cesarean hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236987005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Emergency cesarean hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Emergency cesarean hysterectomy",
+          "lang": "en"
+        },
+        "id": "236987005"
+      }
+    },
+    {
+      "term": "Elective caesarean hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236988000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Elective cesarean hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Elective cesarean hysterectomy",
+          "lang": "en"
+        },
+        "id": "236988000"
+      }
+    },
+    {
+      "term": "Extended abdominal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309879006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abdominal hysterocolpectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abdominal hysterocolpectomy",
+          "lang": "en"
+        },
+        "id": "309879006"
+      }
+    },
+    {
+      "term": "Laparoscopic total hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236888001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic total hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic total hysterectomy",
+          "lang": "en"
+        },
+        "id": "236888001"
+      }
+    },
+    {
+      "term": "Hysterectomy and foetus removal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "288042004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hysterectomy and fetus removal (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hysterectomy and fetus removal",
+          "lang": "en"
+        },
+        "id": "288042004"
+      }
+    },
+    {
+      "term": "Emergency caesarean hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236987005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Emergency cesarean hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Emergency cesarean hysterectomy",
+          "lang": "en"
+        },
+        "id": "236987005"
+      }
+    },
+    {
+      "term": "Radical hysterectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116142003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical hysterectomy",
+          "lang": "en"
+        },
+        "id": "116142003"
+      }
+    },
+    {
+      "term": "Vaginal hysterectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "265056007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal hysterectomy",
+          "lang": "en"
+        },
+        "id": "265056007"
+      }
+    },
+    {
+      "term": "Partial hysterectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387643005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial hysterectomy",
+          "lang": "en"
+        },
+        "id": "387643005"
+      }
+    },
+    {
+      "term": "Partial or subtotal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387643005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial hysterectomy",
+          "lang": "en"
+        },
+        "id": "387643005"
+      }
+    },
+    {
+      "term": "Cesarean hysterectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "41059002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cesarean hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cesarean hysterectomy",
+          "lang": "en"
+        },
+        "id": "41059002"
+      }
+    },
+    {
+      "term": "Laparoscopic radical hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236891001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic radical hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic radical hysterectomy",
+          "lang": "en"
+        },
+        "id": "236891001"
+      }
+    },
+    {
+      "term": "Laparoscopic vaginal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303414001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic vaginal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic vaginal hysterectomy",
+          "lang": "en"
+        },
+        "id": "1303414001"
+      }
+    },
+    {
+      "term": "TAH - Total abdominal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116143008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total abdominal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total abdominal hysterectomy",
+          "lang": "en"
+        },
+        "id": "116143008"
+      }
+    },
+    {
+      "term": "Abdominal hysterectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116141005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abdominal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abdominal hysterectomy",
+          "lang": "en"
+        },
+        "id": "116141005"
+      }
+    },
+    {
+      "term": "Laparoscopic subtotal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "431316002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic subtotal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic subtotal hysterectomy",
+          "lang": "en"
+        },
+        "id": "431316002"
+      }
+    },
+    {
+      "term": "Vaginal supracervical hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1187630003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subtotal hysterectomy via vaginal approach (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal subtotal hysterectomy",
+          "lang": "en"
+        },
+        "id": "1187630003"
+      }
+    },
+    {
+      "term": "Schauta-Amreich vaginal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35955002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical vaginal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical vaginal hysterectomy",
+          "lang": "en"
+        },
+        "id": "35955002"
+      }
+    },
+    {
+      "term": "Schauta radical vaginal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35955002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical vaginal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical vaginal hysterectomy",
+          "lang": "en"
+        },
+        "id": "35955002"
+      }
+    },
+    {
+      "term": "Laparoscopic hysterectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236887006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic hysterectomy",
+          "lang": "en"
+        },
+        "id": "236887006"
+      }
+    },
+    {
+      "term": "Hysterectomy in pregnancy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "288043009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hysterectomy in pregnancy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hysterectomy in pregnancy",
+          "lang": "en"
+        },
+        "id": "288043009"
+      }
+    },
+    {
+      "term": "Wertheim-Meigs abdominal hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "361222003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wertheim-Meigs abdominal hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wertheim-Meigs abdominal hysterectomy",
+          "lang": "en"
+        },
+        "id": "361222003"
+      }
+    },
+    {
+      "term": "Supracervical hysterectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387644004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supracervical hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supracervical hysterectomy",
+          "lang": "en"
+        },
+        "id": "387644004"
+      }
+    },
+    {
+      "term": "Classic SEMM laparoscopic hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "784191009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Classic intrafascial supracervical hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Classic intrafascial supracervical hysterectomy",
+          "lang": "en"
+        },
+        "id": "784191009"
+      }
+    },
+    {
+      "term": "Laparoscopic supracervical hysterectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236889009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic supracervical hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic supracervical hysterectomy",
+          "lang": "en"
+        },
+        "id": "236889009"
+      }
+    }
+  ]
+}

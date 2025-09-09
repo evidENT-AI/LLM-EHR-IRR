@@ -1,0 +1,1127 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 43
+    },
+    "semanticTags": {
+      "procedure": 21
+    },
+    "language": {
+      "en": 47
+    },
+    "membership": {
+      "1322291000000109": 21,
+      "900000000000497000": 19,
+      "733073007": 21,
+      "900000000000489007": 2,
+      "1382401000000109": 97
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 47,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 47,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Cholecystectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38102005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy",
+          "lang": "en"
+        },
+        "id": "38102005"
+      }
+    },
+    {
+      "term": "Open cholecystectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "966201000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Open cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Open cholecystectomy",
+          "lang": "en"
+        },
+        "id": "966201000000104"
+      }
+    },
+    {
+      "term": "Partial cholecystectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "89967006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial cholecystectomy",
+          "lang": "en"
+        },
+        "id": "89967006"
+      }
+    },
+    {
+      "term": "Subtotal cholecystectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "788061000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Subtotal cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subtotal cholecystectomy",
+          "lang": "en"
+        },
+        "id": "788061000000104"
+      }
+    },
+    {
+      "term": "Endoscopic cholecystectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45595009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic cholecystectomy",
+          "lang": "en"
+        },
+        "id": "45595009"
+      }
+    },
+    {
+      "term": "Cholecystectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38102005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy",
+          "lang": "en"
+        },
+        "id": "38102005"
+      }
+    },
+    {
+      "term": "Laparoscopic cholecystectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45595009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic cholecystectomy",
+          "lang": "en"
+        },
+        "id": "45595009"
+      }
+    },
+    {
+      "term": "Thorek partial cholecystectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235519004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thorek partial cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thorek partial cholecystectomy",
+          "lang": "en"
+        },
+        "id": "235519004"
+      }
+    },
+    {
+      "term": "Open cholecystectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "966201000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Open cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Open cholecystectomy",
+          "lang": "en"
+        },
+        "id": "966201000000104"
+      }
+    },
+    {
+      "term": "Partial cholecystectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "89967006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial cholecystectomy",
+          "lang": "en"
+        },
+        "id": "89967006"
+      }
+    },
+    {
+      "term": "Cholecystectomy with cholangiography",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60228007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy with exploration of common duct with cholangiography (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy with exploration of common duct with cholangiography",
+          "lang": "en"
+        },
+        "id": "60228007"
+      }
+    },
+    {
+      "term": "Subtotal cholecystectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "788061000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Subtotal cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subtotal cholecystectomy",
+          "lang": "en"
+        },
+        "id": "788061000000104"
+      }
+    },
+    {
+      "term": "Laparoscopic subtotal cholecystectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "450499007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic subtotal excision of gallbladder (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic subtotal cholecystectomy",
+          "lang": "en"
+        },
+        "id": "450499007"
+      }
+    },
+    {
+      "term": "Laparoscopic cholecystectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45595009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic cholecystectomy",
+          "lang": "en"
+        },
+        "id": "45595009"
+      }
+    },
+    {
+      "term": "Single-port laparoscopic cholecystectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "713872007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Single-port laparoscopic cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Single-port laparoscopic cholecystectomy",
+          "lang": "en"
+        },
+        "id": "713872007"
+      }
+    },
+    {
+      "term": "Thoreck operation, partial cholecystectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "89967006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial cholecystectomy",
+          "lang": "en"
+        },
+        "id": "89967006"
+      }
+    },
+    {
+      "term": "Thorek partial cholecystectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235519004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thorek partial cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thorek partial cholecystectomy",
+          "lang": "en"
+        },
+        "id": "235519004"
+      }
+    },
+    {
+      "term": "Cholecystectomy and operative cholangiogram",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235518007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy and operative cholangiogram (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy and operative cholangiogram",
+          "lang": "en"
+        },
+        "id": "235518007"
+      }
+    },
+    {
+      "term": "Robot assisted laparoscopic cholecystectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137453008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robot assisted laparoscopic cholecystectomy",
+          "lang": "en"
+        },
+        "id": "1137453008"
+      }
+    },
+    {
+      "term": "Cholecystectomy and exploration of bile duct",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302619004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy and exploration of bile duct (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy and exploration of bile duct",
+          "lang": "en"
+        },
+        "id": "302619004"
+      }
+    },
+    {
+      "term": "Cholecystectomy with exploration of common duct",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45993005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy with exploration of common duct (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy with exploration of common duct",
+          "lang": "en"
+        },
+        "id": "45993005"
+      }
+    },
+    {
+      "term": "Laparoscopic cholecystectomy with cholangiography",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20630000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy with cholangiography (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic cholecystectomy with cholangiography",
+          "lang": "en"
+        },
+        "id": "20630000"
+      }
+    },
+    {
+      "term": "Robot assisted laparoscopic partial cholecystectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137372009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic partial cholecystectomy using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robot assisted laparoscopic partial cholecystectomy",
+          "lang": "en"
+        },
+        "id": "1137372009"
+      }
+    },
+    {
+      "term": "Single-port laparoscopic cholecystectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "713872007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Single-port laparoscopic cholecystectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Single-port laparoscopic cholecystectomy",
+          "lang": "en"
+        },
+        "id": "713872007"
+      }
+    },
+    {
+      "term": "Laparoscopic cholecystectomy using robotic assistance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137453008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robot assisted laparoscopic cholecystectomy",
+          "lang": "en"
+        },
+        "id": "1137453008"
+      }
+    },
+    {
+      "term": "Cholecystectomy and operative cholangiogram (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235518007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy and operative cholangiogram (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy and operative cholangiogram",
+          "lang": "en"
+        },
+        "id": "235518007"
+      }
+    },
+    {
+      "term": "Total cholecystectomy and excision of surrounding tissue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174494006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total cholecystectomy and excision of surrounding tissue (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total cholecystectomy and excision of surrounding tissue",
+          "lang": "en"
+        },
+        "id": "174494006"
+      }
+    },
+    {
+      "term": "Cholecystectomy and exploration of bile duct (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302619004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy and exploration of bile duct (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy and exploration of bile duct",
+          "lang": "en"
+        },
+        "id": "302619004"
+      }
+    },
+    {
+      "term": "Total cholecystectomy and exploration of common bile duct",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174495007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total cholecystectomy and exploration of common bile duct (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total cholecystectomy and exploration of common bile duct",
+          "lang": "en"
+        },
+        "id": "174495007"
+      }
+    },
+    {
+      "term": "Partial cholecystectomy and exploration of common bile duct",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174497004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial cholecystectomy and exploration of common bile duct (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial cholecystectomy and exploration of common bile duct",
+          "lang": "en"
+        },
+        "id": "174497004"
+      }
+    },
+    {
+      "term": "Cholecystectomy with exploration of common duct (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45993005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy with exploration of common duct (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy with exploration of common duct",
+          "lang": "en"
+        },
+        "id": "45993005"
+      }
+    },
+    {
+      "term": "Laparoscopic cholecystectomy with exploration of common duct",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "67557008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy with exploration of common duct (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic cholecystectomy with exploration of common duct",
+          "lang": "en"
+        },
+        "id": "67557008"
+      }
+    },
+    {
+      "term": "Laparoscopic cholecystectomy with cholangiography (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20630000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy with cholangiography (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic cholecystectomy with cholangiography",
+          "lang": "en"
+        },
+        "id": "20630000"
+      }
+    },
+    {
+      "term": "Laparoscopic partial cholecystectomy using robotic assistance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137372009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic partial cholecystectomy using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robot assisted laparoscopic partial cholecystectomy",
+          "lang": "en"
+        },
+        "id": "1137372009"
+      }
+    },
+    {
+      "term": "Laparoscopic cholecystectomy using robotic assistance (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137453008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robot assisted laparoscopic cholecystectomy",
+          "lang": "en"
+        },
+        "id": "1137453008"
+      }
+    },
+    {
+      "term": "Cholecystectomy with exploration of common duct with cholangiography",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60228007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy with exploration of common duct with cholangiography (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy with exploration of common duct with cholangiography",
+          "lang": "en"
+        },
+        "id": "60228007"
+      }
+    },
+    {
+      "term": "Total cholecystectomy and excision of surrounding tissue (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174494006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total cholecystectomy and excision of surrounding tissue (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total cholecystectomy and excision of surrounding tissue",
+          "lang": "en"
+        },
+        "id": "174494006"
+      }
+    },
+    {
+      "term": "Total cholecystectomy and exploration of common bile duct (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174495007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total cholecystectomy and exploration of common bile duct (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total cholecystectomy and exploration of common bile duct",
+          "lang": "en"
+        },
+        "id": "174495007"
+      }
+    },
+    {
+      "term": "Partial cholecystectomy and exploration of common bile duct (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174497004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial cholecystectomy and exploration of common bile duct (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial cholecystectomy and exploration of common bile duct",
+          "lang": "en"
+        },
+        "id": "174497004"
+      }
+    },
+    {
+      "term": "Laparoscopic cholecystectomy with exploration of common duct (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "67557008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy with exploration of common duct (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic cholecystectomy with exploration of common duct",
+          "lang": "en"
+        },
+        "id": "67557008"
+      }
+    },
+    {
+      "term": "Laparoscopic partial cholecystectomy using robotic assistance (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137372009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic partial cholecystectomy using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robot assisted laparoscopic partial cholecystectomy",
+          "lang": "en"
+        },
+        "id": "1137372009"
+      }
+    },
+    {
+      "term": "Cholecystectomy with exploration of common bile duct and choledochoenterostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "439712000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy with exploration of common bile duct and choledochoenterostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy with exploration of common bile duct and choledochoenterostomy",
+          "lang": "en"
+        },
+        "id": "439712000"
+      }
+    },
+    {
+      "term": "Robot assisted laparoscopic cholecystectomy and exploration of common bile duct",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137362006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy and exploration of common bile duct using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robot assisted laparoscopic cholecystectomy and exploration of common bile duct",
+          "lang": "en"
+        },
+        "id": "1137362006"
+      }
+    },
+    {
+      "term": "Cholecystectomy with exploration of common duct with cholangiography (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60228007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy with exploration of common duct with cholangiography (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy with exploration of common duct with cholangiography",
+          "lang": "en"
+        },
+        "id": "60228007"
+      }
+    },
+    {
+      "term": "Laparoscopic cholecystectomy and exploration of common bile duct using robotic assistance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137362006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy and exploration of common bile duct using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robot assisted laparoscopic cholecystectomy and exploration of common bile duct",
+          "lang": "en"
+        },
+        "id": "1137362006"
+      }
+    },
+    {
+      "term": "Cholecystectomy with exploration of common bile duct and choledochoenterostomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "439712000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholecystectomy with exploration of common bile duct and choledochoenterostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholecystectomy with exploration of common bile duct and choledochoenterostomy",
+          "lang": "en"
+        },
+        "id": "439712000"
+      }
+    },
+    {
+      "term": "Laparoscopic cholecystectomy and exploration of common bile duct using robotic assistance (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137362006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic cholecystectomy and exploration of common bile duct using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robot assisted laparoscopic cholecystectomy and exploration of common bile duct",
+          "lang": "en"
+        },
+        "id": "1137362006"
+      }
+    }
+  ]
+}
