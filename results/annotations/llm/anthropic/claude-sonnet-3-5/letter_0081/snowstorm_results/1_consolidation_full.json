@@ -1,0 +1,528 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 16
+    },
+    "semanticTags": {
+      "disorder": 2,
+      "morphologic abnormality": 2,
+      "procedure": 2,
+      "record artifact": 1,
+      "situation": 1
+    },
+    "language": {
+      "en": 16
+    },
+    "membership": {
+      "1322291000000109": 8,
+      "1127601000000107": 3,
+      "1382531000000102": 1,
+      "1127551000000109": 1,
+      "900000000000497000": 8,
+      "733073007": 8,
+      "999002271000000101": 5,
+      "999003141000000107": 2,
+      "1382401000000109": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 16,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 16,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Consolidation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9656002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consolidation (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consolidation",
+          "lang": "en"
+        },
+        "id": "9656002"
+      }
+    },
+    {
+      "term": "Lung consolidation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95436008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lung consolidation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lung consolidation",
+          "lang": "en"
+        },
+        "id": "95436008"
+      }
+    },
+    {
+      "term": "Consolidation radiotherapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1148692008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radiation therapy following chemotherapy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radiation therapy following chemotherapy",
+          "lang": "en"
+        },
+        "id": "1148692008"
+      }
+    },
+    {
+      "term": "Lung consolidation (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95436008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lung consolidation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lung consolidation",
+          "lang": "en"
+        },
+        "id": "95436008"
+      }
+    },
+    {
+      "term": "Consolidation of lung present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "846749001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consolidation of lung present (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consolidation of lung present",
+          "lang": "en"
+        },
+        "id": "846749001"
+      }
+    },
+    {
+      "term": "Inflammation and consolidation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "707496003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inflammation and consolidation (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inflammation and consolidation",
+          "lang": "en"
+        },
+        "id": "707496003"
+      }
+    },
+    {
+      "term": "Consolidation radiation therapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1148692008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radiation therapy following chemotherapy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radiation therapy following chemotherapy",
+          "lang": "en"
+        },
+        "id": "1148692008"
+      }
+    },
+    {
+      "term": "Consolidation (morphologic abnormality)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9656002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consolidation (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consolidation",
+          "lang": "en"
+        },
+        "id": "9656002"
+      }
+    },
+    {
+      "term": "Consolidation antineoplastic chemotherapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "816151001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Administration of consolidation antineoplastic agent (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consolidation antineoplastic chemotherapy",
+          "lang": "en"
+        },
+        "id": "816151001"
+      }
+    },
+    {
+      "term": "Consolidation of lung present (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "846749001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consolidation of lung present (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consolidation of lung present",
+          "lang": "en"
+        },
+        "id": "846749001"
+      }
+    },
+    {
+      "term": "Administration of consolidation antineoplastic agent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "816151001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Administration of consolidation antineoplastic agent (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consolidation antineoplastic chemotherapy",
+          "lang": "en"
+        },
+        "id": "816151001"
+      }
+    },
+    {
+      "term": "Inflammation and consolidation (morphologic abnormality)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "707496003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inflammation and consolidation (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inflammation and consolidation",
+          "lang": "en"
+        },
+        "id": "707496003"
+      }
+    },
+    {
+      "term": "A consolidation of the previous health records of a patient.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5491000179105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Medical record summary (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Medical record summary",
+          "lang": "en"
+        },
+        "id": "5491000179105"
+      }
+    },
+    {
+      "term": "Administration of consolidation antineoplastic agent (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "816151001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Administration of consolidation antineoplastic agent (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consolidation antineoplastic chemotherapy",
+          "lang": "en"
+        },
+        "id": "816151001"
+      }
+    },
+    {
+      "term": "Inflammation and consolidation of lung caused by vancomycin resistant Enterococcus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1149093006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pneumonia caused by vancomycin resistant Enterococcus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pneumonia caused by vancomycin resistant Enterococcus",
+          "lang": "en"
+        },
+        "id": "1149093006"
+      }
+    },
+    {
+      "term": "Inflammation and consolidation of lung caused by VRE (vancomycin resistant Enterococcus)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1149093006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pneumonia caused by vancomycin resistant Enterococcus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pneumonia caused by vancomycin resistant Enterococcus",
+          "lang": "en"
+        },
+        "id": "1149093006"
+      }
+    }
+  ]
+}

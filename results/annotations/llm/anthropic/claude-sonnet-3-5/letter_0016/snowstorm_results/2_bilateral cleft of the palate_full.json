@@ -1,0 +1,603 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 19
+    },
+    "semanticTags": {
+      "disorder": 16
+    },
+    "language": {
+      "en": 19
+    },
+    "membership": {
+      "1322291000000109": 16,
+      "999004331000000102": 3,
+      "1127601000000107": 16,
+      "999002451000000109": 1,
+      "1382531000000102": 16,
+      "900000000000497000": 16,
+      "999002051000000100": 1,
+      "999002271000000101": 18,
+      "733073007": 16,
+      "999001761000000108": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 19,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 19,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Syndrome with the association of bilateral macular coloboma, cleft palate, and hallux valgus. It has been described in a brother and sister. Pelvic, limb and digital anomalies were also reported. Transmission is autosomal recessive.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722463001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Macular coloboma, cleft palate, hallux valgus syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Macular coloboma, cleft palate, hallux valgus syndrome",
+          "lang": "en"
+        },
+        "id": "722463001"
+      }
+    },
+    {
+      "term": "A rare genetic congenital limb malformation syndrome with characteristics of unilateral or bilateral fibular aplasia/hypoplasia, tibial campomelia, and lower limb oligo-syndactyly involving the lateral rays. Upper limb oligo-syndactyly and cleft lip/palate may also be associated.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "783156008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fibular aplasia, tibial campomelia, oligo-syndactyly syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fibular aplasia, tibial campomelia, oligo-syndactyly syndrome",
+          "lang": "en"
+        },
+        "id": "783156008"
+      }
+    },
+    {
+      "term": "A rare syndromic developmental defect of the eye malformation with characteristics of unilateral or bilateral, single or multiple, filiforme bands of elastic tissue which connect the eyelid margins at the grey line, associated with cleft lip and palate. Eye examination is otherwise normal.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "783204009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ankyloblepharon filiforme adnatum with cleft palate syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ankyloblepharon filiforme adnatum with cleft palate syndrome",
+          "lang": "en"
+        },
+        "id": "783204009"
+      }
+    },
+    {
+      "term": "A rare syndromic developmental defect of the eye malformation with characteristics of unilateral or bilateral, single or multiple, filiforme bands of elastic tissue which connect the eyelid margins at the gray line, associated with cleft lip and palate. Eye examination is otherwise normal.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "783204009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ankyloblepharon filiforme adnatum with cleft palate syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ankyloblepharon filiforme adnatum with cleft palate syndrome",
+          "lang": "en"
+        },
+        "id": "783204009"
+      }
+    },
+    {
+      "term": "Syndrome with the association of bilateral microtia, severe to profound hearing impairment and cleft palate. It has been described in four individuals from a consanguineous Iranian family. The syndrome is caused by point mutations in the HOXA2 gene, a gene that has already been shown to be involved in development of the auditory system in mice.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "717909004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bilateral microtia with deafness and cleft palate syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral microtia with deafness and cleft palate syndrome",
+          "lang": "en"
+        },
+        "id": "717909004"
+      }
+    },
+    {
+      "term": "An extremely rare syndrome with characteristics of facial dysmorphism, severe intellectual deficiency, cardiac and intestinal anomalies, and growth retardation. Only four cases have been reported in the literature, in three unrelated families. Dysmorphic features include bilateral cleft lip and palate, bulbous nasal tip and eye anomalies. The condition seems to be inherited as an autosomal recessive trait.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722031003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Kapur Toriello syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Kapur Toriello syndrome",
+          "lang": "en"
+        },
+        "id": "722031003"
+      }
+    },
+    {
+      "term": "This syndrome is characterized by coloboma of the iris, bilateral cleft lip and palate and intellectual deficiency of varying degree. A wide variability in clinical expression is observed. Some patients also present with microphthalmia, cataract, glaucoma, ptosis, sensorineural hearing loss and hematuria. To date, 12 cases have been described from three generations of a single family. Transmission is autosomal dominant.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719042007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uveal coloboma with cleft lip and palate and intellectual disability syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uveal coloboma with cleft lip and palate and intellectual disability syndrome",
+          "lang": "en"
+        },
+        "id": "719042007"
+      }
+    },
+    {
+      "term": "This syndrome is characterised by coloboma of the iris, bilateral cleft lip and palate and intellectual deficiency of varying degree. A wide variability in clinical expression is observed. Some patients also present with microphthalmia, cataract, glaucoma, ptosis, sensorineural hearing loss and haematuria. To date, 12 cases have been described from three generations of a single family. Transmission is autosomal dominant.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719042007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uveal coloboma with cleft lip and palate and intellectual disability syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uveal coloboma with cleft lip and palate and intellectual disability syndrome",
+          "lang": "en"
+        },
+        "id": "719042007"
+      }
+    },
+    {
+      "term": "A rare genetic multiple congenital anomalies/dysmorphic syndrome with characteristics of early macrosomia, bilateral severe microphthalmia and a protuberant abdomen with hepatomegaly. Additional reported features include brachycephaly, large fontanelles, prominent forehead, upturned nose and median cleft palate. Cyanotic apneic spells and overwhelming infection lead to death within the first 6 months of life. There have been no further descriptions in the literature since 1989.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773282001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Macrosomia, microphthalmia, cleft palate syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Macrosomia, microphthalmia, cleft palate syndrome",
+          "lang": "en"
+        },
+        "id": "773282001"
+      }
+    },
+    {
+      "term": "An ectodermal dysplasia syndrome with the association of abnormalities of the eyelids, lips, and teeth. These anomalies include lower eyelid ectropion, upper eyelid distichiasis, euryblepharon, bilateral cleft lip and palate and conical teeth. Additional occasional features include hypertelorism, lagophthalmos, imperforate anus, and syndactyly. Prevalence is unknown. Over 50 cases have been described in literature to date. Transmission is autosomal dominant with 100% penetrance.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "717911008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blepharocheilodontic syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blepharocheilodontic syndrome",
+          "lang": "en"
+        },
+        "id": "717911008"
+      }
+    },
+    {
+      "term": "A rare genetic multiple congenital anomalies/dysmorphic syndrome with characteristics of early macrosomia, bilateral severe microphthalmia and a protuberant abdomen with hepatomegaly. Additional reported features include brachycephaly, large fontanelles, prominent forehead, upturned nose and median cleft palate. Cyanotic apnoeic spells and overwhelming infection lead to death within the first 6 months of life. There have been no further descriptions in the literature since 1989.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773282001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Macrosomia, microphthalmia, cleft palate syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Macrosomia, microphthalmia, cleft palate syndrome",
+          "lang": "en"
+        },
+        "id": "773282001"
+      }
+    },
+    {
+      "term": "Syndrome with characteristics of cleft soft palate, severe oligodontia of the deciduous teeth, absence of the permanent dentition, bilateral conductive deafness due to fixation of the footplate of the stapes, short halluces with a wide space between the first and second toes, and fusion of carpal and tarsal bones. It has been described in two sisters of Swedish extraction. An autosomal recessive mode of inheritance is likely. There have been no further descriptions in the literature since 1971.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719468005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cleft palate with stapes fixation and oligodontia syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cleft palate with stapes fixation and oligodontia syndrome",
+          "lang": "en"
+        },
+        "id": "719468005"
+      }
+    },
+    {
+      "term": "A multiple congenital anomaly syndrome described in 5 patients to date. Characteristics include flat face, hypertelorism, flat occiput, upward slanting palpebral fissures, cleft palate, micrognathia, short neck, and severe congenital heart defects, which were lethal in 3 of the 5 patients. Malrotation of the intestine, bilateral clinodactyly, bilobed tongue, short fourth metatarsals and bifid thumbs were reported in individual cases. There have been no further descriptions in the literature since 1997.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719456001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cleft lip and cleft palate with intestinal malrotation and cardiopathy syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cleft lip and cleft palate with intestinal malrotation and cardiopathy syndrome",
+          "lang": "en"
+        },
+        "id": "719456001"
+      }
+    },
+    {
+      "term": "A rare genetic multiple congenital anomalies/dysmorphic syndrome with characteristics of craniofacial dysmorphism (midface hypoplasia, depressed nasal bridge, small nose with upturned tip, cleft palate, Pierre Robin sequence), bilateral, pronounced sensorineural hearing loss and skeletal/joint anomalies (including spondyloepiphyseal dysplasia, arthralgia/arthropathy), in the absence of ocular abnormalities. There is evidence the disease is caused by heterozygous mutation in the COL11A2 gene on chromosome 6p21.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "783097004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stickler syndrome type 3 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stickler syndrome type 3",
+          "lang": "en"
+        },
+        "id": "783097004"
+      }
+    },
+    {
+      "term": "A rare genetic multiple congenital anomalies/dysmorphic syndrome without intellectual disability with characteristics of unilateral or bilateral cleft lip and palate and craniofacial dysmorphism (including frontal bossing, hypertelorism, broad flat nasal bridge, cupped ears/thickened helices and micrognathia). Additional manifestations are variable congenital cardiac anomalies, pectus excavatum, abnormalities of the hands and feet, ocular abnormalities (myopia, cataract, staphyloma) and conductive or sensorineural hearing loss.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1187039001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cleft lip and palate, craniofacial dysmorphism, congenital heart defect, hearing loss syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cleft lip and palate, craniofacial dysmorphism, congenital heart defect, hearing loss syndrome",
+          "lang": "en"
+        },
+        "id": "1187039001"
+      }
+    },
+    {
+      "term": "Syndrome with a combination of symmetric severe distal limb reduction deficiencies affecting all four limbs (oligodactyly), microretrognathia, and microstomia with or without cleft palate. It has been reported in four patients; two of them were siblings and had moderate intellectual deficiency. Two non-related subjects also had severe myopia, bilateral conductive hearing loss and a renal change, referred to as oligomeganephronia, or renal hypoplasia. A 10q24 duplication or triplication was detected in all these patients, similar to the duplication detected in an isolated form of split hand foot malformation.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722429003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Distal limb deficiency with micrognathia syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Distal limb deficiency with micrognathia syndrome",
+          "lang": "en"
+        },
+        "id": "722429003"
+      }
+    },
+    {
+      "term": "A rare ectodermal dysplasia syndrome to date described in 8 cases. The syndrome has characteristics of early-onset migratory ichthyosiform dermatosis, bilateral ocular coloboma, conductive hearing loss, seizures, intellectual disability and characteristic facial features. Ears are low-set with thick over-folded helices. Teeth are widely spaced and square in shape. Less constant findings are cleft palate or a less severe equivalent, cardiac defects, pectus excavatum and supernumerary nipples. Caused by mutations in the glycosylphosphatidylinositol gene PIGL located to 17p12-p11.2. Transmission is autosomal recessive.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720639008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Coloboma, congenital heart disease, ichthyosiform dermatosis, intellectual disability ear anomaly syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Coloboma, congenital heart disease, ichthyosiform dermatosis, intellectual disability ear anomaly syndrome",
+          "lang": "en"
+        },
+        "id": "720639008"
+      }
+    },
+    {
+      "term": "A multiple congenital anomalies/dysmorphic syndrome with characteristics of multiple skeletal malformations (short femora and humeri, bilateral absence of metatarsal and metacarpal bone in hands and feet, bilateral partial syndactyly of fingers and toes or oligo/polysyndactyly, deformed lumbosacral spine), congenital heart disease (truncus arteriosus), lung and urogenital malformations (bilateral bilobar lungs, horseshoe kidney, cryptorchidism), and facial malformations (bilateral cleft lip and palate, micrognathia, small, low-set ears without external meatus). It is lethal in the neonatal period. There have been no further descriptions in the literature since 1981.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "764697003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Verloove Vanhorick Brubakk syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Verloove Vanhorick Brubakk syndrome",
+          "lang": "en"
+        },
+        "id": "764697003"
+      }
+    },
+    {
+      "term": "A syndromic craniosynostosis with a wide range of clinical findings even within a single family. Most have coronal synostosis however synostosis of other sutures, all sutures, macrocephaly without craniosynostosis, or a normal skull may be observed. Bilateral coronal synostosis usually results in brachycephaly with temporal bossing and facial symmetry. Craniofacial findings include widely spaced eyes, ptosis or proptosis, strabismus, and high arched palate or cleft lip/palate. Over 70% of patients have some form of hearing loss. Additional extracranial manifestations include otitis media, brachydactyly, broad toes, broad thumbs, clinodactyly, developmental delay and intellectual disability. Caused by mutation in the FGFR3 gene (4p16.3), encoding fibroblast growth factor receptor 3, which is required for normal skeleton development. Inheritance is autosomal dominant.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "787407003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Muenke syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Muenke syndrome",
+          "lang": "en"
+        },
+        "id": "787407003"
+      }
+    }
+  ]
+}

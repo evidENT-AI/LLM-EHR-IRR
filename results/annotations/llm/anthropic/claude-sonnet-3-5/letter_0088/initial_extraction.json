@@ -1,0 +1,84 @@
+{
+  "labels": {
+    "Chronic tonsillitis": {
+      "context": "Preoperative Diagnosis: Chronic tonsillitis.",
+      "qualifier": "Diagnoses",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "90176007"
+    },
+    "Tonsillectomy": {
+      "context": "Procedure: Tonsillectomy.",
+      "qualifier": "Procedures",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "71258009"
+    },
+    "general orotracheal anesthesia": {
+      "context": "Under general orotracheal anesthesia, a Crowe-Davis mouth gag was inserted and suspended.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "47545007"
+    },
+    "Crowe-Davis mouth gag": {
+      "context": "Under general orotracheal anesthesia, a Crowe-Davis mouth gag was inserted and suspended.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "electrocautery dissection": {
+      "context": "Tonsils were removed by electrocautery dissection",
+      "qualifier": "Procedures",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Marcaine 0.25% plain": {
+      "context": "the tonsillar beds were injected with Marcaine 0.25% plain",
+      "qualifier": "Treatments",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "387480006"
+    },
+    "no further bleeding": {
+      "context": "There was no further bleeding.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "131148009"
+    },
+    "satisfactory condition": {
+      "context": "The patient was awakened and extubated and moved to the recovery room in satisfactory condition.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    }
+  }
+}

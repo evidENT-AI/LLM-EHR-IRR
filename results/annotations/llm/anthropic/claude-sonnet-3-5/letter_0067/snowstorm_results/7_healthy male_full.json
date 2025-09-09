@@ -1,0 +1,367 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 10
+    },
+    "semanticTags": {
+      "disorder": 2,
+      "finding": 6
+    },
+    "language": {
+      "en": 10
+    },
+    "membership": {
+      "1322291000000109": 8,
+      "1127601000000107": 8,
+      "1382531000000102": 2,
+      "999003201000000100": 1,
+      "900000000000497000": 8,
+      "733073007": 8,
+      "999002271000000101": 3
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 10,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 10,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Healthy male child",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102507004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Well male child (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Well male child",
+          "lang": "en"
+        },
+        "id": "102507004"
+      }
+    },
+    {
+      "term": "Healthy male adult",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102513008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Well male adult (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Well male adult",
+          "lang": "en"
+        },
+        "id": "102513008"
+      }
+    },
+    {
+      "term": "Healthy male elder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102516000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Well male elder (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Well male elder",
+          "lang": "en"
+        },
+        "id": "102516000"
+      }
+    },
+    {
+      "term": "Healthy male newborn",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102501003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Well male newborn (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Well male newborn",
+          "lang": "en"
+        },
+        "id": "102501003"
+      }
+    },
+    {
+      "term": "Healthy elderly male",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102516000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Well male elder (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Well male elder",
+          "lang": "en"
+        },
+        "id": "102516000"
+      }
+    },
+    {
+      "term": "Healthy male adolescent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102510006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Well male adolescent (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Well male adolescent",
+          "lang": "en"
+        },
+        "id": "102510006"
+      }
+    },
+    {
+      "term": "Healthy premature male newborn",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102504006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Well premature male newborn (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Well premature male newborn",
+          "lang": "en"
+        },
+        "id": "102504006"
+      }
+    },
+    {
+      "term": "Isochromosomy Yp is a rare gonosome anomaly characterised by various clinical presentations including normal healthy fertile males, male phenotype with infertility, and males with ambiguous genitalia or incomplete masculinisation.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "766708008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Isochromosomy Yp (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Isochromosomy Yp",
+          "lang": "en"
+        },
+        "id": "766708008"
+      }
+    },
+    {
+      "term": "Isochromosomy Yp is a rare gonosome anomaly characterized by various clinical presentations including normal healthy fertile males, male phenotype with infertility, and males with ambiguous genitalia or incomplete masculinization.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "766708008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Isochromosomy Yp (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Isochromosomy Yp",
+          "lang": "en"
+        },
+        "id": "766708008"
+      }
+    },
+    {
+      "term": "A rare benign neoplasm of the liver. Mean age at diagnosis is 34 years and the disease rarely occurs in children. Most patients are asymptomatic and lesions are found incidentally during laparotomy or radiologic studies performed for other reasons. In most cases, adenomas develop for unclear reasons in an otherwise healthy liver. Some predisposing conditions have been identified: prolonged oral contraceptive use, glycogenosis type III and IV, congenital portocaval shunt and, in males, use of anabolic steroids. Malignant transformation is rare and the long-term prognosis is good.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1156419009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hepatocellular adenoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hepatocellular adenoma",
+          "lang": "en"
+        },
+        "id": "1156419009"
+      }
+    }
+  ]
+}

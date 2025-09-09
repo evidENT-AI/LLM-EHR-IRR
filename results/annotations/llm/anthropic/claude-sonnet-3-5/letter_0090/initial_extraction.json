@@ -1,0 +1,74 @@
+{
+  "labels": {
+    "Tonsillitis": {
+      "context": "Preoperative Diagnosis: Tonsillitis.",
+      "qualifier": "Diagnoses",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "43878008"
+    },
+    "Tonsillectomy": {
+      "context": "Procedure Performed: Tonsillectomy.",
+      "qualifier": "Procedures",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "71258009"
+    },
+    "general endotracheal anesthesia": {
+      "context": "After induction of general endotracheal anesthesia",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "47545007"
+    },
+    "Xylocaine with 1:100,000 epinephrine": {
+      "context": "The anterior tonsillar pillar was infiltrated with 1.5 cc of 1% Xylocaine with 1:100,000 epinephrine",
+      "qualifier": "Treatments",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "bleeding": {
+      "context": "The pack was removed and bleeding was controlled with the suction Bovie unit.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "131148009"
+    },
+    "tolerated the procedure well": {
+      "context": "The patient tolerated the procedure well and left the operating room in good condition.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "good condition": {
+      "context": "The patient tolerated the procedure well and left the operating room in good condition.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "labels": {
+    "11-year-old male": {
+      "context": "The patient is an 11-year-old male who was admitted from the ER after a CT scan suggested that the child had mastoiditis.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "mastoiditis": {
+      "context": "Suspected mastoiditis ruled out.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "65407004"
+    },
+    "right acute otitis media": {
+      "context": "Right acute otitis media.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "65363002"
+    },
+    "severe ear pain": {
+      "context": "Severe ear pain resolving.",
+      "qualifier": "Symptoms",
+      "laterality": "right",
+      "presence": "resolved",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "162397003"
+    },
+    "blood draining": {
+      "context": "The child has had very severe ear pain and blood draining from the right ear.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "temperature maximum of 101.4": {
+      "context": "The child had a temperature maximum of 101.4 in the ER.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "386725007"
+    },
+    "IV Unasyn": {
+      "context": "The patient was admitted and started on IV Unasyn, which he tolerated well and required Morphine and Vicodin for pain control.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Morphine": {
+      "context": "The patient was admitted and started on IV Unasyn, which he tolerated well and required Morphine and Vicodin for pain control.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "373529000"
+    },
+    "Vicodin": {
+      "context": "The patient was admitted and started on IV Unasyn, which he tolerated well and required Morphine and Vicodin for pain control.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "376856006"
+    },
+    "temperature is 97.6": {
+      "context": "His temperature is 97.6, heart rate 83, blood pressure 105/57, respiratory rate 16 on room air.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "heart rate 83": {
+      "context": "His temperature is 97.6, heart rate 83, blood pressure 105/57, respiratory rate 16 on room air.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "blood pressure 105/57": {
+      "context": "His temperature is 97.6, heart rate 83, blood pressure 105/57, respiratory rate 16 on room air.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "no redness": {
+      "context": "Right ear shows no redness.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "nontender": {
+      "context": "The area behind his ear is nontender.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Ciprodex Otic Solution": {
+      "context": "Ciprodex Otic Solution in the right ear twice daily.",
+      "qualifier": "Treatments",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Augmentin": {
+      "context": "Augmentin 500 mg three times daily x10 days.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "372725003"
+    }
+  }
+}

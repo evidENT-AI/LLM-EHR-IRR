@@ -1,0 +1,308 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 1,
+      "900000000000207008": 7
+    },
+    "semanticTags": {
+      "procedure": 5
+    },
+    "language": {
+      "en": 8
+    },
+    "membership": {
+      "1322291000000109": 5,
+      "900000000000497000": 4,
+      "733073007": 5,
+      "900000000000489007": 1,
+      "1382401000000109": 13
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 8,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 8,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Septorhinoplasty",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20805001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rhinoseptoplasty (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rhinoseptoplasty",
+          "lang": "en"
+        },
+        "id": "20805001"
+      }
+    },
+    {
+      "term": "Revision septorhinoplasty",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "865681000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Revision rhinoseptoplasty (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Revision septorhinoplasty",
+          "lang": "en"
+        },
+        "id": "865681000000109"
+      }
+    },
+    {
+      "term": "Septorhinoplasty using graft",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172760006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Septorhinoplasty using graft (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Septorhinoplasty using graft",
+          "lang": "en"
+        },
+        "id": "172760006"
+      }
+    },
+    {
+      "term": "Septorhinoplasty using implant",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172759001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Septorhinoplasty using implant (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Septorhinoplasty using implant",
+          "lang": "en"
+        },
+        "id": "172759001"
+      }
+    },
+    {
+      "term": "Septorhinoplasty using graft (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172760006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Septorhinoplasty using graft (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Septorhinoplasty using graft",
+          "lang": "en"
+        },
+        "id": "172760006"
+      }
+    },
+    {
+      "term": "Septorhinoplasty using implant (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172759001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Septorhinoplasty using implant (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Septorhinoplasty using implant",
+          "lang": "en"
+        },
+        "id": "172759001"
+      }
+    },
+    {
+      "term": "Septorhinoplasty for cleft lip nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172849006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Septorhinoplasty for cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Septorhinoplasty for cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "172849006"
+      }
+    },
+    {
+      "term": "Septorhinoplasty for cleft lip nasal deformity (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172849006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Septorhinoplasty for cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Septorhinoplasty for cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "172849006"
+      }
+    }
+  ]
+}

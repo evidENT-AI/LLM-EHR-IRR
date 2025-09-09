@@ -1,0 +1,94 @@
+{
+  "labels": {
+    "41-year-old gentleman": {
+      "context": "The patient is a 41-year-old gentleman with a history of obstructive sleep apnea",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "obstructive sleep apnea": {
+      "context": "The patient with a history of obstructive sleep apnea who has been using CPAP",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "78275009"
+    },
+    "CPAP": {
+      "context": "The patient with a history of obstructive sleep apnea who has been using CPAP, however, he was not tolerating used of the machine",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "resolved",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "427311000124103"
+    },
+    "not tolerating": {
+      "context": "he was not tolerating used of the machine",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Uvulopalatopharyngoplasty": {
+      "context": "Procedure Performed: 1. Tonsillectomy. 2. Uvulopalatopharyngoplasty.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "27975001"
+    },
+    "Tonsillectomy": {
+      "context": "Procedure Performed: 1. Tonsillectomy. 2. Uvulopalatopharyngoplasty.",
+      "qualifier": "Procedures",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "71258009"
+    },
+    "blood loss: approximately 50 cc": {
+      "context": "Blood Loss: Approximately 50 cc.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "general endotracheal tube intubation": {
+      "context": "general endotracheal tube intubation was delivered by the Department of Anesthesia",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "112798008"
+    },
+    "IV Decadron": {
+      "context": "Of note, IV Decadron was administered during the procedure.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "116602009"
+    }
+  }
+}

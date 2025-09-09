@@ -1,0 +1,1289 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 62
+    },
+    "semanticTags": {
+      "disorder": 20,
+      "specimen": 2,
+      "morphologic abnormality": 3,
+      "procedure": 2
+    },
+    "language": {
+      "en": 62
+    },
+    "membership": {
+      "1322291000000109": 27,
+      "991411000000109": 1,
+      "1127601000000107": 20,
+      "1382531000000102": 16,
+      "999001871000000106": 1,
+      "999001741000000107": 1,
+      "900000000000497000": 27,
+      "2181221000000101": 2,
+      "999002271000000101": 44,
+      "733073007": 27,
+      "1382401000000109": 10,
+      "999003141000000107": 3
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999001871000000106": {
+      "conceptId": "999001871000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Respiratory medicine diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Respiratory medicine diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001871000000106"
+    },
+    "999001741000000107": {
+      "conceptId": "999001741000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001741000000107"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 62,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Empyema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66696003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema",
+          "lang": "en"
+        },
+        "id": "66696003"
+      }
+    },
+    {
+      "term": "Empyema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312682007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema",
+          "lang": "en"
+        },
+        "id": "312682007"
+      }
+    },
+    {
+      "term": "Acute empyema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "19365003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute empyema (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute empyema",
+          "lang": "en"
+        },
+        "id": "19365003"
+      }
+    },
+    {
+      "term": "Chronic empyema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35851005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic empyema (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic empyema",
+          "lang": "en"
+        },
+        "id": "35851005"
+      }
+    },
+    {
+      "term": "Mastoid empyema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4016003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of mastoid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of mastoid",
+          "lang": "en"
+        },
+        "id": "4016003"
+      }
+    },
+    {
+      "term": "Epidural empyema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "13691000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Epidural empyema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Epidural empyema",
+          "lang": "en"
+        },
+        "id": "13691000119103"
+      }
+    },
+    {
+      "term": "Empyema thoracis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "58554001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of pleura (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of pleura",
+          "lang": "en"
+        },
+        "id": "58554001"
+      }
+    },
+    {
+      "term": "Subdural empyema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1342321009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of subdural space (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of subdural space",
+          "lang": "en"
+        },
+        "id": "1342321009"
+      }
+    },
+    {
+      "term": "Empyema of pleura",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "58554001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of pleura (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of pleura",
+          "lang": "en"
+        },
+        "id": "58554001"
+      }
+    },
+    {
+      "term": "Loculated empyema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "196067009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Loculated empyema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Loculated empyema",
+          "lang": "en"
+        },
+        "id": "196067009"
+      }
+    },
+    {
+      "term": "Empyema of mastoid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4016003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of mastoid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of mastoid",
+          "lang": "en"
+        },
+        "id": "4016003"
+      }
+    },
+    {
+      "term": "Empyema (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312682007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema",
+          "lang": "en"
+        },
+        "id": "312682007"
+      }
+    },
+    {
+      "term": "Tuberculous empyema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14527007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tuberculous empyema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tuberculous empyema",
+          "lang": "en"
+        },
+        "id": "14527007"
+      }
+    },
+    {
+      "term": "Drainage of empyema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300018000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Drainage of empyema (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Drainage of empyema",
+          "lang": "en"
+        },
+        "id": "300018000"
+      }
+    },
+    {
+      "term": "Empyema necessitans",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30437004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema with bronchocutaneous fistula (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema with bronchocutaneous fistula",
+          "lang": "en"
+        },
+        "id": "30437004"
+      }
+    },
+    {
+      "term": "Empyema with fistula",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271503005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pleural empyema with fistula (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema with fistula",
+          "lang": "en"
+        },
+        "id": "271503005"
+      }
+    },
+    {
+      "term": "Empyema fluid sample",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "258456000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema fluid specimen (specimen)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema fluid specimen",
+          "lang": "en"
+        },
+        "id": "258456000"
+      }
+    },
+    {
+      "term": "Empyema of gallbladder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73125001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of gallbladder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of gallbladder",
+          "lang": "en"
+        },
+        "id": "73125001"
+      }
+    },
+    {
+      "term": "Empyema of nasal sinus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10633991000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of nasal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of nasal sinus",
+          "lang": "en"
+        },
+        "id": "10633991000119103"
+      }
+    },
+    {
+      "term": "Empyema fluid specimen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "258456000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema fluid specimen (specimen)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema fluid specimen",
+          "lang": "en"
+        },
+        "id": "258456000"
+      }
+    },
+    {
+      "term": "Empyema of subdural space",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1342321009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of subdural space (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of subdural space",
+          "lang": "en"
+        },
+        "id": "1342321009"
+      }
+    },
+    {
+      "term": "Tuberculous pleural empyema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14527007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tuberculous empyema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tuberculous empyema",
+          "lang": "en"
+        },
+        "id": "14527007"
+      }
+    },
+    {
+      "term": "Epidural empyema (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "13691000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Epidural empyema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Epidural empyema",
+          "lang": "en"
+        },
+        "id": "13691000119103"
+      }
+    },
+    {
+      "term": "Acute empyema of nasal sinus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "58763001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute empyema of nasal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute empyema of nasal sinus",
+          "lang": "en"
+        },
+        "id": "58763001"
+      }
+    },
+    {
+      "term": "Pleural empyema with fistula",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271503005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pleural empyema with fistula (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema with fistula",
+          "lang": "en"
+        },
+        "id": "271503005"
+      }
+    },
+    {
+      "term": "Loculated empyema (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "196067009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Loculated empyema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Loculated empyema",
+          "lang": "en"
+        },
+        "id": "196067009"
+      }
+    },
+    {
+      "term": "Empyema of pleura (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "58554001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of pleura (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of pleura",
+          "lang": "en"
+        },
+        "id": "58554001"
+      }
+    },
+    {
+      "term": "Empyema of mastoid (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4016003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of mastoid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of mastoid",
+          "lang": "en"
+        },
+        "id": "4016003"
+      }
+    },
+    {
+      "term": "Acute empyema of frontal sinus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16036000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute empyema of frontal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute empyema of frontal sinus",
+          "lang": "en"
+        },
+        "id": "16036000"
+      }
+    },
+    {
+      "term": "Tuberculous empyema (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14527007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tuberculous empyema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tuberculous empyema",
+          "lang": "en"
+        },
+        "id": "14527007"
+      }
+    },
+    {
+      "term": "Drainage of empyema (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300018000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Drainage of empyema (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Drainage of empyema",
+          "lang": "en"
+        },
+        "id": "300018000"
+      }
+    },
+    {
+      "term": "Empyema with mediastinal fistula",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50694005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema with mediastinal fistula (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema with mediastinal fistula",
+          "lang": "en"
+        },
+        "id": "50694005"
+      }
+    },
+    {
+      "term": "Acute empyema of ethmoidal sinus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35168006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute empyema of ethmoidal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute empyema of ethmoidal sinus",
+          "lang": "en"
+        },
+        "id": "35168006"
+      }
+    },
+    {
+      "term": "Acute empyema of maxillary sinus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "76653009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute empyema of maxillary sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute empyema of maxillary sinus",
+          "lang": "en"
+        },
+        "id": "76653009"
+      }
+    },
+    {
+      "term": "Acute empyema of sphenoidal sinus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27278006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute empyema of sphenoidal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute empyema of sphenoidal sinus",
+          "lang": "en"
+        },
+        "id": "27278006"
+      }
+    },
+    {
+      "term": "Empyema (morphologic abnormality)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66696003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema",
+          "lang": "en"
+        },
+        "id": "66696003"
+      }
+    },
+    {
+      "term": "Empyema of gallbladder (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73125001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of gallbladder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of gallbladder",
+          "lang": "en"
+        },
+        "id": "73125001"
+      }
+    },
+    {
+      "term": "Empyema of nasal sinus (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10633991000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of nasal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of nasal sinus",
+          "lang": "en"
+        },
+        "id": "10633991000119103"
+      }
+    },
+    {
+      "term": "Empyema fluid specimen (specimen)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "258456000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema fluid specimen (specimen)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema fluid specimen",
+          "lang": "en"
+        },
+        "id": "258456000"
+      }
+    },
+    {
+      "term": "Empyema with hepatopleural fistula",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34286007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema with hepatopleural fistula (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema with hepatopleural fistula",
+          "lang": "en"
+        },
+        "id": "34286007"
+      }
+    },
+    {
+      "term": "Empyema with bronchopleural fistula",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28085001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema with bronchopleural fistula (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema with bronchopleural fistula",
+          "lang": "en"
+        },
+        "id": "28085001"
+      }
+    },
+    {
+      "term": "Empyema of subdural space (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1342321009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema of subdural space (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema of subdural space",
+          "lang": "en"
+        },
+        "id": "1342321009"
+      }
+    },
+    {
+      "term": "Fluid specimen from subdural empyema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33891000087100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fluid specimen from empyema of subdural space (specimen)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fluid specimen from empyema of subdural space",
+          "lang": "en"
+        },
+        "id": "33891000087100"
+      }
+    },
+    {
+      "term": "Empyema with bronchocutaneous fistula",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30437004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Empyema with bronchocutaneous fistula (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema with bronchocutaneous fistula",
+          "lang": "en"
+        },
+        "id": "30437004"
+      }
+    },
+    {
+      "term": "Acute empyema (morphologic abnormality)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "19365003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute empyema (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute empyema",
+          "lang": "en"
+        },
+        "id": "19365003"
+      }
+    },
+    {
+      "term": "Pleural empyema with fistula (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271503005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pleural empyema with fistula (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Empyema with fistula",
+          "lang": "en"
+        },
+        "id": "271503005"
+      }
+    },
+    {
+      "term": "Acute empyema of nasal sinus (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "58763001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute empyema of nasal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute empyema of nasal sinus",
+          "lang": "en"
+        },
+        "id": "58763001"
+      }
+    },
+    {
+      "term": "Chronic empyema (morphologic abnormality)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35851005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic empyema (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic empyema",
+          "lang": "en"
+        },
+        "id": "35851005"
+      }
+    },
+    {
+      "term": "Acute empyema of frontal sinus (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16036000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute empyema of frontal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute empyema of frontal sinus",
+          "lang": "en"
+        },
+        "id": "16036000"
+      }
+    },
+    {
+      "term": "Acute empyema of ethmoidal sinus (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35168006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute empyema of ethmoidal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute empyema of ethmoidal sinus",
+          "lang": "en"
+        },
+        "id": "35168006"
+      }
+    }
+  ]
+}

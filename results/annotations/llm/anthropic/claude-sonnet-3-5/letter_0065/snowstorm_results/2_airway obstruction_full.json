@@ -1,0 +1,1338 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 59
+    },
+    "semanticTags": {
+      "disorder": 26,
+      "physical object": 2,
+      "procedure": 1,
+      "finding": 3,
+      "situation": 1
+    },
+    "language": {
+      "en": 59
+    },
+    "membership": {
+      "1322291000000109": 33,
+      "991411000000109": 1,
+      "1127601000000107": 30,
+      "1382531000000102": 13,
+      "999003201000000100": 2,
+      "999001871000000106": 1,
+      "2181221000000101": 1,
+      "999002271000000101": 83,
+      "999000401000000107": 2,
+      "2222161000000102": 1,
+      "900000000000497000": 33,
+      "733073007": 33,
+      "991381000000107": 1,
+      "1382401000000109": 1,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999001871000000106": {
+      "conceptId": "999001871000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Respiratory medicine diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Respiratory medicine diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001871000000106"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "991381000000107": {
+      "conceptId": "991381000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Comorbid conditions for selection simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Comorbid conditions for selection simple reference set",
+        "lang": "en"
+      },
+      "id": "991381000000107"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 59,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "No obstruction of airway",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248553004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No obstruction of airway (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No obstruction of airway",
+          "lang": "en"
+        },
+        "id": "248553004"
+      }
+    },
+    {
+      "term": "Nasal airway obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232209000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal obstruction",
+          "lang": "en"
+        },
+        "id": "232209000"
+      }
+    },
+    {
+      "term": "Total airway obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248555006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Totally obstructed airway (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Totally obstructed airway",
+          "lang": "en"
+        },
+        "id": "248555006"
+      }
+    },
+    {
+      "term": "Chronic airway obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "13645005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic obstructive pulmonary disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic obstructive pulmonary disease",
+          "lang": "en"
+        },
+        "id": "13645005"
+      }
+    },
+    {
+      "term": "Airway obstruction forceps",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "469122005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Airway obstruction forceps (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airway obstruction forceps",
+          "lang": "en"
+        },
+        "id": "469122005"
+      }
+    },
+    {
+      "term": "Airways obstruction reversible",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170627008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Airways obstruction reversible (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airways obstruction reversible",
+          "lang": "en"
+        },
+        "id": "170627008"
+      }
+    },
+    {
+      "term": "Supraglottic airway obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371035002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supraglottic airway obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supraglottic airway obstruction",
+          "lang": "en"
+        },
+        "id": "371035002"
+      }
+    },
+    {
+      "term": "Airways obstruction irreversible",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170628003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Airways obstruction irreversible (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airways obstruction irreversible",
+          "lang": "en"
+        },
+        "id": "170628003"
+      }
+    },
+    {
+      "term": "Choking due to airways obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "196168001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Choking due to airways obstruction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Choking due to airways obstruction",
+          "lang": "en"
+        },
+        "id": "196168001"
+      }
+    },
+    {
+      "term": "Bronchitis with airway obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185086009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic obstructive bronchitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Emphysematous bronchitis",
+          "lang": "en"
+        },
+        "id": "185086009"
+      }
+    },
+    {
+      "term": "Airway obstruction suction extractor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "468957003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Airway obstruction suction extractor (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airway obstruction suction extractor",
+          "lang": "en"
+        },
+        "id": "468957003"
+      }
+    },
+    {
+      "term": "No obstruction of airway (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248553004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No obstruction of airway (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No obstruction of airway",
+          "lang": "en"
+        },
+        "id": "248553004"
+      }
+    },
+    {
+      "term": "Obstruction of airway caused by food",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427251005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstruction of airway caused by food (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstruction of airway caused by food",
+          "lang": "en"
+        },
+        "id": "427251005"
+      }
+    },
+    {
+      "term": "Expiratory partial airway obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301254001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Expiratory partial airway obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Expiratory partial airway obstruction",
+          "lang": "en"
+        },
+        "id": "301254001"
+      }
+    },
+    {
+      "term": "Obstruction of airway caused by blood",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427480003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstruction of airway caused by blood (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstruction of airway caused by blood",
+          "lang": "en"
+        },
+        "id": "427480003"
+      }
+    },
+    {
+      "term": "Inspiratory partial airway obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301253007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inspiratory partial airway obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inspiratory partial airway obstruction",
+          "lang": "en"
+        },
+        "id": "301253007"
+      }
+    },
+    {
+      "term": "Obstruction of airway caused by tongue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "425227004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstruction of airway caused by tongue (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstruction of airway caused by tongue",
+          "lang": "en"
+        },
+        "id": "425227004"
+      }
+    },
+    {
+      "term": "Chronic irreversible airway obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "13645005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic obstructive pulmonary disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic obstructive pulmonary disease",
+          "lang": "en"
+        },
+        "id": "13645005"
+      }
+    },
+    {
+      "term": "Airways obstruction reversible (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170627008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Airways obstruction reversible (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airways obstruction reversible",
+          "lang": "en"
+        },
+        "id": "170627008"
+      }
+    },
+    {
+      "term": "Supraglottic airway obstruction (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371035002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supraglottic airway obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supraglottic airway obstruction",
+          "lang": "en"
+        },
+        "id": "371035002"
+      }
+    },
+    {
+      "term": "Airways obstruction irreversible (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170628003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Airways obstruction irreversible (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airways obstruction irreversible",
+          "lang": "en"
+        },
+        "id": "170628003"
+      }
+    },
+    {
+      "term": "Asthma with irreversible airway obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "401000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Asthma with irreversible airway obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Asthma with irreversible airway obstruction",
+          "lang": "en"
+        },
+        "id": "401000119107"
+      }
+    },
+    {
+      "term": "Choking due to airways obstruction (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "196168001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Choking due to airways obstruction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Choking due to airways obstruction",
+          "lang": "en"
+        },
+        "id": "196168001"
+      }
+    },
+    {
+      "term": "Airway obstruction forceps (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "469122005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Airway obstruction forceps (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airway obstruction forceps",
+          "lang": "en"
+        },
+        "id": "469122005"
+      }
+    },
+    {
+      "term": "Obstruction of airway caused by foreign body",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429491000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstruction of airway caused by foreign body (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstruction of airway caused by foreign body",
+          "lang": "en"
+        },
+        "id": "429491000"
+      }
+    },
+    {
+      "term": "Partial obstruction of airway caused by food",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428849001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial obstruction of airway caused by food (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial obstruction of airway caused by food",
+          "lang": "en"
+        },
+        "id": "428849001"
+      }
+    },
+    {
+      "term": "Post-upper airway obstruction pulmonary edema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233708003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-upper airway obstruction pulmonary edema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-upper airway obstruction pulmonary edema",
+          "lang": "en"
+        },
+        "id": "233708003"
+      }
+    },
+    {
+      "term": "Partial obstruction of airway caused by blood",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428080007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial obstruction of airway caused by blood (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial obstruction of airway caused by blood",
+          "lang": "en"
+        },
+        "id": "428080007"
+      }
+    },
+    {
+      "term": "Post-upper airway obstruction pulmonary oedema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233708003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-upper airway obstruction pulmonary edema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-upper airway obstruction pulmonary edema",
+          "lang": "en"
+        },
+        "id": "233708003"
+      }
+    },
+    {
+      "term": "Partial obstruction of airway caused by tongue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428487003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial obstruction of airway caused by tongue (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial obstruction of airway caused by tongue",
+          "lang": "en"
+        },
+        "id": "428487003"
+      }
+    },
+    {
+      "term": "Obstruction of airway caused by food (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427251005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstruction of airway caused by food (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstruction of airway caused by food",
+          "lang": "en"
+        },
+        "id": "427251005"
+      }
+    },
+    {
+      "term": "Expiratory partial airway obstruction (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301254001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Expiratory partial airway obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Expiratory partial airway obstruction",
+          "lang": "en"
+        },
+        "id": "301254001"
+      }
+    },
+    {
+      "term": "Obstruction of airway caused by blood (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427480003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstruction of airway caused by blood (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstruction of airway caused by blood",
+          "lang": "en"
+        },
+        "id": "427480003"
+      }
+    },
+    {
+      "term": "Inspiratory partial airway obstruction (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301253007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inspiratory partial airway obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inspiratory partial airway obstruction",
+          "lang": "en"
+        },
+        "id": "301253007"
+      }
+    },
+    {
+      "term": "Obstruction of airway caused by tongue (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "425227004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstruction of airway caused by tongue (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstruction of airway caused by tongue",
+          "lang": "en"
+        },
+        "id": "425227004"
+      }
+    },
+    {
+      "term": "Partial obstruction of airway caused by foreign body",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427890000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial obstruction of airway caused by foreign body (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial obstruction of airway caused by foreign body",
+          "lang": "en"
+        },
+        "id": "427890000"
+      }
+    },
+    {
+      "term": "Inspiratory and expiratory partial airway obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301255000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inspiratory and expiratory partial airway obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inspiratory and expiratory partial airway obstruction",
+          "lang": "en"
+        },
+        "id": "301255000"
+      }
+    },
+    {
+      "term": "Sleep hypoventilation due to lower airway obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "426542005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep hypoventilation due to lower airway obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep hypoventilation due to lower airway obstruction",
+          "lang": "en"
+        },
+        "id": "426542005"
+      }
+    },
+    {
+      "term": "Airway obstruction suction extractor (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "468957003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Airway obstruction suction extractor (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airway obstruction suction extractor",
+          "lang": "en"
+        },
+        "id": "468957003"
+      }
+    },
+    {
+      "term": "Asthma with irreversible airway obstruction (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "401000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Asthma with irreversible airway obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Asthma with irreversible airway obstruction",
+          "lang": "en"
+        },
+        "id": "401000119107"
+      }
+    },
+    {
+      "term": "Partial obstruction of airway caused by food (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428849001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial obstruction of airway caused by food (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial obstruction of airway caused by food",
+          "lang": "en"
+        },
+        "id": "428849001"
+      }
+    },
+    {
+      "term": "Obstruction of airway caused by foreign body (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429491000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstruction of airway caused by foreign body (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstruction of airway caused by foreign body",
+          "lang": "en"
+        },
+        "id": "429491000"
+      }
+    },
+    {
+      "term": "Post-upper airway obstruction pulmonary edema (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233708003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-upper airway obstruction pulmonary edema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-upper airway obstruction pulmonary edema",
+          "lang": "en"
+        },
+        "id": "233708003"
+      }
+    },
+    {
+      "term": "Partial obstruction of airway caused by blood (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428080007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial obstruction of airway caused by blood (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial obstruction of airway caused by blood",
+          "lang": "en"
+        },
+        "id": "428080007"
+      }
+    },
+    {
+      "term": "Partial obstruction of airway caused by tongue (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428487003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial obstruction of airway caused by tongue (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial obstruction of airway caused by tongue",
+          "lang": "en"
+        },
+        "id": "428487003"
+      }
+    },
+    {
+      "term": "Partial obstruction of airway caused by foreign body (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427890000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partial obstruction of airway caused by foreign body (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partial obstruction of airway caused by foreign body",
+          "lang": "en"
+        },
+        "id": "427890000"
+      }
+    },
+    {
+      "term": "Inspiratory and expiratory partial airway obstruction (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301255000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inspiratory and expiratory partial airway obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inspiratory and expiratory partial airway obstruction",
+          "lang": "en"
+        },
+        "id": "301255000"
+      }
+    },
+    {
+      "term": "Sleep hypoventilation due to lower airway obstruction (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "426542005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep hypoventilation due to lower airway obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep hypoventilation due to lower airway obstruction",
+          "lang": "en"
+        },
+        "id": "426542005"
+      }
+    },
+    {
+      "term": "A rare benign congenital malformation of the lymphatic system with a polypoidal, variable-sized, soft tissue mass located in the larynx. Most lesions manifest by the second year of life and depending on the size, patients may present with changes in voice, dysphagia, stridor, airway obstruction and/or respiratory distress. Cystic hygroma of the neck is frequently associated.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "763617006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital lymphangioma of larynx (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary laryngeal lymphangioma",
+          "lang": "en"
+        },
+        "id": "763617006"
+      }
+    },
+    {
+      "term": "A first aid technique to unblock the airway in cases of choking. when abdominal thrusts would be dangerous (such as in infants) or impossible (such as in pregnant women). In a chest thrust, the first-aider places a fist in the other hand, and, pressing against the lower breastbone, thrusts the chest wall inwards up to five times. The pressure simulates the coughing reflex and may expel the obstruction.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "703985001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chest thrust (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chest thrust",
+          "lang": "en"
+        },
+        "id": "703985001"
+      }
+    }
+  ]
+}

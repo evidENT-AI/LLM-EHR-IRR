@@ -1,0 +1,1190 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2,
+      "999000041000000102": 1,
+      "900000000000207008": 93
+    },
+    "semanticTags": {
+      "procedure": 36
+    },
+    "language": {
+      "en": 96
+    },
+    "membership": {
+      "1322291000000109": 36,
+      "900000000000497000": 35,
+      "733073007": 36,
+      "1382401000000109": 62
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 96,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "178283002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Block dissection of cervical lymph nodes (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Block dissection of cervical lymph nodes",
+          "lang": "en"
+        },
+        "id": "178283002"
+      }
+    },
+    {
+      "term": "Radical neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45685007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical neck dissection",
+          "lang": "en"
+        },
+        "id": "45685007"
+      }
+    },
+    {
+      "term": "Selective neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234246002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Selective neck dissection of cervical lymph nodes (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Selective neck dissection of cervical lymph nodes",
+          "lang": "en"
+        },
+        "id": "234246002"
+      }
+    },
+    {
+      "term": "Suprahyoid neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "178287001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supraomohyoid lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supraomohyoid lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "178287001"
+      }
+    },
+    {
+      "term": "Functional neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11347004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical neck dissection",
+          "lang": "en"
+        },
+        "id": "11347004"
+      }
+    },
+    {
+      "term": "Ipsilateral neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722076003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ipsilateral neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ipsilateral neck dissection",
+          "lang": "en"
+        },
+        "id": "722076003"
+      }
+    },
+    {
+      "term": "Conservative neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11347004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical neck dissection",
+          "lang": "en"
+        },
+        "id": "11347004"
+      }
+    },
+    {
+      "term": "Radical block neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45685007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical neck dissection",
+          "lang": "en"
+        },
+        "id": "45685007"
+      }
+    },
+    {
+      "term": "Contralateral neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718029003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Contralateral neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Contralateral neck dissection",
+          "lang": "en"
+        },
+        "id": "718029003"
+      }
+    },
+    {
+      "term": "RND - radical neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45685007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical neck dissection",
+          "lang": "en"
+        },
+        "id": "45685007"
+      }
+    },
+    {
+      "term": "Modified radical neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11347004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical neck dissection",
+          "lang": "en"
+        },
+        "id": "11347004"
+      }
+    },
+    {
+      "term": "Extended radical neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234245003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Extended radical neck dissection of cervical lymph nodes (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Extended radical neck dissection of cervical lymph nodes",
+          "lang": "en"
+        },
+        "id": "234245003"
+      }
+    },
+    {
+      "term": "FND - Functional neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11347004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical neck dissection",
+          "lang": "en"
+        },
+        "id": "11347004"
+      }
+    },
+    {
+      "term": "Selective neck dissection level 6",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "234249009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anterior compartment lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anterior compartment lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "234249009"
+      }
+    },
+    {
+      "term": "Bilateral central neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11231000087108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dissection of lymph nodes of bilateral sides of central compartment of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dissection of lymph nodes of bilateral sides of central compartment of neck",
+          "lang": "en"
+        },
+        "id": "11231000087108"
+      }
+    },
+    {
+      "term": "Lateral lymph nodes neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234248001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lateral lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lateral lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "234248001"
+      }
+    },
+    {
+      "term": "Radical neck dissection (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45685007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical neck dissection",
+          "lang": "en"
+        },
+        "id": "45685007"
+      }
+    },
+    {
+      "term": "Posterior lymph nodes neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373824001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Posterior lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Posterior lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "373824001"
+      }
+    },
+    {
+      "term": "Ipsilateral neck dissection (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722076003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ipsilateral neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ipsilateral neck dissection",
+          "lang": "en"
+        },
+        "id": "722076003"
+      }
+    },
+    {
+      "term": "Radical dissection of left half of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119419009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical dissection of left half of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical dissection of left half of neck",
+          "lang": "en"
+        },
+        "id": "1119419009"
+      }
+    },
+    {
+      "term": "Radical dissection of right half of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119420003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical dissection of right half of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical dissection of right half of neck",
+          "lang": "en"
+        },
+        "id": "1119420003"
+      }
+    },
+    {
+      "term": "Radical dissection of both sides of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "76056002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical dissection of bilateral sides of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical dissection of bilateral sides of neck",
+          "lang": "en"
+        },
+        "id": "76056002"
+      }
+    },
+    {
+      "term": "Supraomohyoid lymph nodes neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "178287001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supraomohyoid lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supraomohyoid lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "178287001"
+      }
+    },
+    {
+      "term": "Contralateral neck dissection (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718029003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Contralateral neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Contralateral neck dissection",
+          "lang": "en"
+        },
+        "id": "718029003"
+      }
+    },
+    {
+      "term": "Anterolateral lymph nodes neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "198341000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Anterolateral lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anterolateral lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "198341000000107"
+      }
+    },
+    {
+      "term": "Posterolateral lymph nodes neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234247006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Posterolateral lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Posterolateral lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "234247006"
+      }
+    },
+    {
+      "term": "Functional dissection of left half of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119421004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical dissection of left half of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical dissection of left half of neck",
+          "lang": "en"
+        },
+        "id": "1119421004"
+      }
+    },
+    {
+      "term": "Functional dissection of right half of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119422006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical dissection of right half of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical dissection of right half of neck",
+          "lang": "en"
+        },
+        "id": "1119422006"
+      }
+    },
+    {
+      "term": "Radical dissection of neck with laryngectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "85154003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total laryngectomy with radical neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total laryngectomy with radical neck dissection",
+          "lang": "en"
+        },
+        "id": "85154003"
+      }
+    },
+    {
+      "term": "Radical lymph node dissection of neck region",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78706005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical lymph node dissection of neck region (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical lymph node dissection of neck region",
+          "lang": "en"
+        },
+        "id": "78706005"
+      }
+    },
+    {
+      "term": "Modified radical neck dissection (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11347004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical neck dissection",
+          "lang": "en"
+        },
+        "id": "11347004"
+      }
+    },
+    {
+      "term": "Conservative dissection of left half of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119421004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical dissection of left half of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical dissection of left half of neck",
+          "lang": "en"
+        },
+        "id": "1119421004"
+      }
+    },
+    {
+      "term": "Conservative dissection of right half of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119422006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical dissection of right half of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical dissection of right half of neck",
+          "lang": "en"
+        },
+        "id": "1119422006"
+      }
+    },
+    {
+      "term": "Radical dissection of bilateral sides of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "76056002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical dissection of bilateral sides of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical dissection of bilateral sides of neck",
+          "lang": "en"
+        },
+        "id": "76056002"
+      }
+    },
+    {
+      "term": "Total laryngectomy with radical neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "85154003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total laryngectomy with radical neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total laryngectomy with radical neck dissection",
+          "lang": "en"
+        },
+        "id": "85154003"
+      }
+    },
+    {
+      "term": "Lateral lymph nodes neck dissection (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234248001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lateral lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lateral lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "234248001"
+      }
+    },
+    {
+      "term": "Anterior compartment lymph nodes neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234249009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anterior compartment lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anterior compartment lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "234249009"
+      }
+    },
+    {
+      "term": "Superior mediastinal lymph nodes neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "395169002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Superior mediastinal lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Superior mediastinal lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "395169002"
+      }
+    },
+    {
+      "term": "Modified radical dissection of left half of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119421004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical dissection of left half of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical dissection of left half of neck",
+          "lang": "en"
+        },
+        "id": "1119421004"
+      }
+    },
+    {
+      "term": "Selective neck dissection of cervical lymph nodes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234246002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Selective neck dissection of cervical lymph nodes (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Selective neck dissection of cervical lymph nodes",
+          "lang": "en"
+        },
+        "id": "234246002"
+      }
+    },
+    {
+      "term": "Posterior lymph nodes neck dissection (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373824001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Posterior lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Posterior lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "373824001"
+      }
+    },
+    {
+      "term": "Modified radical dissection of right half of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119422006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical dissection of right half of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical dissection of right half of neck",
+          "lang": "en"
+        },
+        "id": "1119422006"
+      }
+    },
+    {
+      "term": "Modified radical dissection of both sides of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "59085008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical dissection of bilateral sides of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical dissection of bilateral sides of neck",
+          "lang": "en"
+        },
+        "id": "59085008"
+      }
+    },
+    {
+      "term": "Total laryngectomy without radical neck dissection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66478002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Total laryngectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Total laryngectomy",
+          "lang": "en"
+        },
+        "id": "66478002"
+      }
+    },
+    {
+      "term": "Radical dissection of left half of neck (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119419009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical dissection of left half of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical dissection of left half of neck",
+          "lang": "en"
+        },
+        "id": "1119419009"
+      }
+    },
+    {
+      "term": "Radical dissection of right half of neck (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119420003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radical dissection of right half of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radical dissection of right half of neck",
+          "lang": "en"
+        },
+        "id": "1119420003"
+      }
+    },
+    {
+      "term": "Supraomohyoid lymph nodes neck dissection (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "178287001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supraomohyoid lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supraomohyoid lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "178287001"
+      }
+    },
+    {
+      "term": "Anterolateral lymph nodes neck dissection (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "198341000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Anterolateral lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anterolateral lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "198341000000107"
+      }
+    },
+    {
+      "term": "Posterolateral lymph nodes neck dissection (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234247006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Posterolateral lymph nodes neck dissection (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Posterolateral lymph nodes neck dissection",
+          "lang": "en"
+        },
+        "id": "234247006"
+      }
+    },
+    {
+      "term": "Modified radical dissection of bilateral sides of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "59085008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Modified radical dissection of bilateral sides of neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Modified radical dissection of bilateral sides of neck",
+          "lang": "en"
+        },
+        "id": "59085008"
+      }
+    }
+  ]
+}

@@ -1,0 +1,828 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 32
+    },
+    "semanticTags": {
+      "finding": 13
+    },
+    "language": {
+      "en": 32
+    },
+    "membership": {
+      "1322291000000109": 13,
+      "1127601000000107": 12,
+      "999002571000000104": 1,
+      "900000000000497000": 13,
+      "1128991000000109": 3,
+      "999002271000000101": 20,
+      "733073007": 13
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "last": true,
+  "totalElements": 32,
+  "totalPages": 1,
+  "first": true,
+  "numberOfElements": 32,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Vomiting food",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225586007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomiting food (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomiting food",
+          "lang": "en"
+        },
+        "id": "225586007"
+      }
+    },
+    {
+      "term": "C/O - vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272044004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Complaining of vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "C/O - vomiting",
+          "lang": "en"
+        },
+        "id": "272044004"
+      }
+    },
+    {
+      "term": "Vomiting symptom",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249497008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomiting symptom (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomiting symptom",
+          "lang": "en"
+        },
+        "id": "249497008"
+      }
+    },
+    {
+      "term": "Effortless vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249500002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Effortless vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Effortless vomiting",
+          "lang": "en"
+        },
+        "id": "249500002"
+      }
+    },
+    {
+      "term": "Finding of vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300359004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of vomiting",
+          "lang": "en"
+        },
+        "id": "300359004"
+      }
+    },
+    {
+      "term": "At risk of vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704413004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of vomiting",
+          "lang": "en"
+        },
+        "id": "704413004"
+      }
+    },
+    {
+      "term": "Diarrhea and vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249519007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diarrhea and vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diarrhea and vomiting",
+          "lang": "en"
+        },
+        "id": "249519007"
+      }
+    },
+    {
+      "term": "Diarrhoea and vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249519007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diarrhea and vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diarrhea and vomiting",
+          "lang": "en"
+        },
+        "id": "249519007"
+      }
+    },
+    {
+      "term": "Vomiting food (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225586007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomiting food (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomiting food",
+          "lang": "en"
+        },
+        "id": "225586007"
+      }
+    },
+    {
+      "term": "Observation of vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300359004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of vomiting",
+          "lang": "en"
+        },
+        "id": "300359004"
+      }
+    },
+    {
+      "term": "Complaining of vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272044004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Complaining of vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "C/O - vomiting",
+          "lang": "en"
+        },
+        "id": "272044004"
+      }
+    },
+    {
+      "term": "Fear of vomiting in public",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247811007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fear of vomiting in public (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fear of vomiting in public",
+          "lang": "en"
+        },
+        "id": "247811007"
+      }
+    },
+    {
+      "term": "Vomiting symptom (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249497008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomiting symptom (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomiting symptom",
+          "lang": "en"
+        },
+        "id": "249497008"
+      }
+    },
+    {
+      "term": "D&V - Diarrhoea and vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249519007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diarrhea and vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diarrhea and vomiting",
+          "lang": "en"
+        },
+        "id": "249519007"
+      }
+    },
+    {
+      "term": "Prone to nausea and vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415709002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tendency to nausea and vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tendency to nausea and vomiting",
+          "lang": "en"
+        },
+        "id": "415709002"
+      }
+    },
+    {
+      "term": "Effortless vomiting (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249500002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Effortless vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Effortless vomiting",
+          "lang": "en"
+        },
+        "id": "249500002"
+      }
+    },
+    {
+      "term": "Finding of vomiting (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300359004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of vomiting",
+          "lang": "en"
+        },
+        "id": "300359004"
+      }
+    },
+    {
+      "term": "At increased risk of vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704413004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of vomiting",
+          "lang": "en"
+        },
+        "id": "704413004"
+      }
+    },
+    {
+      "term": "Diarrhea and vomiting (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249519007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diarrhea and vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diarrhea and vomiting",
+          "lang": "en"
+        },
+        "id": "249519007"
+      }
+    },
+    {
+      "term": "Tendency to nausea and vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415709002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tendency to nausea and vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tendency to nausea and vomiting",
+          "lang": "en"
+        },
+        "id": "415709002"
+      }
+    },
+    {
+      "term": "Anxiety about vomiting in public",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277820005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety about vomiting in public (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety about vomiting in public",
+          "lang": "en"
+        },
+        "id": "277820005"
+      }
+    },
+    {
+      "term": "Complaining of vomiting (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272044004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Complaining of vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "C/O - vomiting",
+          "lang": "en"
+        },
+        "id": "272044004"
+      }
+    },
+    {
+      "term": "Pattern of overeating and vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248123000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pattern of overeating and vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pattern of overeating and vomiting",
+          "lang": "en"
+        },
+        "id": "248123000"
+      }
+    },
+    {
+      "term": "Fear of vomiting in public (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247811007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fear of vomiting in public (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fear of vomiting in public",
+          "lang": "en"
+        },
+        "id": "247811007"
+      }
+    },
+    {
+      "term": "At increased risk of vomiting (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704413004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of vomiting",
+          "lang": "en"
+        },
+        "id": "704413004"
+      }
+    },
+    {
+      "term": "Tendency to nausea and vomiting (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415709002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tendency to nausea and vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tendency to nausea and vomiting",
+          "lang": "en"
+        },
+        "id": "415709002"
+      }
+    },
+    {
+      "term": "Anxiety about vomiting in public (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277820005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety about vomiting in public (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety about vomiting in public",
+          "lang": "en"
+        },
+        "id": "277820005"
+      }
+    },
+    {
+      "term": "Pattern of overeating and vomiting (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248123000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pattern of overeating and vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pattern of overeating and vomiting",
+          "lang": "en"
+        },
+        "id": "248123000"
+      }
+    },
+    {
+      "term": "Vertigo, acute onset with vomiting and inability to stand",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103301009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vertigo, acute onset with vomiting and inability to stand (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vertigo, acute onset with vomiting and inability to stand",
+          "lang": "en"
+        },
+        "id": "103301009"
+      }
+    },
+    {
+      "term": "Vertigo, acute onset with vomiting and inability to stand (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103301009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vertigo, acute onset with vomiting and inability to stand (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vertigo, acute onset with vomiting and inability to stand",
+          "lang": "en"
+        },
+        "id": "103301009"
+      }
+    },
+    {
+      "term": "Abrasions and calluses on knuckles on back of hand due to self-induced vomiting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719310005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abrasions and calluses on knuckles on back of hand due to self-induced vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Russell's sign",
+          "lang": "en"
+        },
+        "id": "719310005"
+      }
+    },
+    {
+      "term": "Abrasions and calluses on knuckles on back of hand due to self-induced vomiting (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719310005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abrasions and calluses on knuckles on back of hand due to self-induced vomiting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Russell's sign",
+          "lang": "en"
+        },
+        "id": "719310005"
+      }
+    }
+  ]
+}

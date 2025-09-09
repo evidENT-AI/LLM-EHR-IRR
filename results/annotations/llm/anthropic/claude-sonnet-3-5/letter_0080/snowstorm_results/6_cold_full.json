@@ -1,0 +1,1845 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 627,
+      "999000011000000103": 26,
+      "999000041000000102": 2,
+      "900000000000207008": 554
+    },
+    "semanticTags": {
+      "regime/therapy": 4,
+      "navigational concept": 1,
+      "product": 311,
+      "occupation": 1,
+      "organism": 1,
+      "substance": 10,
+      "observable entity": 12,
+      "procedure": 38,
+      "finding": 61,
+      "physical force": 1,
+      "qualifier value": 5,
+      "disorder": 73,
+      "environment": 1,
+      "physical object": 40,
+      "morphologic abnormality": 5,
+      "event": 7
+    },
+    "language": {
+      "en": 1209
+    },
+    "membership": {
+      "1322291000000109": 531,
+      "999000551000001106": 140,
+      "999000361000001104": 9,
+      "1323331000000106": 1,
+      "2181221000000101": 2,
+      "999000421000001104": 4,
+      "999002271000000101": 222,
+      "2222231000000104": 1,
+      "154181000001101": 10,
+      "900000000000497000": 241,
+      "1382401000000109": 27,
+      "991411000000109": 4,
+      "999004341000000106": 1,
+      "1127601000000107": 134,
+      "999000601000001109": 5,
+      "999000031000001105": 302,
+      "1382531000000102": 55,
+      "999000411000001108": 2,
+      "999001871000000106": 1,
+      "999000561000001109": 20,
+      "999000541000001108": 111,
+      "1128991000000109": 1,
+      "991271000000100": 1,
+      "999000391000001108": 9,
+      "999001571000000109": 1,
+      "900000000000489007": 7,
+      "999000591000001100": 2,
+      "999000331000001107": 1,
+      "999000221000001100": 2,
+      "999000401000000107": 39,
+      "1853551000000106": 1,
+      "999000631000001100": 15,
+      "733073007": 254,
+      "226631000001102": 10,
+      "999004381000000103": 1,
+      "2170881000000102": 2,
+      "999000571000001104": 31,
+      "991381000000107": 1,
+      "999000091000001106": 2,
+      "999002881000000100": 4,
+      "30931000001101": 321,
+      "999003141000000107": 5,
+      "999001751000000105": 2
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "999000361000001104": {
+      "conceptId": "999000361000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing never valid as a virtual medicinal product rule 3 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing never valid as a virtual medicinal product rule 3 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000361000001104"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "999000421000001104": {
+      "conceptId": "999000421000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing oral solids type 1 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing oral solids type 1 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000421000001104"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2222231000000104": {
+      "conceptId": "2222231000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric safeguarding issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric safeguarding issues simple reference set",
+        "lang": "en"
+      },
+      "id": "2222231000000104"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "154181000001101": {
+      "conceptId": "154181000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Network Contract Directed Enhanced Service - oral non-steroidal anti-inflammatory drugs (NSAIDs) simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Network Contract Directed Enhanced Service - oral non-steroidal anti-inflammatory drugs (NSAIDs) simple reference set",
+        "lang": "en"
+      },
+      "id": "154181000001101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "999004341000000106": {
+      "conceptId": "999004341000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999004341000000106"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999000601000001109": {
+      "conceptId": "999000601000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices sugar free simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices sugar free simple reference set",
+        "lang": "en"
+      },
+      "id": "999000601000001109"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000411000001108": {
+      "conceptId": "999000411000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing oral liquids type 2b simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing oral liquids type 2b simple reference set",
+        "lang": "en"
+      },
+      "id": "999000411000001108"
+    },
+    "999001871000000106": {
+      "conceptId": "999001871000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Respiratory medicine diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Respiratory medicine diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001871000000106"
+    },
+    "999000561000001109": {
+      "conceptId": "999000561000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000561000001109"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "991271000000100": {
+      "conceptId": "991271000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care treatments simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care treatments simple reference set",
+        "lang": "en"
+      },
+      "id": "991271000000100"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999000391000001108": {
+      "conceptId": "999000391000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing no virtual therapeutic moiety rule 2 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing no virtual therapeutic moiety rule 2 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000391000001108"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999000591000001100": {
+      "conceptId": "999000591000001100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices parallel import simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices parallel import simple reference set",
+        "lang": "en"
+      },
+      "id": "999000591000001100"
+    },
+    "999000331000001107": {
+      "conceptId": "999000331000001107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing multi-ingredient rule 1 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing multi-ingredient rule 1 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000331000001107"
+    },
+    "999000221000001100": {
+      "conceptId": "999000221000001100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing granules and powders type 9b simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing granules and powders type 9b simple reference set",
+        "lang": "en"
+      },
+      "id": "999000221000001100"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "1853551000000106": {
+      "conceptId": "1853551000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set",
+        "lang": "en"
+      },
+      "id": "1853551000000106"
+    },
+    "999000631000001100": {
+      "conceptId": "999000631000001100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices trade family simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices trade family simple reference set",
+        "lang": "en"
+      },
+      "id": "999000631000001100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "226631000001102": {
+      "conceptId": "226631000001102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Coronavirus disease 2019 (COVID-19) general practice extraction - non-steroidal anti-inflammatory drugs (NSAIDs) simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Coronavirus disease 2019 (COVID-19) general practice extraction - non-steroidal anti-inflammatory drugs (NSAIDs) simple reference set",
+        "lang": "en"
+      },
+      "id": "226631000001102"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "2170881000000102": {
+      "conceptId": "2170881000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric allergy and immunology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric allergy and immunology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2170881000000102"
+    },
+    "991381000000107": {
+      "conceptId": "991381000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Comorbid conditions for selection simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Comorbid conditions for selection simple reference set",
+        "lang": "en"
+      },
+      "id": "991381000000107"
+    },
+    "999000571000001104": {
+      "conceptId": "999000571000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000571000001104"
+    },
+    "999000091000001106": {
+      "conceptId": "999000091000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing creams, ointments and gels type 6b simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing creams, ointments and gels type 6b simple reference set",
+        "lang": "en"
+      },
+      "id": "999000091000001106"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 1209,
+  "totalPages": 25,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Cold",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "84162001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold sensation quality (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold",
+          "lang": "en"
+        },
+        "id": "84162001"
+      }
+    },
+    {
+      "term": "Cold",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82272006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Common cold (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Common cold",
+          "lang": "en"
+        },
+        "id": "82272006"
+      }
+    },
+    {
+      "term": "Ice cold",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277749006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ice cold - sensation (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ice cold - sensation",
+          "lang": "en"
+        },
+        "id": "277749006"
+      }
+    },
+    {
+      "term": "Cold air",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "256234008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold air (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold air",
+          "lang": "en"
+        },
+        "id": "256234008"
+      }
+    },
+    {
+      "term": "Coldenza",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "9684001000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Coldenza (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Coldenza",
+          "lang": "en"
+        },
+        "id": "9684001000001105"
+      }
+    },
+    {
+      "term": "Cold pack",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "59102007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ice bag, device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ice bag",
+          "lang": "en"
+        },
+        "id": "59102007"
+      }
+    },
+    {
+      "term": "Head cold",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82272006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Common cold (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Common cold",
+          "lang": "en"
+        },
+        "id": "82272006"
+      }
+    },
+    {
+      "term": "Cold food",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228019001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold food (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold food",
+          "lang": "en"
+        },
+        "id": "228019001"
+      }
+    },
+    {
+      "term": "Cold feet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271585001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold feet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold feet",
+          "lang": "en"
+        },
+        "id": "271585001"
+      }
+    },
+    {
+      "term": "Cold foot",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309256001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold foot (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold foot",
+          "lang": "en"
+        },
+        "id": "309256001"
+      }
+    },
+    {
+      "term": "Cold sore",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1475003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Herpes labialis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Herpes labialis",
+          "lang": "en"
+        },
+        "id": "1475003"
+      }
+    },
+    {
+      "term": "Cold zone",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409547007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold zone (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold zone",
+          "lang": "en"
+        },
+        "id": "409547007"
+      }
+    },
+    {
+      "term": "Cold skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "703883009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold skin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold skin",
+          "lang": "en"
+        },
+        "id": "703883009"
+      }
+    },
+    {
+      "term": "Cold burn",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403188005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold burn (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold burn",
+          "lang": "en"
+        },
+        "id": "403188005"
+      }
+    },
+    {
+      "term": "Cold snap",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1287962003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold wave (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold wave",
+          "lang": "en"
+        },
+        "id": "1287962003"
+      }
+    },
+    {
+      "term": "Cold wave",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1287962003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold wave (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold wave",
+          "lang": "en"
+        },
+        "id": "1287962003"
+      }
+    },
+    {
+      "term": "Cold limb",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "771542000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold extremity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold extremity",
+          "lang": "en"
+        },
+        "id": "771542000"
+      }
+    },
+    {
+      "term": "Cold sores",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1475003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Herpes labialis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Herpes labialis",
+          "lang": "en"
+        },
+        "id": "1475003"
+      }
+    },
+    {
+      "term": "Cold sweat",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "83547004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold sweat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold sweat",
+          "lang": "en"
+        },
+        "id": "83547004"
+      }
+    },
+    {
+      "term": "Cold cream",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91639001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold cream (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold cream",
+          "lang": "en"
+        },
+        "id": "91639001"
+      }
+    },
+    {
+      "term": "Chest cold",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50417007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lower respiratory tract infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lower respiratory tract infection",
+          "lang": "en"
+        },
+        "id": "50417007"
+      }
+    },
+    {
+      "term": "Cold hands",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271584002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold hands (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold hands",
+          "lang": "en"
+        },
+        "id": "271584002"
+      }
+    },
+    {
+      "term": "Cold drink",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "280941009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold drink (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold drink",
+          "lang": "en"
+        },
+        "id": "280941009"
+      }
+    },
+    {
+      "term": "Joint cold",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298258006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Joint cold (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Joint cold",
+          "lang": "en"
+        },
+        "id": "298258006"
+      }
+    },
+    {
+      "term": "Cold snare",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413268009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold snare, device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold snare",
+          "lang": "en"
+        },
+        "id": "413268009"
+      }
+    },
+    {
+      "term": "Cold water",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "769351005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold water (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold water",
+          "lang": "en"
+        },
+        "id": "769351005"
+      }
+    },
+    {
+      "term": "Cold injury",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38045000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold injury (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold injury",
+          "lang": "en"
+        },
+        "id": "38045000"
+      }
+    },
+    {
+      "term": "Common cold",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82272006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Common cold (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Common cold",
+          "lang": "en"
+        },
+        "id": "82272006"
+      }
+    },
+    {
+      "term": "Breast cold",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248836003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Breast cold (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Breast cold",
+          "lang": "en"
+        },
+        "id": "248836003"
+      }
+    },
+    {
+      "term": "Cold medium",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277680009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold medium (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold medium",
+          "lang": "en"
+        },
+        "id": "277680009"
+      }
+    },
+    {
+      "term": "Cold injury",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "726523002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Injury caused by low temperature (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold injury",
+          "lang": "en"
+        },
+        "id": "726523002"
+      }
+    },
+    {
+      "term": "Cold weather",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45893009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold weather (physical force)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold weather",
+          "lang": "en"
+        },
+        "id": "45893009"
+      }
+    },
+    {
+      "term": "Cold abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79203009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic abscess (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic abscess",
+          "lang": "en"
+        },
+        "id": "79203009"
+      }
+    },
+    {
+      "term": "Cold therapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "182660006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold therapy (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold therapy",
+          "lang": "en"
+        },
+        "id": "182660006"
+      }
+    },
+    {
+      "term": "Cold pressor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50052006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold pressor test (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold pressor test",
+          "lang": "en"
+        },
+        "id": "50052006"
+      }
+    },
+    {
+      "term": "Cold exposure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40537000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Exposure to cold (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Exposure to cold",
+          "lang": "en"
+        },
+        "id": "40537000"
+      }
+    },
+    {
+      "term": "Cold erythema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82504005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold erythema (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold erythema",
+          "lang": "en"
+        },
+        "id": "82504005"
+      }
+    },
+    {
+      "term": "Feverish cold",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "135882008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Feverish cold (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Feverish cold",
+          "lang": "en"
+        },
+        "id": "135882008"
+      }
+    },
+    {
+      "term": "C/O cold feet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161998000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Complaining of cold feet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "C/O cold feet",
+          "lang": "en"
+        },
+        "id": "161998000"
+      }
+    },
+    {
+      "term": "Cold to touch",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "703883009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold skin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold skin",
+          "lang": "en"
+        },
+        "id": "703883009"
+      }
+    },
+    {
+      "term": "Cold antibody",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "399773001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold agglutinin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold agglutinin",
+          "lang": "en"
+        },
+        "id": "399773001"
+      }
+    },
+    {
+      "term": "Cold hemolysin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "112127004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold hemolysin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold hemolysin",
+          "lang": "en"
+        },
+        "id": "112127004"
+      }
+    },
+    {
+      "term": "C/O cold hands",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161997005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Complaining of cold hands (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "C/O cold hands",
+          "lang": "en"
+        },
+        "id": "161997005"
+      }
+    },
+    {
+      "term": "Cold urticaria",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "74774004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urticaria caused by cold (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urticaria caused by cold",
+          "lang": "en"
+        },
+        "id": "74774004"
+      }
+    },
+    {
+      "term": "Feels the cold",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80585000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intolerant of cold (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intolerant of cold",
+          "lang": "en"
+        },
+        "id": "80585000"
+      }
+    },
+    {
+      "term": "Cold extremity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "771542000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold extremity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold extremity",
+          "lang": "en"
+        },
+        "id": "771542000"
+      }
+    },
+    {
+      "term": "SLO Syrup Cold",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "1464321000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "SLO Syrup Cold (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "SLO Syrup Cold",
+          "lang": "en"
+        },
+        "id": "1464321000001107"
+      }
+    },
+    {
+      "term": "Cold haemolysin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "112127004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold hemolysin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold hemolysin",
+          "lang": "en"
+        },
+        "id": "112127004"
+      }
+    },
+    {
+      "term": "Cold coagulator",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "360036008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold coagulator (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold coagulator",
+          "lang": "en"
+        },
+        "id": "360036008"
+      }
+    },
+    {
+      "term": "Moist-cold pack",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "464464001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Moist-cold pack (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Moist-cold pack",
+          "lang": "en"
+        },
+        "id": "464464001"
+      }
+    }
+  ]
+}
