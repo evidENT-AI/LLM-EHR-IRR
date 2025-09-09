@@ -21,7 +21,7 @@ Requirements:
 
 Usage:
     from mongodb_export import download_mongodb_data
-    
+
     # Download all data from a specific database
     download_mongodb_data(
         connection_string="mongodb+srv://username:password@cluster.mongodb.net/dbname",
@@ -42,7 +42,7 @@ import pymongo
 def download_mongodb_data(connection_string, database_name, output_dir=None):
     """
     Download all collections from a MongoDB database and save them as JSON files.
-    
+
     Args:
         connection_string (str): MongoDB connection string
         database_name (str): Name of the database to download
@@ -88,7 +88,7 @@ def download_mongodb_data(connection_string, database_name, output_dir=None):
 
 # Example usage
 if __name__ == "__main__":
-    CONNECTION_STRING = "mongodb+srv://lbarrett16:vt9WpBoifAjZR0fM@annotations.mhup2.mongodb.net/?retryWrites=true&w=majority&appName=Annotations"
+    CONNECTION_STRING = "replace_with_your_mongo_connection_string"
     DATABASE_NAME = "clinical-annotations"
     OUTPUT_PATH = f"./nlp_ehr/results/{date.today()}"
 
