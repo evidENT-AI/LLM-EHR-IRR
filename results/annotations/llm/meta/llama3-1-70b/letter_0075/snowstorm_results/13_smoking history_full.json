@@ -1,0 +1,262 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 5
+    },
+    "semanticTags": {
+      "finding": 2,
+      "situation": 1
+    },
+    "language": {
+      "en": 5
+    },
+    "membership": {
+      "1322291000000109": 3,
+      "1127601000000107": 3,
+      "1033041000000104": 1,
+      "900000000000497000": 3,
+      "733073007": 3,
+      "999002271000000101": 3,
+      "999000891000000102": 2
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1033041000000104": {
+      "conceptId": "1033041000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Smoking status of household members findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Smoking status of household members findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1033041000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000891000000102": {
+      "conceptId": "999000891000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Smoking simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Smoking simple reference set",
+        "lang": "en"
+      },
+      "id": "999000891000000102"
+    }
+  },
+  "totalElements": 5,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 5,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Family history of smoking",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443877004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of smoking (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of smoking",
+          "lang": "en"
+        },
+        "id": "443877004"
+      }
+    },
+    {
+      "term": "Family history of smoking (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443877004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of smoking (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of smoking",
+          "lang": "en"
+        },
+        "id": "443877004"
+      }
+    },
+    {
+      "term": "Current non-smoker with past history of smoking.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8517006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-smoker",
+          "lang": "en"
+        },
+        "id": "8517006"
+      }
+    },
+    {
+      "term": "Current non smoker but past smoking history unknown",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405746006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Current non smoker but past smoking history unknown (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Current non smoker but past smoking history unknown",
+          "lang": "en"
+        },
+        "id": "405746006"
+      }
+    },
+    {
+      "term": "Current non smoker but past smoking history unknown (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405746006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Current non smoker but past smoking history unknown (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Current non smoker but past smoking history unknown",
+          "lang": "en"
+        },
+        "id": "405746006"
+      }
+    }
+  ]
+}

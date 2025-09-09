@@ -1,0 +1,392 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 3,
+      "900000000000207008": 9
+    },
+    "semanticTags": {
+      "procedure": 5
+    },
+    "language": {
+      "en": 12
+    },
+    "membership": {
+      "1322291000000109": 5,
+      "900000000000497000": 4,
+      "733073007": 5,
+      "900000000000489007": 1,
+      "1382401000000109": 7
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 12,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 12,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Argon laser iridotomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371348009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Argon laser iridotomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Argon laser iridotomy",
+          "lang": "en"
+        },
+        "id": "371348009"
+      }
+    },
+    {
+      "term": "Argon laser retinopexy",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1076511000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Fixation of retina using argon laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fixation of retina using argon laser",
+          "lang": "en"
+        },
+        "id": "1076511000000103"
+      }
+    },
+    {
+      "term": "Argon laser trabeculoplasty",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404636007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Argon laser trabeculoplasty (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Argon laser trabeculoplasty",
+          "lang": "en"
+        },
+        "id": "404636007"
+      }
+    },
+    {
+      "term": "Argon laser photocoagulation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "23541008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Argon laser photocoagulation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Argon laser photocoagulation",
+          "lang": "en"
+        },
+        "id": "23541008"
+      }
+    },
+    {
+      "term": "Argon laser iridotomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371348009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Argon laser iridotomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Argon laser iridotomy",
+          "lang": "en"
+        },
+        "id": "371348009"
+      }
+    },
+    {
+      "term": "ALT - argon laser trabeculoplasty",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404636007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Argon laser trabeculoplasty (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Argon laser trabeculoplasty",
+          "lang": "en"
+        },
+        "id": "404636007"
+      }
+    },
+    {
+      "term": "Fixation of retina using argon laser",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1076511000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Fixation of retina using argon laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fixation of retina using argon laser",
+          "lang": "en"
+        },
+        "id": "1076511000000103"
+      }
+    },
+    {
+      "term": "Argon laser trabeculoplasty (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404636007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Argon laser trabeculoplasty (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Argon laser trabeculoplasty",
+          "lang": "en"
+        },
+        "id": "404636007"
+      }
+    },
+    {
+      "term": "Argon laser photocoagulation (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "23541008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Argon laser photocoagulation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Argon laser photocoagulation",
+          "lang": "en"
+        },
+        "id": "23541008"
+      }
+    },
+    {
+      "term": "Fixation of retina using argon laser (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1076511000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Fixation of retina using argon laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fixation of retina using argon laser",
+          "lang": "en"
+        },
+        "id": "1076511000000103"
+      }
+    },
+    {
+      "term": "Phototherapeutic keratectomy using argon fluoride excimer laser",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1222582007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phototherapeutic keratectomy using argon fluoride excimer laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "PTK - phototherapeutic keratectomy",
+          "lang": "en"
+        },
+        "id": "1222582007"
+      }
+    },
+    {
+      "term": "Phototherapeutic keratectomy using argon fluoride excimer laser (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1222582007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phototherapeutic keratectomy using argon fluoride excimer laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "PTK - phototherapeutic keratectomy",
+          "lang": "en"
+        },
+        "id": "1222582007"
+      }
+    }
+  ]
+}

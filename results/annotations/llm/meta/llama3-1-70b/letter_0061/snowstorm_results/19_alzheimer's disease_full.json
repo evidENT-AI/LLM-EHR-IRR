@@ -1,0 +1,1259 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 53
+    },
+    "semanticTags": {
+      "disorder": 19,
+      "assessment scale": 1,
+      "observable entity": 1,
+      "procedure": 1,
+      "finding": 1,
+      "situation": 1
+    },
+    "language": {
+      "en": 53
+    },
+    "membership": {
+      "1322291000000109": 24,
+      "999002771000000107": 10,
+      "1127601000000107": 21,
+      "1382531000000102": 18,
+      "966251000000103": 1,
+      "900000000000497000": 24,
+      "999002051000000100": 2,
+      "999002271000000101": 55,
+      "733073007": 24,
+      "966261000000100": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999002771000000107": {
+      "conceptId": "999002771000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Dementia diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Dementia diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999002771000000107"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "966251000000103": {
+      "conceptId": "966251000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy diagnostic procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy diagnostic procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "966251000000103"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "966261000000100": {
+      "conceptId": "966261000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "966261000000100"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 53,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Alzheimer's disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "26929004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "26929004"
+      }
+    },
+    {
+      "term": "FH: Alzheimer's disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "394877006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Alzheimer's disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "394877006"
+      }
+    },
+    {
+      "term": "AD - Alzheimer's disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "26929004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "26929004"
+      }
+    },
+    {
+      "term": "Focal Alzheimer's disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230269008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Focal Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Focal Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "230269008"
+      }
+    },
+    {
+      "term": "Alzheimer's disease (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "26929004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "26929004"
+      }
+    },
+    {
+      "term": "Delusions in Alzheimer's disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "141991000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Delusions in Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Delusions in Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "141991000119109"
+      }
+    },
+    {
+      "term": "Alzheimer's disease society member",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161108005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's disease society member (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's disease society member",
+          "lang": "en"
+        },
+        "id": "161108005"
+      }
+    },
+    {
+      "term": "Alzheimer's disease with psychosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1259128002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer disease with psychosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer disease with psychosis",
+          "lang": "en"
+        },
+        "id": "1259128002"
+      }
+    },
+    {
+      "term": "Family history: Alzheimer's disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "394877006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Alzheimer's disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "394877006"
+      }
+    },
+    {
+      "term": "Alzheimer's disease with late onset",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416975007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary degenerative dementia of the Alzheimer type, senile onset",
+          "lang": "en"
+        },
+        "id": "416975007"
+      }
+    },
+    {
+      "term": "Focal Alzheimer's disease (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230269008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Focal Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Focal Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "230269008"
+      }
+    },
+    {
+      "term": "Alzheimer's disease with early onset",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416780008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary degenerative dementia of the Alzheimer type, presenile onset",
+          "lang": "en"
+        },
+        "id": "416780008"
+      }
+    },
+    {
+      "term": "Alzheimer's Disease Assessment Scale",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "273269001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's Disease Assessment Scale (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's Disease Assessment Scale",
+          "lang": "en"
+        },
+        "id": "273269001"
+      }
+    },
+    {
+      "term": "Depressed mood in Alzheimer's disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "142001000119106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Depressed mood in Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Depressed mood in Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "142001000119106"
+      }
+    },
+    {
+      "term": "Altered behavior in Alzheimer's disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "97751000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Altered behavior in Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Altered behavior in Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "97751000119108"
+      }
+    },
+    {
+      "term": "Lewy body variant of Alzheimer's disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80098002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diffuse Lewy body disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diffuse Lewy body disease",
+          "lang": "en"
+        },
+        "id": "80098002"
+      }
+    },
+    {
+      "term": "Altered behaviour in Alzheimer's disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "97751000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Altered behavior in Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Altered behavior in Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "97751000119108"
+      }
+    },
+    {
+      "term": "Dementia in Alzheimer's disease - type 1",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416975007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary degenerative dementia of the Alzheimer type, senile onset",
+          "lang": "en"
+        },
+        "id": "416975007"
+      }
+    },
+    {
+      "term": "Dementia in Alzheimer's disease - type 2",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416780008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary degenerative dementia of the Alzheimer type, presenile onset",
+          "lang": "en"
+        },
+        "id": "416780008"
+      }
+    },
+    {
+      "term": "Familial Alzheimer's disease of late onset",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230267005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial Alzheimer's disease of late onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial Alzheimer's disease of late onset",
+          "lang": "en"
+        },
+        "id": "230267005"
+      }
+    },
+    {
+      "term": "Progressive aphasia in Alzheimer's disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230280008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Progressive aphasia in Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Progressive aphasia in Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "230280008"
+      }
+    },
+    {
+      "term": "Alzheimer's Disease Assessment Scale score",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714360001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's Disease Assessment Scale score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's Disease Assessment Scale score",
+          "lang": "en"
+        },
+        "id": "714360001"
+      }
+    },
+    {
+      "term": "Logopenic non-amnestic Alzheimer's disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1263555006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Logopenic non-amnestic Alzheimer disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Logopenic non-amnestic Alzheimer disease",
+          "lang": "en"
+        },
+        "id": "1263555006"
+      }
+    },
+    {
+      "term": "Familial Alzheimer's disease of early onset",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230265002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial Alzheimer's disease of early onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial Alzheimer's disease of early onset",
+          "lang": "en"
+        },
+        "id": "230265002"
+      }
+    },
+    {
+      "term": "Delusions in Alzheimer's disease (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "141991000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Delusions in Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Delusions in Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "141991000119109"
+      }
+    },
+    {
+      "term": "ADAS - Alzheimer's Disease Assessment Scale",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "273269001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's Disease Assessment Scale (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's Disease Assessment Scale",
+          "lang": "en"
+        },
+        "id": "273269001"
+      }
+    },
+    {
+      "term": "Alzheimer's disease society member (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161108005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's disease society member (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's disease society member",
+          "lang": "en"
+        },
+        "id": "161108005"
+      }
+    },
+    {
+      "term": "Non-familial Alzheimer's disease of late onset",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230268000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-familial Alzheimer's disease of late onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-familial Alzheimer's disease of late onset",
+          "lang": "en"
+        },
+        "id": "230268000"
+      }
+    },
+    {
+      "term": "Alzheimer's disease co-occurrent with delirium",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "142011000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's disease co-occurrent with delirium (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's disease co-occurrent with delirium",
+          "lang": "en"
+        },
+        "id": "142011000119109"
+      }
+    },
+    {
+      "term": "Non-familial Alzheimer's disease of early onset",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230266001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-familial Alzheimer's disease of early onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-familial Alzheimer's disease of early onset",
+          "lang": "en"
+        },
+        "id": "230266001"
+      }
+    },
+    {
+      "term": "Family history: Alzheimer's disease (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "394877006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Alzheimer's disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "394877006"
+      }
+    },
+    {
+      "term": "Dementia in Alzheimer's disease with late onset",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416975007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary degenerative dementia of the Alzheimer type, senile onset",
+          "lang": "en"
+        },
+        "id": "416975007"
+      }
+    },
+    {
+      "term": "Dementia in Alzheimer's disease with early onset",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416780008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary degenerative dementia of the Alzheimer type, presenile onset",
+          "lang": "en"
+        },
+        "id": "416780008"
+      }
+    },
+    {
+      "term": "Depressed mood in Alzheimer's disease (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "142001000119106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Depressed mood in Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Depressed mood in Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "142001000119106"
+      }
+    },
+    {
+      "term": "ADAS (Alzheimer's Disease Assessment Scale) score",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714360001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's Disease Assessment Scale score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's Disease Assessment Scale score",
+          "lang": "en"
+        },
+        "id": "714360001"
+      }
+    },
+    {
+      "term": "Altered behavior in Alzheimer's disease (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "97751000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Altered behavior in Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Altered behavior in Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "97751000119108"
+      }
+    },
+    {
+      "term": "Familial Alzheimer's disease of late onset (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230267005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial Alzheimer's disease of late onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial Alzheimer's disease of late onset",
+          "lang": "en"
+        },
+        "id": "230267005"
+      }
+    },
+    {
+      "term": "Progressive aphasia in Alzheimer's disease (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230280008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Progressive aphasia in Alzheimer's disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Progressive aphasia in Alzheimer's disease",
+          "lang": "en"
+        },
+        "id": "230280008"
+      }
+    },
+    {
+      "term": "Assessment using Alzheimer's Disease Assessment Scale",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714359006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Assessment using Alzheimer's Disease Assessment Scale (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment using Alzheimer's Disease Assessment Scale",
+          "lang": "en"
+        },
+        "id": "714359006"
+      }
+    },
+    {
+      "term": "Familial Alzheimer's disease of early onset (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230265002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial Alzheimer's disease of early onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial Alzheimer's disease of early onset",
+          "lang": "en"
+        },
+        "id": "230265002"
+      }
+    },
+    {
+      "term": "Alzheimer's Disease Assessment Scale (assessment scale)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "273269001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's Disease Assessment Scale (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's Disease Assessment Scale",
+          "lang": "en"
+        },
+        "id": "273269001"
+      }
+    },
+    {
+      "term": "Non-familial Alzheimer's disease of late onset (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230268000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-familial Alzheimer's disease of late onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-familial Alzheimer's disease of late onset",
+          "lang": "en"
+        },
+        "id": "230268000"
+      }
+    },
+    {
+      "term": "Alzheimer's disease co-occurrent with delirium (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "142011000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's disease co-occurrent with delirium (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's disease co-occurrent with delirium",
+          "lang": "en"
+        },
+        "id": "142011000119109"
+      }
+    },
+    {
+      "term": "Non-familial Alzheimer's disease of early onset (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230266001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-familial Alzheimer's disease of early onset (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-familial Alzheimer's disease of early onset",
+          "lang": "en"
+        },
+        "id": "230266001"
+      }
+    },
+    {
+      "term": "Early onset Alzheimer's disease with behavioral disturbance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "105421000119105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early onset Alzheimer's disease with behavioral disturbance (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early onset Alzheimer's disease with behavioral disturbance",
+          "lang": "en"
+        },
+        "id": "105421000119105"
+      }
+    },
+    {
+      "term": "Early onset Alzheimer's disease with behavioural disturbance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "105421000119105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early onset Alzheimer's disease with behavioral disturbance (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early onset Alzheimer's disease with behavioral disturbance",
+          "lang": "en"
+        },
+        "id": "105421000119105"
+      }
+    },
+    {
+      "term": "Assessment using ADAS (Alzheimer's Disease Assessment Scale)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714359006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Assessment using Alzheimer's Disease Assessment Scale (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment using Alzheimer's Disease Assessment Scale",
+          "lang": "en"
+        },
+        "id": "714359006"
+      }
+    },
+    {
+      "term": "Alzheimer's Disease Assessment Scale score (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714360001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alzheimer's Disease Assessment Scale score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alzheimer's Disease Assessment Scale score",
+          "lang": "en"
+        },
+        "id": "714360001"
+      }
+    },
+    {
+      "term": "Assessment using Alzheimer's Disease Assessment Scale (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714359006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Assessment using Alzheimer's Disease Assessment Scale (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment using Alzheimer's Disease Assessment Scale",
+          "lang": "en"
+        },
+        "id": "714359006"
+      }
+    },
+    {
+      "term": "Early onset Alzheimer's disease with behavioral disturbance (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "105421000119105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early onset Alzheimer's disease with behavioral disturbance (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early onset Alzheimer's disease with behavioral disturbance",
+          "lang": "en"
+        },
+        "id": "105421000119105"
+      }
+    }
+  ]
+}

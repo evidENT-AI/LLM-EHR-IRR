@@ -1,0 +1,1519 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 2228
+    },
+    "semanticTags": {
+      "disorder": 665,
+      "organism": 6,
+      "physical object": 1,
+      "assessment scale": 1,
+      "specimen": 18,
+      "morphologic abnormality": 12,
+      "observable entity": 2,
+      "procedure": 217,
+      "finding": 3,
+      "situation": 5
+    },
+    "language": {
+      "en": 2228
+    },
+    "membership": {
+      "1322291000000109": 924,
+      "1323331000000106": 2,
+      "2181181000000106": 1,
+      "2181241000000108": 1,
+      "999002271000000101": 1081,
+      "999002971000000105": 1,
+      "999002571000000104": 4,
+      "900000000000497000": 930,
+      "999001761000000108": 2,
+      "1382401000000109": 594,
+      "991411000000109": 6,
+      "1127601000000107": 669,
+      "1382531000000102": 628,
+      "999001871000000106": 1,
+      "999001741000000107": 4,
+      "999003091000000101": 11,
+      "2181171000000109": 1,
+      "999001061000000106": 2,
+      "2222161000000102": 1,
+      "999000401000000107": 1,
+      "733073007": 930,
+      "999004381000000103": 9,
+      "2170881000000102": 1,
+      "999002941000000104": 5,
+      "2222181000000106": 4,
+      "999003141000000107": 12
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "2181241000000108": {
+      "conceptId": "2181241000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric skin and dental disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric skin and dental disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181241000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002971000000105": {
+      "conceptId": "999002971000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Podiatric therapeutic interventions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Podiatric therapeutic interventions simple reference set",
+        "lang": "en"
+      },
+      "id": "999002971000000105"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999001871000000106": {
+      "conceptId": "999001871000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Respiratory medicine diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Respiratory medicine diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001871000000106"
+    },
+    "999001741000000107": {
+      "conceptId": "999001741000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001741000000107"
+    },
+    "2181171000000109": {
+      "conceptId": "2181171000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181171000000109"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "2170881000000102": {
+      "conceptId": "2170881000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric allergy and immunology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric allergy and immunology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2170881000000102"
+    },
+    "999002941000000104": {
+      "conceptId": "999002941000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Podiatric health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Podiatric health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999002941000000104"
+    },
+    "2222181000000106": {
+      "conceptId": "2222181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric infectious disease disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric infectious disease disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222181000000106"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 2228,
+  "totalPages": 45,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "44132006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess morphology",
+          "lang": "en"
+        },
+        "id": "44132006"
+      }
+    },
+    {
+      "term": "Abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128477000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess",
+          "lang": "en"
+        },
+        "id": "128477000"
+      }
+    },
+    {
+      "term": "CNS abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "192737006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intracranial and intraspinal abscesses (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intracranial and intraspinal abscesses",
+          "lang": "en"
+        },
+        "id": "192737006"
+      }
+    },
+    {
+      "term": "Deep abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "118619002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep abscess (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep abscess",
+          "lang": "en"
+        },
+        "id": "118619002"
+      }
+    },
+    {
+      "term": "Cold abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79203009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic abscess (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic abscess",
+          "lang": "en"
+        },
+        "id": "79203009"
+      }
+    },
+    {
+      "term": "Abscess swab",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "258497007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess swab (specimen)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess swab",
+          "lang": "en"
+        },
+        "id": "258497007"
+      }
+    },
+    {
+      "term": "Loin abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301802001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Loin abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Loin abscess",
+          "lang": "en"
+        },
+        "id": "301802001"
+      }
+    },
+    {
+      "term": "Skin abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31928004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of skin and/or subcutaneous tissue (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of skin and/or subcutaneous tissue",
+          "lang": "en"
+        },
+        "id": "31928004"
+      }
+    },
+    {
+      "term": "Bone abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409778008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bone abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bone abscess",
+          "lang": "en"
+        },
+        "id": "409778008"
+      }
+    },
+    {
+      "term": "Anal abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1082661000119103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anal abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anal abscess",
+          "lang": "en"
+        },
+        "id": "1082661000119103"
+      }
+    },
+    {
+      "term": "Pons abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "838393007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of pons cerebri (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of pons cerebri",
+          "lang": "en"
+        },
+        "id": "838393007"
+      }
+    },
+    {
+      "term": "Nasal abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8414002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of nose (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of nose",
+          "lang": "en"
+        },
+        "id": "8414002"
+      }
+    },
+    {
+      "term": "Renal abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "3321001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Renal abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Renal abscess",
+          "lang": "en"
+        },
+        "id": "3321001"
+      }
+    },
+    {
+      "term": "Wound abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116208002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of wound (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of wound",
+          "lang": "en"
+        },
+        "id": "116208002"
+      }
+    },
+    {
+      "term": "Acute abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116034001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute abscess (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute abscess",
+          "lang": "en"
+        },
+        "id": "116034001"
+      }
+    },
+    {
+      "term": "Crypt abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37771006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Crypt abscess (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Crypt abscess",
+          "lang": "en"
+        },
+        "id": "37771006"
+      }
+    },
+    {
+      "term": "Wound abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238382001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wound abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wound abscess",
+          "lang": "en"
+        },
+        "id": "238382001"
+      }
+    },
+    {
+      "term": "Psoas abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "266463007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Iliopsoas abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Iliopsoas abscess",
+          "lang": "en"
+        },
+        "id": "266463007"
+      }
+    },
+    {
+      "term": "Tooth abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299709002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dental abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dental abscess",
+          "lang": "en"
+        },
+        "id": "299709002"
+      }
+    },
+    {
+      "term": "Groin abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79216009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of groin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of groin",
+          "lang": "en"
+        },
+        "id": "79216009"
+      }
+    },
+    {
+      "term": "Brain abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "441806004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of brain (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of brain",
+          "lang": "en"
+        },
+        "id": "441806004"
+      }
+    },
+    {
+      "term": "Abscess of hip",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "736004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of hip (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of hip",
+          "lang": "en"
+        },
+        "id": "736004"
+      }
+    },
+    {
+      "term": "Abscess of jaw",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16119006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of jaw (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of jaw",
+          "lang": "en"
+        },
+        "id": "16119006"
+      }
+    },
+    {
+      "term": "Abscess of toe",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111183001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of toe (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of toe",
+          "lang": "en"
+        },
+        "id": "111183001"
+      }
+    },
+    {
+      "term": "Pelvic abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111367007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pelvic abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pelvic abscess",
+          "lang": "en"
+        },
+        "id": "111367007"
+      }
+    },
+    {
+      "term": "Abscess of eye",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95679004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of eye (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of eye",
+          "lang": "en"
+        },
+        "id": "95679004"
+      }
+    },
+    {
+      "term": "Abscess cavity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46984003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess cavity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess cavity",
+          "lang": "en"
+        },
+        "id": "46984003"
+      }
+    },
+    {
+      "term": "Penile abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36029005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of penis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of penis",
+          "lang": "en"
+        },
+        "id": "36029005"
+      }
+    },
+    {
+      "term": "Abscess of lip",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82770004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of lip (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of lip",
+          "lang": "en"
+        },
+        "id": "82770004"
+      }
+    },
+    {
+      "term": "Muscle abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "203019005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Muscle abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Muscle abscess",
+          "lang": "en"
+        },
+        "id": "203019005"
+      }
+    },
+    {
+      "term": "Apical abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "196341005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Periapical abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Periapical abscess",
+          "lang": "en"
+        },
+        "id": "196341005"
+      }
+    },
+    {
+      "term": "Rectal abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "197166005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rectal abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rectal abscess",
+          "lang": "en"
+        },
+        "id": "197166005"
+      }
+    },
+    {
+      "term": "Stitch abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238383006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stitch abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stitch abscess",
+          "lang": "en"
+        },
+        "id": "238383006"
+      }
+    },
+    {
+      "term": "Abscess tissue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "258407001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess tissue (specimen)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess tissue",
+          "lang": "en"
+        },
+        "id": "258407001"
+      }
+    },
+    {
+      "term": "Dental abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299709002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dental abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dental abscess",
+          "lang": "en"
+        },
+        "id": "299709002"
+      }
+    },
+    {
+      "term": "Pulpal abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387665005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulpal abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulpal abscess",
+          "lang": "en"
+        },
+        "id": "387665005"
+      }
+    },
+    {
+      "term": "Amebic abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "721807009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess caused by Entamoeba histolytica (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess caused by Entamoeba histolytica",
+          "lang": "en"
+        },
+        "id": "721807009"
+      }
+    },
+    {
+      "term": "Spleen abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82053000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Splenic abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Splenic abscess",
+          "lang": "en"
+        },
+        "id": "82053000"
+      }
+    },
+    {
+      "term": "Brodie abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63375009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Brodie's abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Brodie's abscess",
+          "lang": "en"
+        },
+        "id": "63375009"
+      }
+    },
+    {
+      "term": "Vulval abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "69430001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of vulva (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of vulva",
+          "lang": "en"
+        },
+        "id": "69430001"
+      }
+    },
+    {
+      "term": "Vulvar abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "69430001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of vulva (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of vulva",
+          "lang": "en"
+        },
+        "id": "69430001"
+      }
+    },
+    {
+      "term": "Abscess of hand",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "3633001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of hand (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of hand",
+          "lang": "en"
+        },
+        "id": "3633001"
+      }
+    },
+    {
+      "term": "Abscess of nose",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8414002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of nose (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of nose",
+          "lang": "en"
+        },
+        "id": "8414002"
+      }
+    },
+    {
+      "term": "Abscess of knee",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "26883000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of knee (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of knee",
+          "lang": "en"
+        },
+        "id": "26883000"
+      }
+    },
+    {
+      "term": "Hepatic abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27916005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of liver (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of liver",
+          "lang": "en"
+        },
+        "id": "27916005"
+      }
+    },
+    {
+      "term": "Abscess of heel",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91541006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of heel (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of heel",
+          "lang": "en"
+        },
+        "id": "91541006"
+      }
+    },
+    {
+      "term": "Phoenix abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "109606004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phoenix abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Phoenix abscess",
+          "lang": "en"
+        },
+        "id": "109606004"
+      }
+    },
+    {
+      "term": "Abscess of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6284004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of neck (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of neck",
+          "lang": "en"
+        },
+        "id": "6284004"
+      }
+    },
+    {
+      "term": "Scleral abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50675000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Scleral abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Scleral abscess",
+          "lang": "en"
+        },
+        "id": "50675000"
+      }
+    },
+    {
+      "term": "Orbital abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39828002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abscess of orbit (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abscess of orbit",
+          "lang": "en"
+        },
+        "id": "39828002"
+      }
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2,
+      "900000000000207008": 24
+    },
+    "semanticTags": {
+      "disorder": 9,
+      "morphologic abnormality": 1,
+      "finding": 1,
+      "situation": 2
+    },
+    "language": {
+      "en": 26
+    },
+    "membership": {
+      "1322291000000109": 13,
+      "1127601000000107": 12,
+      "1382531000000102": 1,
+      "900000000000497000": 12,
+      "733073007": 13,
+      "999002271000000101": 12,
+      "999003141000000107": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 26,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 26,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Previous surgery to vagina affecting pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "76871004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Previous surgery to vagina affecting pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Previous surgery to vagina affecting pregnancy",
+          "lang": "en"
+        },
+        "id": "76871004"
+      }
+    },
+    {
+      "term": "Previous bariatric surgery complicating pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "100841000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Previous bariatric surgery complicating pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Previous bariatric surgery complicating pregnancy",
+          "lang": "en"
+        },
+        "id": "100841000119109"
+      }
+    },
+    {
+      "term": "Uterine scar from previous surgery affecting pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31821006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uterine scar from previous surgery affecting pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uterine scar from previous surgery affecting pregnancy",
+          "lang": "en"
+        },
+        "id": "31821006"
+      }
+    },
+    {
+      "term": "Fetal disorder due to previous maternal pelvic surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1263698002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal disorder due to previous maternal pelvic surgery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal disorder due to previous maternal pelvic surgery",
+          "lang": "en"
+        },
+        "id": "1263698002"
+      }
+    },
+    {
+      "term": "Fetal disorder due to previous maternal uterine surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1263700006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal disorder due to previous maternal uterine surgery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal disorder due to previous maternal uterine surgery",
+          "lang": "en"
+        },
+        "id": "1263700006"
+      }
+    },
+    {
+      "term": "Previous surgery to vagina affecting pregnancy (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "76871004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Previous surgery to vagina affecting pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Previous surgery to vagina affecting pregnancy",
+          "lang": "en"
+        },
+        "id": "76871004"
+      }
+    },
+    {
+      "term": "Previous bariatric surgery in mother complicating childbirth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10742471000119108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Previous bariatric surgery in mother complicating childbirth (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Previous bariatric surgery in mother complicating childbirth",
+          "lang": "en"
+        },
+        "id": "10742471000119108"
+      }
+    },
+    {
+      "term": "Previous bariatric surgery complicating pregnancy (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "100841000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Previous bariatric surgery complicating pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Previous bariatric surgery complicating pregnancy",
+          "lang": "en"
+        },
+        "id": "100841000119109"
+      }
+    },
+    {
+      "term": "Previous surgery to perineum AND/OR vulva affecting pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80818002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Previous surgery to perineum AND/OR vulva affecting pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Previous surgery to perineum AND/OR vulva affecting pregnancy",
+          "lang": "en"
+        },
+        "id": "80818002"
+      }
+    },
+    {
+      "term": "Early neonatal disorder due to previous maternal pelvic surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1263699005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early neonatal disorder due to previous maternal pelvic surgery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early neonatal disorder due to previous maternal pelvic surgery",
+          "lang": "en"
+        },
+        "id": "1263699005"
+      }
+    },
+    {
+      "term": "Early neonatal disorder due to previous maternal uterine surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1263701005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early neonatal disorder due to previous maternal uterine surgery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early neonatal disorder due to previous maternal uterine surgery",
+          "lang": "en"
+        },
+        "id": "1263701005"
+      }
+    },
+    {
+      "term": "Uterine scar from previous surgery affecting pregnancy (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31821006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uterine scar from previous surgery affecting pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uterine scar from previous surgery affecting pregnancy",
+          "lang": "en"
+        },
+        "id": "31821006"
+      }
+    },
+    {
+      "term": "History of previous surgery on uterine cervix, presently pregnant",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "126111000119106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of operation on cervix in currently pregnant patient (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "History of operation on cervix in currently pregnant patient",
+          "lang": "en"
+        },
+        "id": "126111000119106"
+      }
+    },
+    {
+      "term": "Fetal disorder due to previous maternal pelvic surgery (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1263698002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal disorder due to previous maternal pelvic surgery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal disorder due to previous maternal pelvic surgery",
+          "lang": "en"
+        },
+        "id": "1263698002"
+      }
+    },
+    {
+      "term": "Fetal disorder due to previous maternal uterine surgery (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1263700006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal disorder due to previous maternal uterine surgery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal disorder due to previous maternal uterine surgery",
+          "lang": "en"
+        },
+        "id": "1263700006"
+      }
+    },
+    {
+      "term": "Previous bariatric surgery in mother complicating childbirth (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10742471000119108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Previous bariatric surgery in mother complicating childbirth (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Previous bariatric surgery in mother complicating childbirth",
+          "lang": "en"
+        },
+        "id": "10742471000119108"
+      }
+    },
+    {
+      "term": "ERCP not completed due to anatomical derangements from previous surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414120003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic retrograde cholangiopancreatography not completed due to anatomical derangements from previous surgery (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ERCP not completed due to anatomical derangements from previous surgery",
+          "lang": "en"
+        },
+        "id": "414120003"
+      }
+    },
+    {
+      "term": "Previous surgery to perineum AND/OR vulva affecting pregnancy (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80818002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Previous surgery to perineum AND/OR vulva affecting pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Previous surgery to perineum AND/OR vulva affecting pregnancy",
+          "lang": "en"
+        },
+        "id": "80818002"
+      }
+    },
+    {
+      "term": "Early neonatal disorder due to previous maternal pelvic surgery (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1263699005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early neonatal disorder due to previous maternal pelvic surgery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early neonatal disorder due to previous maternal pelvic surgery",
+          "lang": "en"
+        },
+        "id": "1263699005"
+      }
+    },
+    {
+      "term": "Early neonatal disorder due to previous maternal uterine surgery (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1263701005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early neonatal disorder due to previous maternal uterine surgery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early neonatal disorder due to previous maternal uterine surgery",
+          "lang": "en"
+        },
+        "id": "1263701005"
+      }
+    },
+    {
+      "term": "A non-neoplastic lesion that occurs in response to injury, including previous surgery.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63561003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic neuroma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic neuroma",
+          "lang": "en"
+        },
+        "id": "63561003"
+      }
+    },
+    {
+      "term": "Endoscopic retrograde cholangiopancreatography not completed due to anatomical derangements from previous surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414120003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic retrograde cholangiopancreatography not completed due to anatomical derangements from previous surgery (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ERCP not completed due to anatomical derangements from previous surgery",
+          "lang": "en"
+        },
+        "id": "414120003"
+      }
+    },
+    {
+      "term": "Endoscopic retrograde cholangiopancreatography (ERCP) not completed due to anatomical derangements from previous surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414120003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic retrograde cholangiopancreatography not completed due to anatomical derangements from previous surgery (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ERCP not completed due to anatomical derangements from previous surgery",
+          "lang": "en"
+        },
+        "id": "414120003"
+      }
+    },
+    {
+      "term": "NHS abdominal aortic aneurysm screening programme initial screening incomplete, previous abdominal aortic aneurysm surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "982041000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "National Health Service abdominal aortic aneurysm screening programme initial screening incomplete, previous abdominal aortic aneurysm surgery (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "NHS abdominal aortic aneurysm screening programme initial screening incomplete, previous abdominal aortic aneurysm surgery",
+          "lang": "en"
+        },
+        "id": "982041000000108"
+      }
+    },
+    {
+      "term": "Endoscopic retrograde cholangiopancreatography not completed due to anatomical derangements from previous surgery (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414120003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic retrograde cholangiopancreatography not completed due to anatomical derangements from previous surgery (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ERCP not completed due to anatomical derangements from previous surgery",
+          "lang": "en"
+        },
+        "id": "414120003"
+      }
+    },
+    {
+      "term": "National Health Service abdominal aortic aneurysm screening programme initial screening incomplete, previous abdominal aortic aneurysm surgery (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "982041000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "National Health Service abdominal aortic aneurysm screening programme initial screening incomplete, previous abdominal aortic aneurysm surgery (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "NHS abdominal aortic aneurysm screening programme initial screening incomplete, previous abdominal aortic aneurysm surgery",
+          "lang": "en"
+        },
+        "id": "982041000000108"
+      }
+    }
+  ]
+}

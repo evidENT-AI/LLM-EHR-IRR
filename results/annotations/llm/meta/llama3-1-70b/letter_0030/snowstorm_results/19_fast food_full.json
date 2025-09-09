@@ -1,0 +1,274 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 7
+    },
+    "semanticTags": {
+      "environment": 1,
+      "substance": 1,
+      "observable entity": 2,
+      "finding": 1
+    },
+    "language": {
+      "en": 7
+    },
+    "membership": {
+      "1322291000000109": 3,
+      "1127601000000107": 1,
+      "900000000000497000": 5,
+      "733073007": 5,
+      "30931000001101": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 7,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 7,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Fast food",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "227998008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Convenience food (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Convenience food",
+          "lang": "en"
+        },
+        "id": "227998008"
+      }
+    },
+    {
+      "term": "Fast food shop",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224837006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fast food shop (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fast food shop",
+          "lang": "en"
+        },
+        "id": "224837006"
+      }
+    },
+    {
+      "term": "Fast food intake",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230112002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Convenience food intake (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Convenience food intake",
+          "lang": "en"
+        },
+        "id": "230112002"
+      }
+    },
+    {
+      "term": "Intake of fast foods.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "792872005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intake of quick service food (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Quick service food intake",
+          "lang": "en"
+        },
+        "id": "792872005"
+      }
+    },
+    {
+      "term": "Eats in fast food outlets",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162546005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Eats in fast food outlets (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eats in fast food outlets",
+          "lang": "en"
+        },
+        "id": "162546005"
+      }
+    },
+    {
+      "term": "Fast food shop (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224837006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fast food shop (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fast food shop",
+          "lang": "en"
+        },
+        "id": "224837006"
+      }
+    },
+    {
+      "term": "Eats in fast food outlets (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162546005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Eats in fast food outlets (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eats in fast food outlets",
+          "lang": "en"
+        },
+        "id": "162546005"
+      }
+    }
+  ]
+}

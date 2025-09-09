@@ -1,0 +1,694 @@
+{
+  "labels": {
+    "13 years old": {
+      "context": "Patient, 13 years old, comes to your office with his mother complaining about severe ear pain.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "severe ear pain": {
+      "context": "Patient, 13 years old, comes to your office with his mother complaining about severe ear pain.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Chronic otitis media": {
+      "context": "13 years old complaining about severe ear pain - Chronic otitis media.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "afebrile": {
+      "context": "Mom reports that patient has been afebrile with each of the earache episodes, and he has not had upper respiratory symptoms.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no upper respiratory symptoms": {
+      "context": "Mom reports that patient has been afebrile with each of the earache episodes, and he has not had upper respiratory symptoms.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal pregnancy": {
+      "context": "Patient's mother reports a normal pregnancy with no complications, having received prenatal care from 12 weeks.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "vaginal delivery": {
+      "context": "Vaginal delivery was uneventful with a normal perinatal course.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal developmental milestones": {
+      "context": "Patient sat alone at 6 months, crawled at 9 months, and walked at 13 months. His verbal and motor developmental milestones were as expected.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "hypertension": {
+      "context": "His Dad has hypertension and has frequent heartburn symptoms that he treats with over-the-counter (OTC) medications.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "heartburn": {
+      "context": "His Dad has hypertension and has frequent heartburn symptoms that he treats with over-the-counter (OTC) medications.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "asthma": {
+      "context": "Mom is healthy and has asthma.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "knee laceration": {
+      "context": "He had one emergency room visit 2 years ago for a knee laceration.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "otitis media": {
+      "context": "He has been healthy except for the past year when he had two episodes of otitis media not associated with respiratory infections.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "amoxicillin": {
+      "context": "He received antibiotic therapy (amoxicillin) for the otitis media and both episodes resolved without problems.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Pepcid AE": {
+      "context": "Patient admits that he has been taking his dad's OTC Pepcid AE sometimes when he gets heartburn.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "sore throats": {
+      "context": "He does complain of sore throats sometimes and often feels burning in his throat when he goes to sleep at night after a late evening snack.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "burning in throat": {
+      "context": "He does complain of sore throats sometimes and often feels burning in his throat when he goes to sleep at night after a late evening snack.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "cereal bars or pop tarts with milk": {
+      "context": "Patient eats cereal bars or pop tarts with milk for breakfast most days.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "sandwich and chips or yogurt and fruit": {
+      "context": "He takes his lunch (usually a sandwich and chips or yogurt and fruit) for lunch.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "fast food": {
+      "context": "The family goes out to eat once or twice a week and he only gets \"fast food\" once or twice a week according to his Mom.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "height/weight": {
+      "context": "Height/weight: Patient weighs 109 pounds (60th percentile) and is 69 inches tall (93rd percentile).",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "BP 110/60": {
+      "context": "Vital signs: BP 110/60, T 99.2, HR 70, R 16.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "T 99.2": {
+      "context": "Vital signs: BP 110/60, T 99.2, HR 70, R 16.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "HR 70": {
+      "context": "Vital signs: BP 110/60, T 99.2, HR 70, R 16.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "R 16": {
+      "context": "Vital signs: BP 110/60, T 99.2, HR 70, R 16.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "alert": {
+      "context": "General: Alert, cooperative but a bit shy.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "cooperative": {
+      "context": "General: Alert, cooperative but a bit shy.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "shy": {
+      "context": "General: Alert, cooperative but a bit shy.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "DTRs symmetric": {
+      "context": "Neuro: DTRs symmetric, 2+, negative Romberg, able to perform simple calculations without difficulty, short-term memory intact.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "negative Romberg": {
+      "context": "Neuro: DTRs symmetric, 2+, negative Romberg, able to perform simple calculations without difficulty, short-term memory intact.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "short-term memory intact": {
+      "context": "Neuro: DTRs symmetric, 2+, negative Romberg, able to perform simple calculations without difficulty, short-term memory intact.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normocephalic": {
+      "context": "HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "PEERLA": {
+      "context": "HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "red reflex present": {
+      "context": "HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "optic disk and ocular vessels normal": {
+      "context": "HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "TMs deep red": {
+      "context": "HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal. TMs deep red, dull, landmarks obscured, full bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "dull": {
+      "context": "HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal. TMs deep red, dull, landmarks obscured, full bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "landmarks obscured": {
+      "context": "HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal. TMs deep red, dull, landmarks obscured, full bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "full bilaterally": {
+      "context": "HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal. TMs deep red, dull, landmarks obscured, full bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "post auricular and submandibular nodes on left are palpable and slightly tender": {
+      "context": "HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal. TMs deep red, dull, landmarks obscured, full bilaterally. Post auricular and submandibular nodes on left are palpable and slightly tender.",
+      "qualifier": "Signs",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "CTA": {
+      "context": "Lungs: CTA, breath sounds equal bilaterally, excursion and chest configuration normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "breath sounds equal bilaterally": {
+      "context": "Lungs: CTA, breath sounds equal bilaterally, excursion and chest configuration normal.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "excursion and chest configuration normal": {
+      "context": "Lungs: CTA, breath sounds equal bilaterally, excursion and chest configuration normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "S1, S2 split": {
+      "context": "Cardiac: S1, S2 split, no murmurs, pulses equal bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no murmurs": {
+      "context": "Cardiac: S1, S2 split, no murmurs, pulses equal bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "pulses equal bilaterally": {
+      "context": "Cardiac: S1, S2 split, no murmurs, pulses equal bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "soft, rounded": {
+      "context": "Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no epigastric tenderness": {
+      "context": "Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "heartburn begins in epigastric area and rises to throat": {
+      "context": "Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "bowel sounds active in all quadrants": {
+      "context": "Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat. Bowel sounds active in all quadrants.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no hepatosplenomegaly or tenderness": {
+      "context": "Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat. Bowel sounds active in all quadrants. No hepatosplenomegaly or tenderness.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no CVA tenderness": {
+      "context": "Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat. Bowel sounds active in all quadrants. No hepatosplenomegaly or tenderness. No CVA tenderness.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "full range of motion": {
+      "context": "Musculoskeletal: Full range of motion, all extremities.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "all extremities": {
+      "context": "Musculoskeletal: Full range of motion, all extremities.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "spine straight": {
+      "context": "Musculoskeletal: Full range of motion, all extremities. Spine straight, able to perform jumping jacks and duck walk without difficulty.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "able to perform jumping jacks and duck walk without difficulty": {
+      "context": "Musculoskeletal: Full range of motion, all extremities. Spine straight, able to perform jumping jacks and duck walk without difficulty.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal male": {
+      "context": "Genital: Normal male, Tanner stage 4.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Tanner stage 4": {
+      "context": "Genital: Normal male, Tanner stage 4.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "small amount of soft stool": {
+      "context": "Rectal exam - small amount of soft stool, no fissures or masses.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no fissures or masses": {
+      "context": "Rectal exam - small amount of soft stool, no fissures or masses.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "stool negative for blood and H. pylori antigen": {
+      "context": "Labs: Stool negative for blood and H. pylori antigen.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal CBC and urinalysis": {
+      "context": "Labs: Normal CBC and urinalysis.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "marked GE reflux": {
+      "context": "A barium swallow and upper GI was scheduled for the following week. It showed marked GE reflux.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "chronic otitis media/treatment failure": {
+      "context": "The differential diagnoses for patient included (a) chronic otitis media/treatment failure, (b) peptic ulcer disease/gastritis, (c) gastro esophageal reflux disease (GERD) or carbonated beverage syndrome, (d) trauma.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "peptic ulcer disease/gastritis": {
+      "context": "The differential diagnoses for patient included (a) chronic otitis media/treatment failure, (b) peptic ulcer disease/gastritis, (c) gastro esophageal reflux disease (GERD) or carbonated beverage syndrome, (d) trauma.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "gastro esophageal reflux disease (GERD) or carbonated beverage syndrome": {
+      "context": "The differential diagnoses for patient included (a) chronic otitis media/treatment failure, (b) peptic ulcer disease/gastritis, (c) gastro esophageal reflux disease (GERD) or carbonated beverage syndrome, (d) trauma.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "trauma": {
+      "context": "The differential diagnoses for patient included (a) chronic otitis media/treatment failure, (b) peptic ulcer disease/gastritis, (c) gastro esophageal reflux disease (GERD) or carbonated beverage syndrome, (d) trauma.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "omeprazole 20 mg at bedtime": {
+      "context": "Patient and his Mom agreed to a trial of omeprazole 20 mg at bedtime for 2 weeks.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Augmentin": {
+      "context": "He was also given a prescription for 10 days of Augmentin99 and a follow-up appointment for 2 weeks.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    }
+  }
+}

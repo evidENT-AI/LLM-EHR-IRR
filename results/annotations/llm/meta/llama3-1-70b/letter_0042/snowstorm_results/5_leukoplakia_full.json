@@ -1,0 +1,1256 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 93
+    },
+    "semanticTags": {
+      "disorder": 38,
+      "morphologic abnormality": 1,
+      "procedure": 1
+    },
+    "language": {
+      "en": 93
+    },
+    "membership": {
+      "1322291000000109": 40,
+      "1127601000000107": 38,
+      "1382531000000102": 3,
+      "900000000000497000": 40,
+      "999003091000000101": 2,
+      "999002271000000101": 56,
+      "733073007": 40,
+      "999004381000000103": 5,
+      "1382401000000109": 4,
+      "999003141000000107": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 93,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50978000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia",
+          "lang": "en"
+        },
+        "id": "50978000"
+      }
+    },
+    {
+      "term": "Leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274134003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia",
+          "lang": "en"
+        },
+        "id": "274134003"
+      }
+    },
+    {
+      "term": "Leukoplakia of lips",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "17531008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of lips (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of lips",
+          "lang": "en"
+        },
+        "id": "17531008"
+      }
+    },
+    {
+      "term": "Leukoplakia of anus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235743004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of anus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of anus",
+          "lang": "en"
+        },
+        "id": "235743004"
+      }
+    },
+    {
+      "term": "Candida leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402997002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic plaque-like oral candidosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic plaque-like oral candidiasis",
+          "lang": "en"
+        },
+        "id": "402997002"
+      }
+    },
+    {
+      "term": "Leukoplakia of penis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "3323003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of penis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of penis",
+          "lang": "en"
+        },
+        "id": "3323003"
+      }
+    },
+    {
+      "term": "Leukoplakia of vulva",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "198380007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of vulva (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of vulva",
+          "lang": "en"
+        },
+        "id": "198380007"
+      }
+    },
+    {
+      "term": "Candidal leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235072005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic hyperplastic candidiasis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic hyperplastic candidiasis",
+          "lang": "en"
+        },
+        "id": "235072005"
+      }
+    },
+    {
+      "term": "Leukoplakia of tongue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91002001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of tongue (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of tongue",
+          "lang": "en"
+        },
+        "id": "91002001"
+      }
+    },
+    {
+      "term": "Leukoplakia of vagina",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111420009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of vagina (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of vagina",
+          "lang": "en"
+        },
+        "id": "111420009"
+      }
+    },
+    {
+      "term": "Leukoplakia of cervix",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50923006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of cervix (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of cervix",
+          "lang": "en"
+        },
+        "id": "50923006"
+      }
+    },
+    {
+      "term": "Leukoplakia of larynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73659001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of larynx (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of larynx",
+          "lang": "en"
+        },
+        "id": "73659001"
+      }
+    },
+    {
+      "term": "Papillary leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235031008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Verrucous oral leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Verrucous oral leukoplakia",
+          "lang": "en"
+        },
+        "id": "235031008"
+      }
+    },
+    {
+      "term": "Laryngeal leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73659001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of larynx (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of larynx",
+          "lang": "en"
+        },
+        "id": "73659001"
+      }
+    },
+    {
+      "term": "Leukoplakia of gingiva",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "32236000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of gingiva (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of gingiva",
+          "lang": "en"
+        },
+        "id": "32236000"
+      }
+    },
+    {
+      "term": "Leukoplakia of bladder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236631000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of urinary bladder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of urinary bladder",
+          "lang": "en"
+        },
+        "id": "236631000"
+      }
+    },
+    {
+      "term": "Leukoplakia (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274134003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia",
+          "lang": "en"
+        },
+        "id": "274134003"
+      }
+    },
+    {
+      "term": "Vocal cord leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71086005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of vocal cords (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of vocal cords",
+          "lang": "en"
+        },
+        "id": "71086005"
+      }
+    },
+    {
+      "term": "Leukoplakia of glottis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71086005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of vocal cords (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of vocal cords",
+          "lang": "en"
+        },
+        "id": "71086005"
+      }
+    },
+    {
+      "term": "Oral hairy leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414952002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral hairy leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral hairy leukoplakia",
+          "lang": "en"
+        },
+        "id": "414952002"
+      }
+    },
+    {
+      "term": "Verruciform leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235031008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Verrucous oral leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Verrucous oral leukoplakia",
+          "lang": "en"
+        },
+        "id": "235031008"
+      }
+    },
+    {
+      "term": "Leukoplakia of esophagus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "89057003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of esophagus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of esophagus",
+          "lang": "en"
+        },
+        "id": "89057003"
+      }
+    },
+    {
+      "term": "Male genital leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95591004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of male genital organs (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of male genital organs",
+          "lang": "en"
+        },
+        "id": "95591004"
+      }
+    },
+    {
+      "term": "Speckled oral leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235029004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Speckled oral leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Speckled oral leukoplakia",
+          "lang": "en"
+        },
+        "id": "235029004"
+      }
+    },
+    {
+      "term": "Female genital leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95597000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of female genital organs (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of female genital organs",
+          "lang": "en"
+        },
+        "id": "95597000"
+      }
+    },
+    {
+      "term": "Leukoplakia of vocal cords",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71086005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of vocal cords (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of vocal cords",
+          "lang": "en"
+        },
+        "id": "71086005"
+      }
+    },
+    {
+      "term": "Ulcerated oral leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235028007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ulcerated oral leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ulcerated oral leukoplakia",
+          "lang": "en"
+        },
+        "id": "235028007"
+      }
+    },
+    {
+      "term": "Verrucous oral leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235031008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Verrucous oral leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Verrucous oral leukoplakia",
+          "lang": "en"
+        },
+        "id": "235031008"
+      }
+    },
+    {
+      "term": "Interarytenoid leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249446000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Interarytenoid leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Interarytenoid leukoplakia",
+          "lang": "en"
+        },
+        "id": "249446000"
+      }
+    },
+    {
+      "term": "Leukoplakia of oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414603003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of oral mucosa (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of oral mucosa",
+          "lang": "en"
+        },
+        "id": "414603003"
+      }
+    },
+    {
+      "term": "Homogenous oral leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235027002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Homogenous oral leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Homogenous oral leukoplakia",
+          "lang": "en"
+        },
+        "id": "235027002"
+      }
+    },
+    {
+      "term": "Dysplastic oral leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235030009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dysplastic oral leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dysplastic oral leukoplakia",
+          "lang": "en"
+        },
+        "id": "235030009"
+      }
+    },
+    {
+      "term": "Syphilitic oral leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235032001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Syphilitic oral leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Syphilitic oral leukoplakia",
+          "lang": "en"
+        },
+        "id": "235032001"
+      }
+    },
+    {
+      "term": "Hairy leukoplakia of tongue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414375004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hairy leukoplakia of tongue (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hairy leukoplakia of tongue",
+          "lang": "en"
+        },
+        "id": "414375004"
+      }
+    },
+    {
+      "term": "Leukoplakia of buccal mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "196568006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of buccal mucosa (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of buccal mucosa",
+          "lang": "en"
+        },
+        "id": "196568006"
+      }
+    },
+    {
+      "term": "OHL - Oral hairy leukoplakia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414952002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral hairy leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral hairy leukoplakia",
+          "lang": "en"
+        },
+        "id": "414952002"
+      }
+    },
+    {
+      "term": "Leukoplakia of lips (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "17531008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of lips (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of lips",
+          "lang": "en"
+        },
+        "id": "17531008"
+      }
+    },
+    {
+      "term": "Leukoplakia of anus (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235743004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of anus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of anus",
+          "lang": "en"
+        },
+        "id": "235743004"
+      }
+    },
+    {
+      "term": "Leukoplakia of urinary bladder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236631000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of urinary bladder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of urinary bladder",
+          "lang": "en"
+        },
+        "id": "236631000"
+      }
+    },
+    {
+      "term": "Leukoplakia of penis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "3323003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of penis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of penis",
+          "lang": "en"
+        },
+        "id": "3323003"
+      }
+    },
+    {
+      "term": "Leukoplakia of vulva (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "198380007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of vulva (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of vulva",
+          "lang": "en"
+        },
+        "id": "198380007"
+      }
+    },
+    {
+      "term": "Leukoplakia of vagina (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111420009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of vagina (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of vagina",
+          "lang": "en"
+        },
+        "id": "111420009"
+      }
+    },
+    {
+      "term": "Leukoplakia of cervix (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50923006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of cervix (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of cervix",
+          "lang": "en"
+        },
+        "id": "50923006"
+      }
+    },
+    {
+      "term": "Leukoplakia of larynx (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73659001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of larynx (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of larynx",
+          "lang": "en"
+        },
+        "id": "73659001"
+      }
+    },
+    {
+      "term": "Leukoplakia of tongue (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91002001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of tongue (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of tongue",
+          "lang": "en"
+        },
+        "id": "91002001"
+      }
+    },
+    {
+      "term": "Syphilitic leukoplakia of tongue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402950003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Syphilitic leukoplakia of tongue (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Syphilitic leukoplakia of tongue",
+          "lang": "en"
+        },
+        "id": "402950003"
+      }
+    },
+    {
+      "term": "Leukoplakia of gingiva (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "32236000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of gingiva (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of gingiva",
+          "lang": "en"
+        },
+        "id": "32236000"
+      }
+    },
+    {
+      "term": "Oral hairy leukoplakia (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414952002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral hairy leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral hairy leukoplakia",
+          "lang": "en"
+        },
+        "id": "414952002"
+      }
+    },
+    {
+      "term": "Leukoplakia of male genital organs",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95591004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Leukoplakia of male genital organs (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leukoplakia of male genital organs",
+          "lang": "en"
+        },
+        "id": "95591004"
+      }
+    },
+    {
+      "term": "Nodular leukoplakia of oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235029004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Speckled oral leukoplakia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Speckled oral leukoplakia",
+          "lang": "en"
+        },
+        "id": "235029004"
+      }
+    }
+  ]
+}

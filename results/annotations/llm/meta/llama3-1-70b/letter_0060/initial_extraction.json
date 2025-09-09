@@ -1,0 +1,444 @@
+{
+  "labels": {
+    "10-month-old male": {
+      "context": "The patient is a 10-month-old male who was seen in the office 1 day prior to admission.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "fever": {
+      "context": "Discharge Diagnoses: 2. Fever.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "386661006"
+    },
+    "intermittent cough": {
+      "context": "He has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "247472004"
+    },
+    "nasal congestion": {
+      "context": "He has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "247472004"
+    },
+    "rhinorrhea": {
+      "context": "He has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "247472004"
+    },
+    "no history of rashes": {
+      "context": "He has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Tylenol and Advil": {
+      "context": "He has been taking Tylenol and Advil to help decrease the fevers, but the fever has continued to rise.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "increased workup of breathing": {
+      "context": "He was noted to have some increased workup of breathing and parents returned to the office on the day of admission.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "moderately ill appearing and lethargic": {
+      "context": "On exam, he was moderately ill appearing and lethargic.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "atraumatic, normocephalic": {
+      "context": "HEENT: Atraumatic, normocephalic.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "pupils are equal, round, and reactive to light": {
+      "context": "Pupils are equal, round, and reactive to light.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "tympanic membranes were red and yellow, and opaque bilaterally": {
+      "context": "Tympanic membranes were red and yellow, and opaque bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "nares were patent": {
+      "context": "Nares were patent.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "oropharynx was slightly moist and pink": {
+      "context": "Oropharynx was slightly moist and pink.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "neck was soft and supple without masses": {
+      "context": "Neck was soft and supple without masses.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "heart is regular rate and rhythm without murmurs": {
+      "context": "Heart is regular rate and rhythm without murmurs.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "lungs showed increased workup of breathing, moderate tachypnea": {
+      "context": "Lungs showed increased workup of breathing, moderate tachypnea.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "no rales, rhonchi or wheezes were noted": {
+      "context": "No rales, rhonchi or wheezes were noted.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "abdomen: Soft, nontender, nondistended": {
+      "context": "Abdomen: Soft, nontender, nondistended.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "active bowel sounds": {
+      "context": "Active bowel sounds.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "good muscle strength, normal tone": {
+      "context": "Neurologic exam showed good muscle strength, normal tone.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "cranial nerves II through XII are grossly intact": {
+      "context": "Cranial nerves II through XII are grossly intact.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "electrolytes, BUN and creatinine, and glucose all of which were within normal limits": {
+      "context": "He had electrolytes, BUN and creatinine, and glucose all of which were within normal limits.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "white blood cell count was 8.6 with 61% neutrophils, 21% lymphocytes, 17% monocytes, suggestive of a viral infection": {
+      "context": "White blood cell count was 8.6 with 61% neutrophils, 21% lymphocytes, 17% monocytes, suggestive of a viral infection.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "urinalysis was completely unremarkable": {
+      "context": "Urinalysis was completely unremarkable.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "chest x-ray showed a suboptimal inspiration, but no evidence of an acute process in the chest": {
+      "context": "Chest x-ray showed a suboptimal inspiration, but no evidence of an acute process in the chest.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "clear liquid diet": {
+      "context": "The patient was admitted to the hospital and allowed a clear liquid diet.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "activity is as tolerates": {
+      "context": "Activity is as tolerates.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "CBC with differential, blood culture, electrolytes, BUN, and creatinine, glucose, UA, and urine culture all were ordered": {
+      "context": "CBC with differential, blood culture, electrolytes, BUN, and creatinine, glucose, UA, and urine culture all were ordered.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "chest x-ray was ordered as well with 2 views to evaluate for a possible pneumonia": {
+      "context": "Chest x-ray was ordered as well with 2 views to evaluate for a possible pneumonia.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "pulse oximetry checks were ordered every shift and as needed with O2 ordered per nasal cannula if O2 saturations were less that 94%": {
+      "context": "Pulse oximetry checks were ordered every shift and as needed with O2 ordered per nasal cannula if O2 saturations were less that 94%.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "D5 and quarter of normal saline at 45 mL per hour, which was just slightly above maintenance rate to help with hydration": {
+      "context": "Gave D5 and quarter of normal saline at 45 mL per hour, which was just slightly above maintenance rate to help with hydration.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "ceftriaxone 500 mg IV once daily to treat otitis media and possible sepsis": {
+      "context": "He was given ceftriaxone 500 mg IV once daily to treat otitis media and possible sepsis.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Tylenol and ibuprofen as needed for fevers": {
+      "context": "I will add Tylenol and ibuprofen as needed for fevers.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "oxygen saturations drop and went into oxygen overnight": {
+      "context": "Overnight, he did have his oxygen saturations drop and went into oxygen overnight.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "albuterol aerosols every 6 hours to help maintain good lung function": {
+      "context": "We instituted albuterol aerosols every 6 hours to help maintain good lung function.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "attempt to wean O2 if possible and advance the diet": {
+      "context": "The nurses were instructed to attempt to wean O2 if possible and advance the diet.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "saline locked to help to accommodate improve the mobility with the patient": {
+      "context": "He was doing clear liquids well and so I saline locked to help to accommodate improve the mobility with the patient.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "100% oxygen saturations on room air with no further dips at night": {
+      "context": "He was at 100% oxygen saturations on room air with no further dips at night.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "afebrile and was having no further increased work of breathing": {
+      "context": "He has become afebrile and was having no further increased work of breathing.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "bilateral otitis media": {
+      "context": "Discharge Diagnoses: 1. Bilateral otitis media.",
+      "qualifier": "Diagnoses",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "recommended discharge": {
+      "context": "Recommended discharge.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "no restrictions in diet or activity": {
+      "context": "No restrictions in diet or activity.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Omnicef 125 mg/5 mL one teaspoon p.o. once daily": {
+      "context": "He was continued Omnicef 125 mg/5 mL one teaspoon p.o. once daily.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    }
+  }
+}
