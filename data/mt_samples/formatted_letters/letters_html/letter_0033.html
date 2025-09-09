@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ENT Consult</title>
+    <style>
+    /* Base settings */
+:root {
+    --text-primary: #000000;
+    --text-secondary: #333333;
+    --background: #ffffff;
+    --border-color: #e0e0e0;
+    --code-background: #f5f5f5;
+}
+
+/* Reset margins and set base font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Document basics */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background: var(--background);
+    padding: 0;
+    font-size: 12pt;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+    break-after: avoid-page;
+    color: var(--text-primary);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 20pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+h5 { font-size: 12pt; }
+h6 { font-size: 11pt; }
+
+/* Paragraphs and spacing */
+p {
+    margin-bottom: 1em;
+    orphans: 3;
+    widows: 3;
+}
+
+/* Lists */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* Code blocks with Solarized Light theme */
+pre, code {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    background: #fdf6e3;  /* Solarized Light base3 */
+    border: 1px solid #eee8d5;  /* Solarized Light base2 */
+    border-radius: 6px;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+pre {
+    padding: 1em;
+    margin: 1em 0;
+    overflow-x: auto;
+    font-size: 10pt;
+    color: #657b83;  /* Solarized Light base00 */
+    line-height: 1.5;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 0.9em;
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+/* Syntax highlighting for Solarized Light */
+.keyword {
+    color: #859900;  /* Solarized Light green */
+    font-weight: bold;
+}
+
+.string {
+    color: #2aa198;  /* Solarized Light cyan */
+}
+
+.comment {
+    color: #93a1a1;  /* Solarized Light base1 */
+    font-style: italic;
+}
+
+.function {
+    color: #268bd2;  /* Solarized Light blue */
+}
+
+.class {
+    color: #b58900;  /* Solarized Light yellow */
+    font-weight: bold;
+}
+
+.variable {
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+.operator {
+    color: #6c71c4;  /* Solarized Light violet */
+}
+
+.number {
+    color: #cb4b16;  /* Solarized Light orange */
+}
+
+.decorator {
+    color: #dc322f;  /* Solarized Light red */
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+    font-size: 0.9em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #f6f8fa;  /* GitHub table header background */
+}
+
+th {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;  /* GitHub border color */
+    padding: 0.75em 1em;
+    font-weight: 600;
+    color: #24292f;  /* GitHub header text color */
+    text-align: left;
+}
+
+td {
+    border: 1px solid #d0d7de;
+    padding: 0.75em 1em;
+    color: #24292f;  /* GitHub cell text color */
+}
+
+/* Zebra striping for better readability */
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f6f8fa;
+}
+
+/* Hover effect */
+tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+/* Blockquotes - GitHub style */
+blockquote {
+    margin: 1em 0;
+    padding: 0.75em 1em;
+    border-left: 4px solid #d0d7de;  /* GitHub blockquote border */
+    background-color: #f6f8fa;  /* GitHub blockquote background */
+    color: #57606a;  /* GitHub blockquote text color */
+    border-radius: 6px;
+}
+
+blockquote p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+blockquote strong {
+    color: #24292f;
+}
+
+/* Add some spacing for nested blockquotes */
+blockquote blockquote {
+    margin-left: 1em;
+    margin-right: 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+    break-before: page;
+    display: block;
+    height: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Print-specific styles */
+@page {
+    margin: 4cm 2.5cm;
+    size: A4;
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+    
+    pre, code {
+        border: 1px solid var(--border-color);
+    }
+    
+    .page-break {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+        border: none;
+        visibility: hidden;
+    }
+}
+
+/* Figures and captions */
+figure {
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+    </style>
+</head>
+<body>
+    <h1>ENT Consult</h1>
+    <h2>Description</h2>
+<p>Persistent dysphagia. Deviated nasal septum. Inferior turbinate hypertrophy. Chronic rhinitis. Conductive hearing loss. Tympanosclerosis.   (Medical Transcription Sample Report)</p>
+<h2>History</h2>
+<p>The patient is a 51-year-old female that was seen in consultation at the request of Dr. X on 06/04/2008 regarding chronic nasal congestion, difficulty with swallowing, and hearing loss. The patient reports that she has been having history of recurrent sinus infection, averages about three times per year. During the time that she gets the sinus infections, she has nasal congestion, nasal drainage, and also generally develops an ear infection as well. The patient does note that she has been having hearing loss. This is particular prominent in the right ear now for the past three to four years. She does note popping after blowing the nose. Occasionally, the hearing will improve and then it plugs back up again. She seems to be plugged within the nasal passage, more on the right side than the left and this seems to be year round issue with her. She tried Flonase nasal spray to see if this help with this and has been taking it, but has not seen a dramatic improvement. She has had a history of swallowing issues and that again secondary to the persistent postnasal drainage. She feels that she is having a hard time swallowing at times as well. She has complained of a lump sensation in the throat that tends to come and go. She denies any cough, no hemoptysis, no weight change. No night sweats, fever or chills has been noted. She is having at this time no complaints of tinnitus or vertigo. The patient presents today for further workup, evaluation, and treatment of the above-listed symptoms.</p>
+<h2>Review Of Systems</h2>
+<p>ALLERGY/IMMUNOLOGIC: History of seasonal allergies. She also has severe allergy to penicillin and bee stings.   CARDIOVASCULAR: Pertinent for hypercholesterolemia.   PULMONARY: She has a history of cough, wheezing.   GASTROINTESTINAL: Negative.   GENITOURINARY: Negative.   NEUROLOGIC: She has had a history of TIAs in the past.   VISUAL: She does have history of vision change, wears glasses.   DERMATOLOGIC: Negative.   ENDOCRINE: Negative.   MUSCULOSKELETAL: History of joint pain and bursitis.   CONSTITUTIONAL: She has a history of chronic fatigue.   ENT: She has had a history of cholesteatoma removal from the right middle ear and previous tympanoplasty with a progressive hearing loss in the right ear over the past few years according to the patient.   PSYCHOLOGIC: History of anxiety, depression.   HEMATOLOGIC: Easy bruising.</p>
+<h2>Past Surgical History</h2>
+<p>She has had right tympanoplasty in 1984. She has had a left carotid endarterectomy, cholecystectomy, two C sections, hysterectomy, and appendectomy.</p>
+<h2>Family History</h2>
+<p>Mother, history of vaginal cancer and hypertension. Brother, colon CA. Father, hypertension.</p>
+<h2>Current Medications</h2>
+<p>Aspirin 81 mg daily. She takes vitamins one a day. She is on Zocor, Desyrel, Flonase, and Xanax. She also has been taking Chantix for smoking cessation.</p>
+<h2>Allergies</h2>
+<p>Penicillin causes throat swelling. She also notes the bee sting allergy causes throat and tongue swelling.</p>
+<h2>Social History</h2>
+<p>The patient is single. She is unemployed at this time. She is a smoker about a pack and a half for 38 years and notes rare alcohol use.</p>
+<h2>Physical Examination</h2>
+<p>VITAL SIGNS: Her blood pressure 128/78, temperature is 98.6, pulse 80 and regular.   GENERAL: The patient is an alert, cooperative, well-developed 51-year-old female. She has a normal-sounding voice and good memory.   HEAD & FACE: Inspected with no scars, lesions or masses noted. Sinuses palpated and are normal. Salivary glands also palpated and are normal with no masses noted. The patient also has full facial function.   CARDIOVASCULAR: Heart regular rate and rhythm without murmur.   RESPIRATORY: Lungs auscultated and noted to be clear to auscultation bilaterally with no wheezing or rubs and normal respiratory effort.   EYES: Extraocular muscles were tested and within normal limits.   EARS: Right ear, the external ear is normal. The ear canal is clean and dry. The drum is intact. She has got severe tympanosclerosis of the right tympanic membrane and Weber exam does lateralize to the right ear indicative of a conductive loss. Left ear, the external ear is normal. The ear canal is clean and dry. The drum is intact and mobile with grossly normal hearing. The audiogram does reveal normal hearing in the left ear. She has got a mild conductive loss throughout all frequency ranges in the right ear with excellent discrimination scores noted bilaterally. Tympanograms, there was no adequate seal obtained on the right side. She has a normal type A tympanogram, left side.   NASAL: Reveals a deviated nasal septum to the left, clear drainage, large inferior turbinates, no erythema.   ORAL: Oral cavity is normal with good moisture. Lips, teeth and gums are normal. Evaluation of the oropharynx reveals normal mucosa, normal palates, and posterior oropharynx. Examination of the larynx with a mirror reveals normal epiglottis, false and true vocal cords with good mobility of the cords. The nasopharynx was briefly examined by mirror with normal appearing mucosa, posterior choanae and eustachian tubes.   NECK: The neck was examined with normal appearance. Trachea in the midline. The thyroid was normal, nontender, with no palpable masses or adenopathy noted.   NEUROLOGIC: Cranial nerves II through XII evaluated and noted to be normal. Patient oriented times 3.   DERMATOLOGIC: Evaluation reveals no masses or lesions. Skin turgor is normal.</p>
+<h2>Procedure</h2>
+<p>Please note a fiberoptic laryngoscopy was also done at today's visit for further evaluation because of the patient's dysphagia and throat symptoms. Findings do reveal moderately deviated nasal septum to the left, large inferior turbinates noted. The nasopharynx does reveal moderate adenoid pad within this midline. It is nonulcerated. The larynx revealed both cords to be normal. She does have mild lingual tonsillar hypertrophy as well.</p>
+<h2>Impression</h2>
+<ul>
+    <li>1. Persistent dysphagia. I think secondary most likely to the persistent postnasal drainage.</li><li>2. Deviated nasal septum.</li><li>3. Inferior turbinate hypertrophy.</li><li>4. Chronic rhinitis.</li><li>5. Conductive hearing loss, right ear with a history of cholesteatoma of the right ear.</li><li>6. Tympanosclerosis, right tympanic membrane.</li><li>7. Tobacco use.</li><li>8. Chronic adenoiditis.</li>
+</ul>
+<h2>Recommendations</h2>
+<p>I went ahead and placed her on Levaquin 500 mg daily for the next 10 days to see if this helps clear up the current sinus condition that she has been having. I have recommended hypertonic saline nasal irrigation twice a day. I have ordered a CT of the paranasal sinus, also a CT of the temporal bone has been ordered for evaluation regarding the cholesteatoma of the right ear and conductive hearing loss. CT of the sinus is felt to be warranted due to the frequency of the sinusitis issues that she has been having. I switched her from Flonase to Nasacort AQ nasal spray one to two sprays each nostril daily. I have scheduled a recheck evaluation with me in three weeks, and we will make further recommendations at that time.</p>
+</body>
+</html>

@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nasal Septal Reconstruction</title>
+    <style>
+    /* Base settings */
+:root {
+    --text-primary: #000000;
+    --text-secondary: #333333;
+    --background: #ffffff;
+    --border-color: #e0e0e0;
+    --code-background: #f5f5f5;
+}
+
+/* Reset margins and set base font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Document basics */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background: var(--background);
+    padding: 0;
+    font-size: 12pt;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+    break-after: avoid-page;
+    color: var(--text-primary);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 20pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+h5 { font-size: 12pt; }
+h6 { font-size: 11pt; }
+
+/* Paragraphs and spacing */
+p {
+    margin-bottom: 1em;
+    orphans: 3;
+    widows: 3;
+}
+
+/* Lists */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* Code blocks with Solarized Light theme */
+pre, code {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    background: #fdf6e3;  /* Solarized Light base3 */
+    border: 1px solid #eee8d5;  /* Solarized Light base2 */
+    border-radius: 6px;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+pre {
+    padding: 1em;
+    margin: 1em 0;
+    overflow-x: auto;
+    font-size: 10pt;
+    color: #657b83;  /* Solarized Light base00 */
+    line-height: 1.5;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 0.9em;
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+/* Syntax highlighting for Solarized Light */
+.keyword {
+    color: #859900;  /* Solarized Light green */
+    font-weight: bold;
+}
+
+.string {
+    color: #2aa198;  /* Solarized Light cyan */
+}
+
+.comment {
+    color: #93a1a1;  /* Solarized Light base1 */
+    font-style: italic;
+}
+
+.function {
+    color: #268bd2;  /* Solarized Light blue */
+}
+
+.class {
+    color: #b58900;  /* Solarized Light yellow */
+    font-weight: bold;
+}
+
+.variable {
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+.operator {
+    color: #6c71c4;  /* Solarized Light violet */
+}
+
+.number {
+    color: #cb4b16;  /* Solarized Light orange */
+}
+
+.decorator {
+    color: #dc322f;  /* Solarized Light red */
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+    font-size: 0.9em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #f6f8fa;  /* GitHub table header background */
+}
+
+th {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;  /* GitHub border color */
+    padding: 0.75em 1em;
+    font-weight: 600;
+    color: #24292f;  /* GitHub header text color */
+    text-align: left;
+}
+
+td {
+    border: 1px solid #d0d7de;
+    padding: 0.75em 1em;
+    color: #24292f;  /* GitHub cell text color */
+}
+
+/* Zebra striping for better readability */
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f6f8fa;
+}
+
+/* Hover effect */
+tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+/* Blockquotes - GitHub style */
+blockquote {
+    margin: 1em 0;
+    padding: 0.75em 1em;
+    border-left: 4px solid #d0d7de;  /* GitHub blockquote border */
+    background-color: #f6f8fa;  /* GitHub blockquote background */
+    color: #57606a;  /* GitHub blockquote text color */
+    border-radius: 6px;
+}
+
+blockquote p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+blockquote strong {
+    color: #24292f;
+}
+
+/* Add some spacing for nested blockquotes */
+blockquote blockquote {
+    margin-left: 1em;
+    margin-right: 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+    break-before: page;
+    display: block;
+    height: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Print-specific styles */
+@page {
+    margin: 4cm 2.5cm;
+    size: A4;
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+    
+    pre, code {
+        border: 1px solid var(--border-color);
+    }
+    
+    .page-break {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+        border: none;
+        visibility: hidden;
+    }
+}
+
+/* Figures and captions */
+figure {
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Nasal Septal Reconstruction</h1>
+    <h2>Description</h2>
+<p>Nasal septal reconstruction, bilateral submucous resection of the inferior turbinates, and bilateral outfracture of the inferior turbinates. Chronic nasal obstruction secondary to deviated nasal septum and inferior turbinate hypertrophy.   (Medical Transcription Sample Report)</p>
+<h2>Preoperative Diagnoses</h2>
+<ul>
+    <li>1. Chronic nasal obstruction secondary to deviated nasal septum.</li><li>2. Inferior turbinate hypertrophy.</li>
+</ul>
+<h2>Postoperative Diagnoses</h2>
+<ul>
+    <li>1. Chronic nasal obstruction secondary to deviated nasal septum.</li><li>2. Inferior turbinate hypertrophy.</li>
+</ul>
+<h2>Procedure Performed</h2>
+<ul>
+    <li>1. Nasal septal reconstruction.</li><li>2. Bilateral submucous resection of the inferior turbinates.</li><li>3. Bilateral outfracture of the inferior turbinates.</li>
+</ul>
+<h2>Anesthesia</h2>
+<p>General endotracheal tube.</p>
+<h2>Blood Loss</h2>
+<p>Minimal less than 25 cc.</p>
+<h2>Indications</h2>
+<p>The patient is a 51-year-old female with a history of chronic nasal obstruction. On physical examination, she was derived to have a severely deviated septum with an S-shape deformity as well as turbinate hypertrophy present along the inferior turbinates contributing to the obstruction.</p>
+<h2>Procedure</h2>
+<p>After all risks, benefits, and alternatives have been discussed with the patient in detail, informed consent was obtained. The patient was brought to the Operating Suite where she was placed in the supine position and general endotracheal intubation was delivered by the Department of Anesthesia. The patient was rotated 90 degrees away. Nasal pledgets saturated with 4 cc of 10% cocaine solution were inserted into the nasal cavities. These were then removed and the nasal septum as well as the turbinates were localized with the mixture of 1% lidocaine with 1:100000 epinephrine solution. The nasal pledgets were then reinserted as the patient was prepped in the usual fashion. The nasal pledgets were again removed and the turbinates as well as an infraorbital nerve block was performed with 0.25% Marcaine solution. The nasal vestibules were then cleansed with a pHisoHex solution. A #15 blade scalpel was then used to make an incision along the length of the caudal septum. The mucoperichondrial junction was then identified with the aid of cotton-tipped applicator as well as the stitch scissor. Once the plane was identified, the mucosal flap on the left side of the septum was elevated with the aid of a Cottle. At this point it should be mentioned that the patient's septum was significantly deviated with a large S-shape deformity obstructing both the right and left nasal cavity with the convex portion present in the left nasal cavity. Again, the Cottle elevator was used to raise the mucosal flap down to the level of the septal spur. At this point, the septal knife was used to make a crossover incision through the cartilage just anterior to the septal spur. Again, the mucosal flap was elevated in the right nasal septum. Now Knight scissors were used to remove the ascending portion of the nasal cartilage, which was then removed with a Takahashi forceps. A Cottle elevator was used to further elevate the mucosal flap off the septal spur on the left side. Removal of the spur was performed with the aid of the septal knife as well as a 3 mm straight chisel. Once all ascending cartilage has been removed, inspection of the nasal cavity revealed patent passages with the exception of inferior turbinates that were very hypertrophied and was felt to be contributing to the patient's symptoms. Therefore, the turbinates were again localized and a #15 blade scalpel was used to make a vertical incision dissected down to the chondral bone. The XPS microdebrider with the inferior turbinate blade was then inserted through the incision and a submucous resection was performed by passing the microdebrider along the length of the bone. Once the submucosal tissue had been resected, an outfracture procedure was performed so as to fully open the nasal passages. Inspection revealed very patent and nonobstructive nasal passages. Now the caudal incision was reapproximated with #4-0 chromic suture. Finally, a #4-0 fast absorbing plain gut suture was used to approximate the mucosal surface of the septum in a running whipstitch fashion. Finally, Merocel packing was placed and the patient was retuned to the Department of Anesthesia for awakening and taken to the recovery room without incident.</p>
+</body>
+</html>

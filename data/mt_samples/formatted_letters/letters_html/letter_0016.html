@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cleft Repair</title>
+    <style>
+    /* Base settings */
+:root {
+    --text-primary: #000000;
+    --text-secondary: #333333;
+    --background: #ffffff;
+    --border-color: #e0e0e0;
+    --code-background: #f5f5f5;
+}
+
+/* Reset margins and set base font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Document basics */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background: var(--background);
+    padding: 0;
+    font-size: 12pt;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+    break-after: avoid-page;
+    color: var(--text-primary);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 20pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+h5 { font-size: 12pt; }
+h6 { font-size: 11pt; }
+
+/* Paragraphs and spacing */
+p {
+    margin-bottom: 1em;
+    orphans: 3;
+    widows: 3;
+}
+
+/* Lists */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* Code blocks with Solarized Light theme */
+pre, code {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    background: #fdf6e3;  /* Solarized Light base3 */
+    border: 1px solid #eee8d5;  /* Solarized Light base2 */
+    border-radius: 6px;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+pre {
+    padding: 1em;
+    margin: 1em 0;
+    overflow-x: auto;
+    font-size: 10pt;
+    color: #657b83;  /* Solarized Light base00 */
+    line-height: 1.5;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 0.9em;
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+/* Syntax highlighting for Solarized Light */
+.keyword {
+    color: #859900;  /* Solarized Light green */
+    font-weight: bold;
+}
+
+.string {
+    color: #2aa198;  /* Solarized Light cyan */
+}
+
+.comment {
+    color: #93a1a1;  /* Solarized Light base1 */
+    font-style: italic;
+}
+
+.function {
+    color: #268bd2;  /* Solarized Light blue */
+}
+
+.class {
+    color: #b58900;  /* Solarized Light yellow */
+    font-weight: bold;
+}
+
+.variable {
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+.operator {
+    color: #6c71c4;  /* Solarized Light violet */
+}
+
+.number {
+    color: #cb4b16;  /* Solarized Light orange */
+}
+
+.decorator {
+    color: #dc322f;  /* Solarized Light red */
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+    font-size: 0.9em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #f6f8fa;  /* GitHub table header background */
+}
+
+th {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;  /* GitHub border color */
+    padding: 0.75em 1em;
+    font-weight: 600;
+    color: #24292f;  /* GitHub header text color */
+    text-align: left;
+}
+
+td {
+    border: 1px solid #d0d7de;
+    padding: 0.75em 1em;
+    color: #24292f;  /* GitHub cell text color */
+}
+
+/* Zebra striping for better readability */
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f6f8fa;
+}
+
+/* Hover effect */
+tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+/* Blockquotes - GitHub style */
+blockquote {
+    margin: 1em 0;
+    padding: 0.75em 1em;
+    border-left: 4px solid #d0d7de;  /* GitHub blockquote border */
+    background-color: #f6f8fa;  /* GitHub blockquote background */
+    color: #57606a;  /* GitHub blockquote text color */
+    border-radius: 6px;
+}
+
+blockquote p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+blockquote strong {
+    color: #24292f;
+}
+
+/* Add some spacing for nested blockquotes */
+blockquote blockquote {
+    margin-left: 1em;
+    margin-right: 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+    break-before: page;
+    display: block;
+    height: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Print-specific styles */
+@page {
+    margin: 4cm 2.5cm;
+    size: A4;
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+    
+    pre, code {
+        border: 1px solid var(--border-color);
+    }
+    
+    .page-break {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+        border: none;
+        visibility: hidden;
+    }
+}
+
+/* Figures and captions */
+figure {
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Cleft Repair</h1>
+    <h2>Description</h2>
+<p>Repair of bilateral cleft of the palate with vomer flaps.   (Medical Transcription Sample Report)</p>
+<h2>Preoperative Diagnoses</h2>
+<p>Bilateral cleft lip and bilateral cleft of the palate.</p>
+<h2>Postoperative Diagnoses</h2>
+<p>Bilateral cleft lip and bilateral cleft of the palate.</p>
+<h2>Procedure Performed</h2>
+<p>Repair of bilateral cleft of the palate with vomer flaps.</p>
+<h2>Estimated Blood Loss</h2>
+<p>40 mL.</p>
+<h2>Complications</h2>
+<p>None.</p>
+<h2>Anesthesia</h2>
+<p>General endotracheal anesthesia.</p>
+<h2>Condition Of The Patient At The End Of The Procedure</h2>
+<p>Stable, extubated, and transferred to the recovery room in stable condition.</p>
+<h2>Indications For Procedure</h2>
+<p>The patient is a 10-month-old baby with a history of a bilateral cleft of the lip and palate. The patient has undergone cleft lip repair, and she is here today for her cleft palate operation. We have discussed with the mother the nature of the procedure, risks, and benefits; the risks included but not limited to the risk of bleeding, infection, dehiscence, scarring, the need for future revision surgeries. We will proceed with surgery.</p>
+<h2>Details Of The Procedure</h2>
+<p>The patient was taken into the operating room, placed in the supine position, and general anesthetic was administered. A prophylactic dose of antibiotics was given. The patient proceeded to have bilateral PE tube placement by Dr. X, from Ear, Nose, and Throat Surgery. After he was done with his procedure, the head of the bed was turned 90 degrees. The patient was positioned with a shoulder roll and doughnut. A Dingman retractor was placed. The operative area was infiltrated with lidocaine with epinephrine 1:200,000, a total of 3 mL, and then, I proceeded with the prepping and draping. The patient was prepped and draped. I proceeded to do the palate repair. The nature of the palate repair was done in the same way on the both sides. I will describe one side. The other side was done exactly in the same manner. The 2 hemiuvulas are placed, holding from a single hook and infiltrated with lidocaine with epinephrine 1:200,000, triangle in the nasal mucosa was previously marked. This triangle of nasal mucosa was removed and excised. This was done on both uvulas. Then, an incision was done at the level of the palatal cleft at the junction of the nasal and oral mucosa. A 1-mm cuff of oral mucosa was used to be able to approximate the nasal mucosa better. Once the incision was done up to the level of the hard palate, the muscle was dissected off the surrounding tissue, 2 mm from the nasal and the oral mucosa. Then, I proceeded to place an incision at the alveolopalatal junction with the help of 15-blade. The incision starts at the maxillary tuberosity posteriorly and comes anteriorly at the alveolopalatal junction through the full thickness of mucoperiosteal flap. Then the flap was lifted up with the help of a freer, and then the remaining of the incision medially was completed. Hemostasis was achieved with help of electrocautery and Surgicel. The mucoperiosteal flap was retracted posteriorly with the help of a freer elevator. The greater auricular foramen was exposed, and the pedicle skeletonized to allow medial retraction of the mucoperiosteal flap. Then an osteotomy was done at the level of the greater auricular foramen to allow mobilization of the pedicle medially as well as a small incision was done in the periosteum around the pedicle. The pedicle carefully dissected to allow better mobilization of the mucoperiosteal flap medially. This procedure was done on both sides in the same manner, and then __________ dissection was done including dissection of the hard palate from the nasal mucosa, it was evident that the nasal mucosa would not reach medially to be placed together. At this point, the decision was made to proceed with vomer flaps. The flaps are __________ infiltrated the vomer with the help of lidocaine with epinephrine after an incision in the manner of an open book. The incision was done with a 15C blade. The vomer flaps were dissected, and the mucosa was moved laterally to approximate to the nasal mucosa of the hard palate. This was approximated on both sides with 5-0 chromic running and interrupted stitches, and I proceeded to the remaining of the posterior aspect of the nasal mucosa with a 5-0 chromic and a 4-0 chromic. Then 2 stitches of 4-0 Vicryl were applied to the soft palate in the Delaire manner through the full thickness of the mucosa and muscle on one side, on the other side, and then coming back on the mucosa to evert the edges of the soft palate. The remaining part of the soft palate was placed together with 4-0 Vicryl and 4-0 chromic interrupted stitches. The throat pack was removed. The palate was cleaned. The Dingman retractor was removed, and a single stitch after infiltration of lidocaine without epinephrine at the level of the midline of the tongue was applied with 2-0 silk to the dorsal aspect of the tongue and attached to the right cheek with a piece of Tegaderm. The patient tolerated the procedure without complications. BSS is applied to the eye after removing the Tegaderm. I was present and participated in all aspects of the procedure. The sponge, needle, and instrument count were completed at the end of the procedure. The patient tolerated the procedure without complications and was transferred to the recovery room in a stable condition.</p>
+</body>
+</html>

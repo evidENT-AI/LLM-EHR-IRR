@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recurrent nasal obstruction</title>
+    <style>
+    /* Base settings */
+:root {
+    --text-primary: #000000;
+    --text-secondary: #333333;
+    --background: #ffffff;
+    --border-color: #e0e0e0;
+    --code-background: #f5f5f5;
+}
+
+/* Reset margins and set base font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Document basics */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background: var(--background);
+    padding: 0;
+    font-size: 12pt;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+    break-after: avoid-page;
+    color: var(--text-primary);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 20pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+h5 { font-size: 12pt; }
+h6 { font-size: 11pt; }
+
+/* Paragraphs and spacing */
+p {
+    margin-bottom: 1em;
+    orphans: 3;
+    widows: 3;
+}
+
+/* Lists */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* Code blocks with Solarized Light theme */
+pre, code {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    background: #fdf6e3;  /* Solarized Light base3 */
+    border: 1px solid #eee8d5;  /* Solarized Light base2 */
+    border-radius: 6px;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+pre {
+    padding: 1em;
+    margin: 1em 0;
+    overflow-x: auto;
+    font-size: 10pt;
+    color: #657b83;  /* Solarized Light base00 */
+    line-height: 1.5;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 0.9em;
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+/* Syntax highlighting for Solarized Light */
+.keyword {
+    color: #859900;  /* Solarized Light green */
+    font-weight: bold;
+}
+
+.string {
+    color: #2aa198;  /* Solarized Light cyan */
+}
+
+.comment {
+    color: #93a1a1;  /* Solarized Light base1 */
+    font-style: italic;
+}
+
+.function {
+    color: #268bd2;  /* Solarized Light blue */
+}
+
+.class {
+    color: #b58900;  /* Solarized Light yellow */
+    font-weight: bold;
+}
+
+.variable {
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+.operator {
+    color: #6c71c4;  /* Solarized Light violet */
+}
+
+.number {
+    color: #cb4b16;  /* Solarized Light orange */
+}
+
+.decorator {
+    color: #dc322f;  /* Solarized Light red */
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+    font-size: 0.9em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #f6f8fa;  /* GitHub table header background */
+}
+
+th {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;  /* GitHub border color */
+    padding: 0.75em 1em;
+    font-weight: 600;
+    color: #24292f;  /* GitHub header text color */
+    text-align: left;
+}
+
+td {
+    border: 1px solid #d0d7de;
+    padding: 0.75em 1em;
+    color: #24292f;  /* GitHub cell text color */
+}
+
+/* Zebra striping for better readability */
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f6f8fa;
+}
+
+/* Hover effect */
+tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+/* Blockquotes - GitHub style */
+blockquote {
+    margin: 1em 0;
+    padding: 0.75em 1em;
+    border-left: 4px solid #d0d7de;  /* GitHub blockquote border */
+    background-color: #f6f8fa;  /* GitHub blockquote background */
+    color: #57606a;  /* GitHub blockquote text color */
+    border-radius: 6px;
+}
+
+blockquote p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+blockquote strong {
+    color: #24292f;
+}
+
+/* Add some spacing for nested blockquotes */
+blockquote blockquote {
+    margin-left: 1em;
+    margin-right: 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+    break-before: page;
+    display: block;
+    height: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Print-specific styles */
+@page {
+    margin: 4cm 2.5cm;
+    size: A4;
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+    
+    pre, code {
+        border: 1px solid var(--border-color);
+    }
+    
+    .page-break {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+        border: none;
+        visibility: hidden;
+    }
+}
+
+/* Figures and captions */
+figure {
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Recurrent nasal obstruction</h1>
+    <h2>Description</h2>
+<p>Patient with suspected nasal obstruction, possible sleep apnea.   (Medical Transcription Sample Report)</p>
+<h2>Chief Complaint</h2>
+<p>Recurrent nasal obstruction.</p>
+<h2>History Of Present Illness</h2>
+<p>The patient is a 5-year-old male, who was last evaluated by Dr. F approximately one year ago for suspected nasal obstruction, possible sleep apnea. Dr. F's assessment at that time was the patient not had sleep apnea and did not truly even seem to have allergic rhinitis. All of his symptoms had resolved when he had seen Dr. F, so no surgical plan was made and no further followup was needed. However, the patient reports again today with his mother that they are now having continued symptoms of nasal obstruction and questionable sleep changes. Again, the mother gives a very confusing sleep history but it does not truly sound like the child is having apneic events that are obstructive in nature. It sounds like he is snoring loudly and does have some nasal obstruction at nighttime. He also is sniffing a lot through his nose. He has been tried on some nasal steroids but they only use this on a p.r.n. basis about one or two days every month and we are unsure if that has even helped at all, probably not. The child is not having any problems with his ears including ear infections or hearing. He is also not having any problems with strep throat.</p>
+<h2>Past Medical History</h2>
+<p>Eczema.</p>
+<h2>Past Surgical History</h2>
+<p>None.</p>
+<h2>Medications</h2>
+<p>None.</p>
+<h2>Allergies</h2>
+<p>No known drug allergies.</p>
+<h2>Family History</h2>
+<p>No family history of bleeding diathesis or anesthesia difficulties.</p>
+<h2>Physical Examination</h2>
+<p>VITAL SIGNS: Weight 43 pounds, height 37 inches, temperature 97.4, pulse 65, and blood pressure 104/48.   GENERAL: The patient is a well-nourished male in no acute distress. Listening to his voice today in the clinic, he does not sound to have a hyponasal voice and has a wide range of consonant pronunciation.   NOSE: Anterior rhinoscopy does demonstrate boggy turbinates bilaterally with minimal amount of watery rhinorrhea.   EARS: The patient tympanic membranes are clear and intact bilaterally. There is no middle ear effusion.   ORAL CAVITY: The patient has 2+ tonsils bilaterally. There are clearly nonobstructive. His uvula is midline.   NECK: No lymphadenopathy appreciated.</p>
+<h2>Assessment And Plan</h2>
+<p>This is a 5-year-old male, who presents for repeat evaluation of a possible nasal obstruction, questionable sleep apnea. Again, the mother gives a confusing sleep history but it does not really sound like he is having apneic events. They deny any actual gasping events. It sounds like true obstructive events. He clearly has some symptoms at this point that would suggest possible allergic rhinitis or chronic rhinitis. I think the most appropriate way to proceed would be to first try this child on a nasal corticosteroid and use it appropriately. I have given them prescription for Nasacort Aqua one spray to each nostril twice a day. I instructed them on correct way to use this and the importance to use it on a daily basis. They may not see any benefit for several weeks. I would like to evaluate him in six weeks to see how we are progressing. If he continues to have problems, I think at that point we may consider performing a transnasal exam in the office to examine his adenoid bed and that would really be the only surgical option for this child. He may also need an allergy evaluation at that point if he continues to have problems. However, I would like to be fairly conservative in this child. Should the mother still have concerns regarding his sleeping at our next visit or should his symptoms worsen (I did instruct her call us if it worsens), we may even need to pursue a sleep study just to settle that issue once and for all. We will see him back in six weeks.</p>
+</body>
+</html>

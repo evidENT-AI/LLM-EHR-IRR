@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ear pain - Pediatric Consult</title>
+    <style>
+    /* Base settings */
+:root {
+    --text-primary: #000000;
+    --text-secondary: #333333;
+    --background: #ffffff;
+    --border-color: #e0e0e0;
+    --code-background: #f5f5f5;
+}
+
+/* Reset margins and set base font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Document basics */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background: var(--background);
+    padding: 0;
+    font-size: 12pt;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+    break-after: avoid-page;
+    color: var(--text-primary);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 20pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+h5 { font-size: 12pt; }
+h6 { font-size: 11pt; }
+
+/* Paragraphs and spacing */
+p {
+    margin-bottom: 1em;
+    orphans: 3;
+    widows: 3;
+}
+
+/* Lists */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* Code blocks with Solarized Light theme */
+pre, code {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    background: #fdf6e3;  /* Solarized Light base3 */
+    border: 1px solid #eee8d5;  /* Solarized Light base2 */
+    border-radius: 6px;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+pre {
+    padding: 1em;
+    margin: 1em 0;
+    overflow-x: auto;
+    font-size: 10pt;
+    color: #657b83;  /* Solarized Light base00 */
+    line-height: 1.5;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 0.9em;
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+/* Syntax highlighting for Solarized Light */
+.keyword {
+    color: #859900;  /* Solarized Light green */
+    font-weight: bold;
+}
+
+.string {
+    color: #2aa198;  /* Solarized Light cyan */
+}
+
+.comment {
+    color: #93a1a1;  /* Solarized Light base1 */
+    font-style: italic;
+}
+
+.function {
+    color: #268bd2;  /* Solarized Light blue */
+}
+
+.class {
+    color: #b58900;  /* Solarized Light yellow */
+    font-weight: bold;
+}
+
+.variable {
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+.operator {
+    color: #6c71c4;  /* Solarized Light violet */
+}
+
+.number {
+    color: #cb4b16;  /* Solarized Light orange */
+}
+
+.decorator {
+    color: #dc322f;  /* Solarized Light red */
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+    font-size: 0.9em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #f6f8fa;  /* GitHub table header background */
+}
+
+th {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;  /* GitHub border color */
+    padding: 0.75em 1em;
+    font-weight: 600;
+    color: #24292f;  /* GitHub header text color */
+    text-align: left;
+}
+
+td {
+    border: 1px solid #d0d7de;
+    padding: 0.75em 1em;
+    color: #24292f;  /* GitHub cell text color */
+}
+
+/* Zebra striping for better readability */
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f6f8fa;
+}
+
+/* Hover effect */
+tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+/* Blockquotes - GitHub style */
+blockquote {
+    margin: 1em 0;
+    padding: 0.75em 1em;
+    border-left: 4px solid #d0d7de;  /* GitHub blockquote border */
+    background-color: #f6f8fa;  /* GitHub blockquote background */
+    color: #57606a;  /* GitHub blockquote text color */
+    border-radius: 6px;
+}
+
+blockquote p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+blockquote strong {
+    color: #24292f;
+}
+
+/* Add some spacing for nested blockquotes */
+blockquote blockquote {
+    margin-left: 1em;
+    margin-right: 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+    break-before: page;
+    display: block;
+    height: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Print-specific styles */
+@page {
+    margin: 4cm 2.5cm;
+    size: A4;
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+    
+    pre, code {
+        border: 1px solid var(--border-color);
+    }
+    
+    .page-break {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+        border: none;
+        visibility: hidden;
+    }
+}
+
+/* Figures and captions */
+figure {
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Ear pain - Pediatric Consult</h1>
+    <h2>Description</h2>
+<p>13 years old complaining about severe ear pain - Chronic otitis media.   (Medical Transcription Sample Report)</p>
+<h2>Presentation</h2>
+<p>Patient, 13 years old, comes to your office with his mother complaining about severe ear pain. He awoke during the night with severe ear pain, and mom states that this is the third time this year he has had earaches.</p>
+<h2>History Of Present Illness</h2>
+<p>Patient reports that he felt good after taking antibiotics with each earache episode and has recently started on the wrestling team. Mom reports that patient has been afebrile with each of the earache episodes, and he has not had upper respiratory symptoms. Patient denies any head trauma associated with wrestling practice.</p>
+<h2>Birth And Developmental History</h2>
+<p>Patient's mother reports a normal pregnancy with no complications, having received prenatal care from 12 weeks. Vaginal delivery was uneventful with a normal perinatal course. Patient sat alone at 6 months, crawled at 9 months, and walked at 13 months. His verbal and motor developmental milestones were as expected.</p>
+<h2>Family/Social History</h2>
+<p>Patient lives with both parents and two siblings (brother - age 11 years, sister - age 15 years). He reports enjoying school, remains active in scouts, and is very excited about being on the wresting team. Mom reports that he has several friends, but she is concerned about the time required for the wrestling team. Patient is in 8th grade this year and an A/B student. Both siblings are healthy. His Dad has hypertension and has frequent heartburn symptoms that he treats with over-the-counter (OTC) medications. Mom is healthy and has asthma.</p>
+<h2>Past Medical History</h2>
+<p>Patient has been seen in the clinic yearly for well child exams. He has had no major illnesses or hospitalizations. He had one emergency room visit 2 years ago for a knee laceration. Patient has been healthy except for the past year when he had two episodes of otitis media not associated with respiratory infections. He received antibiotic therapy (amoxicillin) for the otitis media and both episodes resolved without problems. Patient's Mom states that he takes no prescribed medications or OTC medications, but he admits that he has been taking his dad's OTC Pepcid AE sometimes when he gets heartburn. Upon further examination, he reports taking Pepcid when he eats pizza or Mexican food. He does complain of sore throats sometimes and often feels burning in his throat when he goes to sleep at night after a late evening snack.</p>
+<h2>Nutritional History</h2>
+<p>Patient eats cereal bars or pop tarts with milk for breakfast most days. He takes his lunch (usually a sandwich and chips or yogurt and fruit) for lunch. Mom or his sister cooks supper in the evening. The family goes out to eat once or twice a week and he only gets "fast food" once or twice a week according to his Mom. He says he eats "a lot" especially after a wrestling meet.</p>
+<h2>Physical Exam</h2>
+<p>Height/weight: Patient weighs 109 pounds (60th percentile) and is 69 inches tall (93rd percentile). He is following the growth pattern he established in infancy.   Vital signs: BP 110/60, T 99.2, HR 70, R 16.   General: Alert, cooperative but a bit shy.   Neuro: DTRs symmetric, 2+, negative Romberg, able to perform simple calculations without difficulty, short-term memory intact. He responds appropriately to verbal and visual cues, and movements are smooth and coordinated.   HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal. TMs deep red, dull, landmarks obscured, full bilaterally. Post auricular and submandibular nodes on left are palpable and slightly tender.   Lungs: CTA, breath sounds equal bilaterally, excursion and chest configuration normal.   Cardiac: S1, S2 split, no murmurs, pulses equal bilaterally.   Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat. Bowel sounds active in all quadrants. No hepatosplenomegaly or tenderness. No CVA tenderness.   Musculoskeletal: Full range of motion, all extremities. Spine straight, able to perform jumping jacks and duck walk without difficulty.   Genital: Normal male, Tanner stage 4. Rectal exam - small amount of soft stool, no fissures or masses.</p>
+<h2>Labs</h2>
+<p>Stool negative for blood and H. pylori antigen. Normal CBC and urinalysis. A barium swallow and upper GI was scheduled for the following week. It showed marked GE reflux.</p>
+<h2>Assessment</h2>
+<p>The differential diagnoses for patient included (a) chronic otitis media/treatment failure, (b) peptic ulcer disease/gastritis, (c) gastro esophageal reflux disease (GERD) or carbonated beverage syndrome, (d) trauma.</p>
+<h2>Chronic Otitis Media.</h2>
+<p>Chronic otitis media due to a penicillin resistant organism would be the obvious diagnosis in this case. It is rare for an adolescent to have otitis media with no precipitating factor (such as being on a swim team or otherwise exposed to unusual organisms or in an unusual environment). It is certainly unusual for him to have three episodes in 1 year.</p>
+<h2>Peptic Ulcer Disease.</h2>
+<p>There were no symptoms of peptic ulcer disease, a negative H. pylori screen and lack of pain made this diagnosis less likely. Trauma. Trauma was a possibility, particularly since adolescent males frequently minimize symptoms especially if they might limit participation in a sport but patient maintained that he had not had an event where he struck his head or neck and that he always wore his helmet with ear padding.</p>
+<h2>Gerd.</h2>
+<p>The history of "heartburn" relieved by his father's medication was striking. The positive study supported the diagnosis of GERD, which was severe and chronic enough to cause irritation of the mucosal surfaces exposed to the gastric juices and edema, inflammation in the inner ears.</p>
+<h2>Plan</h2>
+<p>Patient and his Mom agreed to a trial of omeprazole 20 mg at bedtime for 2 weeks. Patient was to keep a diary of any episodes of heartburn, including what foods seemed to aggravate it. The clinician asked him to avoid using any antacid products in the meantime to gage the effectiveness of the medication. He was also given a prescription for 10 days of Augmentin99 and a follow-up appointment for 2 weeks. At his follow-up appointment he reported one episode after he ate a whole large pizza after wrestling practice but said it went away pretty quickly after he took his medication. A 6-month follow up appointment was scheduled.</p>
+</body>
+</html>

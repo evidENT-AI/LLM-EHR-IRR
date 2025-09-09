@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sinus Surgery - Endoscopic</title>
+    <style>
+    /* Base settings */
+:root {
+    --text-primary: #000000;
+    --text-secondary: #333333;
+    --background: #ffffff;
+    --border-color: #e0e0e0;
+    --code-background: #f5f5f5;
+}
+
+/* Reset margins and set base font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Document basics */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background: var(--background);
+    padding: 0;
+    font-size: 12pt;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+    break-after: avoid-page;
+    color: var(--text-primary);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 20pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+h5 { font-size: 12pt; }
+h6 { font-size: 11pt; }
+
+/* Paragraphs and spacing */
+p {
+    margin-bottom: 1em;
+    orphans: 3;
+    widows: 3;
+}
+
+/* Lists */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* Code blocks with Solarized Light theme */
+pre, code {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    background: #fdf6e3;  /* Solarized Light base3 */
+    border: 1px solid #eee8d5;  /* Solarized Light base2 */
+    border-radius: 6px;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+pre {
+    padding: 1em;
+    margin: 1em 0;
+    overflow-x: auto;
+    font-size: 10pt;
+    color: #657b83;  /* Solarized Light base00 */
+    line-height: 1.5;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 0.9em;
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+/* Syntax highlighting for Solarized Light */
+.keyword {
+    color: #859900;  /* Solarized Light green */
+    font-weight: bold;
+}
+
+.string {
+    color: #2aa198;  /* Solarized Light cyan */
+}
+
+.comment {
+    color: #93a1a1;  /* Solarized Light base1 */
+    font-style: italic;
+}
+
+.function {
+    color: #268bd2;  /* Solarized Light blue */
+}
+
+.class {
+    color: #b58900;  /* Solarized Light yellow */
+    font-weight: bold;
+}
+
+.variable {
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+.operator {
+    color: #6c71c4;  /* Solarized Light violet */
+}
+
+.number {
+    color: #cb4b16;  /* Solarized Light orange */
+}
+
+.decorator {
+    color: #dc322f;  /* Solarized Light red */
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+    font-size: 0.9em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #f6f8fa;  /* GitHub table header background */
+}
+
+th {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;  /* GitHub border color */
+    padding: 0.75em 1em;
+    font-weight: 600;
+    color: #24292f;  /* GitHub header text color */
+    text-align: left;
+}
+
+td {
+    border: 1px solid #d0d7de;
+    padding: 0.75em 1em;
+    color: #24292f;  /* GitHub cell text color */
+}
+
+/* Zebra striping for better readability */
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f6f8fa;
+}
+
+/* Hover effect */
+tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+/* Blockquotes - GitHub style */
+blockquote {
+    margin: 1em 0;
+    padding: 0.75em 1em;
+    border-left: 4px solid #d0d7de;  /* GitHub blockquote border */
+    background-color: #f6f8fa;  /* GitHub blockquote background */
+    color: #57606a;  /* GitHub blockquote text color */
+    border-radius: 6px;
+}
+
+blockquote p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+blockquote strong {
+    color: #24292f;
+}
+
+/* Add some spacing for nested blockquotes */
+blockquote blockquote {
+    margin-left: 1em;
+    margin-right: 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+    break-before: page;
+    display: block;
+    height: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Print-specific styles */
+@page {
+    margin: 4cm 2.5cm;
+    size: A4;
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+    
+    pre, code {
+        border: 1px solid var(--border-color);
+    }
+    
+    .page-break {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+        border: none;
+        visibility: hidden;
+    }
+}
+
+/* Figures and captions */
+figure {
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Sinus Surgery - Endoscopic</h1>
+    <h2>Description</h2>
+<p>Functional endoscopic sinus surgery, excision of nasopharyngeal mass via endoscopic technique, and excision of right upper lid skin lesion 1 cm in diameter with adjacent tissue transfer closure.   (Medical Transcription Sample Report)</p>
+<h2>Preoperative Diagnoses</h2>
+<ul>
+    <li>1. Nasopharyngeal mass.</li><li>2. Right upper lid skin lesion.</li>
+</ul>
+<h2>Postoperative Diagnoses</h2>
+<ul>
+    <li>1. Nasopharyngeal tube mass.</li><li>2. Right upper lid skin lesion.</li>
+</ul>
+<h2>Procedures Performed</h2>
+<ul>
+    <li>1. Functional endoscopic sinus surgery.</li><li>2. Excision of nasopharyngeal mass via endoscopic technique.</li><li>3. Excision of right upper lid skin lesion 1 cm in diameter with adjacent tissue transfer closure.</li>
+</ul>
+<h2>Anesthesia</h2>
+<p>General endotracheal.</p>
+<h2>Estimated Blood Loss</h2>
+<p>Less than 30 cc.</p>
+<h2>Complications</h2>
+<p>None.</p>
+<h2>Indications For Procedure</h2>
+<p>The patient is a 51-year-old Caucasian female with a history of a nasopharyngeal mass discovered with patient's chief complaint of nasal congestion and chronic ear disease. The patient had a fiberoptic nasopharyngoscopy performed in the office which demonstrated the mass and confirmed also on CT scan. The patient also has had this right upper lid skin lesion which appears to be a cholesterol granuloma for numerous months. It appears to be growing in size and is irregularly bordered. After risks, complications, consequences, and questions were addressed to the patient, a written consent was obtained for the procedure.</p>
+<h2>Procedure</h2>
+<p>The patient was brought to the operating suite by Anesthesia and placed on the operating table in supine position. After this, the patient was turned to 90 degrees by the Department of Anesthesia. The right upper eyelid skin lesion was injected with 1% lidocaine with epinephrine 1:100,000 approximately 1 cc total. After this, the patient's bilateral nasal passages were then packed with cocaine-soaked cottonoids of 10% solution of 4 cc total. The patient was then prepped and draped in usual sterile fashion and the right upper lid skin was then first cut around the skin lesion utilizing a Superblade. After this, the skin lesion was then grasped with a ________ in the superior aspect and the skin lesion was cut and removed in the subcutaneous plane utilizing Westcott scissors. After this, the ________ was then hemostatically controlled with monopolar cauterization. The patient's skin was then reapproximated with a running #6-0 Prolene suture. A Mastisol along with a single Steri-Strip was in place followed Maxitrol ointment. Attention then was drawn to the nasopharynx. The cocaine-soaked cottonoids were removed from the nasal passages bilaterally and zero-degree otoscope was placed all the way to the patient's nasopharynx. The patient had a severely deviated nasal septum more so to the right than the left. There appeared to be a spur on the left inferior aspect and also on the right posterior aspect. The nasopharyngeal mass appeared polypoid in nature almost lymphoid tissue looking. It was then localized with 1% lidocaine with epinephrine 1:100,000 of approximately 3 cc total. After this, the lesion was then removed on the right side with the XPS blade. The torus tubarius was noted on the left side with the polypoid lymphoid tissue involving this area completely. This area was taken down with the XPS blade. Prior to taking down this lesion with the XPS, multiple biopsies were taken with a straight biter. After this, a cocaine-soaked cottonoid was placed back in the patient's left nasal passage region and the nasopharynx and the attention was then drawn to the right side. The zero-degree otoscope was placed in the patient's right nasal passage and all the way to the nasopharynx. Again, the XPS was then utilized to take down the nasopharyngeal mass in its entirety with some involvement overlying the torus tubarius. After this, the patient was then hemostatically controlled with suctioned Bovie cauterization. A FloSeal was then placed followed by bilateral Merocels and bacitracin-coated ointment. The patient's Meroceles were then tied together to the patient's forehead and the patient was then turned back to the Anesthesia. The patient was extubated in the operating room and was transferred to the recovery room in stable condition. The patient tolerated the procedure well and sent home and with instructions to followup approximately in one week. The patient will be sent home with a prescription for Keflex 500 mg one p.o. b.i.d, and Tylenol #3 one to two p.o. q.4-6h. pain #30.</p>
+</body>
+</html>

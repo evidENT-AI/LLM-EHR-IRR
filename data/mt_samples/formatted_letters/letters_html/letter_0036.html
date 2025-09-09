@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exudative Tonsillitis</title>
+    <style>
+    /* Base settings */
+:root {
+    --text-primary: #000000;
+    --text-secondary: #333333;
+    --background: #ffffff;
+    --border-color: #e0e0e0;
+    --code-background: #f5f5f5;
+}
+
+/* Reset margins and set base font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Document basics */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background: var(--background);
+    padding: 0;
+    font-size: 12pt;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+    break-after: avoid-page;
+    color: var(--text-primary);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 20pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+h5 { font-size: 12pt; }
+h6 { font-size: 11pt; }
+
+/* Paragraphs and spacing */
+p {
+    margin-bottom: 1em;
+    orphans: 3;
+    widows: 3;
+}
+
+/* Lists */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* Code blocks with Solarized Light theme */
+pre, code {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    background: #fdf6e3;  /* Solarized Light base3 */
+    border: 1px solid #eee8d5;  /* Solarized Light base2 */
+    border-radius: 6px;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+pre {
+    padding: 1em;
+    margin: 1em 0;
+    overflow-x: auto;
+    font-size: 10pt;
+    color: #657b83;  /* Solarized Light base00 */
+    line-height: 1.5;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 0.9em;
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+/* Syntax highlighting for Solarized Light */
+.keyword {
+    color: #859900;  /* Solarized Light green */
+    font-weight: bold;
+}
+
+.string {
+    color: #2aa198;  /* Solarized Light cyan */
+}
+
+.comment {
+    color: #93a1a1;  /* Solarized Light base1 */
+    font-style: italic;
+}
+
+.function {
+    color: #268bd2;  /* Solarized Light blue */
+}
+
+.class {
+    color: #b58900;  /* Solarized Light yellow */
+    font-weight: bold;
+}
+
+.variable {
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+.operator {
+    color: #6c71c4;  /* Solarized Light violet */
+}
+
+.number {
+    color: #cb4b16;  /* Solarized Light orange */
+}
+
+.decorator {
+    color: #dc322f;  /* Solarized Light red */
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+    font-size: 0.9em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #f6f8fa;  /* GitHub table header background */
+}
+
+th {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;  /* GitHub border color */
+    padding: 0.75em 1em;
+    font-weight: 600;
+    color: #24292f;  /* GitHub header text color */
+    text-align: left;
+}
+
+td {
+    border: 1px solid #d0d7de;
+    padding: 0.75em 1em;
+    color: #24292f;  /* GitHub cell text color */
+}
+
+/* Zebra striping for better readability */
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f6f8fa;
+}
+
+/* Hover effect */
+tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+/* Blockquotes - GitHub style */
+blockquote {
+    margin: 1em 0;
+    padding: 0.75em 1em;
+    border-left: 4px solid #d0d7de;  /* GitHub blockquote border */
+    background-color: #f6f8fa;  /* GitHub blockquote background */
+    color: #57606a;  /* GitHub blockquote text color */
+    border-radius: 6px;
+}
+
+blockquote p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+blockquote strong {
+    color: #24292f;
+}
+
+/* Add some spacing for nested blockquotes */
+blockquote blockquote {
+    margin-left: 1em;
+    margin-right: 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+    break-before: page;
+    display: block;
+    height: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Print-specific styles */
+@page {
+    margin: 4cm 2.5cm;
+    size: A4;
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+    
+    pre, code {
+        border: 1px solid var(--border-color);
+    }
+    
+    .page-break {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+        border: none;
+        visibility: hidden;
+    }
+}
+
+/* Figures and captions */
+figure {
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Exudative Tonsillitis</h1>
+    <h2>Description</h2>
+<p>Severe tonsillitis, palatal cellulitis, and inability to swallow.   (Medical Transcription Sample Report)</p>
+<h2>Chief Complaint</h2>
+<p>Severe tonsillitis, palatal cellulitis, and inability to swallow.</p>
+<h2>History Of Present Illness</h2>
+<p>This patient started having sore throat approximately one week ago; however, yesterday it became much worse. He was unable to swallow. He complained to his parent. He was taken to Med Care and did not get any better, and therefore presented this morning to ER, where seen and evaluated by Dr. X and concerned as whether he had an abscess either pharyngeal, palatal, or peritonsillar. He was noted to have extreme tonsillitis with kissing tonsils, marked exudates especially right side and right palatal cellulitis. A CT scan at ER did not show abscess. He has not had airway compromise, but he has had difficulty swallowing. He may have had a low-grade fever, but nothing marked at home. His records from Hospital are reviewed as well as the pediatric notes by Dr. X. He did have some equivalent leukocytosis. He had a negative monospot and negative strep screen.</p>
+<h2>Past Medical History</h2>
+<p>The patient takes no medications, has had no illnesses or surgeries and he is generally in good health other than being significantly overweight. He is a sophomore at High School.</p>
+<h2>Family History</h2>
+<p>Noncontributory to this illness.</p>
+<h2>Surgeries</h2>
+<p>None.</p>
+<h2>Habits</h2>
+<p>Nonsmoker, nondrinker. Denies illicit drug use.</p>
+<h2>Review Of Systems</h2>
+<p>ENT: The patient other than having dysphagia, the patient denies other associated ENT symptomatology.   GU: Denies dysuria.   Orthopedic: Denies joint pain, difficulty walking, etc.   Neuro: Denies headache, blurry vision, etc.   Eyes: Says vision is intact.   Lungs: Denies shortness of breath, cough, etc.   Skin: He states he has a rash, which occurred from penicillin that he was given IM yesterday at Covington Med Care. Mildly itchy. Mother has penicillin allergy.   Endocrine: The patient denies any weight loss, weight gain, skin changes, fatigue, etc, essentially no symptoms of hyper or hypothyroidism.   Physical Exam:   General: This is a morbidly obese white male adolescent, in no acute disease, alert and oriented x 4. Voice is normal. He is handling his secretions. There is no stridor.   Vital Signs: See vital signs in nurses notes.   Ears: TM and EACs are normal. External, normal.   Nose: Opening clear. External nose is normal.   Mouth: Has bilateral marked exudates, tonsillitis, right greater than left. Uvula is midline. Tonsils are touching. There is some redness of the right palatal area, but is not consistent with peritonsillar abscess. Tongue is normal. Dentition intact. No mucosal lesions other than as noted.   Neck: No thyromegaly, masses, or adenopathy except for some small minimally enlarged high jugular nodes.   Chest: Clear to auscultation.   Heart: No murmurs, rubs, or gallops.   Abdomen: Obese. Complete exam deferred.   Skin: Visualized skin dry and intact, except for rash on his inner thighs and upper legs, which is red maculopapular and consistent with possible allergic reaction.   Neuro: Cranial nerves II through XII are intact. Eyes, pupils are equal, round, and reactive to light and accommodation, full range.</p>
+<h2>Impression</h2>
+<p>Marked exudative tonsillitis, non-strep, non-mono, probably mixed anaerobic infection. No significant prior history of tonsillitis. Possible rash to PENICILLIN.</p>
+<h2>Recommendations</h2>
+<p>I concur with IV clindamycin and IV Solu-Medrol as per Dr. X. I anticipate this patient may need several days of IV antibiotics and then be able to switch over to oral. I do not insist that this patient will need surgical intervention since there is no evidence of abscess. This one episode of severe tonsillitis does not mean the patient needs tonsillectomy, but if he continues to have significant tonsil problems after this he should be referred for ENT evaluation as an outpatient. The patient's parents in the room had expressed good understanding, have a chance to ask questions. At this time, I will see the patient back on an as needed basis.</p>
+</body>
+</html>

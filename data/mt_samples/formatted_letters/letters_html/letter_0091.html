@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tracheostomy & Thyroid Isthmusectomy</title>
+    <style>
+    /* Base settings */
+:root {
+    --text-primary: #000000;
+    --text-secondary: #333333;
+    --background: #ffffff;
+    --border-color: #e0e0e0;
+    --code-background: #f5f5f5;
+}
+
+/* Reset margins and set base font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Document basics */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background: var(--background);
+    padding: 0;
+    font-size: 12pt;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+    break-after: avoid-page;
+    color: var(--text-primary);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 20pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+h5 { font-size: 12pt; }
+h6 { font-size: 11pt; }
+
+/* Paragraphs and spacing */
+p {
+    margin-bottom: 1em;
+    orphans: 3;
+    widows: 3;
+}
+
+/* Lists */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* Code blocks with Solarized Light theme */
+pre, code {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    background: #fdf6e3;  /* Solarized Light base3 */
+    border: 1px solid #eee8d5;  /* Solarized Light base2 */
+    border-radius: 6px;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+pre {
+    padding: 1em;
+    margin: 1em 0;
+    overflow-x: auto;
+    font-size: 10pt;
+    color: #657b83;  /* Solarized Light base00 */
+    line-height: 1.5;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 0.9em;
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+/* Syntax highlighting for Solarized Light */
+.keyword {
+    color: #859900;  /* Solarized Light green */
+    font-weight: bold;
+}
+
+.string {
+    color: #2aa198;  /* Solarized Light cyan */
+}
+
+.comment {
+    color: #93a1a1;  /* Solarized Light base1 */
+    font-style: italic;
+}
+
+.function {
+    color: #268bd2;  /* Solarized Light blue */
+}
+
+.class {
+    color: #b58900;  /* Solarized Light yellow */
+    font-weight: bold;
+}
+
+.variable {
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+.operator {
+    color: #6c71c4;  /* Solarized Light violet */
+}
+
+.number {
+    color: #cb4b16;  /* Solarized Light orange */
+}
+
+.decorator {
+    color: #dc322f;  /* Solarized Light red */
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+    font-size: 0.9em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #f6f8fa;  /* GitHub table header background */
+}
+
+th {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;  /* GitHub border color */
+    padding: 0.75em 1em;
+    font-weight: 600;
+    color: #24292f;  /* GitHub header text color */
+    text-align: left;
+}
+
+td {
+    border: 1px solid #d0d7de;
+    padding: 0.75em 1em;
+    color: #24292f;  /* GitHub cell text color */
+}
+
+/* Zebra striping for better readability */
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f6f8fa;
+}
+
+/* Hover effect */
+tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+/* Blockquotes - GitHub style */
+blockquote {
+    margin: 1em 0;
+    padding: 0.75em 1em;
+    border-left: 4px solid #d0d7de;  /* GitHub blockquote border */
+    background-color: #f6f8fa;  /* GitHub blockquote background */
+    color: #57606a;  /* GitHub blockquote text color */
+    border-radius: 6px;
+}
+
+blockquote p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+blockquote strong {
+    color: #24292f;
+}
+
+/* Add some spacing for nested blockquotes */
+blockquote blockquote {
+    margin-left: 1em;
+    margin-right: 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+    break-before: page;
+    display: block;
+    height: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Print-specific styles */
+@page {
+    margin: 4cm 2.5cm;
+    size: A4;
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+    
+    pre, code {
+        border: 1px solid var(--border-color);
+    }
+    
+    .page-break {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+        border: none;
+        visibility: hidden;
+    }
+}
+
+/* Figures and captions */
+figure {
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Tracheostomy & Thyroid Isthmusectomy</h1>
+    <h2>Description</h2>
+<p>Tracheostomy and thyroid isthmusectomy. Ventilator-dependent respiratory failure and multiple strokes.   (Medical Transcription Sample Report)</p>
+<h2>Preoperative Diagnoses</h2>
+<ul>
+    <li>1. Ventilator-dependent respiratory failure.</li><li>2. Multiple strokes.</li>
+</ul>
+<h2>Postoperative Diagnoses</h2>
+<ul>
+    <li>1. Ventilator-dependent respiratory failure.</li><li>2. Multiple strokes.</li>
+</ul>
+<h2>Procedures Performed</h2>
+<ul>
+    <li>1. Tracheostomy.</li><li>2. Thyroid isthmusectomy.</li>
+</ul>
+<h2>Anesthesia</h2>
+<p>General endotracheal tube.</p>
+<h2>Blood Loss</h2>
+<p>Minimal, less than 25 cc.</p>
+<h2>Indications</h2>
+<p>The patient is a 50-year-old gentleman who presented to the Emergency Department who had had multiple massive strokes. He had required ventilator assistance and was transported to the ICU setting. Because of the numerous deficits from the stroke, he is expected to have a prolonged ventilatory course and he will be requiring long-term care.</p>
+<h2>Procedure</h2>
+<p>After all risks, benefits, and alternatives were discussed with multiple family members in detail, informed consent was obtained. The patient was brought to the Operative Suite where he was placed in supine position and general anesthesia was delivered through the existing endotracheal tube. The neck was then palpated and marked appropriately in the cricoid cartilage sternal notch and thyroid cartilage marked appropriately with felt-tip marker. The skin was then anesthetized with a mixture of 1% lidocaine and 1:100,000 epinephrine solution. The patient was prepped and draped in usual fashion. The surgeons were gowned and gloved. A vertical skin incision was then made with a #15 blade scalpel extending from approximately two fingerbreadths above the level of the sternum approximately 1 cm above the cricoid cartilage. Blunt dissection was then carried down until the fascia overlying the strap muscles were identified. At this point, the midline raphe was identified and the strap muscles were separated utilizing the Bovie cautery. Once the strap muscles have been identified, palpation was performed to identify any arterial aberration. A high-riding innominate was not identified. At this point, it was recognized that the thyroid gland was overlying the trachea could not be mobilized. Therefore, dissection was carried down through to the cricoid cartilage at which point hemostat was advanced underneath the thyroid gland, which was then doubly clamped and ligated with Bovie cautery. Suture ligation with #3-0 Vicryl was then performed on the thyroid gland in a double interlocking fashion. This cleared a significant portion of the trachea. The overlying pretracheal fascia was then cleared with use of pressured forceps as well as Bovie cautery. Now, a tracheal hook was placed underneath the cricoid cartilage in order to stabilize the trachea. The second tracheal ring was identified. The Bovie cautery reduced to create a tracheal window beneath the second tracheal ring that was inferiorly based. At this point, the anesthetist was appropriately alerted to deflate the endotracheal tube cuff. The airway was entered and inferior to the base, window was created. The anesthetist then withdrew the endotracheal tube until the tip of the tube was identified. At this point, a #8 Shiley tracheostomy tube was inserted freely into the tracheal lumen. The balloon was inflated and the ventilator was attached. He was immediately noted to have return of the CO2 waveform and was ventilating appropriately according to the anesthetist. Now, all surgical retractors were removed. The baseplate of the tracheostomy tube was sutured to the patient's skin with #2-0 nylon suture. The tube was further secured around the patient's neck with IV tubing. Finally, a drain sponge was placed. At this point, procedure was felt to be complete. The patient was returned to the ICU setting in stable condition where a chest x-ray is pending.</p>
+</body>
+</html>

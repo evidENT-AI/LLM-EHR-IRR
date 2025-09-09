@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ethmoidectomy and Mastoid Antrostomy</title>
+    <style>
+    /* Base settings */
+:root {
+    --text-primary: #000000;
+    --text-secondary: #333333;
+    --background: #ffffff;
+    --border-color: #e0e0e0;
+    --code-background: #f5f5f5;
+}
+
+/* Reset margins and set base font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Document basics */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background: var(--background);
+    padding: 0;
+    font-size: 12pt;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+    break-after: avoid-page;
+    color: var(--text-primary);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 20pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+h5 { font-size: 12pt; }
+h6 { font-size: 11pt; }
+
+/* Paragraphs and spacing */
+p {
+    margin-bottom: 1em;
+    orphans: 3;
+    widows: 3;
+}
+
+/* Lists */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* Code blocks with Solarized Light theme */
+pre, code {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    background: #fdf6e3;  /* Solarized Light base3 */
+    border: 1px solid #eee8d5;  /* Solarized Light base2 */
+    border-radius: 6px;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+pre {
+    padding: 1em;
+    margin: 1em 0;
+    overflow-x: auto;
+    font-size: 10pt;
+    color: #657b83;  /* Solarized Light base00 */
+    line-height: 1.5;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 0.9em;
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+/* Syntax highlighting for Solarized Light */
+.keyword {
+    color: #859900;  /* Solarized Light green */
+    font-weight: bold;
+}
+
+.string {
+    color: #2aa198;  /* Solarized Light cyan */
+}
+
+.comment {
+    color: #93a1a1;  /* Solarized Light base1 */
+    font-style: italic;
+}
+
+.function {
+    color: #268bd2;  /* Solarized Light blue */
+}
+
+.class {
+    color: #b58900;  /* Solarized Light yellow */
+    font-weight: bold;
+}
+
+.variable {
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+.operator {
+    color: #6c71c4;  /* Solarized Light violet */
+}
+
+.number {
+    color: #cb4b16;  /* Solarized Light orange */
+}
+
+.decorator {
+    color: #dc322f;  /* Solarized Light red */
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+    font-size: 0.9em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #f6f8fa;  /* GitHub table header background */
+}
+
+th {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;  /* GitHub border color */
+    padding: 0.75em 1em;
+    font-weight: 600;
+    color: #24292f;  /* GitHub header text color */
+    text-align: left;
+}
+
+td {
+    border: 1px solid #d0d7de;
+    padding: 0.75em 1em;
+    color: #24292f;  /* GitHub cell text color */
+}
+
+/* Zebra striping for better readability */
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f6f8fa;
+}
+
+/* Hover effect */
+tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+/* Blockquotes - GitHub style */
+blockquote {
+    margin: 1em 0;
+    padding: 0.75em 1em;
+    border-left: 4px solid #d0d7de;  /* GitHub blockquote border */
+    background-color: #f6f8fa;  /* GitHub blockquote background */
+    color: #57606a;  /* GitHub blockquote text color */
+    border-radius: 6px;
+}
+
+blockquote p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+blockquote strong {
+    color: #24292f;
+}
+
+/* Add some spacing for nested blockquotes */
+blockquote blockquote {
+    margin-left: 1em;
+    margin-right: 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+    break-before: page;
+    display: block;
+    height: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Print-specific styles */
+@page {
+    margin: 4cm 2.5cm;
+    size: A4;
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+    
+    pre, code {
+        border: 1px solid var(--border-color);
+    }
+    
+    .page-break {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+        border: none;
+        visibility: hidden;
+    }
+}
+
+/* Figures and captions */
+figure {
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Ethmoidectomy and Mastoid Antrostomy</h1>
+    <h2>Description</h2>
+<p>Functional endoscopic sinus surgery with left anterior ethmoidectomy and left mastoid antrostomy for chronic sinusitis and sinus cephalgia   (Medical Transcription Sample Report)</p>
+<h2>Preoperative Diagnoses</h2>
+<ul>
+    <li>1. Chronic sinusitis.</li><li>2. Sinus cephalgia.</li>
+</ul>
+<h2>Postoperative Diagnoses</h2>
+<ul>
+    <li>1. Chronic sinusitis.</li><li>2. Sinus cephalgia.</li>
+</ul>
+<h2>Procedure Performed</h2>
+<p>Functional endoscopic sinus surgery with left anterior ethmoidectomy and left mastoid antrostomy.</p>
+<h2>Anesthesia</h2>
+<p>General endotracheal tube converted from IV sedation.</p>
+<h2>Estimated Blood Loss</h2>
+<p>Minimal less than 25 cc.</p>
+<h2>Indications</h2>
+<p>This is a 50-year-old female who has had a history of chronic left facial pain. She has had a history of sinus surgery in the past on the left side. She has been evaluated by oromaxillary facial surgery on which there is no dental source identified. On CT evaluation of the sinuses, she revealed to have chronic inflammation within the left maxillary sinus as well as a hypoplastic maxillary sinus.</p>
+<h2>Procedure</h2>
+<p>After all risks, benefits, and alternatives have been discussed at length with the patient, informed consent was obtained. The patient was brought to the Operative Suite, placed in the supine position, where IV sedation was delivered. However, in order to secure the airway, the patient was converted over to general endotracheal tube secondary to anticipated bleeding. The patient was then rotated 90 degrees away, where cotton pledgets saturated with 4 cc of 10% cocaine solution were inserted into the nasal cavities. The nasal septum and the turbinates were then localized with a mixture of 1% lidocaine with 1:100000 epinephrine solution. The patient was then draped in the usual fashion. Attention was directed first to the left nasal cavity in which a 0 degree sinus endoscope was inserted and advanced down to the level of nasopharynx. Inspection of the eustachian tube orifice did not reveal any obstructing lesion. The fossa of the Rosenmüller was within normal limits. The scope was then withdrawn obtaining careful attention to the middle turbinates and middle meatus. The turbinate had lateralized and appeared adhered to the lateral nasal wall. There is no apparent patency of the left maxillary ostium. The uncinate process did appear to be less intact. The scope was further withdrawn and at a point underneath the inferior contrast there appeared to be a sinus opening consistent with previous nasal antral window. Now the middle turbinate was localized with a mixture of 1% lidocaine and epinephrine. The turbinate was then medialized with the use of a Freer elevator. The Olive-tip probe was then used to localize the natural maxillary ostium. The uncinate was then pulled anteriorly. A side-biting forceps was used to bite through the uncinate process, which was then further fractured anteriorly. The uncinate process was then taken down with XPS microdebrider and the natural maxillary ostium was localized. The ostium was then widened with the use of XPS microdebrider as well as use of the straight-biting forceps. Scar tissue was taken down. The ethmoid bone was then entered in the inferior medial aspect with the frayed resection. Once these anterior ethmoid cells were entered, the remainder of the inferior ethmoid cells were taken down with the use of XPS microdebrider, following this the surgical assistant palpated the patient's eyes for any vibration. Once all ethmoid cells had been opened, the scope was withdrawn. Further inspection of the previous nasal antral window was performed. An Olive-tip probe was placed in the opening of this window, and the bone was palpated. At this point, the procedure was felt to be complete. However, inspection of the right nasal cavity was performed. The sinus endoscope was inserted down to the level of the nasopharynx. The patient had excellent patent airway. The eustachian tube was patent and the fossa of Rosenmüller was without any mucosal abnormalities. The turbinate was medialized with a patent maxillary ostium. At this point, all surgical instruments were removed. A Merocel packing was placed in the left nasal cavity for hemostatic purposes with the intent to remove in the recovery. At this point, the patient was returned to the Department of Anesthesia and taken to recovery room without incidence.</p>
+</body>
+</html>

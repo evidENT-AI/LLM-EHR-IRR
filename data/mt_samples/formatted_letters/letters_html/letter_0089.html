@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tonsillectomy and Septoplasty</title>
+    <style>
+    /* Base settings */
+:root {
+    --text-primary: #000000;
+    --text-secondary: #333333;
+    --background: #ffffff;
+    --border-color: #e0e0e0;
+    --code-background: #f5f5f5;
+}
+
+/* Reset margins and set base font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Document basics */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background: var(--background);
+    padding: 0;
+    font-size: 12pt;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+    break-after: avoid-page;
+    color: var(--text-primary);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 20pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+h5 { font-size: 12pt; }
+h6 { font-size: 11pt; }
+
+/* Paragraphs and spacing */
+p {
+    margin-bottom: 1em;
+    orphans: 3;
+    widows: 3;
+}
+
+/* Lists */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* Code blocks with Solarized Light theme */
+pre, code {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    background: #fdf6e3;  /* Solarized Light base3 */
+    border: 1px solid #eee8d5;  /* Solarized Light base2 */
+    border-radius: 6px;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+pre {
+    padding: 1em;
+    margin: 1em 0;
+    overflow-x: auto;
+    font-size: 10pt;
+    color: #657b83;  /* Solarized Light base00 */
+    line-height: 1.5;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 0.9em;
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+/* Syntax highlighting for Solarized Light */
+.keyword {
+    color: #859900;  /* Solarized Light green */
+    font-weight: bold;
+}
+
+.string {
+    color: #2aa198;  /* Solarized Light cyan */
+}
+
+.comment {
+    color: #93a1a1;  /* Solarized Light base1 */
+    font-style: italic;
+}
+
+.function {
+    color: #268bd2;  /* Solarized Light blue */
+}
+
+.class {
+    color: #b58900;  /* Solarized Light yellow */
+    font-weight: bold;
+}
+
+.variable {
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+.operator {
+    color: #6c71c4;  /* Solarized Light violet */
+}
+
+.number {
+    color: #cb4b16;  /* Solarized Light orange */
+}
+
+.decorator {
+    color: #dc322f;  /* Solarized Light red */
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+    font-size: 0.9em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #f6f8fa;  /* GitHub table header background */
+}
+
+th {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;  /* GitHub border color */
+    padding: 0.75em 1em;
+    font-weight: 600;
+    color: #24292f;  /* GitHub header text color */
+    text-align: left;
+}
+
+td {
+    border: 1px solid #d0d7de;
+    padding: 0.75em 1em;
+    color: #24292f;  /* GitHub cell text color */
+}
+
+/* Zebra striping for better readability */
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f6f8fa;
+}
+
+/* Hover effect */
+tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+/* Blockquotes - GitHub style */
+blockquote {
+    margin: 1em 0;
+    padding: 0.75em 1em;
+    border-left: 4px solid #d0d7de;  /* GitHub blockquote border */
+    background-color: #f6f8fa;  /* GitHub blockquote background */
+    color: #57606a;  /* GitHub blockquote text color */
+    border-radius: 6px;
+}
+
+blockquote p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+blockquote strong {
+    color: #24292f;
+}
+
+/* Add some spacing for nested blockquotes */
+blockquote blockquote {
+    margin-left: 1em;
+    margin-right: 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+    break-before: page;
+    display: block;
+    height: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Print-specific styles */
+@page {
+    margin: 4cm 2.5cm;
+    size: A4;
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+    
+    pre, code {
+        border: 1px solid var(--border-color);
+    }
+    
+    .page-break {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+        border: none;
+        visibility: hidden;
+    }
+}
+
+/* Figures and captions */
+figure {
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Tonsillectomy and Septoplasty</h1>
+    <h2>Description</h2>
+<p>Tonsillectomy, uvulopalatopharyngoplasty, and septoplasty for obstructive sleep apnea syndrome with hypertrophy of tonsils and of uvula and soft palate with deviation of nasal septum   (Medical Transcription Sample Report)</p>
+<h2>Preoperative Diagnosis</h2>
+<p>Obstructive sleep apnea syndrome with hypertrophy of tonsils and of uvula and soft palate.</p>
+<h2>Postoperative Diagnosis</h2>
+<p>Obstructive sleep apnea syndrome with hypertrophy of tonsils and of uvula and soft palate with deviation of nasal septum.</p>
+<h2>Operation</h2>
+<p>Tonsillectomy, uvulopalatopharyngoplasty, and septoplasty.</p>
+<h2>Anesthesia</h2>
+<p>General anesthetics.</p>
+<h2>History</h2>
+<p>This is a 51-year-old gentleman here with his wife. She confirms the history of loud snoring at night with witnessed apnea. The result of the sleep study was reviewed. This showed moderate sleep apnea with significant desaturation. The patient was unable to tolerate treatment with CPAP. At the office, we observed large tonsils and elongation and thickening of the uvula as well as redundant soft tissue of the palate. A tortuous appearance of the septum also was observed. This morning, I talked to the patient and his wife about the findings. I reviewed the CT images. He has no history of sinus infections and does not recall a history of nasal trauma. We discussed the removal of tonsils and uvula and soft palate tissue and the hope that this would help with his airway. Depending on the findings of surgery, I explained that I might remove that bone spur that we are seeing within the nasal passage. I will get the best look at it when he is asleep. We discussed recovery as well. He visited with Dr. XYZ about the anesthetic produce.</p>
+<h2>Procedure</h2>
+<p>: General tracheal anesthetic was administered by Dr. XYZ and Mr. Radke. Afrin drops were placed in both nostrils and a cottonoid soaked with Afrin was placed in each side of the nose. A Crowe-Davis mouth gag was placed. The tonsils were very large and touched the uvula. The uvula was relatively long and very thick and there were redundant folds of soft palate mucosa and prominent posterior and anterior tonsillar pillars. Also, there was a cryptic appearance of the tonsils but there was no acute redness or exudate. Retraction of the soft palate permitted evaluation of the nasopharynx with the mirror and the choanae were patent and there was no adenoid tissue present. A very crowded pharynx was appreciated. The tonsils were first removed using electrodissection technique. Hemostasis was achieved with the electrocautery and with sutures of 0 plain catgut. The tonsil fossae were injected with 0.25% Marcaine with 1:200,000 epinephrine. There already was more room in the pharynx, but the posterior pharyngeal wall was still obscured by the soft palate and uvula. The uvula was grasped with the Alice clamp. I palpated the posterior edge of the hard palate and calculated removal of about a third of the length of the soft palate. We switched over from the Bayonet cautery to the blunt needle tip electrocautery. The planned anterior soft palate incision was marked out with the electrocautery from the left anterior tonsillar pillar rising upwards and then extending horizontally across the soft palate to include all of the uvula and a portion of the soft palate, and the incision then extended across the midline and then inferiorly to meet the right anterior tonsillar pillar. This incision was then deepened with the electrocautery on a cutting current. The uvular artery just to the right of the midline was controlled with the suction electrocautery. The posterior soft palate incision was made parallel to the anterior soft palate incision but was made leaving a longer length of mucosa to permit closure of the palatoplasty. A portion of the redundant soft palate mucosa tissue also was included with the resection specimen and the tissue including the soft palate and uvula was included with the surgical specimen as the tonsils were sent to pathology. The tonsil fossae were injected with 0.25% Marcaine with 1:200,000 epinephrine. The soft palate was also injected with 0.25% Marcaine with 1:200,000 epinephrine. The posterior tonsillar pillars were then brought forward to close to the anterior tonsillar pillars and these were sutured down to the tonsil bed with interrupted 0 plain catgut sutures. The posterior soft palate mucosa was advanced forward and brought up to the anterior soft palate incision and closure of the soft palate wound was then accomplished with interrupted 3-0 chromic catgut sutures. A much improved appearance of the oropharynx with a greatly improved airway was appreciated. A moist tonsil sponge was placed into the nasopharynx and the mouth gag was removed. I removed the cottonoids from both nostrils. Speculum exam showed the inferior turbinates were large, the septum was tortuous and it angulated to the right and then sharply bent back to the left. The septum was injected with 0.25% Marcaine with 1:200,000 epinephrine using a separate syringe and needle. A #15 blade was used to make a left cheilion incision.     Mucoperichondrium and mucoperiosteum were elevated with the Cottle elevator. When we reached the deflected portion of the vomer, this was separated from the septal cartilage with a Freer elevator. The right-sided mucoperiosteum was elevated with the Freer elevator and then with Takahashi forceps and with the 4 mm osteotome, the deflected portion of the septal bone from the vomer was resected. This tissue also was sent as a separate specimen to pathology. The intraseptal space was irrigated with saline and suctioned. The nasal septal mucosal flaps were then sutured together with a quilting suture of 4-0 plain catgut. I observed no evidence of purulent secretion or polyp formation within the nostrils. The inferior turbinates were then both outfractured using a knife handle, and now there was a much more patent nasal airway on both sides. There was good support for the nasal tip and the dorsum and there was good hemostasis within the nose. No packing was used in the nostrils. Polysporin ointment was introduced into both nostrils. The mouth gag was reintroduced and the pack removed from the nasopharynx. The nose and throat were irrigated with saline and suctioned. An orogastric tube was placed and a moderate amount of clear fluid suctioned from the stomach and this tube was removed. Sponge and needle count were reported correct. The mouth gag having been withdrawn, the patient was then awakened and returned to recovery room in a satisfactory condition. He tolerated the operation excellently. Estimated blood loss was about 15-20 cc. In the recovery room, I observed that he was moving air well and I spoke with his wife about the findings of surgery.</p>
+</body>
+</html>

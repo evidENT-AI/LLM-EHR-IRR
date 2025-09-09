@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Laryngoscopy & Vocal Cord Biopsy</title>
+    <style>
+    /* Base settings */
+:root {
+    --text-primary: #000000;
+    --text-secondary: #333333;
+    --background: #ffffff;
+    --border-color: #e0e0e0;
+    --code-background: #f5f5f5;
+}
+
+/* Reset margins and set base font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Document basics */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: var(--text-primary);
+    background: var(--background);
+    padding: 0;
+    font-size: 12pt;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+    break-after: avoid-page;
+    color: var(--text-primary);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 20pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+h5 { font-size: 12pt; }
+h6 { font-size: 11pt; }
+
+/* Paragraphs and spacing */
+p {
+    margin-bottom: 1em;
+    orphans: 3;
+    widows: 3;
+}
+
+/* Lists */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* Code blocks with Solarized Light theme */
+pre, code {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    background: #fdf6e3;  /* Solarized Light base3 */
+    border: 1px solid #eee8d5;  /* Solarized Light base2 */
+    border-radius: 6px;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+pre {
+    padding: 1em;
+    margin: 1em 0;
+    overflow-x: auto;
+    font-size: 10pt;
+    color: #657b83;  /* Solarized Light base00 */
+    line-height: 1.5;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 0.9em;
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+/* Syntax highlighting for Solarized Light */
+.keyword {
+    color: #859900;  /* Solarized Light green */
+    font-weight: bold;
+}
+
+.string {
+    color: #2aa198;  /* Solarized Light cyan */
+}
+
+.comment {
+    color: #93a1a1;  /* Solarized Light base1 */
+    font-style: italic;
+}
+
+.function {
+    color: #268bd2;  /* Solarized Light blue */
+}
+
+.class {
+    color: #b58900;  /* Solarized Light yellow */
+    font-weight: bold;
+}
+
+.variable {
+    color: #657b83;  /* Solarized Light base00 */
+}
+
+.operator {
+    color: #6c71c4;  /* Solarized Light violet */
+}
+
+.number {
+    color: #cb4b16;  /* Solarized Light orange */
+}
+
+.decorator {
+    color: #dc322f;  /* Solarized Light red */
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+    font-size: 0.9em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #f6f8fa;  /* GitHub table header background */
+}
+
+th {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;  /* GitHub border color */
+    padding: 0.75em 1em;
+    font-weight: 600;
+    color: #24292f;  /* GitHub header text color */
+    text-align: left;
+}
+
+td {
+    border: 1px solid #d0d7de;
+    padding: 0.75em 1em;
+    color: #24292f;  /* GitHub cell text color */
+}
+
+/* Zebra striping for better readability */
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f6f8fa;
+}
+
+/* Hover effect */
+tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+/* Blockquotes - GitHub style */
+blockquote {
+    margin: 1em 0;
+    padding: 0.75em 1em;
+    border-left: 4px solid #d0d7de;  /* GitHub blockquote border */
+    background-color: #f6f8fa;  /* GitHub blockquote background */
+    color: #57606a;  /* GitHub blockquote text color */
+    border-radius: 6px;
+}
+
+blockquote p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+blockquote strong {
+    color: #24292f;
+}
+
+/* Add some spacing for nested blockquotes */
+blockquote blockquote {
+    margin-left: 1em;
+    margin-right: 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+    break-before: page;
+    display: block;
+    height: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Print-specific styles */
+@page {
+    margin: 4cm 2.5cm;
+    size: A4;
+}
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+    
+    pre, code {
+        border: 1px solid var(--border-color);
+    }
+    
+    .page-break {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+        border: none;
+        visibility: hidden;
+    }
+}
+
+/* Figures and captions */
+figure {
+    margin: 1em 0;
+    page-break-inside: avoid;
+    break-inside: avoid-page;
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Laryngoscopy & Vocal Cord Biopsy</h1>
+    <h2>Description</h2>
+<p>Microscopic suspension direct laryngoscopy with biopsy of left true vocal cord stripping. Hoarseness, bilateral true vocal cord lesions, and leukoplakia.   (Medical Transcription Sample Report)</p>
+<h2>Preoperative Diagnoses</h2>
+<ul>
+    <li>1. Hoarseness.</li><li>2. Bilateral true vocal cord lesions.</li><li>3. Leukoplakia.</li>
+</ul>
+<h2>Postoperative Diagnoses</h2>
+<ul>
+    <li>1. Hoarseness.</li><li>2. Bilateral true vocal cord lesions.</li><li>3. Leukoplakia.</li>
+</ul>
+<h2>Procedure Performed</h2>
+<p>Microscopic suspension direct laryngoscopy with biopsy of left true vocal cord stripping.</p>
+<h2>Anesthesia</h2>
+<p>General endotracheal.</p>
+<h2>Estimated Blood Loss</h2>
+<p>Minimal.</p>
+<h2>Complications</h2>
+<p>None.     INDICATIONS FOR PROCEDURE: The patient is a 33-year-old Caucasian male with a history of chronic hoarseness and bilateral true vocal cord lesions, and leukoplakia discovered on a fiberoptic nasal laryngoscopy in the office. Discussed risks, complications, and consequences of a surgical biopsy of the left true vocal cord and consent was obtained.</p>
+<h2>Procedure</h2>
+<p>The patient was brought to operative suite by anesthesia, placed on the operating table in supine position. After this, the patient was placed under general endotracheal intubation anesthesia and the operative table was turned 90 degrees by the Department of Anesthesia. A shoulder roll was then placed followed by the patient being placed in reverse Trendelenburg.     After this, a mouthguard was placed in the upper teeth and a Dedo laryngoscope was placed in the patient's oral cavity and advanced through the oral cavity in the oropharynx down into the hypopharynx. The patient's larynx was then brought into view with the true vocal cords hidden underneath what appeared to be redundant false vocal cords. The left true vocal cord was then first addressed and appeared to have an extensive area of leukoplakia extending from the posterior one-third up to the anterior third. The false vocal cord also appeared to be very full on the left side along with fullness in the subglottic region. The patient's anterior commissure appeared to be clear. The false cord on the right side also appeared to be very redundant and overshadowing the true vocal cord. Once the true vocal cord was retracted laterally, there was revealed a second area of leukoplakia involving the right true vocal cord in the anterior one-third aspect. The patient's subglottic region was very edematous and with redundant mucosal tissue. The areas of leukoplakia appeared to be cobblestoned in appearance, irregularly bordered, and very hard to the touch. The left true vocal cord was then first addressed, was stripped from posteriorly to anteriorly utilizing a #45 laryngeal forceps. After this, the patient had pressure placed upon this area with tropical adrenaline and a rectal swab to maintain hemostasis. The specimen was passed off the field and was sent to Pathology for evaluation. Hemostasis was maintained on the left side. Prior to taking this biopsy, the Louie arm was attached to the laryngoscope and then suspended on the Mayo stand. The Zeiss operating microscope was then brought into view to directly visualize the vocal cords. The biopsies were taken under direct visualization utilizing the Zeiss operating microscope. After the specimen was taken and the laryngoscope was desuspended from the Mayo stand and Louie arm was removed, the scope was then pulled more cephalad and the piriform sinuses, valecula, and base of the tongue were all directly visualized, which appeared normal except for the left base of tongue appeared to be full. This area was biopsied multiple times with a straight laryngeal forceps and passed off the field and sent to Pathology as specimen. The scope was then pulled back into the superior aspect of hypopharynx into the oropharynx and the oral cavity demonstrated no signs of any gross lesions. A bimanual examination was then performed, which again demonstrated a fullness on the left base of tongue region with no signs of any other gross lesions. There were no signs of any palpable cervical lymphadenopathy. The tooth guard was removed and the patient was then turned back to anesthesia. The patient did receive intraoperatively 10 mg of Decadron. The patient tolerated the procedure well and was extubated in the operating room.     The patient was transferred to recovery room in stable condition and tolerated the procedure well. The patient will be sent home with prescriptions for Medrol DOSEPAK, Tylenol with Codeine, Elixir, and amoxicillin 250 mg per 5 cc.</p>
+</body>
+</html>
