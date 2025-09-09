@@ -1,0 +1,476 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 1,
+      "900000000000207008": 15
+    },
+    "semanticTags": {
+      "procedure": 16
+    },
+    "language": {
+      "en": 16
+    },
+    "membership": {
+      "1322291000000109": 16,
+      "900000000000497000": 15,
+      "1127631000000101": 7,
+      "733073007": 16,
+      "1382401000000109": 14
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "1127631000000101": {
+      "conceptId": "1127631000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Maternal delivery procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Maternal delivery procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "1127631000000101"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 16,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 16,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Elective cesarean section (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "177141003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Elective cesarean section (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Elective cesarean section",
+          "lang": "en"
+        },
+        "id": "177141003"
+      }
+    },
+    {
+      "term": "Hospital admission, elective (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8715000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hospital admission, elective (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital admission, elective",
+          "lang": "en"
+        },
+        "id": "8715000"
+      }
+    },
+    {
+      "term": "Advice about elective mutism (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "197271000000105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Advice about elective mutism (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Advice about selective mutism",
+          "lang": "en"
+        },
+        "id": "197271000000105"
+      }
+    },
+    {
+      "term": "Elective cesarean hysterectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236988000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Elective cesarean hysterectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Elective cesarean hysterectomy",
+          "lang": "en"
+        },
+        "id": "236988000"
+      }
+    },
+    {
+      "term": "Counseling for elective sterilization (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702584003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Counseling for elective sterilization (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Counseling for elective sterilization",
+          "lang": "en"
+        },
+        "id": "702584003"
+      }
+    },
+    {
+      "term": "Elective upper segment cesarean section (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "177142005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Elective upper segment cesarean section (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Elective upper segment cesarean section",
+          "lang": "en"
+        },
+        "id": "177142005"
+      }
+    },
+    {
+      "term": "Elective lower segment cesarean section (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "177143000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Elective lower segment cesarean section (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Elective lower segment cesarean section",
+          "lang": "en"
+        },
+        "id": "177143000"
+      }
+    },
+    {
+      "term": "Elective immunization for international travel (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14747002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Elective immunization for international travel (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Elective immunization for international travel",
+          "lang": "en"
+        },
+        "id": "14747002"
+      }
+    },
+    {
+      "term": "Elective repair of infrarenal abdominal aortic aneurysm (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "698995008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Elective repair of infrarenal abdominal aortic aneurysm (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Elective repair of infrarenal abdominal aortic aneurysm",
+          "lang": "en"
+        },
+        "id": "698995008"
+      }
+    },
+    {
+      "term": "Elective repair of suprarenal abdominal aortic aneurysm (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "698996009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Elective repair of suprarenal abdominal aortic aneurysm (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Elective repair of suprarenal abdominal aortic aneurysm",
+          "lang": "en"
+        },
+        "id": "698996009"
+      }
+    },
+    {
+      "term": "Hospital admission, elective, without pre-admission work-up (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "81672003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hospital admission, elective, without pre-admission work-up (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital admission, elective, without pre-admission work-up",
+          "lang": "en"
+        },
+        "id": "81672003"
+      }
+    },
+    {
+      "term": "Hospital admission, elective, with partial pre-admission work-up (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15584006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hospital admission, elective, with partial pre-admission work-up (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital admission, elective, with partial pre-admission work-up",
+          "lang": "en"
+        },
+        "id": "15584006"
+      }
+    },
+    {
+      "term": "Hospital admission, elective, with complete pre-admission work-up (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "112689000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hospital admission, elective, with complete pre-admission work-up (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital admission, elective, with complete pre-admission work-up",
+          "lang": "en"
+        },
+        "id": "112689000"
+      }
+    },
+    {
+      "term": "Elective lower segment cesarean section with bilateral tubal ligation (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "736026009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Elective lower segment cesarean section with bilateral tubal ligation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Elective lower segment cesarean section with bilateral tubal ligation",
+          "lang": "en"
+        },
+        "id": "736026009"
+      }
+    },
+    {
+      "term": "Elective upper segment cesarean section with bilateral tubal ligation (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "736018001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Elective upper segment cesarean section with bilateral tubal ligation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Elective upper segment cesarean section with bilateral tubal ligation",
+          "lang": "en"
+        },
+        "id": "736018001"
+      }
+    },
+    {
+      "term": "Elective lower segment cesarean section through inverted T shaped incision of uterus (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1197219005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Elective lower segment cesarean section through inverted T shaped incision of uterus (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Elective lower segment cesarean section through inverted T shaped incision of uterus",
+          "lang": "en"
+        },
+        "id": "1197219005"
+      }
+    }
+  ]
+}

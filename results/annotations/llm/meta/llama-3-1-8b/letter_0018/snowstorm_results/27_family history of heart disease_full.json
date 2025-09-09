@@ -1,0 +1,383 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2,
+      "900000000000207008": 8
+    },
+    "semanticTags": {
+      "disorder": 1,
+      "situation": 4
+    },
+    "language": {
+      "en": 10
+    },
+    "membership": {
+      "1322291000000109": 5,
+      "999004331000000102": 1,
+      "1127601000000107": 5,
+      "1382531000000102": 1,
+      "900000000000497000": 4,
+      "733073007": 5,
+      "999002271000000101": 5
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 10,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 10,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Family history of ischemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297242006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of ischemic heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "297242006"
+      }
+    },
+    {
+      "term": "Family history of coronary heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "203261000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Family history of coronary heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of coronary heart disease",
+          "lang": "en"
+        },
+        "id": "203261000000108"
+      }
+    },
+    {
+      "term": "Family history of ischaemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297242006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of ischemic heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "297242006"
+      }
+    },
+    {
+      "term": "No family history of ischemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "266882009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No family history: Ischemic heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No FH: Ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "266882009"
+      }
+    },
+    {
+      "term": "No family history of ischaemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "266882009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No family history: Ischemic heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No FH: Ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "266882009"
+      }
+    },
+    {
+      "term": "Family history of complex congenital heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64041000119100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of complex congenital heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of complex congenital heart disease",
+          "lang": "en"
+        },
+        "id": "64041000119100"
+      }
+    },
+    {
+      "term": "Family history of ischemic heart disease (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297242006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of ischemic heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "297242006"
+      }
+    },
+    {
+      "term": "Family history of coronary heart disease (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "203261000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Family history of coronary heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of coronary heart disease",
+          "lang": "en"
+        },
+        "id": "203261000000108"
+      }
+    },
+    {
+      "term": "Family history of complex congenital heart disease (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64041000119100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of complex congenital heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of complex congenital heart disease",
+          "lang": "en"
+        },
+        "id": "64041000119100"
+      }
+    },
+    {
+      "term": "A disease associated with faster than normal growth before and after birth, intellectual disability, characteristic facial features including round face, thick horizontal eyebrows, narrowed palpebral fissures. Macrocephaly may also be present along with features of autism spectrum disorder. Other associated signs include kyphoscoliosis, heart defects, pes planus, hypotonia, hypermobile joints depression, anxiety, obsessive-compulsive disorder. Caused by mutation in the DNMT3A gene, which provides instructions for making the enzyme DNA methyltransferase 3 alpha. This condition is inherited in an autosomal dominant pattern, however some cases result from new mutations in the gene and occur in people with no history of the disorder in their family.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "768843007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tall stature, intellectual disability, facial dysmorphism syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DNMT3A-related overgrowth syndrome",
+          "lang": "en"
+        },
+        "id": "768843007"
+      }
+    }
+  ]
+}

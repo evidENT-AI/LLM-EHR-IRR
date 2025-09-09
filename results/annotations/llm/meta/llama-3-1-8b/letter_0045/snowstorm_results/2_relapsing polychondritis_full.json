@@ -1,0 +1,325 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 8
+    },
+    "semanticTags": {
+      "disorder": 4,
+      "substance": 1
+    },
+    "language": {
+      "en": 8
+    },
+    "membership": {
+      "1322291000000109": 4,
+      "1127601000000107": 4,
+      "1382531000000102": 4,
+      "900000000000497000": 5,
+      "733073007": 5,
+      "999002271000000101": 4,
+      "30931000001101": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 8,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 8,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Relapsing polychondritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "72275000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Relapsing polychondritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Relapsing polychondritis",
+          "lang": "en"
+        },
+        "id": "72275000"
+      }
+    },
+    {
+      "term": "Relapsing polychondritis antibody",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "121237000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Collagen type II antibody (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Collagen type II antibody",
+          "lang": "en"
+        },
+        "id": "121237000"
+      }
+    },
+    {
+      "term": "Relapsing polychondritis of larynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232439007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Relapsing polychondritis of larynx (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Relapsing polychondritis of larynx",
+          "lang": "en"
+        },
+        "id": "232439007"
+      }
+    },
+    {
+      "term": "Relapsing polychondritis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "72275000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Relapsing polychondritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Relapsing polychondritis",
+          "lang": "en"
+        },
+        "id": "72275000"
+      }
+    },
+    {
+      "term": "Relapsing polychondritis of larynx (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232439007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Relapsing polychondritis of larynx (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Relapsing polychondritis of larynx",
+          "lang": "en"
+        },
+        "id": "232439007"
+      }
+    },
+    {
+      "term": "A well-defined entity within the group of auto inflammatory disorders, it is a rare disease with 49 cases documented so far. It affects mainly young adults and is characterized by recurrent attacks of fever and deep abscess-like collections, most frequently localized in the abdomen. Aseptic abscesses may be either isolated or associated with an underlying condition such as relapsing polychondritis or inflammatory bowel disease. Antibiotics fail to cure the patients but dramatic improvements are seen with corticosteroids and immunosuppressive drugs.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720751000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Corticosteroid sensitive aseptic abscess syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Corticosteroid sensitive aseptic abscess syndrome",
+          "lang": "en"
+        },
+        "id": "720751000"
+      }
+    },
+    {
+      "term": "A well-defined entity within the group of auto inflammatory disorders, it is a rare disease with 49 cases documented so far. It affects mainly young adults and is characterised by recurrent attacks of fever and deep abscess-like collections, most frequently localised in the abdomen. Aseptic abscesses may be either isolated or associated with an underlying condition such as relapsing polychondritis or inflammatory bowel disease. Antibiotics fail to cure the patients but dramatic improvements are seen with corticosteroids and immunosuppressive drugs.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720751000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Corticosteroid sensitive aseptic abscess syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Corticosteroid sensitive aseptic abscess syndrome",
+          "lang": "en"
+        },
+        "id": "720751000"
+      }
+    },
+    {
+      "term": "A rare autoinflammatory syndrome with characteristics of the presence of features of relapsing polychondritis and Behcet disease in the same individual. This includes cartilage inflammation of the ears, nose, throat and rib cage as well as recurrent oral and genital ulcers respectively. Patients may also present ocular involvement (in particular anterior uveitis or scleritis), arthritis, fever, colitis, thrombophlebitis, and central nervous system vasculitis or in rare cases arterial aneurysms. Symptoms of polychondritis occur secondary to those of Behcet disease in the vast majority of cases.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238850005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mouth and genital ulcers with inflamed cartilage syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "MAGIC syndrome",
+          "lang": "en"
+        },
+        "id": "238850005"
+      }
+    }
+  ]
+}

@@ -1,0 +1,834 @@
+{
+  "labels": {
+    "13 years old": {
+      "context": "13 years old complaining about severe ear pain - Chronic otitis media.",
+      "qualifier": "NA",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "severe ear pain": {
+      "context": "Patient, 13 years old, comes to your office with his mother complaining about severe ear pain.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Chronic otitis media": {
+      "context": "13 years old complaining about severe ear pain - Chronic otitis media.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "earaches": {
+      "context": "He awoke during the night with severe ear pain, and mom states that this is the third time this year he has had earaches.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "wrestling team": {
+      "context": "and is very excited about being on the wresting team.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "afebrile": {
+      "context": "Mom reports that patient has been afebrile with each of the earache episodes,",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "upper respiratory symptoms": {
+      "context": "and he has not had upper respiratory symptoms.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "head trauma": {
+      "context": "Patient denies any head trauma associated with wrestling practice.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "normal pregnancy": {
+      "context": "Patient's mother reports a normal pregnancy with no complications,",
+      "qualifier": "NA",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "vaginal delivery": {
+      "context": "having received prenatal care from 12 weeks. Vaginal delivery was uneventful with a normal perinatal course.",
+      "qualifier": "NA",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "sitting alone": {
+      "context": "Patient sat alone at 6 months,",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "crawling": {
+      "context": "crawled at 9 months,",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "walking": {
+      "context": "and walked at 13 months.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "enjoying school": {
+      "context": "Patient reports enjoying school,",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "active in scouts": {
+      "context": "remains active in scouts,",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "friends": {
+      "context": "Patient is in 8th grade this year and an A/B student. Both siblings are healthy. His Dad has hypertension and has frequent heartburn symptoms that he treats with over-the-counter (OTC) medications. Mom is healthy and has asthma.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "hypertension": {
+      "context": "His Dad has hypertension and has frequent heartburn symptoms that he treats with over-the-counter (OTC) medications.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "heartburn symptoms": {
+      "context": "His Dad has hypertension and has frequent heartburn symptoms that he treats with over-the-counter (OTC) medications.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "amoxicillin": {
+      "context": "He has had no major illnesses or hospitalizations. He had one emergency room visit 2 years ago for a knee laceration. Patient has been healthy except for the past year when he had two episodes of otitis media not associated with respiratory infections. He received antibiotic therapy (amoxicillin) for the otitis media and both episodes resolved without problems.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "knee laceration": {
+      "context": "He had one emergency room visit 2 years ago for a knee laceration.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "OTC medications": {
+      "context": "Patient's Mom states that he takes no prescribed medications or OTC medications,",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Pepcid AE": {
+      "context": "but he admits that he has been taking his dad's OTC Pepcid AE sometimes when he gets heartburn.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "sore throats": {
+      "context": "He does complain of sore throats sometimes and often feels burning in his throat when he goes to sleep at night after a late evening snack.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "burning in his throat": {
+      "context": "He does complain of sore throats sometimes and often feels burning in his throat when he goes to sleep at night after a late evening snack.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "cereal bars": {
+      "context": "Patient eats cereal bars or pop tarts with milk for breakfast most days.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "pop tarts": {
+      "context": "Patient eats cereal bars or pop tarts with milk for breakfast most days.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "milk": {
+      "context": "Patient eats cereal bars or pop tarts with milk for breakfast most days.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "sandwich": {
+      "context": "He takes his lunch (usually a sandwich and chips or yogurt and fruit) for lunch.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "chips": {
+      "context": "He takes his lunch (usually a sandwich and chips or yogurt and fruit) for lunch.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "yogurt": {
+      "context": "He takes his lunch (usually a sandwich and chips or yogurt and fruit) for lunch.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "fruit": {
+      "context": "He takes his lunch (usually a sandwich and chips or yogurt and fruit) for lunch.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "supper": {
+      "context": "Mom or his sister cooks supper in the evening.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "fast food": {
+      "context": "The family goes out to eat once or twice a week and he only gets 'fast food' once or twice a week according to his Mom.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "height/weight": {
+      "context": "Height/weight: Patient weighs 109 pounds (60th percentile) and is 69 inches tall (93rd percentile).",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "vital signs": {
+      "context": "Vital signs: BP 110/60, T 99.2, HR 70, R 16.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "BP 110/60": {
+      "context": "Vital signs: BP 110/60, T 99.2, HR 70, R 16.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "T 99.2": {
+      "context": "Vital signs: BP 110/60, T 99.2, HR 70, R 16.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "HR 70": {
+      "context": "Vital signs: BP 110/60, T 99.2, HR 70, R 16.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "R 16": {
+      "context": "Vital signs: BP 110/60, T 99.2, HR 70, R 16.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "General": {
+      "context": "General: Alert, cooperative but a bit shy.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Neuro": {
+      "context": "Neuro: DTRs symmetric, 2+, negative Romberg, able to perform simple calculations without difficulty, short-term memory intact.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "DTRs symmetric": {
+      "context": "Neuro: DTRs symmetric, 2+, negative Romberg, able to perform simple calculations without difficulty, short-term memory intact.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Romberg": {
+      "context": "Neuro: DTRs symmetric, 2+, negative Romberg, able to perform simple calculations without difficulty, short-term memory intact.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "ocular vessels": {
+      "context": "Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "TMs deep red": {
+      "context": "TMs deep red, dull, landmarks obscured, full bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "post auricular nodes": {
+      "context": "Post auricular and submandibular nodes on left are palpable and slightly tender.",
+      "qualifier": "Signs",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "submandibular nodes": {
+      "context": "Post auricular and submandibular nodes on left are palpable and slightly tender.",
+      "qualifier": "Signs",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "CTA": {
+      "context": "Lungs: CTA, breath sounds equal bilaterally, excursion and chest configuration normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "breath sounds equal bilaterally": {
+      "context": "Lungs: CTA, breath sounds equal bilaterally, excursion and chest configuration normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "S1, S2 split": {
+      "context": "Cardiac: S1, S2 split, no murmurs, pulses equal bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "no murmurs": {
+      "context": "Cardiac: S1, S2 split, no murmurs, pulses equal bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "pulses equal bilaterally": {
+      "context": "Cardiac: S1, S2 split, no murmurs, pulses equal bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "soft": {
+      "context": "Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "rounded": {
+      "context": "Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "epigastric tenderness": {
+      "context": "Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "heartburn": {
+      "context": "Patient was to keep a diary of any episodes of heartburn, including what foods seemed to aggravate it.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "bowel sounds active": {
+      "context": "Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat. Bowel sounds active in all quadrants.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "full range of motion": {
+      "context": "Musculoskeletal: Full range of motion, all extremities.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "spine straight": {
+      "context": "Musculoskeletal: Full range of motion, all extremities. Spine straight, able to perform jumping jacks and duck walk without difficulty.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "jumping jacks": {
+      "context": "Musculoskeletal: Full range of motion, all extremities. Spine straight, able to perform jumping jacks and duck walk without difficulty.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "duck walk": {
+      "context": "Musculoskeletal: Full range of motion, all extremities. Spine straight, able to perform jumping jacks and duck walk without difficulty.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "normal male": {
+      "context": "Genital: Normal male, Tanner stage 4.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Tanner stage 4": {
+      "context": "Genital: Normal male, Tanner stage 4.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "small amount of soft stool": {
+      "context": "Rectal exam - small amount of soft stool, no fissures or masses.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "stool negative for blood": {
+      "context": "Stool negative for blood and H. pylori antigen.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "H. pylori antigen": {
+      "context": "Stool negative for blood and H. pylori antigen.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "normal CBC": {
+      "context": "Normal CBC and urinalysis.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "normal urinalysis": {
+      "context": "Normal CBC and urinalysis.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "barium swallow": {
+      "context": "A barium swallow and upper GI was scheduled for the following week.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "upper GI": {
+      "context": "A barium swallow and upper GI was scheduled for the following week.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "marked GE reflux": {
+      "context": "It showed marked GE reflux.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Chronic Otitis Media": {
+      "context": "The differential diagnoses for patient included (a) chronic otitis media/treatment failure,",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "treatment failure": {
+      "context": "The differential diagnoses for patient included (a) chronic otitis media/treatment failure,",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Peptic Ulcer Disease": {
+      "context": "The differential diagnoses for patient included (b) peptic ulcer disease/gastritis,",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "gastritis": {
+      "context": "The differential diagnoses for patient included (b) peptic ulcer disease/gastritis,",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Gastro esophageal reflux disease (GERD)": {
+      "context": "The differential diagnoses for patient included (c) gastro esophageal reflux disease (GERD) or carbonated beverage syndrome,",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "carbonated beverage syndrome": {
+      "context": "The differential diagnoses for patient included (c) gastro esophageal reflux disease (GERD) or carbonated beverage syndrome,",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Trauma": {
+      "context": "The differential diagnoses for patient included (d) trauma.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "omeprazole": {
+      "context": "Patient and his Mom agreed to a trial of omeprazole 20 mg at bedtime for 2 weeks.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Augmentin99": {
+      "context": "Patient was to keep a diary of any episodes of heartburn, including what foods seemed to aggravate it. The clinician asked him to avoid using any antacid products in the meantime to gage the effectiveness of the medication. He was also given a prescription for 10 days of Augmentin99 and a follow-up appointment for 2 weeks.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "large pizza": {
+      "context": "At his follow-up appointment he reported one episode after he ate a whole large pizza after wrestling practice but said it went away pretty quickly after he took his medication.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "wrestling practice": {
+      "context": "At his follow-up appointment he reported one episode after he ate a whole large pizza after wrestling practice but said it went away pretty quickly after he took his medication.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "6-month follow-up": {
+      "context": "A 6-month follow up appointment was scheduled.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "NA",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    }
+  }
+}

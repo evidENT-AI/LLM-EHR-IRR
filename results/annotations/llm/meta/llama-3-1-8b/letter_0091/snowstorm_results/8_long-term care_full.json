@@ -1,0 +1,335 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 10
+    },
+    "semanticTags": {
+      "procedure": 1,
+      "finding": 4
+    },
+    "language": {
+      "en": 10
+    },
+    "membership": {
+      "1322291000000109": 5,
+      "1127601000000107": 4,
+      "900000000000497000": 5,
+      "733073007": 5,
+      "999002271000000101": 4
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 10,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 10,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Admission for long-term care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304567001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Admission for long-term care (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Admission for long-term care",
+          "lang": "en"
+        },
+        "id": "304567001"
+      }
+    },
+    {
+      "term": "Admission for long-term care (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304567001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Admission for long-term care (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Admission for long-term care",
+          "lang": "en"
+        },
+        "id": "304567001"
+      }
+    },
+    {
+      "term": "Transition from hospice to long-term care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1981000124107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transition from hospice to long-term care (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transition from hospice to long-term care",
+          "lang": "en"
+        },
+        "id": "1981000124107"
+      }
+    },
+    {
+      "term": "Transition from acute care to long-term care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1881000124100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transition from acute care to long-term care (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transition from acute care to long-term care",
+          "lang": "en"
+        },
+        "id": "1881000124100"
+      }
+    },
+    {
+      "term": "Transition from long-term care to acute care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1931000124106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transition from long-term care to acute care (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transition from long-term care to acute care",
+          "lang": "en"
+        },
+        "id": "1931000124106"
+      }
+    },
+    {
+      "term": "Transition from long-term care to home-health care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1941000124101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transition from long-term care to home-health care (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transition from long-term care to home-health care",
+          "lang": "en"
+        },
+        "id": "1941000124101"
+      }
+    },
+    {
+      "term": "Transition from hospice to long-term care (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1981000124107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transition from hospice to long-term care (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transition from hospice to long-term care",
+          "lang": "en"
+        },
+        "id": "1981000124107"
+      }
+    },
+    {
+      "term": "Transition from acute care to long-term care (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1881000124100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transition from acute care to long-term care (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transition from acute care to long-term care",
+          "lang": "en"
+        },
+        "id": "1881000124100"
+      }
+    },
+    {
+      "term": "Transition from long-term care to acute care (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1931000124106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transition from long-term care to acute care (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transition from long-term care to acute care",
+          "lang": "en"
+        },
+        "id": "1931000124106"
+      }
+    },
+    {
+      "term": "Transition from long-term care to home-health care (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1941000124101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transition from long-term care to home-health care (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transition from long-term care to home-health care",
+          "lang": "en"
+        },
+        "id": "1941000124101"
+      }
+    }
+  ]
+}

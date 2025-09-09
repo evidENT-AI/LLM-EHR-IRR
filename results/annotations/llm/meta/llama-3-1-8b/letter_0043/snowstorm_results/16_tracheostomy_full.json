@@ -1,0 +1,1616 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 1059,
+      "999000011000000103": 28,
+      "900000000000207008": 213
+    },
+    "semanticTags": {
+      "regime/therapy": 1,
+      "disorder": 12,
+      "physical object": 559,
+      "specimen": 4,
+      "morphologic abnormality": 1,
+      "observable entity": 5,
+      "procedure": 44,
+      "event": 6,
+      "finding": 3,
+      "situation": 2,
+      "qualifier value": 2
+    },
+    "language": {
+      "en": 1300
+    },
+    "membership": {
+      "1322291000000109": 635,
+      "999000551000001106": 239,
+      "999000361000001104": 11,
+      "999002671000000103": 1,
+      "999002271000000101": 39,
+      "999002651000000107": 1,
+      "966241000000101": 1,
+      "999002641000000109": 1,
+      "900000000000497000": 95,
+      "999002631000000100": 1,
+      "1382401000000109": 123,
+      "991411000000109": 1,
+      "1127601000000107": 17,
+      "999000031000001105": 529,
+      "1382531000000102": 11,
+      "999002531000000101": 1,
+      "999000561000001109": 17,
+      "999000541000001108": 216,
+      "999002661000000105": 1,
+      "999000391000001108": 12,
+      "900000000000489007": 8,
+      "999000401000000107": 559,
+      "2222161000000102": 1,
+      "999000101000001100": 12,
+      "999000631000001100": 1,
+      "999002051000000100": 1,
+      "733073007": 109,
+      "999000571000001104": 56,
+      "966261000000100": 5,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999000361000001104": {
+      "conceptId": "999000361000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing never valid as a virtual medicinal product rule 3 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing never valid as a virtual medicinal product rule 3 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000361000001104"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "999002671000000103": {
+      "conceptId": "999002671000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure wellbeing scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure wellbeing scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002671000000103"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999002651000000107": {
+      "conceptId": "999002651000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure impairment scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure impairment scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002651000000107"
+    },
+    "966241000000101": {
+      "conceptId": "966241000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy therapeutic interventions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy therapeutic interventions simple reference set",
+        "lang": "en"
+      },
+      "id": "966241000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002641000000109": {
+      "conceptId": "999002641000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure carer wellbeing scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure carer wellbeing scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002641000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002631000000100": {
+      "conceptId": "999002631000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure activity scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure activity scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002631000000100"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999002531000000101": {
+      "conceptId": "999002531000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Wound integrity findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Wound integrity findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002531000000101"
+    },
+    "999000561000001109": {
+      "conceptId": "999000561000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000561000001109"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "999002661000000105": {
+      "conceptId": "999002661000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure participation scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure participation scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002661000000105"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999000391000001108": {
+      "conceptId": "999000391000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing no virtual therapeutic moiety rule 2 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing no virtual therapeutic moiety rule 2 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000391000001108"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "999000101000001100": {
+      "conceptId": "999000101000001100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing dressings type 14a simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing dressings type 14a simple reference set",
+        "lang": "en"
+      },
+      "id": "999000101000001100"
+    },
+    "999000631000001100": {
+      "conceptId": "999000631000001100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices trade family simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices trade family simple reference set",
+        "lang": "en"
+      },
+      "id": "999000631000001100"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000571000001104": {
+      "conceptId": "999000571000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000571000001104"
+    },
+    "966261000000100": {
+      "conceptId": "966261000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "966261000000100"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 1300,
+  "totalPages": 26,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Via tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "180640008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Approach via tracheostomy (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Approach via tracheostomy",
+          "lang": "en"
+        },
+        "id": "180640008"
+      }
+    },
+    {
+      "term": "End tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "21619009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Permanent tracheostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Permanent tracheostomy",
+          "lang": "en"
+        },
+        "id": "21619009"
+      }
+    },
+    {
+      "term": "Tracheostomy scar",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249434004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy scar (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy scar",
+          "lang": "en"
+        },
+        "id": "249434004"
+      }
+    },
+    {
+      "term": "H/O: tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161685006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of tracheostomy (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: tracheostomy",
+          "lang": "en"
+        },
+        "id": "161685006"
+      }
+    },
+    {
+      "term": "Tracheostomy tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129121000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy tube, device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy tube",
+          "lang": "en"
+        },
+        "id": "129121000"
+      }
+    },
+    {
+      "term": "Tracheostomy care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385858000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy care",
+          "lang": "en"
+        },
+        "id": "385858000"
+      }
+    },
+    {
+      "term": "Tracheostomy stoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "280361007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy stoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy stoma",
+          "lang": "en"
+        },
+        "id": "280361007"
+      }
+    },
+    {
+      "term": "Tracheostomy brush",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "348577009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy brush (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy brush",
+          "lang": "en"
+        },
+        "id": "348577009"
+      }
+    },
+    {
+      "term": "Tracheostomy clear",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "242031000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Tracheostomy clear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy clear",
+          "lang": "en"
+        },
+        "id": "242031000000105"
+      }
+    },
+    {
+      "term": "Tracheostomy button",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "69922008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy button, device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy button",
+          "lang": "en"
+        },
+        "id": "69922008"
+      }
+    },
+    {
+      "term": "Tracheostomy toilet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232616006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy toilet (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy toilet",
+          "lang": "en"
+        },
+        "id": "232616006"
+      }
+    },
+    {
+      "term": "Planned tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40462002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Planned tracheostomy (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Planned tracheostomy",
+          "lang": "en"
+        },
+        "id": "40462002"
+      }
+    },
+    {
+      "term": "Lateral tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274970004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lateral tracheostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lateral tracheostomy",
+          "lang": "en"
+        },
+        "id": "274970004"
+      }
+    },
+    {
+      "term": "Tracheostomy present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302108003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy present",
+          "lang": "en"
+        },
+        "id": "302108003"
+      }
+    },
+    {
+      "term": "Tracheostomy in situ",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302108003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy present",
+          "lang": "en"
+        },
+        "id": "302108003"
+      }
+    },
+    {
+      "term": "Tracheostomy stenosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10041001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheal stenosis following tracheostomy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheal stenosis following tracheostomy",
+          "lang": "en"
+        },
+        "id": "10041001"
+      }
+    },
+    {
+      "term": "Anterior tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274969000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anterior tracheostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anterior tracheostomy",
+          "lang": "en"
+        },
+        "id": "274969000"
+      }
+    },
+    {
+      "term": "Via tracheostomy tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "261476002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Approach via tracheostomy tube (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Approach via tracheostomy tube",
+          "lang": "en"
+        },
+        "id": "261476002"
+      }
+    },
+    {
+      "term": "Terminal tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "21619009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Permanent tracheostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Permanent tracheostomy",
+          "lang": "en"
+        },
+        "id": "21619009"
+      }
+    },
+    {
+      "term": "Tracheostomy dressing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "336206009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy dressing (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy dressing",
+          "lang": "en"
+        },
+        "id": "336206009"
+      }
+    },
+    {
+      "term": "Permanent tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "21619009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Permanent tracheostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Permanent tracheostomy",
+          "lang": "en"
+        },
+        "id": "21619009"
+      }
+    },
+    {
+      "term": "Temporary tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43988005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Temporary tracheostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Temporary tracheostomy",
+          "lang": "en"
+        },
+        "id": "43988005"
+      }
+    },
+    {
+      "term": "Biopsy of tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232614009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Biopsy of tracheostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Biopsy of tracheostomy",
+          "lang": "en"
+        },
+        "id": "232614009"
+      }
+    },
+    {
+      "term": "Tracheostomy tube cuff",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "257376009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy tube cuff (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy tube cuff",
+          "lang": "en"
+        },
+        "id": "257376009"
+      }
+    },
+    {
+      "term": "Tracheostomy appliance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "348576000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy appliance (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy appliance",
+          "lang": "en"
+        },
+        "id": "348576000"
+      }
+    },
+    {
+      "term": "Tracheostomy protector",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "337011007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laryngectomy protector (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laryngectomy protector",
+          "lang": "en"
+        },
+        "id": "337011007"
+      }
+    },
+    {
+      "term": "Emergency tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "55622001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy, emergency procedure by transtracheal approach (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy, emergency procedure by transtracheal approach",
+          "lang": "en"
+        },
+        "id": "55622001"
+      }
+    },
+    {
+      "term": "Tracheostomy site swab",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33901000087104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swab from tracheostomy stoma (specimen)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swab from tracheostomy stoma",
+          "lang": "en"
+        },
+        "id": "33901000087104"
+      }
+    },
+    {
+      "term": "ActivHeal Tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "12621901000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "ActivHeal Tracheostomy (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ActivHeal Tracheostomy",
+          "lang": "en"
+        },
+        "id": "12621901000001107"
+      }
+    },
+    {
+      "term": "Closure of tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6774004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Closure of tracheostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Closure of tracheostomy",
+          "lang": "en"
+        },
+        "id": "6774004"
+      }
+    },
+    {
+      "term": "Tracheostomy hemorrhage",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82872004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy hemorrhage (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy hemorrhage",
+          "lang": "en"
+        },
+        "id": "82872004"
+      }
+    },
+    {
+      "term": "Teach tracheostomy care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410212001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy care education (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy care education",
+          "lang": "en"
+        },
+        "id": "410212001"
+      }
+    },
+    {
+      "term": "History of tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161685006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of tracheostomy (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: tracheostomy",
+          "lang": "en"
+        },
+        "id": "161685006"
+      }
+    },
+    {
+      "term": "Tracheostomy base plate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137711006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy base plate (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy base plate",
+          "lang": "en"
+        },
+        "id": "1137711006"
+      }
+    },
+    {
+      "term": "Tracheostomy stoma swab",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33901000087104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swab from tracheostomy stoma (specimen)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swab from tracheostomy stoma",
+          "lang": "en"
+        },
+        "id": "33901000087104"
+      }
+    },
+    {
+      "term": "Tracheostomy tube guide",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "781467006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy tube guide (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy tube guide",
+          "lang": "en"
+        },
+        "id": "781467006"
+      }
+    },
+    {
+      "term": "Mediastinal tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52536006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mediastinal tracheostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mediastinal tracheostomy",
+          "lang": "en"
+        },
+        "id": "52536006"
+      }
+    },
+    {
+      "term": "Tracheostomy obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "59006007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy obstruction",
+          "lang": "en"
+        },
+        "id": "59006007"
+      }
+    },
+    {
+      "term": "Tracheostomy granulation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302323001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy granulation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy granulation",
+          "lang": "en"
+        },
+        "id": "302323001"
+      }
+    },
+    {
+      "term": "Tracheostomy haemorrhage",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82872004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy hemorrhage (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy hemorrhage",
+          "lang": "en"
+        },
+        "id": "82872004"
+      }
+    },
+    {
+      "term": "Disorder of tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68033004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy complication (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy complication",
+          "lang": "en"
+        },
+        "id": "68033004"
+      }
+    },
+    {
+      "term": "Assess tracheostomy care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410211008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy care assessment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy care assessment",
+          "lang": "en"
+        },
+        "id": "410211008"
+      }
+    },
+    {
+      "term": "Manage tracheostomy care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410213006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy care management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy care management",
+          "lang": "en"
+        },
+        "id": "410213006"
+      }
+    },
+    {
+      "term": "Tracheostomy-care device",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "705346004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy-care device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy-care device",
+          "lang": "en"
+        },
+        "id": "705346004"
+      }
+    },
+    {
+      "term": "Tracheostomy tube patent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448621002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy tube patent (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy tube patent",
+          "lang": "en"
+        },
+        "id": "448621002"
+      }
+    },
+    {
+      "term": "Dilation of tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448033008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dilation of tracheostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dilation of tracheostomy",
+          "lang": "en"
+        },
+        "id": "448033008"
+      }
+    },
+    {
+      "term": "Tracheostomy complication",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68033004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheostomy complication (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheostomy complication",
+          "lang": "en"
+        },
+        "id": "68033004"
+      }
+    },
+    {
+      "term": "Approach via tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "180640008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Approach via tracheostomy (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Approach via tracheostomy",
+          "lang": "en"
+        },
+        "id": "180640008"
+      }
+    },
+    {
+      "term": "Attention to tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232613003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Attention to tracheostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Attention to tracheostomy",
+          "lang": "en"
+        },
+        "id": "232613003"
+      }
+    },
+    {
+      "term": "Percutaneous tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307007002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Percutaneous tracheostomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Percutaneous tracheostomy",
+          "lang": "en"
+        },
+        "id": "307007002"
+      }
+    }
+  ]
+}

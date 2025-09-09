@@ -1,0 +1,770 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 30
+    },
+    "semanticTags": {
+      "finding": 14
+    },
+    "language": {
+      "en": 30
+    },
+    "membership": {
+      "1322291000000109": 14,
+      "1127601000000107": 12,
+      "999002571000000104": 2,
+      "900000000000497000": 14,
+      "733073007": 14,
+      "999002271000000101": 13
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 30,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 30,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Incus fixed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306923007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus fixed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus fixed",
+          "lang": "en"
+        },
+        "id": "306923007"
+      }
+    },
+    {
+      "term": "Absent incus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247272001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Absent incus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Absent incus",
+          "lang": "en"
+        },
+        "id": "247272001"
+      }
+    },
+    {
+      "term": "Incus normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300175007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus normal",
+          "lang": "en"
+        },
+        "id": "300175007"
+      }
+    },
+    {
+      "term": "Incus finding",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247271008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus finding",
+          "lang": "en"
+        },
+        "id": "247271008"
+      }
+    },
+    {
+      "term": "Incus present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300173000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus present",
+          "lang": "en"
+        },
+        "id": "300173000"
+      }
+    },
+    {
+      "term": "Incus not seen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300174006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus not seen (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus not seen",
+          "lang": "en"
+        },
+        "id": "300174006"
+      }
+    },
+    {
+      "term": "Incus abnormal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300176008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus abnormal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus abnormal",
+          "lang": "en"
+        },
+        "id": "300176008"
+      }
+    },
+    {
+      "term": "Incus observation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247271008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus finding",
+          "lang": "en"
+        },
+        "id": "247271008"
+      }
+    },
+    {
+      "term": "Normal incus mobility",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306922002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal incus mobility (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal incus mobility",
+          "lang": "en"
+        },
+        "id": "306922002"
+      }
+    },
+    {
+      "term": "Incus fixed (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306923007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus fixed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus fixed",
+          "lang": "en"
+        },
+        "id": "306923007"
+      }
+    },
+    {
+      "term": "Incus mobility reduced",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306924001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus mobility reduced (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus mobility reduced",
+          "lang": "en"
+        },
+        "id": "306924001"
+      }
+    },
+    {
+      "term": "Absent incus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247272001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Absent incus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Absent incus",
+          "lang": "en"
+        },
+        "id": "247272001"
+      }
+    },
+    {
+      "term": "Incus normal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300175007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus normal",
+          "lang": "en"
+        },
+        "id": "300175007"
+      }
+    },
+    {
+      "term": "Incus finding (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247271008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus finding",
+          "lang": "en"
+        },
+        "id": "247271008"
+      }
+    },
+    {
+      "term": "Incus present (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300173000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus present",
+          "lang": "en"
+        },
+        "id": "300173000"
+      }
+    },
+    {
+      "term": "Absent malleus and incus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247276003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Absent malleus and incus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Absent malleus and incus",
+          "lang": "en"
+        },
+        "id": "247276003"
+      }
+    },
+    {
+      "term": "Incus mobility increased",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306925000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus mobility increased (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus mobility increased",
+          "lang": "en"
+        },
+        "id": "306925000"
+      }
+    },
+    {
+      "term": "Incus not seen (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300174006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus not seen (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus not seen",
+          "lang": "en"
+        },
+        "id": "300174006"
+      }
+    },
+    {
+      "term": "Incus abnormal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300176008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus abnormal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus abnormal",
+          "lang": "en"
+        },
+        "id": "300176008"
+      }
+    },
+    {
+      "term": "Finding of incus mobility",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306921009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of incus mobility (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of incus mobility",
+          "lang": "en"
+        },
+        "id": "306921009"
+      }
+    },
+    {
+      "term": "Fibrous long process of incus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247275004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fibrous long process of incus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fibrous long process of incus",
+          "lang": "en"
+        },
+        "id": "247275004"
+      }
+    },
+    {
+      "term": "Observation of incus mobility",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306921009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of incus mobility (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of incus mobility",
+          "lang": "en"
+        },
+        "id": "306921009"
+      }
+    },
+    {
+      "term": "Truncated long process of incus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247274000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Truncated long process of incus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Truncated long process of incus",
+          "lang": "en"
+        },
+        "id": "247274000"
+      }
+    },
+    {
+      "term": "Normal incus mobility (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306922002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal incus mobility (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal incus mobility",
+          "lang": "en"
+        },
+        "id": "306922002"
+      }
+    },
+    {
+      "term": "Incus mobility reduced (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306924001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus mobility reduced (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus mobility reduced",
+          "lang": "en"
+        },
+        "id": "306924001"
+      }
+    },
+    {
+      "term": "Absent malleus and incus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247276003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Absent malleus and incus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Absent malleus and incus",
+          "lang": "en"
+        },
+        "id": "247276003"
+      }
+    },
+    {
+      "term": "Incus mobility increased (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306925000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incus mobility increased (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incus mobility increased",
+          "lang": "en"
+        },
+        "id": "306925000"
+      }
+    },
+    {
+      "term": "Finding of incus mobility (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306921009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of incus mobility (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of incus mobility",
+          "lang": "en"
+        },
+        "id": "306921009"
+      }
+    },
+    {
+      "term": "Fibrous long process of incus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247275004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fibrous long process of incus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fibrous long process of incus",
+          "lang": "en"
+        },
+        "id": "247275004"
+      }
+    },
+    {
+      "term": "Truncated long process of incus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247274000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Truncated long process of incus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Truncated long process of incus",
+          "lang": "en"
+        },
+        "id": "247274000"
+      }
+    }
+  ]
+}

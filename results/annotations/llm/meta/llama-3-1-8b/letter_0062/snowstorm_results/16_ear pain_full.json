@@ -1,0 +1,439 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 15
+    },
+    "semanticTags": {
+      "finding": 8
+    },
+    "language": {
+      "en": 15
+    },
+    "membership": {
+      "1322291000000109": 8,
+      "1127601000000107": 8,
+      "900000000000497000": 8,
+      "999002271000000101": 11,
+      "733073007": 8
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 15,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 15,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Pain of ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301354004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pain of ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pain of ear",
+          "lang": "en"
+        },
+        "id": "301354004"
+      }
+    },
+    {
+      "term": "Pain behind ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430879002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Posterior auricular pain (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Posterior auricular pain",
+          "lang": "en"
+        },
+        "id": "430879002"
+      }
+    },
+    {
+      "term": "Referred ear pain",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "12336008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Referred otalgia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referred otalgia",
+          "lang": "en"
+        },
+        "id": "12336008"
+      }
+    },
+    {
+      "term": "O/E - painful ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164219003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - painful ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - painful ear",
+          "lang": "en"
+        },
+        "id": "164219003"
+      }
+    },
+    {
+      "term": "Pain in ear auricle",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "792886009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pain in pinna (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pain in pinna",
+          "lang": "en"
+        },
+        "id": "792886009"
+      }
+    },
+    {
+      "term": "Pain of ear (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301354004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pain of ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pain of ear",
+          "lang": "en"
+        },
+        "id": "301354004"
+      }
+    },
+    {
+      "term": "O/E - ear auricle painful",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164221008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - ear auricle painful (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - ear auricle painful",
+          "lang": "en"
+        },
+        "id": "164221008"
+      }
+    },
+    {
+      "term": "On examination - painful ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164219003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - painful ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - painful ear",
+          "lang": "en"
+        },
+        "id": "164219003"
+      }
+    },
+    {
+      "term": "Abdominal pain in early pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314041007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abdominal pain in early pregnancy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abdominal pain in early pregnancy",
+          "lang": "en"
+        },
+        "id": "314041007"
+      }
+    },
+    {
+      "term": "On examination - ear auricle painful",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164221008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - ear auricle painful (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - ear auricle painful",
+          "lang": "en"
+        },
+        "id": "164221008"
+      }
+    },
+    {
+      "term": "On examination - painful ear (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164219003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - painful ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - painful ear",
+          "lang": "en"
+        },
+        "id": "164219003"
+      }
+    },
+    {
+      "term": "Abdominal pain in early pregnancy (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314041007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abdominal pain in early pregnancy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abdominal pain in early pregnancy",
+          "lang": "en"
+        },
+        "id": "314041007"
+      }
+    },
+    {
+      "term": "On examination - ear auricle painful (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164221008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - ear auricle painful (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - ear auricle painful",
+          "lang": "en"
+        },
+        "id": "164221008"
+      }
+    },
+    {
+      "term": "Impairment or altered function of related components of the body framework system that is characterized in early stages by one or more of the following: pain, erythema, a palpable sense of relative warmth, moisture and bogginess, vasodilation, edema, tenderness, and tissue contraction.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405266003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute somatic dysfunction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute somatic dysfunction",
+          "lang": "en"
+        },
+        "id": "405266003"
+      }
+    },
+    {
+      "term": "Impairment or altered function of related components of the body framework system that is characterised in early stages by one or more of the following: pain, erythema, a palpable sense of relative warmth, moisture and bogginess, vasodilation, oedema, tenderness, and tissue contraction.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405266003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute somatic dysfunction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute somatic dysfunction",
+          "lang": "en"
+        },
+        "id": "405266003"
+      }
+    }
+  ]
+}

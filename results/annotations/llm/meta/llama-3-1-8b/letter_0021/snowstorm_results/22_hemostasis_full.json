@@ -1,0 +1,1025 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000012004": 2,
+      "900000000000207008": 33
+    },
+    "semanticTags": {
+      "disorder": 1,
+      "physical object": 3,
+      "substance": 1,
+      "observable entity": 1,
+      "procedure": 13,
+      "attribute": 1,
+      "finding": 1
+    },
+    "language": {
+      "en": 35
+    },
+    "membership": {
+      "1322291000000109": 19,
+      "991411000000109": 1,
+      "1127601000000107": 2,
+      "1382531000000102": 1,
+      "2181191000000108": 1,
+      "999002271000000101": 3,
+      "999000401000000107": 3,
+      "999002571000000104": 1,
+      "900000000000497000": 21,
+      "733073007": 21,
+      "991381000000107": 1,
+      "1382401000000109": 19,
+      "30931000001101": 1,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "900000000000012004": {
+      "conceptId": "900000000000012004",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT model component module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT model component",
+        "lang": "en"
+      },
+      "id": "900000000000012004"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2181191000000108": {
+      "conceptId": "2181191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric haematology disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric haematology disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "991381000000107": {
+      "conceptId": "991381000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Comorbid conditions for selection simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Comorbid conditions for selection simple reference set",
+        "lang": "en"
+      },
+      "id": "991381000000107"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 35,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 35,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Hemostasis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "74848003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemostatic function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemostatic function",
+          "lang": "en"
+        },
+        "id": "74848003"
+      }
+    },
+    {
+      "term": "Hemostasis valve",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "462862006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemostasis valve (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemostasis valve",
+          "lang": "en"
+        },
+        "id": "462862006"
+      }
+    },
+    {
+      "term": "Normal hemostasis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71269007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal hemostatic function (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal hemostatic function",
+          "lang": "en"
+        },
+        "id": "71269007"
+      }
+    },
+    {
+      "term": "Method of hemostasis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000012004",
+      "concept": {
+        "conceptId": "246401000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000012004",
+        "fsn": {
+          "term": "Method of hemostasis (attribute)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Method of hemostasis",
+          "lang": "en"
+        },
+        "id": "246401000"
+      }
+    },
+    {
+      "term": "Hemostasis of pharynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172982005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemostasis of pharynx (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemostasis of pharynx",
+          "lang": "en"
+        },
+        "id": "172982005"
+      }
+    },
+    {
+      "term": "Scalp hemostasis clip",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137639001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Scalp hemostasis clip (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Scalp hemostasis clip",
+          "lang": "en"
+        },
+        "id": "1137639001"
+      }
+    },
+    {
+      "term": "Disorder of hemostasis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64779008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blood coagulation disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood coagulation disorder",
+          "lang": "en"
+        },
+        "id": "64779008"
+      }
+    },
+    {
+      "term": "Hemostasis valve obturator",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "462949008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemostasis valve obturator (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemostasis valve obturator",
+          "lang": "en"
+        },
+        "id": "462949008"
+      }
+    },
+    {
+      "term": "Open hemostasis of prostate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "176271005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Open hemostasis of prostate (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Open hemostasis of prostate",
+          "lang": "en"
+        },
+        "id": "176271005"
+      }
+    },
+    {
+      "term": "Uterus operation hemostasis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "176889002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surgical control of hemorrhage of uterus (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surgical control of hemorrhage of uterus",
+          "lang": "en"
+        },
+        "id": "176889002"
+      }
+    },
+    {
+      "term": "Hemostasis of vaginal vault",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236869008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemostasis of vaginal vault (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemostasis of vaginal vault",
+          "lang": "en"
+        },
+        "id": "236869008"
+      }
+    },
+    {
+      "term": "Hemostasis related substance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "106205006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemostasis related substance (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemostasis related substance",
+          "lang": "en"
+        },
+        "id": "106205006"
+      }
+    },
+    {
+      "term": "Method of hemostasis (attribute)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000012004",
+      "concept": {
+        "conceptId": "246401000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000012004",
+        "fsn": {
+          "term": "Method of hemostasis (attribute)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Method of hemostasis",
+          "lang": "en"
+        },
+        "id": "246401000"
+      }
+    },
+    {
+      "term": "Implements hemostasis techniques",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "372034000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Implementation of hemostasis techniques (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Implementation of hemostasis techniques",
+          "lang": "en"
+        },
+        "id": "372034000"
+      }
+    },
+    {
+      "term": "Hemostasis of pharynx (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172982005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemostasis of pharynx (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemostasis of pharynx",
+          "lang": "en"
+        },
+        "id": "172982005"
+      }
+    },
+    {
+      "term": "Hemostasis valve (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "462862006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemostasis valve (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemostasis valve",
+          "lang": "en"
+        },
+        "id": "462862006"
+      }
+    },
+    {
+      "term": "Laboratory test related to hemostasis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127791007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laboratory test related to hemostasis (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laboratory test related to hemostasis",
+          "lang": "en"
+        },
+        "id": "127791007"
+      }
+    },
+    {
+      "term": "Open hemostasis of prostate (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "176271005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Open hemostasis of prostate (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Open hemostasis of prostate",
+          "lang": "en"
+        },
+        "id": "176271005"
+      }
+    },
+    {
+      "term": "Hemostasis of vaginal vault (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236869008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemostasis of vaginal vault (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemostasis of vaginal vault",
+          "lang": "en"
+        },
+        "id": "236869008"
+      }
+    },
+    {
+      "term": "Implementation of hemostasis techniques",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "372034000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Implementation of hemostasis techniques (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Implementation of hemostasis techniques",
+          "lang": "en"
+        },
+        "id": "372034000"
+      }
+    },
+    {
+      "term": "Scalp hemostasis clip (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137639001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Scalp hemostasis clip (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Scalp hemostasis clip",
+          "lang": "en"
+        },
+        "id": "1137639001"
+      }
+    },
+    {
+      "term": "Hemostasis related substance (substance)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "106205006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemostasis related substance (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemostasis related substance",
+          "lang": "en"
+        },
+        "id": "106205006"
+      }
+    },
+    {
+      "term": "Video assisted thoracoscopy for hemostasis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "792798008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Video assisted thoracoscopy for control of hemorrhage (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Video assisted thoracoscopy for control of hemorrhage",
+          "lang": "en"
+        },
+        "id": "792798008"
+      }
+    },
+    {
+      "term": "Hemostasis valve obturator (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "462949008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemostasis valve obturator (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemostasis valve obturator",
+          "lang": "en"
+        },
+        "id": "462949008"
+      }
+    },
+    {
+      "term": "Injection into lesion of stomach for hemostasis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303801009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic injection of lesion of stomach for control of hemorrhage (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic injection of lesion of stomach for control of hemorrhage",
+          "lang": "en"
+        },
+        "id": "1303801009"
+      }
+    },
+    {
+      "term": "Endoscopic chemical hemostasis of stomach lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307505003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic application of hemostyptics to gastric lesion (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic application of hemostyptics to gastric lesion",
+          "lang": "en"
+        },
+        "id": "307505003"
+      }
+    },
+    {
+      "term": "Endoscopic injection hemostasis of gastric ulcer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314629004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic injection hemostasis of gastric ulcer (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic injection hemostasis of gastric ulcer",
+          "lang": "en"
+        },
+        "id": "314629004"
+      }
+    },
+    {
+      "term": "Endoscopic injection hemostasis of duodenal ulcer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314627002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic injection hemostasis of duodenal ulcer (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic injection hemostasis of duodenal ulcer",
+          "lang": "en"
+        },
+        "id": "314627002"
+      }
+    },
+    {
+      "term": "Laboratory test related to hemostasis (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127791007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laboratory test related to hemostasis (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laboratory test related to hemostasis",
+          "lang": "en"
+        },
+        "id": "127791007"
+      }
+    },
+    {
+      "term": "Adrenaline injection for gastric lesion hemostasis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303802002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic injection of epinephrine into lesion of stomach for control of hemorrhage (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic injection of epinephrine into lesion of stomach for control of hemorrhage",
+          "lang": "en"
+        },
+        "id": "1303802002"
+      }
+    },
+    {
+      "term": "Adrenaline injection hemostasis of duodenal lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303810001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic injection of epinephrine into lesion of duodenum for control of hemorrhage (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic injection of epinephrine into lesion of duodenum for control of hemorrhage",
+          "lang": "en"
+        },
+        "id": "1303810001"
+      }
+    },
+    {
+      "term": "Implementation of hemostasis techniques (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "372034000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Implementation of hemostasis techniques (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Implementation of hemostasis techniques",
+          "lang": "en"
+        },
+        "id": "372034000"
+      }
+    },
+    {
+      "term": "Endoscopic injection hemostasis of gastric ulcer (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314629004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic injection hemostasis of gastric ulcer (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic injection hemostasis of gastric ulcer",
+          "lang": "en"
+        },
+        "id": "314629004"
+      }
+    },
+    {
+      "term": "Endoscopic injection hemostasis of duodenal ulcer (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314627002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic injection hemostasis of duodenal ulcer (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic injection hemostasis of duodenal ulcer",
+          "lang": "en"
+        },
+        "id": "314627002"
+      }
+    },
+    {
+      "term": "Injection of epinephrine into lesion of duodenum for hemostasis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303810001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic injection of epinephrine into lesion of duodenum for control of hemorrhage (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic injection of epinephrine into lesion of duodenum for control of hemorrhage",
+          "lang": "en"
+        },
+        "id": "1303810001"
+      }
+    }
+  ]
+}

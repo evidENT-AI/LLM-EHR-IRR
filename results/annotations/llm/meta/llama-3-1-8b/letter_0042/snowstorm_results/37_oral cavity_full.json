@@ -1,0 +1,896 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 36
+    },
+    "semanticTags": {
+      "finding": 18
+    },
+    "language": {
+      "en": 36
+    },
+    "membership": {
+      "1322291000000109": 18,
+      "1127601000000107": 14,
+      "999002571000000104": 4,
+      "900000000000497000": 18,
+      "733073007": 18,
+      "999002271000000101": 18
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 36,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 36,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Oral cavity finding",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116337000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral cavity finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral cavity finding",
+          "lang": "en"
+        },
+        "id": "116337000"
+      }
+    },
+    {
+      "term": "Oral cavity problem",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300255008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral cavity problem (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral cavity problem",
+          "lang": "en"
+        },
+        "id": "300255008"
+      }
+    },
+    {
+      "term": "Mass of oral cavity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300854002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mass of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mass of oral cavity",
+          "lang": "en"
+        },
+        "id": "300854002"
+      }
+    },
+    {
+      "term": "Oral cavity observation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116337000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral cavity finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral cavity finding",
+          "lang": "en"
+        },
+        "id": "116337000"
+      }
+    },
+    {
+      "term": "Mass of oral cavity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300854002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mass of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mass of oral cavity",
+          "lang": "en"
+        },
+        "id": "300854002"
+      }
+    },
+    {
+      "term": "Oral cavity finding (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116337000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral cavity finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral cavity finding",
+          "lang": "en"
+        },
+        "id": "116337000"
+      }
+    },
+    {
+      "term": "Oral cavity problem (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300255008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral cavity problem (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral cavity problem",
+          "lang": "en"
+        },
+        "id": "300255008"
+      }
+    },
+    {
+      "term": "Swelling of oral cavity structure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300878007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swelling of oral cavity structure (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swelling of oral cavity structure",
+          "lang": "en"
+        },
+        "id": "300878007"
+      }
+    },
+    {
+      "term": "Postprocedural finding oral cavity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300254007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postprocedural finding oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postprocedural finding oral cavity",
+          "lang": "en"
+        },
+        "id": "300254007"
+      }
+    },
+    {
+      "term": "Oral cavity opening not assessable",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418185003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral cavity opening not assessable (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral cavity opening not assessable",
+          "lang": "en"
+        },
+        "id": "418185003"
+      }
+    },
+    {
+      "term": "Tenderness of oral cavity structure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301392003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tenderness of oral cavity structure (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tenderness of oral cavity structure",
+          "lang": "en"
+        },
+        "id": "301392003"
+      }
+    },
+    {
+      "term": "O/E - oral cavity, dental and salivary",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309657003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - oral cavity, dental and salivary (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - oral cavity, dental and salivary",
+          "lang": "en"
+        },
+        "id": "309657003"
+      }
+    },
+    {
+      "term": "Postprocedural observations oral cavity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300254007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postprocedural finding oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postprocedural finding oral cavity",
+          "lang": "en"
+        },
+        "id": "300254007"
+      }
+    },
+    {
+      "term": "Oral cavity opening appropriate for age",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417883009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral cavity opening appropriate for age (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral cavity opening appropriate for age",
+          "lang": "en"
+        },
+        "id": "417883009"
+      }
+    },
+    {
+      "term": "Swelling of oral cavity structure (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300878007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swelling of oral cavity structure (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swelling of oral cavity structure",
+          "lang": "en"
+        },
+        "id": "300878007"
+      }
+    },
+    {
+      "term": "Postprocedural finding oral cavity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300254007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postprocedural finding oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postprocedural finding oral cavity",
+          "lang": "en"
+        },
+        "id": "300254007"
+      }
+    },
+    {
+      "term": "Oral cavity opening not assessable (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418185003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral cavity opening not assessable (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral cavity opening not assessable",
+          "lang": "en"
+        },
+        "id": "418185003"
+      }
+    },
+    {
+      "term": "Tenderness of oral cavity structure (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301392003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tenderness of oral cavity structure (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tenderness of oral cavity structure",
+          "lang": "en"
+        },
+        "id": "301392003"
+      }
+    },
+    {
+      "term": "Oral cavity opening appropriate for age (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417883009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral cavity opening appropriate for age (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral cavity opening appropriate for age",
+          "lang": "en"
+        },
+        "id": "417883009"
+      }
+    },
+    {
+      "term": "On examination - oral cavity, dental and salivary",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309657003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - oral cavity, dental and salivary (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - oral cavity, dental and salivary",
+          "lang": "en"
+        },
+        "id": "309657003"
+      }
+    },
+    {
+      "term": "Damage due to habitual action involving the oral cavity.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "735237008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Harmful oral hygiene habit (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Harmful oral hygiene habit",
+          "lang": "en"
+        },
+        "id": "735237008"
+      }
+    },
+    {
+      "term": "On examination - oral cavity, dental and salivary (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309657003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - oral cavity, dental and salivary (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - oral cavity, dental and salivary",
+          "lang": "en"
+        },
+        "id": "309657003"
+      }
+    },
+    {
+      "term": "Finding of location and extent of edentulous area of oral cavity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709027003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of location and extent of edentulous area of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of location and extent of edentulous area of oral cavity",
+          "lang": "en"
+        },
+        "id": "709027003"
+      }
+    },
+    {
+      "term": "Ideal single arch location and extent of edentulous area of oral cavity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709846003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ideal single arch location and extent of edentulous area of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ideal single arch location and extent of edentulous area",
+          "lang": "en"
+        },
+        "id": "709846003"
+      }
+    },
+    {
+      "term": "Finding of location and extent of edentulous area of oral cavity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709027003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of location and extent of edentulous area of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of location and extent of edentulous area of oral cavity",
+          "lang": "en"
+        },
+        "id": "709027003"
+      }
+    },
+    {
+      "term": "Severely compromised location and extent of edentulous area of oral cavity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709849005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severely compromised location and extent of edentulous area of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severely compromised location and extent of edentulous area",
+          "lang": "en"
+        },
+        "id": "709849005"
+      }
+    },
+    {
+      "term": "Minimally compromised location and extent of edentulous area of oral cavity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709847007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Minimally compromised location and extent of edentulous area of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Minimally compromised location and extent of edentulous area",
+          "lang": "en"
+        },
+        "id": "709847007"
+      }
+    },
+    {
+      "term": "Moderately compromised location and extent of edentulous area of oral cavity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709848002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Moderately compromised location and extent of edentulous area of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Moderately compromised location and extent of edentulous area",
+          "lang": "en"
+        },
+        "id": "709848002"
+      }
+    },
+    {
+      "term": "Substantially compromised location and extent of edentulous area of oral cavity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709850005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Substantially compromised location and extent of edentulous area of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Substantially compromised location and extent of edentulous area",
+          "lang": "en"
+        },
+        "id": "709850005"
+      }
+    },
+    {
+      "term": "Ideal single arch location and extent of edentulous area of oral cavity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709846003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ideal single arch location and extent of edentulous area of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ideal single arch location and extent of edentulous area",
+          "lang": "en"
+        },
+        "id": "709846003"
+      }
+    },
+    {
+      "term": "Severely compromised location and extent of edentulous area of oral cavity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709849005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severely compromised location and extent of edentulous area of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severely compromised location and extent of edentulous area",
+          "lang": "en"
+        },
+        "id": "709849005"
+      }
+    },
+    {
+      "term": "Minimally compromised location and extent of edentulous area of oral cavity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709847007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Minimally compromised location and extent of edentulous area of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Minimally compromised location and extent of edentulous area",
+          "lang": "en"
+        },
+        "id": "709847007"
+      }
+    },
+    {
+      "term": "Moderately compromised location and extent of edentulous area of oral cavity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709848002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Moderately compromised location and extent of edentulous area of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Moderately compromised location and extent of edentulous area",
+          "lang": "en"
+        },
+        "id": "709848002"
+      }
+    },
+    {
+      "term": "Substantially compromised location and extent of edentulous area of oral cavity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709850005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Substantially compromised location and extent of edentulous area of oral cavity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Substantially compromised location and extent of edentulous area",
+          "lang": "en"
+        },
+        "id": "709850005"
+      }
+    },
+    {
+      "term": "A finding of mandible bone height in edentulous patients by examination of the oral cavity in prosthodontics; part of prosthodontic classification in assessment for dentures/devices.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "710083001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of bone height of edentulous mandible (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of bone height of edentulous mandible",
+          "lang": "en"
+        },
+        "id": "710083001"
+      }
+    },
+    {
+      "term": "The shape of ridge following loss of teeth; the residual ridge morphology is the most objective criteria for the maxilla on examination of the oral cavity since measurement of the residual bone height by radiography is not reliable.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "708980008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maxilla residual ridge morphology (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maxilla residual ridge morphology",
+          "lang": "en"
+        },
+        "id": "708980008"
+      }
+    }
+  ]
+}

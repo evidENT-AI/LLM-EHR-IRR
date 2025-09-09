@@ -1,0 +1,918 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 4,
+      "999000011000000103": 4,
+      "900000000000207008": 22
+    },
+    "semanticTags": {
+      "regime/therapy": 2,
+      "disorder": 8,
+      "product": 2,
+      "procedure": 1,
+      "situation": 5
+    },
+    "language": {
+      "en": 30
+    },
+    "membership": {
+      "1322291000000109": 18,
+      "1127601000000107": 12,
+      "1382531000000102": 7,
+      "999000031000001105": 2,
+      "999000551000001106": 2,
+      "999003161000000108": 1,
+      "999002271000000101": 15,
+      "999002041000000103": 2,
+      "999003181000000104": 1,
+      "999002571000000104": 1,
+      "900000000000497000": 14,
+      "733073007": 16,
+      "30931000001101": 2
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999002041000000103": {
+      "conceptId": "999002041000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Female genital mutilation related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Female genital mutilation related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002041000000103"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999003181000000104": {
+      "conceptId": "999003181000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003181000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 30,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 30,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Well child visit, 15 years",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410647004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Well child visit, 15 years (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Well child visit, 15 years",
+          "lang": "en"
+        },
+        "id": "410647004"
+      }
+    },
+    {
+      "term": "Well child visit, 15 years (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410647004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Well child visit, 15 years (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Well child visit, 15 years",
+          "lang": "en"
+        },
+        "id": "410647004"
+      }
+    },
+    {
+      "term": "Child examination at 15 years with explicit context",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "444480002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Child examination at 15 years with explicit context (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child examination at 15 years with explicit context",
+          "lang": "en"
+        },
+        "id": "444480002"
+      }
+    },
+    {
+      "term": "Child examination at 15 years with explicit context (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "444480002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Child examination at 15 years with explicit context (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child examination at 15 years with explicit context",
+          "lang": "en"
+        },
+        "id": "444480002"
+      }
+    },
+    {
+      "term": "H/O: female genital mutilation between 10 and under 15 years of age",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "977571000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "History of female genital mutilation between 10 and under 15 years of age (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: female genital mutilation between 10 and under 15 years of age",
+          "lang": "en"
+        },
+        "id": "977571000000102"
+      }
+    },
+    {
+      "term": "H/O: female genital mutilation between 15 and under 18 years of age",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "977611000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "History of female genital mutilation between 15 and under 18 years of age (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: female genital mutilation between 15 and under 18 years of age",
+          "lang": "en"
+        },
+        "id": "977611000000106"
+      }
+    },
+    {
+      "term": "Senna 7.5mg tablets 12 Years Plus (Accord-UK Ltd) 60 tablet 4 x 15 tablets",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "3384911000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Senna 7.5mg tablets 12 Years Plus (Accord-UK Ltd) 60 tablet 4 x 15 tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Senna 7.5mg tablets 12 Years Plus (Accord-UK Ltd) 60 tablet 4 x 15 tablets",
+          "lang": "en"
+        },
+        "id": "3384911000001100"
+      }
+    },
+    {
+      "term": "Supervision of high risk pregnancy for multigravida age 15 years or younger",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702743004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supervision of high risk pregnancy for multigravida age 15 years or younger (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supervision of high risk pregnancy for multigravida age 15 years or younger",
+          "lang": "en"
+        },
+        "id": "702743004"
+      }
+    },
+    {
+      "term": "Supervision of high risk pregnancy for primigravida age 15 years or younger",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702744005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supervision of high risk pregnancy for primigravida age 15 years or younger (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supervision of high risk pregnancy for primigravida age 15 years or younger",
+          "lang": "en"
+        },
+        "id": "702744005"
+      }
+    },
+    {
+      "term": "Supervision of high risk pregnancy for primigravida age 15 years or younger done",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10761671000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supervision of high risk pregnancy for primigravida age 15 years or younger done (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supervision of high risk pregnancy for primigravida age 15 years or younger done",
+          "lang": "en"
+        },
+        "id": "10761671000119108"
+      }
+    },
+    {
+      "term": "Supervision of high risk pregnancy for multigravida age 15 years or younger done",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10761631000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supervision of high risk pregnancy for multigravida age 15 years or younger done (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supervision of high risk pregnancy for multigravida age 15 years or younger done",
+          "lang": "en"
+        },
+        "id": "10761631000119105"
+      }
+    },
+    {
+      "term": "Senokot 7.5mg/5ml Syrup 12 Years Plus (Reckitt Benckiser Healthcare (UK) Ltd) 150 ml",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "9554011000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Senokot 7.5mg/5ml Syrup 12 Years Plus (Reckitt Benckiser Healthcare (UK) Ltd) 150 ml (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Senokot 7.5mg/5ml Syrup 12 Years Plus (Reckitt Benckiser Healthcare (UK) Ltd) 150 ml",
+          "lang": "en"
+        },
+        "id": "9554011000001106"
+      }
+    },
+    {
+      "term": "Senna 7.5mg tablets 12 Years Plus (Accord-UK Ltd) 60 tablet 4 x 15 tablets (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "3384911000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Senna 7.5mg tablets 12 Years Plus (Accord-UK Ltd) 60 tablet 4 x 15 tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Senna 7.5mg tablets 12 Years Plus (Accord-UK Ltd) 60 tablet 4 x 15 tablets",
+          "lang": "en"
+        },
+        "id": "3384911000001100"
+      }
+    },
+    {
+      "term": "History of female genital mutilation between 10 and under 15 years of age (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "977571000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "History of female genital mutilation between 10 and under 15 years of age (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: female genital mutilation between 10 and under 15 years of age",
+          "lang": "en"
+        },
+        "id": "977571000000102"
+      }
+    },
+    {
+      "term": "History of female genital mutilation between 15 and under 18 years of age (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "977611000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "History of female genital mutilation between 15 and under 18 years of age (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: female genital mutilation between 15 and under 18 years of age",
+          "lang": "en"
+        },
+        "id": "977611000000106"
+      }
+    },
+    {
+      "term": "Supervision of high risk pregnancy for multigravida age 15 years or younger (regime/therapy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702743004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supervision of high risk pregnancy for multigravida age 15 years or younger (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supervision of high risk pregnancy for multigravida age 15 years or younger",
+          "lang": "en"
+        },
+        "id": "702743004"
+      }
+    },
+    {
+      "term": "Supervision of high risk pregnancy for primigravida age 15 years or younger (regime/therapy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702744005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supervision of high risk pregnancy for primigravida age 15 years or younger (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supervision of high risk pregnancy for primigravida age 15 years or younger",
+          "lang": "en"
+        },
+        "id": "702744005"
+      }
+    },
+    {
+      "term": "Supervision of high risk pregnancy for multigravida age 15 years or younger done (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10761631000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supervision of high risk pregnancy for multigravida age 15 years or younger done (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supervision of high risk pregnancy for multigravida age 15 years or younger done",
+          "lang": "en"
+        },
+        "id": "10761631000119105"
+      }
+    },
+    {
+      "term": "Supervision of high risk pregnancy for primigravida age 15 years or younger done (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10761671000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supervision of high risk pregnancy for primigravida age 15 years or younger done (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supervision of high risk pregnancy for primigravida age 15 years or younger done",
+          "lang": "en"
+        },
+        "id": "10761671000119108"
+      }
+    },
+    {
+      "term": "Senokot 7.5mg/5ml Syrup 12 Years Plus (Reckitt Benckiser Healthcare (UK) Ltd) 150 ml (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "9554011000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Senokot 7.5mg/5ml Syrup 12 Years Plus (Reckitt Benckiser Healthcare (UK) Ltd) 150 ml (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Senokot 7.5mg/5ml Syrup 12 Years Plus (Reckitt Benckiser Healthcare (UK) Ltd) 150 ml",
+          "lang": "en"
+        },
+        "id": "9554011000001106"
+      }
+    },
+    {
+      "term": "An autosomal recessive neurodegenerative disorder with a variable age at onset in the first years of life after normal early development followed by decline of mental and motor capacities, epilepsy, and vision loss through retinal degeneration. Caused by homozygous or compound heterozygous mutation in the CLN6 gene on chromosome 15q23.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1296784002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neuronal ceroid lipofuscinosis type 6A (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neuronal ceroid lipofuscinosis type 6A",
+          "lang": "en"
+        },
+        "id": "1296784002"
+      }
+    },
+    {
+      "term": "A very rare severe motor neuron disease with manifestation of progressive upper and lower motor neuron degeneration causing facial spasticity, dysarthria, and gait disorders with onset before 25 years of age. There is evidence this disease is caused by homozygous or compound heterozygous mutation in the spatacsin gene (SPG11) on chromosome 15q21.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1201961000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Juvenile amyotrophic lateral sclerosis type 5 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Juvenile amyotrophic lateral sclerosis type 5",
+          "lang": "en"
+        },
+        "id": "1201961000"
+      }
+    },
+    {
+      "term": "A form of axonal Charcot-Marie-Tooth disease, a peripheral sensorimotor neuropathy. In the single family reported to date, onset is between 15 and 33 years. Patients present with a symmetric distal weakness of legs and occasionally of the hands, absent or reduced tendon reflexes, distal legs sensory loss and frequently a pes cavus. Progression is slow.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719513008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Autosomal dominant Charcot-Marie-Tooth disease type 2L (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Autosomal dominant Charcot-Marie-Tooth disease type 2L",
+          "lang": "en"
+        },
+        "id": "719513008"
+      }
+    },
+    {
+      "term": "A very rare severe motor neuron disease with manifestation of progressive upper and lower motor neuron degeneration causing facial spasticity, dysarthria, and gait disorders with onset before 25 years of age. The disease is usually slowly progressive and some patients have been reported to become bedridden by 12 to 50 years of age. Mutations in the following genes have been found in patients ALS2 (2q33-q35), and rarely SIGMAR1 (9p13.3), SPG11 (15q13-q15) and FUS (16p11.2).",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718555006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Juvenile amyotrophic lateral sclerosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Juvenile amyotrophic lateral sclerosis",
+          "lang": "en"
+        },
+        "id": "718555006"
+      }
+    },
+    {
+      "term": "Rare neuroendocrine neoplasms represented by paragangliomas (occurring in any paraganglia from the skull base to the pelvic floor) and pheochromocytomas. Can be either hypersecreting (catecholamines) or non-secreting. There are no validated markers of malignancy (rate around 15%); the only criterion is the presence of metastases. Hereditary disease is caused by mutations in the SDHD, SDHC, SDHB, SDHA and SDHAF2 (or SDH5) genes (11q23, 1q21, 1p36.1-p35, 5p15 and 11q31.1 respectively). Transmission is autosomal dominant. The disease may be fatal, but some have lived with malignant PCC/PGL for 20 years or more.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "716857003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hereditary pheochromocytoma and paraganglioma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hereditary pheochromocytoma and paraganglioma",
+          "lang": "en"
+        },
+        "id": "716857003"
+      }
+    },
+    {
+      "term": "Rare neuroendocrine neoplasms represented by paragangliomas (occurring in any paraganglia from the skull base to the pelvic floor) and phaeochromocytomas. Can be either hypersecreting (catecholamines) or non-secreting. There are no validated markers of malignancy (rate around 15%); the only criterion is the presence of metastases. Hereditary disease is caused by mutations in the SDHD, SDHC, SDHB, SDHA and SDHAF2 (or SDH5) genes (11q23, 1q21, 1p36.1-p35, 5p15 and 11q31.1 respectively). Transmission is autosomal dominant. The disease may be fatal, but some have lived with malignant PCC/PGL for 20 years or more.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "716857003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hereditary pheochromocytoma and paraganglioma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hereditary pheochromocytoma and paraganglioma",
+          "lang": "en"
+        },
+        "id": "716857003"
+      }
+    },
+    {
+      "term": "A rare genetic renal disease with characteristics of slowly progressive chronic tubulointerstitial nephritis leading to end-stage renal disease before the age of 50 years. The disease manifests mild proteinuria, glucosuria and occasionally urinary sediment abnormalities. Mild extrarenal manifestations such as recurrent upper respiratory tract infections and abnormal liver function tests may be associated. Renal biopsy reveals severe chronic interstitial fibrosis and tubular changes as well as hallmark karyomegalic tubular epithelial cells which line the proximal and distal tubules and have enlarged hyperchromatic nuclei. Caused by homozygous or compound heterozygous mutation in the FAN1 gene on chromosome 15q.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "782738008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Karyomegalic interstitial nephritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Karyomegalic interstitial nephritis",
+          "lang": "en"
+        },
+        "id": "782738008"
+      }
+    },
+    {
+      "term": "A form of primary hypertrophic osteoarthropathy, a rare hereditary disorder with characteristics of digital clubbing, pachydermia and subperiosteal new bone formation associated with pain, polyarthritis, cutis verticis gyrata, seborrhea and hyperhidrosis. Three forms have been described: a complete form with pachydermia and periostitis, an incomplete form with evidence of bone abnormalities but lacking pachydermia, and a forme frusta with prominent pachydermia and minimal-to-absent skeletal changes. The disease typically begins during childhood or adolescence and may stabilize after 5-20 years of progression, or progress constantly. Mutations in the HPGD gene (4q33-q34) have been identified. The gene encodes 15-hydroxyprostaglandin dehydrogenase (15-PGDH), the main enzyme of prostaglandin degradation. Inherited as an autosomal recessive trait.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "88220006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pachydermoperiostosis syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pachydermoperiostosis syndrome",
+          "lang": "en"
+        },
+        "id": "88220006"
+      }
+    },
+    {
+      "term": "A form of primary hypertrophic osteoarthropathy, a rare hereditary disorder with characteristics of digital clubbing, pachydermia and subperiosteal new bone formation associated with pain, polyarthritis, cutis verticis gyrata, seborrhoea and hyperhidrosis. Three forms have been described: a complete form with pachydermia and periostitis, an incomplete form with evidence of bone abnormalities but lacking pachydermia, and a forme frusta with prominent pachydermia and minimal-to-absent skeletal changes. The disease typically begins during childhood or adolescence and may stabilise after 5-20 years of progression, or progress constantly. Mutations in the HPGD gene (4q33-q34) have been identified. The gene encodes 15-hydroxyprostaglandin dehydrogenase (15-PGDH), the main enzyme of prostaglandin degradation. Inherited as an autosomal recessive trait.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "88220006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pachydermoperiostosis syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pachydermoperiostosis syndrome",
+          "lang": "en"
+        },
+        "id": "88220006"
+      }
+    },
+    {
+      "term": "A rare neurodegenerative disorder belonging to the group of infantile progressive encephalopathies. Onset occurs during the first few weeks or months of life with hypotonia, poor feeding, drowsiness and abnormal movements. Infantile spasms, hypsarrhythmia and seizures appear during the first year of life. Visual loss, abnormal eye movements and optic atrophy also occur during infancy. Transmission appears to be autosomal recessive. A significant number of patients have been described who displayed most of the diagnostic criteria and features of PEHO syndrome, but did not appear to have cerebral atrophy on MRI, lacked the ophthalmologic signs and showed no reduction in CSF IGF-1 levels. This group of patients was diagnosed with PEHO-like syndrome. The prognosis is poor and most patients die before 15 years of age, mainly as a result of pneumonia or aspiration.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442511009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Progressive encephalopathy with edema, hypsarrhythmia and optic atrophy syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Progressive encephalopathy with edema, hypsarrhythmia and optic atrophy syndrome",
+          "lang": "en"
+        },
+        "id": "442511009"
+      }
+    }
+  ]
+}

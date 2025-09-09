@@ -1,0 +1,675 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 8,
+      "900000000000207008": 12
+    },
+    "semanticTags": {
+      "disorder": 1,
+      "physical object": 4,
+      "organism": 3,
+      "substance": 2
+    },
+    "language": {
+      "en": 20
+    },
+    "membership": {
+      "1322291000000109": 5,
+      "999004331000000102": 1,
+      "1127601000000107": 1,
+      "999000031000001105": 4,
+      "999000551000001106": 2,
+      "999000541000001108": 2,
+      "900000000000497000": 6,
+      "999002051000000100": 1,
+      "733073007": 6,
+      "999002271000000101": 1,
+      "999000401000000107": 4,
+      "30931000001101": 2
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 20,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 20,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "dADP",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54579007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deoxy adenosine diphosphate (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deoxy adenosine diphosphate",
+          "lang": "en"
+        },
+        "id": "54579007"
+      }
+    },
+    {
+      "term": "Dickeya dadantii",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4381000146100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dickeya dadantii (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dickeya dadantii",
+          "lang": "en"
+        },
+        "id": "4381000146100"
+      }
+    },
+    {
+      "term": "Salmonella Dadzie",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54227005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Salmonella Dadzie (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Salmonella Dadzie",
+          "lang": "en"
+        },
+        "id": "54227005"
+      }
+    },
+    {
+      "term": "Dickeya dadantii (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4381000146100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dickeya dadantii (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dickeya dadantii",
+          "lang": "en"
+        },
+        "id": "4381000146100"
+      }
+    },
+    {
+      "term": "Salmonella Dadzie (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54227005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Salmonella Dadzie (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Salmonella Dadzie",
+          "lang": "en"
+        },
+        "id": "54227005"
+      }
+    },
+    {
+      "term": "Lactaldehyde reductase (DADPH)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "74941005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lactaldehyde reductase (DADPH) (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lactaldehyde reductase (DADPH)",
+          "lang": "en"
+        },
+        "id": "74941005"
+      }
+    },
+    {
+      "term": "Dickeya dadantii subsp. dieffenbachiae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20001000146106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dickeya dadantii subspecies dieffenbachiae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dickeya dadantii subspecies dieffenbachiae",
+          "lang": "en"
+        },
+        "id": "20001000146106"
+      }
+    },
+    {
+      "term": "DAD - Developmental articulatory dyspraxia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229701006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Developmental articulatory dyspraxia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Developmental articulatory dyspraxia",
+          "lang": "en"
+        },
+        "id": "229701006"
+      }
+    },
+    {
+      "term": "Lactaldehyde reductase (DADPH) (substance)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "74941005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lactaldehyde reductase (DADPH) (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lactaldehyde reductase (DADPH)",
+          "lang": "en"
+        },
+        "id": "74941005"
+      }
+    },
+    {
+      "term": "Dickeya dadantii subspecies dieffenbachiae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20001000146106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dickeya dadantii subspecies dieffenbachiae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dickeya dadantii subspecies dieffenbachiae",
+          "lang": "en"
+        },
+        "id": "20001000146106"
+      }
+    },
+    {
+      "term": "Salmonella enterica subsp. enterica ser. Dadzie",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54227005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Salmonella Dadzie (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Salmonella Dadzie",
+          "lang": "en"
+        },
+        "id": "54227005"
+      }
+    },
+    {
+      "term": "Dickeya dadantii subspecies dieffenbachiae (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20001000146106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dickeya dadantii subspecies dieffenbachiae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dickeya dadantii subspecies dieffenbachiae",
+          "lang": "en"
+        },
+        "id": "20001000146106"
+      }
+    },
+    {
+      "term": "Daddy Bear paediatric sterile leg bag 10103D 350ml bag, direct inlet (Great Bear Healthcare Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "35876111000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Daddy Bear paediatric sterile leg bag 10103D 350ml bag, direct inlet (Great Bear Healthcare Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daddy Bear paediatric sterile leg bag 10103D 350ml bag, direct inlet (Great Bear Healthcare Ltd)",
+          "lang": "en"
+        },
+        "id": "35876111000001105"
+      }
+    },
+    {
+      "term": "Daddy Bear paediatric sterile leg bag 10151D 350ml bag, adjustable tube (Great Bear Healthcare Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "35876311000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Daddy Bear paediatric sterile leg bag 10151D 350ml bag, adjustable tube (Great Bear Healthcare Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daddy Bear paediatric sterile leg bag 10151D 350ml bag, adjustable tube (Great Bear Healthcare Ltd)",
+          "lang": "en"
+        },
+        "id": "35876311000001107"
+      }
+    },
+    {
+      "term": "Daddy Bear paediatric sterile leg bag 10103D 350ml bag, direct inlet (Great Bear Healthcare Ltd) 10 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "35876211000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Daddy Bear paediatric sterile leg bag 10103D 350ml bag, direct inlet (Great Bear Healthcare Ltd) 10 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daddy Bear paediatric sterile leg bag 10103D 350ml bag, direct inlet (Great Bear Healthcare Ltd) 10 device",
+          "lang": "en"
+        },
+        "id": "35876211000001104"
+      }
+    },
+    {
+      "term": "Daddy Bear paediatric sterile leg bag 10151D 350ml bag, adjustable tube (Great Bear Healthcare Ltd) 10 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "35876411000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Daddy Bear paediatric sterile leg bag 10151D 350ml bag, adjustable tube (Great Bear Healthcare Ltd) 10 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daddy Bear paediatric sterile leg bag 10151D 350ml bag, adjustable tube (Great Bear Healthcare Ltd) 10 device",
+          "lang": "en"
+        },
+        "id": "35876411000001100"
+      }
+    },
+    {
+      "term": "Daddy Bear paediatric sterile leg bag 10103D 350ml bag, direct inlet (Great Bear Healthcare Ltd) (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "35876111000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Daddy Bear paediatric sterile leg bag 10103D 350ml bag, direct inlet (Great Bear Healthcare Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daddy Bear paediatric sterile leg bag 10103D 350ml bag, direct inlet (Great Bear Healthcare Ltd)",
+          "lang": "en"
+        },
+        "id": "35876111000001105"
+      }
+    },
+    {
+      "term": "Daddy Bear paediatric sterile leg bag 10151D 350ml bag, adjustable tube (Great Bear Healthcare Ltd) (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "35876311000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Daddy Bear paediatric sterile leg bag 10151D 350ml bag, adjustable tube (Great Bear Healthcare Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daddy Bear paediatric sterile leg bag 10151D 350ml bag, adjustable tube (Great Bear Healthcare Ltd)",
+          "lang": "en"
+        },
+        "id": "35876311000001107"
+      }
+    },
+    {
+      "term": "Daddy Bear paediatric sterile leg bag 10103D 350ml bag, direct inlet (Great Bear Healthcare Ltd) 10 device (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "35876211000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Daddy Bear paediatric sterile leg bag 10103D 350ml bag, direct inlet (Great Bear Healthcare Ltd) 10 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daddy Bear paediatric sterile leg bag 10103D 350ml bag, direct inlet (Great Bear Healthcare Ltd) 10 device",
+          "lang": "en"
+        },
+        "id": "35876211000001104"
+      }
+    },
+    {
+      "term": "Daddy Bear paediatric sterile leg bag 10151D 350ml bag, adjustable tube (Great Bear Healthcare Ltd) 10 device (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "35876411000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Daddy Bear paediatric sterile leg bag 10151D 350ml bag, adjustable tube (Great Bear Healthcare Ltd) 10 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daddy Bear paediatric sterile leg bag 10151D 350ml bag, adjustable tube (Great Bear Healthcare Ltd) 10 device",
+          "lang": "en"
+        },
+        "id": "35876411000001100"
+      }
+    }
+  ]
+}

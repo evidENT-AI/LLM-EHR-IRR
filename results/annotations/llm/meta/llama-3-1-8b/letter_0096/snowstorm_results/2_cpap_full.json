@@ -1,0 +1,565 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 1,
+      "900000000000207008": 16
+    },
+    "semanticTags": {
+      "regime/therapy": 3,
+      "physical object": 5,
+      "procedure": 1,
+      "finding": 2,
+      "event": 1
+    },
+    "language": {
+      "en": 17
+    },
+    "membership": {
+      "1322291000000109": 12,
+      "1127601000000107": 2,
+      "999001871000000106": 1,
+      "900000000000497000": 11,
+      "733073007": 12,
+      "999002271000000101": 1,
+      "999000401000000107": 5,
+      "1382401000000109": 4,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999001871000000106": {
+      "conceptId": "999001871000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Respiratory medicine diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Respiratory medicine diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001871000000106"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 17,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 17,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Home CPAP unit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702172008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Home continuous positive airway pressure unit (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Home CPAP unit",
+          "lang": "en"
+        },
+        "id": "702172008"
+      }
+    },
+    {
+      "term": "CPAP/BPAP oral mask",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704718009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "CPAP/BPAP oral mask (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CPAP/BPAP oral mask",
+          "lang": "en"
+        },
+        "id": "704718009"
+      }
+    },
+    {
+      "term": "CPAP nasal oxygen cannula",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "467645007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Continuous positive airway pressure nasal oxygen cannula (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CPAP nasal oxygen cannula",
+          "lang": "en"
+        },
+        "id": "467645007"
+      }
+    },
+    {
+      "term": "CPAP/BPAP oral mask (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704718009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "CPAP/BPAP oral mask (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CPAP/BPAP oral mask",
+          "lang": "en"
+        },
+        "id": "704718009"
+      }
+    },
+    {
+      "term": "CPAP (continuous positive airway pressure) unit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1284824006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea breathing therapy equipment (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea breathing therapy equipment",
+          "lang": "en"
+        },
+        "id": "1284824006"
+      }
+    },
+    {
+      "term": "CPAP (continuous positive airway pressure) at home",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8771000175103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uses home continuous positive airway pressure ventilation supply (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uses home continuous positive airway pressure ventilation supply",
+          "lang": "en"
+        },
+        "id": "8771000175103"
+      }
+    },
+    {
+      "term": "CPAP (continuous positive airway pressure) therapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47545007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Continuous positive airway pressure ventilation treatment (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Continuous positive airway pressure ventilation treatment",
+          "lang": "en"
+        },
+        "id": "47545007"
+      }
+    },
+    {
+      "term": "CPAP (continuous positive airway pressure) machine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1284824006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea breathing therapy equipment (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea breathing therapy equipment",
+          "lang": "en"
+        },
+        "id": "1284824006"
+      }
+    },
+    {
+      "term": "CPAP (continuous positive airway pressure) treatment",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47545007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Continuous positive airway pressure ventilation treatment (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Continuous positive airway pressure ventilation treatment",
+          "lang": "en"
+        },
+        "id": "47545007"
+      }
+    },
+    {
+      "term": "CPAP (continuous positive airway pressure) titration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "446573003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Continuous positive airway pressure titration (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Continuous positive airway pressure titration",
+          "lang": "en"
+        },
+        "id": "446573003"
+      }
+    },
+    {
+      "term": "Nocturnal CPAP (continuous positive airway pressure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34281000175105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nocturnal continuous positive airway pressure (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nocturnal continuous positive airway pressure",
+          "lang": "en"
+        },
+        "id": "34281000175105"
+      }
+    },
+    {
+      "term": "Home CPAP (continuous positive airway pressure) supply",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8771000175103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uses home continuous positive airway pressure ventilation supply (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uses home continuous positive airway pressure ventilation supply",
+          "lang": "en"
+        },
+        "id": "8771000175103"
+      }
+    },
+    {
+      "term": "Neonatal/infant CPAP (continuous positive airway pressure) unit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711347008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal/infant continuous positive airway pressure unit (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal/infant continuous positive airway pressure unit",
+          "lang": "en"
+        },
+        "id": "711347008"
+      }
+    },
+    {
+      "term": "Continuous positive airway pressure (CPAP) to nonventilated lung",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448134000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Continuous positive airway pressure to nonventilated lung (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Continuous positive airway pressure to nonventilated lung",
+          "lang": "en"
+        },
+        "id": "448134000"
+      }
+    },
+    {
+      "term": "Home CPAP (continuous positive airway pressure) ventilation supply",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8771000175103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uses home continuous positive airway pressure ventilation supply (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uses home continuous positive airway pressure ventilation supply",
+          "lang": "en"
+        },
+        "id": "8771000175103"
+      }
+    },
+    {
+      "term": "Dependence on continuous positive airway pressure (CPAP) ventilation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429487005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dependence on continuous positive airway pressure ventilation (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dependence on continuous positive airway pressure ventilation",
+          "lang": "en"
+        },
+        "id": "429487005"
+      }
+    },
+    {
+      "term": "Recently performed administration of CPAP (continuous positive airway pressure) ventilation",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1322251000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Recently performed administration of continuous positive airway pressure ventilation (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recently performed administration of CPAP (continuous positive airway pressure) ventilation",
+          "lang": "en"
+        },
+        "id": "1322251000000101"
+      }
+    }
+  ]
+}

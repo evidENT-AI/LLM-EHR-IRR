@@ -1,0 +1,1518 @@
+{
+  "buckets": {
+    "module": {
+      "999000021000000109": 3,
+      "999000011000001104": 27,
+      "999000011000000103": 10,
+      "900000000000207008": 337
+    },
+    "semanticTags": {
+      "regime/therapy": 30,
+      "foundation metadata concept": 1,
+      "disorder": 1,
+      "physical object": 268,
+      "observable entity": 3,
+      "procedure": 11,
+      "finding": 2,
+      "record artifact": 1,
+      "qualifier value": 5
+    },
+    "language": {
+      "en": 377
+    },
+    "membership": {
+      "1322291000000109": 202,
+      "1127601000000107": 3,
+      "1127531000000102": 1,
+      "999000031000001105": 25,
+      "999000551000001106": 12,
+      "1127551000000109": 1,
+      "999000561000001109": 1,
+      "999000541000001108": 11,
+      "999002271000000101": 4,
+      "900000000000489007": 2,
+      "999002651000000107": 2,
+      "991311000000100": 1,
+      "966241000000101": 1,
+      "999000401000000107": 267,
+      "999002571000000104": 1,
+      "900000000000497000": 287,
+      "1323341000000102": 1,
+      "733073007": 296,
+      "991191000000106": 4,
+      "1373511000000107": 1,
+      "999000571000001104": 1,
+      "966261000000100": 2,
+      "900000000000456007": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127531000000102": {
+      "conceptId": "1127531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Services simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Services simple reference set",
+        "lang": "en"
+      },
+      "id": "1127531000000102"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999002651000000107": {
+      "conceptId": "999002651000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure impairment scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure impairment scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002651000000107"
+    },
+    "966241000000101": {
+      "conceptId": "966241000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy therapeutic interventions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy therapeutic interventions simple reference set",
+        "lang": "en"
+      },
+      "id": "966241000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999000021000000109": {
+      "conceptId": "999000021000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension reference set module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension reference set module",
+        "lang": "en"
+      },
+      "id": "999000021000000109"
+    },
+    "1373511000000107": {
+      "conceptId": "1373511000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Social prescribing support procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Social prescribing support simple reference set",
+        "lang": "en"
+      },
+      "id": "1373511000000107"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000561000001109": {
+      "conceptId": "999000561000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000561000001109"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "991311000000100": {
+      "conceptId": "991311000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Early intervention in psychosis procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Early intervention in psychosis procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991311000000100"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "1323341000000102": {
+      "conceptId": "1323341000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Treatment Function services for England simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Treatment Function services for England simple reference set",
+        "lang": "en"
+      },
+      "id": "1323341000000102"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "991191000000106": {
+      "conceptId": "991191000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy interventions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy interventions simple reference set",
+        "lang": "en"
+      },
+      "id": "991191000000106"
+    },
+    "999000571000001104": {
+      "conceptId": "999000571000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000571000001104"
+    },
+    "966261000000100": {
+      "conceptId": "966261000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "966261000000100"
+    },
+    "900000000000456007": {
+      "conceptId": "900000000000456007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Reference set descriptor reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Reference set descriptor",
+        "lang": "en"
+      },
+      "id": "900000000000456007"
+    }
+  },
+  "totalElements": 377,
+  "totalPages": 8,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Physical therapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722138006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physiotherapy (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physiotherapy",
+          "lang": "en"
+        },
+        "id": "722138006"
+      }
+    },
+    {
+      "term": "Physical agent therapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229553000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical agent therapy (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical agent therapy",
+          "lang": "en"
+        },
+        "id": "229553000"
+      }
+    },
+    {
+      "term": "Physical therapy table",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "705186002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy table (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy table",
+          "lang": "en"
+        },
+        "id": "705186002"
+      }
+    },
+    {
+      "term": "Physical therapy device",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "705178002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy device",
+          "lang": "en"
+        },
+        "id": "705178002"
+      }
+    },
+    {
+      "term": "Physical therapy service",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722140001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physiotherapy service (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physiotherapy service",
+          "lang": "en"
+        },
+        "id": "722140001"
+      }
+    },
+    {
+      "term": "Combined physical therapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "183326003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Combined physical therapy (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Combined physical therapy",
+          "lang": "en"
+        },
+        "id": "183326003"
+      }
+    },
+    {
+      "term": "Physical therapy massager",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "462648002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy massager (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy massager",
+          "lang": "en"
+        },
+        "id": "462648002"
+      }
+    },
+    {
+      "term": "Physical therapy procedure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91251008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy procedure (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy procedure",
+          "lang": "en"
+        },
+        "id": "91251008"
+      }
+    },
+    {
+      "term": "Physical therapy education",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410159001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy education (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy education",
+          "lang": "en"
+        },
+        "id": "410159001"
+      }
+    },
+    {
+      "term": "Physical therapy assessment",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410158009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy assessment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy assessment",
+          "lang": "en"
+        },
+        "id": "410158009"
+      }
+    },
+    {
+      "term": "Physical therapy management",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410160006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy management",
+          "lang": "en"
+        },
+        "id": "410160006"
+      }
+    },
+    {
+      "term": "Physical therapy consult note",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722052006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy consult note (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy consult note",
+          "lang": "en"
+        },
+        "id": "722052006"
+      }
+    },
+    {
+      "term": "Physical therapy surveillance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "424291000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy surveillance (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy surveillance",
+          "lang": "en"
+        },
+        "id": "424291000"
+      }
+    },
+    {
+      "term": "Physical therapy table, manual",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "462537001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy table, manual (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy table, manual",
+          "lang": "en"
+        },
+        "id": "462537001"
+      }
+    },
+    {
+      "term": "Therapy wrap (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1237216001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Therapy wrap (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Therapy wrap",
+          "lang": "en"
+        },
+        "id": "1237216001"
+      }
+    },
+    {
+      "term": "Physical therapy/massage armrest",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702075007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy/massage armrest (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy/massage armrest",
+          "lang": "en"
+        },
+        "id": "702075007"
+      }
+    },
+    {
+      "term": "Physical therapy care management",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410160006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy management",
+          "lang": "en"
+        },
+        "id": "410160006"
+      }
+    },
+    {
+      "term": "Physical therapy insulation patch",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "462306002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy insulation patch (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy insulation patch",
+          "lang": "en"
+        },
+        "id": "462306002"
+      }
+    },
+    {
+      "term": "Physical therapy/massage face rest",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "701811008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy/massage face rest (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy/massage face rest",
+          "lang": "en"
+        },
+        "id": "701811008"
+      }
+    },
+    {
+      "term": "Cool therapy gel (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "701923003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cool therapy gel (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cool therapy gel",
+          "lang": "en"
+        },
+        "id": "701923003"
+      }
+    },
+    {
+      "term": "Cold therapy gel (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "467295000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold therapy gel (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold therapy gel",
+          "lang": "en"
+        },
+        "id": "467295000"
+      }
+    },
+    {
+      "term": "Physical therapy paraffin wax bath",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "462291002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy paraffin wax bath (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy paraffin wax bath",
+          "lang": "en"
+        },
+        "id": "462291002"
+      }
+    },
+    {
+      "term": "Heat therapy gel (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "470117000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Heat therapy gel (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Heat therapy gel",
+          "lang": "en"
+        },
+        "id": "470117000"
+      }
+    },
+    {
+      "term": "Physical therapy ultrasound system",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "462719000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy ultrasound system (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy ultrasound system",
+          "lang": "en"
+        },
+        "id": "462719000"
+      }
+    },
+    {
+      "term": "Referral for home physical therapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416790000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Referral for home physical therapy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referral for home physical therapy",
+          "lang": "en"
+        },
+        "id": "416790000"
+      }
+    },
+    {
+      "term": "Physical therapy care surveillance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "424291000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy surveillance (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy surveillance",
+          "lang": "en"
+        },
+        "id": "424291000"
+      }
+    },
+    {
+      "term": "Physical exercises (regime/therapy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "183301007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical exercises (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical exercises",
+          "lang": "en"
+        },
+        "id": "183301007"
+      }
+    },
+    {
+      "term": "Knowledge level of physical therapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704401009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Knowledge level of physical therapy (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Knowledge level of physical therapy",
+          "lang": "en"
+        },
+        "id": "704401009"
+      }
+    },
+    {
+      "term": "Cold therapy pack (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1141913009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold therapy pack (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold therapy pack",
+          "lang": "en"
+        },
+        "id": "1141913009"
+      }
+    },
+    {
+      "term": "Physical therapy table, line-powered",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "463114005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy table, line-powered (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy table, line-powered",
+          "lang": "en"
+        },
+        "id": "463114005"
+      }
+    },
+    {
+      "term": "Cold therapy spray (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "467264007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold therapy spray (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold therapy spray",
+          "lang": "en"
+        },
+        "id": "467264007"
+      }
+    },
+    {
+      "term": "Physical therapy education (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410159001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy education (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy education",
+          "lang": "en"
+        },
+        "id": "410159001"
+      }
+    },
+    {
+      "term": "Multi-modality physical therapy system",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711345000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Multi-modality physical therapy system (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Multi-modality physical therapy system",
+          "lang": "en"
+        },
+        "id": "711345000"
+      }
+    },
+    {
+      "term": "Wound therapy system (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "705849000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wound therapy system (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wound therapy system",
+          "lang": "en"
+        },
+        "id": "705849000"
+      }
+    },
+    {
+      "term": "Preparation of physical therapy device",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1230192007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Preparation of physical therapy equipment (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Preparation of physical therapy equipment",
+          "lang": "en"
+        },
+        "id": "1230192007"
+      }
+    },
+    {
+      "term": "Physical agent therapy (regime/therapy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229553000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical agent therapy (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical agent therapy",
+          "lang": "en"
+        },
+        "id": "229553000"
+      }
+    },
+    {
+      "term": "Physical therapy management (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410160006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy management",
+          "lang": "en"
+        },
+        "id": "410160006"
+      }
+    },
+    {
+      "term": "Proton therapy system (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "462437003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Proton therapy system (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Proton therapy system",
+          "lang": "en"
+        },
+        "id": "462437003"
+      }
+    },
+    {
+      "term": "Speech therapy mirror (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "466326000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Speech therapy mirror (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Speech therapy mirror",
+          "lang": "en"
+        },
+        "id": "466326000"
+      }
+    },
+    {
+      "term": "Deficient knowledge of physical therapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704402002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deficient knowledge of physical therapy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deficient knowledge of physical therapy",
+          "lang": "en"
+        },
+        "id": "704402002"
+      }
+    },
+    {
+      "term": "Eye heat therapy pack (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704904006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Eye heat therapy pack (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eye heat therapy pack",
+          "lang": "en"
+        },
+        "id": "704904006"
+      }
+    },
+    {
+      "term": "Hot/Cold therapy pack (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "705184004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hot/Cold therapy pack (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hot/Cold therapy pack",
+          "lang": "en"
+        },
+        "id": "705184004"
+      }
+    },
+    {
+      "term": "Physical therapy assessment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410158009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy assessment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy assessment",
+          "lang": "en"
+        },
+        "id": "410158009"
+      }
+    },
+    {
+      "term": "Oxygen therapy system (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "464533001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oxygen therapy system (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oxygen therapy system",
+          "lang": "en"
+        },
+        "id": "464533001"
+      }
+    },
+    {
+      "term": "Cold-air therapy unit (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "467557009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold-air therapy unit (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold-air therapy unit",
+          "lang": "en"
+        },
+        "id": "467557009"
+      }
+    },
+    {
+      "term": "Neurological physical therapy specialty",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303926004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neurological physical therapy specialty (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neurological physical therapy specialty",
+          "lang": "en"
+        },
+        "id": "1303926004"
+      }
+    },
+    {
+      "term": "Radio-frequency physical therapy system",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1269428009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radio-frequency physical therapy system (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radio-frequency physical therapy system",
+          "lang": "en"
+        },
+        "id": "1269428009"
+      }
+    },
+    {
+      "term": "Physical therapy table (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "705186002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical therapy table (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical therapy table",
+          "lang": "en"
+        },
+        "id": "705186002"
+      }
+    },
+    {
+      "term": "Cupping therapy device (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "467972001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cupping therapy device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cupping therapy device",
+          "lang": "en"
+        },
+        "id": "467972001"
+      }
+    },
+    {
+      "term": "Physical rehabilitation therapy procedure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "108305003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical rehabilitation therapy procedure (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical rehabilitation therapy procedure",
+          "lang": "en"
+        },
+        "id": "108305003"
+      }
+    }
+  ]
+}

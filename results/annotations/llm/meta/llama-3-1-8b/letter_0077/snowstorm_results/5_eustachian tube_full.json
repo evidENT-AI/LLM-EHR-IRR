@@ -1,0 +1,1418 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 223
+    },
+    "semanticTags": {
+      "disorder": 47,
+      "physical object": 1,
+      "body structure": 41,
+      "observable entity": 1,
+      "procedure": 15
+    },
+    "language": {
+      "en": 227
+    },
+    "membership": {
+      "1322291000000109": 64,
+      "1127601000000107": 44,
+      "1382531000000102": 21,
+      "999003161000000108": 3,
+      "999003201000000100": 1,
+      "999003151000000105": 41,
+      "999002271000000101": 69,
+      "734138000": 18,
+      "999003171000000101": 1,
+      "723264001": 31,
+      "900000000000489007": 1,
+      "999003181000000104": 1,
+      "2222161000000102": 1,
+      "999000401000000107": 1,
+      "446608001": 24,
+      "999002571000000104": 4,
+      "900000000000497000": 104,
+      "733073007": 105,
+      "1382401000000109": 33
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "999003151000000105": {
+      "conceptId": "999003151000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen topography values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen topography values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003151000000105"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "734138000": {
+      "conceptId": "734138000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Anatomy structure and entire association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Anatomy structure and entire association reference set",
+        "lang": "en"
+      },
+      "id": "734138000"
+    },
+    "999003171000000101": {
+      "conceptId": "999003171000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1B In situ diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1B In situ diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003171000000101"
+    },
+    "723264001": {
+      "conceptId": "723264001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Lateralizable body structure reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Lateralizable body structure reference set",
+        "lang": "en"
+      },
+      "id": "723264001"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999003181000000104": {
+      "conceptId": "999003181000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003181000000104"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "446608001": {
+      "conceptId": "446608001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT to ICD-O simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT to ICD-O simple map",
+        "lang": "en"
+      },
+      "id": "446608001"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 227,
+  "totalPages": 5,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91207004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of pharyngotympanic tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Structure of pharyngotympanic tube",
+          "lang": "en"
+        },
+        "id": "91207004"
+      }
+    },
+    {
+      "term": "Left Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43525003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Left Eustachian canal structure (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Left Eustachian canal structure",
+          "lang": "en"
+        },
+        "id": "43525003"
+      }
+    },
+    {
+      "term": "Right Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "72347004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Right Eustachian canal structure (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Right Eustachian canal structure",
+          "lang": "en"
+        },
+        "id": "72347004"
+      }
+    },
+    {
+      "term": "Osseous eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8251006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of osseous portion of Eustachian tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Structure of osseous portion of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "8251006"
+      }
+    },
+    {
+      "term": "Block - eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48145001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstruction of Eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstruction of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "48145001"
+      }
+    },
+    {
+      "term": "Patulous eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30280005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Patulous eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Patulous eustachian tube",
+          "lang": "en"
+        },
+        "id": "30280005"
+      }
+    },
+    {
+      "term": "Eustachian tube disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "69494008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Eustachian tube disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eustachian tube disorder",
+          "lang": "en"
+        },
+        "id": "69494008"
+      }
+    },
+    {
+      "term": "Tumor of Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254468002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tumor of Eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tumor of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "254468002"
+      }
+    },
+    {
+      "term": "Eustachian tube function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278459006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Eustachian tube function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eustachian tube function",
+          "lang": "en"
+        },
+        "id": "278459006"
+      }
+    },
+    {
+      "term": "Graft to eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172727008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Graft to eustachian tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Graft to eustachian tube",
+          "lang": "en"
+        },
+        "id": "172727008"
+      }
+    },
+    {
+      "term": "Lumen of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303174003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of lumen of pharyngotympanic tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Structure of lumen of pharyngotympanic tube",
+          "lang": "en"
+        },
+        "id": "1303174003"
+      }
+    },
+    {
+      "term": "Eustachian tube anomalies",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "204250005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital abnormality of Eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital abnormality of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "204250005"
+      }
+    },
+    {
+      "term": "Tumour of Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254468002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tumor of Eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tumor of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "254468002"
+      }
+    },
+    {
+      "term": "Ostium of Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "360893002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of ostium of Eustachian tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ostium of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "360893002"
+      }
+    },
+    {
+      "term": "Repair of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31852007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Repair of eustachian tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eustachian tuboplasty",
+          "lang": "en"
+        },
+        "id": "31852007"
+      }
+    },
+    {
+      "term": "Injury of Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "765193007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Injury of Eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injury of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "765193007"
+      }
+    },
+    {
+      "term": "Eustachian tube prosthesis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "24767007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Eustachian tube prosthesis, device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eustachian tube prosthesis",
+          "lang": "en"
+        },
+        "id": "24767007"
+      }
+    },
+    {
+      "term": "Isthmus of Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47744009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of isthmus of Eustachian tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Structure of isthmus of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "47744009"
+      }
+    },
+    {
+      "term": "Stenosis of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80101003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stenosis of eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stenosis of eustachian tube",
+          "lang": "en"
+        },
+        "id": "80101003"
+      }
+    },
+    {
+      "term": "Eustachian tube salpingitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "270491006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Eustachian tube salpingitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eustachian tube salpingitis",
+          "lang": "en"
+        },
+        "id": "270491006"
+      }
+    },
+    {
+      "term": "Eustachian tube obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48145001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstruction of Eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstruction of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "48145001"
+      }
+    },
+    {
+      "term": "Eustachian tube dysfunction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56713002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dysfunction of eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dysfunction of eustachian tube",
+          "lang": "en"
+        },
+        "id": "56713002"
+      }
+    },
+    {
+      "term": "Entire left Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "368590008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Entire left Eustachian tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Entire left Eustachian tube",
+          "lang": "en"
+        },
+        "id": "368590008"
+      }
+    },
+    {
+      "term": "Neoplasm of Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254468002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tumor of Eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tumor of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "254468002"
+      }
+    },
+    {
+      "term": "Cartilage of Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20008000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of cartilage of Eustachian tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Structure of cartilage of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "20008000"
+      }
+    },
+    {
+      "term": "Procedure on eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "118896006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Procedure on eustachian tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Procedure on eustachian tube",
+          "lang": "en"
+        },
+        "id": "118896006"
+      }
+    },
+    {
+      "term": "Inflation of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36015009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insufflation of eustachian tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insufflation of eustachian tube",
+          "lang": "en"
+        },
+        "id": "36015009"
+      }
+    },
+    {
+      "term": "Operation on eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "74946000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Operation on eustachian tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Operation on eustachian tube",
+          "lang": "en"
+        },
+        "id": "74946000"
+      }
+    },
+    {
+      "term": "Stricture of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80101003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stenosis of eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stenosis of eustachian tube",
+          "lang": "en"
+        },
+        "id": "80101003"
+      }
+    },
+    {
+      "term": "Entire right Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "368568008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Entire right Eustachian tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Entire right Eustachian tube",
+          "lang": "en"
+        },
+        "id": "368568008"
+      }
+    },
+    {
+      "term": "Diathermy of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232197002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diathermy of eustachian tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diathermy of eustachian tube",
+          "lang": "en"
+        },
+        "id": "232197002"
+      }
+    },
+    {
+      "term": "Intubation of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71876005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Catheterization of eustachian tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Catheterization of eustachian tube",
+          "lang": "en"
+        },
+        "id": "71876005"
+      }
+    },
+    {
+      "term": "Open wound of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "210309004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Open wound of eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Open wound of eustachian tube",
+          "lang": "en"
+        },
+        "id": "210309004"
+      }
+    },
+    {
+      "term": "Cartilaginous eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71013008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of cartilaginous portion of Eustachian tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Structure of cartilaginous portion of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "71013008"
+      }
+    },
+    {
+      "term": "Lumen of left eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303179008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of lumen of left pharyngotympanic tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Structure of lumen of left pharyngotympanic tube",
+          "lang": "en"
+        },
+        "id": "1303179008"
+      }
+    },
+    {
+      "term": "Patulous left Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1089421000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Patulous left Eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Patulous left Eustachian tube",
+          "lang": "en"
+        },
+        "id": "1089421000119101"
+      }
+    },
+    {
+      "term": "Compression of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40071000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Compression of eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Compression of eustachian tube",
+          "lang": "en"
+        },
+        "id": "40071000"
+      }
+    },
+    {
+      "term": "Dysfunction of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56713002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dysfunction of eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dysfunction of eustachian tube",
+          "lang": "en"
+        },
+        "id": "56713002"
+      }
+    },
+    {
+      "term": "Cannulation of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71876005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Catheterization of eustachian tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Catheterization of eustachian tube",
+          "lang": "en"
+        },
+        "id": "71876005"
+      }
+    },
+    {
+      "term": "Obstruction of Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48145001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstruction of Eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstruction of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "48145001"
+      }
+    },
+    {
+      "term": "ETF - Eustachian tube function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278459006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Eustachian tube function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eustachian tube function",
+          "lang": "en"
+        },
+        "id": "278459006"
+      }
+    },
+    {
+      "term": "Lumen of right eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303180006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of lumen of right pharyngotympanic tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Structure of lumen of right pharyngotympanic tube",
+          "lang": "en"
+        },
+        "id": "1303180006"
+      }
+    },
+    {
+      "term": "Patulous both Eustachian tubes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1084351000119102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Patulous bilateral Eustachian tubes (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral patulous Eustachian tubes",
+          "lang": "en"
+        },
+        "id": "1084351000119102"
+      }
+    },
+    {
+      "term": "Patulous right Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1092031000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Patulous right Eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Patulous right Eustachian tube",
+          "lang": "en"
+        },
+        "id": "1092031000119104"
+      }
+    },
+    {
+      "term": "Insufflation of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36015009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insufflation of eustachian tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insufflation of eustachian tube",
+          "lang": "en"
+        },
+        "id": "36015009"
+      }
+    },
+    {
+      "term": "Benign tumor of Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92094006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benign neoplasm of eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Benign neoplasm of eustachian tube",
+          "lang": "en"
+        },
+        "id": "92094006"
+      }
+    },
+    {
+      "term": "Diverticulum of Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "721293007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diverticulum of Eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diverticulum of Eustachian tube",
+          "lang": "en"
+        },
+        "id": "721293007"
+      }
+    },
+    {
+      "term": "Entire lumen of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1332261006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Entire lumen of pharyngotympanic tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Entire lumen of pharyngotympanic tube",
+          "lang": "en"
+        },
+        "id": "1332261006"
+      }
+    },
+    {
+      "term": "Mucous gland of eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110709003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of mucous gland of pharyngotympanic tube (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mucous gland of eustachian tube",
+          "lang": "en"
+        },
+        "id": "110709003"
+      }
+    },
+    {
+      "term": "Benign tumour of Eustachian tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92094006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benign neoplasm of eustachian tube (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Benign neoplasm of eustachian tube",
+          "lang": "en"
+        },
+        "id": "92094006"
+      }
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 11
+    },
+    "semanticTags": {
+      "disorder": 7,
+      "morphologic abnormality": 1
+    },
+    "language": {
+      "en": 11
+    },
+    "membership": {
+      "1322291000000109": 8,
+      "1127601000000107": 7,
+      "446608001": 1,
+      "1382531000000102": 7,
+      "999003161000000108": 7,
+      "900000000000497000": 8,
+      "999002271000000101": 9,
+      "733073007": 8,
+      "999003171000000101": 1,
+      "999001061000000106": 1,
+      "999003141000000107": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "446608001": {
+      "conceptId": "446608001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT to ICD-O simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT to ICD-O simple map",
+        "lang": "en"
+      },
+      "id": "446608001"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999003171000000101": {
+      "conceptId": "999003171000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1B In situ diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1B In situ diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003171000000101"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 11,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 11,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Thyroid cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "363478007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Malignant tumor of thyroid gland (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Malignant tumor of thyroid gland",
+          "lang": "en"
+        },
+        "id": "363478007"
+      }
+    },
+    {
+      "term": "Cancer in situ of thyroid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92767001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carcinoma in situ of thyroid gland (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carcinoma in situ of thyroid gland",
+          "lang": "en"
+        },
+        "id": "92767001"
+      }
+    },
+    {
+      "term": "Cancer metastatic to thyroid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "94634005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Metastatic malignant neoplasm to thyroid gland (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Metastatic malignant neoplasm to thyroid gland",
+          "lang": "en"
+        },
+        "id": "94634005"
+      }
+    },
+    {
+      "term": "Differentiated thyroid cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1255086008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Differentiated thyroid carcinoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Differentiated thyroid carcinoma",
+          "lang": "en"
+        },
+        "id": "1255086008"
+      }
+    },
+    {
+      "term": "Cancer of thyroid, Hurthle cell",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "423158009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hurthle cell carcinoma of thyroid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hurthle cell carcinoma of thyroid",
+          "lang": "en"
+        },
+        "id": "423158009"
+      }
+    },
+    {
+      "term": "DTC - differentiated thyroid cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1255086008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Differentiated thyroid carcinoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Differentiated thyroid carcinoma",
+          "lang": "en"
+        },
+        "id": "1255086008"
+      }
+    },
+    {
+      "term": "SVPTC - solid variant papillary thyroid cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1295490007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Solid variant of papillary thyroid carcinoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Solid variant of papillary thyroid carcinoma",
+          "lang": "en"
+        },
+        "id": "1295490007"
+      }
+    },
+    {
+      "term": "An extremely rare inherited tumor syndrome within the familial nonmedullary thyroid cancer group.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "716657000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial papillary thyroid carcinoma with renal papillary neoplasia syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial papillary thyroid carcinoma with renal papillary neoplasia syndrome",
+          "lang": "en"
+        },
+        "id": "716657000"
+      }
+    },
+    {
+      "term": "An extremely rare inherited tumour syndrome within the familial nonmedullary thyroid cancer group.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "716657000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial papillary thyroid carcinoma with renal papillary neoplasia syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial papillary thyroid carcinoma with renal papillary neoplasia syndrome",
+          "lang": "en"
+        },
+        "id": "716657000"
+      }
+    },
+    {
+      "term": "A rare hereditary nonmedullary thyroid carcinoma characterized by the presence of differentiated thyroid cancer of follicular cell origin in two or more first-degree relatives, in the absence of other familial tumor syndromes or radiation exposure. Frequent capsular invasion is observed. Biopsy reveals multicentric tumors with multiple adenomatous nodules with or without oxyphilia and follicular or papillary carcinoma histology.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "786038001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial nonmedullary primary thyroid carcinoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial nonmedullary primary thyroid carcinoma",
+          "lang": "en"
+        },
+        "id": "786038001"
+      }
+    },
+    {
+      "term": "A rare hereditary nonmedullary thyroid carcinoma characterised by the presence of differentiated thyroid cancer of follicular cell origin in two or more first-degree relatives, in the absence of other familial tumour syndromes or radiation exposure. Frequent capsular invasion is observed. Biopsy reveals multicentric tumours with multiple adenomatous nodules with or without oxyphilia and follicular or papillary carcinoma histology.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "786038001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial nonmedullary primary thyroid carcinoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial nonmedullary primary thyroid carcinoma",
+          "lang": "en"
+        },
+        "id": "786038001"
+      }
+    }
+  ]
+}

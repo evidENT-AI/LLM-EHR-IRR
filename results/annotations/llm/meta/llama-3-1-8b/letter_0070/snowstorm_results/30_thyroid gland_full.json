@@ -1,0 +1,728 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 28
+    },
+    "semanticTags": {
+      "finding": 11
+    },
+    "language": {
+      "en": 28
+    },
+    "membership": {
+      "1322291000000109": 11,
+      "1127601000000107": 6,
+      "999002571000000104": 5,
+      "900000000000497000": 11,
+      "733073007": 11,
+      "999002271000000101": 11
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 28,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 28,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Small thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302068003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small thyroid gland",
+          "lang": "en"
+        },
+        "id": "302068003"
+      }
+    },
+    {
+      "term": "O/E - thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162836000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - thyroid gland",
+          "lang": "en"
+        },
+        "id": "162836000"
+      }
+    },
+    {
+      "term": "Mass of thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237557003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mass of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mass of thyroid gland",
+          "lang": "en"
+        },
+        "id": "237557003"
+      }
+    },
+    {
+      "term": "Finding of thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302065000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302065000"
+      }
+    },
+    {
+      "term": "Observation of thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302065000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302065000"
+      }
+    },
+    {
+      "term": "Small thyroid gland (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302068003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small thyroid gland",
+          "lang": "en"
+        },
+        "id": "302068003"
+      }
+    },
+    {
+      "term": "On examination - thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162836000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - thyroid gland",
+          "lang": "en"
+        },
+        "id": "162836000"
+      }
+    },
+    {
+      "term": "Mass of thyroid gland (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237557003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mass of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mass of thyroid gland",
+          "lang": "en"
+        },
+        "id": "237557003"
+      }
+    },
+    {
+      "term": "Finding of size of thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302067008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of size of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of size of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302067008"
+      }
+    },
+    {
+      "term": "Imaging of thyroid gland abnormal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "441905004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Imaging of thyroid gland abnormal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imaging of thyroid gland abnormal",
+          "lang": "en"
+        },
+        "id": "441905004"
+      }
+    },
+    {
+      "term": "Finding of thyroid gland (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302065000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302065000"
+      }
+    },
+    {
+      "term": "Thyroid gland moves with swallowing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302070007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thyroid gland moves with swallowing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thyroid gland moves with swallowing",
+          "lang": "en"
+        },
+        "id": "302070007"
+      }
+    },
+    {
+      "term": "Finding of movement of thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302069006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of movement of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of movement of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302069006"
+      }
+    },
+    {
+      "term": "Observation of size of thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302067008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of size of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of size of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302067008"
+      }
+    },
+    {
+      "term": "Finding of sensation of thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302071006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of sensation of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of sensation of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302071006"
+      }
+    },
+    {
+      "term": "Finding of appearance of thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302066004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of appearance of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of appearance of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302066004"
+      }
+    },
+    {
+      "term": "Observation of movement of thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302069006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of movement of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of movement of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302069006"
+      }
+    },
+    {
+      "term": "On examination - thyroid gland (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162836000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - thyroid gland",
+          "lang": "en"
+        },
+        "id": "162836000"
+      }
+    },
+    {
+      "term": "Observation of sensation of thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302071006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of sensation of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of sensation of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302071006"
+      }
+    },
+    {
+      "term": "Finding of size of thyroid gland (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302067008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of size of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of size of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302067008"
+      }
+    },
+    {
+      "term": "Observation of appearance of thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302066004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of appearance of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of appearance of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302066004"
+      }
+    },
+    {
+      "term": "Imaging of thyroid gland abnormal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "441905004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Imaging of thyroid gland abnormal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imaging of thyroid gland abnormal",
+          "lang": "en"
+        },
+        "id": "441905004"
+      }
+    },
+    {
+      "term": "Swelling of bilateral lobes of thyroid gland",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "833288009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swelling of bilateral lobes of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swelling of bilateral lobes of thyroid gland",
+          "lang": "en"
+        },
+        "id": "833288009"
+      }
+    },
+    {
+      "term": "Thyroid gland moves with swallowing (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302070007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thyroid gland moves with swallowing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thyroid gland moves with swallowing",
+          "lang": "en"
+        },
+        "id": "302070007"
+      }
+    },
+    {
+      "term": "Finding of movement of thyroid gland (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302069006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of movement of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of movement of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302069006"
+      }
+    },
+    {
+      "term": "Finding of sensation of thyroid gland (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302071006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of sensation of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of sensation of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302071006"
+      }
+    },
+    {
+      "term": "Finding of appearance of thyroid gland (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302066004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of appearance of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of appearance of thyroid gland",
+          "lang": "en"
+        },
+        "id": "302066004"
+      }
+    },
+    {
+      "term": "Swelling of bilateral lobes of thyroid gland (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "833288009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swelling of bilateral lobes of thyroid gland (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swelling of bilateral lobes of thyroid gland",
+          "lang": "en"
+        },
+        "id": "833288009"
+      }
+    }
+  ]
+}

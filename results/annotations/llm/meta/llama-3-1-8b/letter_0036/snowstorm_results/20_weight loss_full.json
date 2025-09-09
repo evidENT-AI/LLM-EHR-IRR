@@ -1,0 +1,903 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 6,
+      "900000000000207008": 25
+    },
+    "semanticTags": {
+      "finding": 15
+    },
+    "language": {
+      "en": 31
+    },
+    "membership": {
+      "1322291000000109": 15,
+      "1127601000000107": 15,
+      "999002061000000102": 1,
+      "900000000000497000": 12,
+      "2181171000000109": 1,
+      "733073007": 15,
+      "999002271000000101": 11,
+      "999004381000000103": 1,
+      "1128981000000107": 1,
+      "991381000000107": 1,
+      "1382501000000108": 1,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "2181171000000109": {
+      "conceptId": "2181171000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181171000000109"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "1128981000000107": {
+      "conceptId": "1128981000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional anthropometry assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional anthropometry assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128981000000107"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382501000000108": {
+      "conceptId": "1382501000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Dietary requirement findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Dietary requirement findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1382501000000108"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "991381000000107": {
+      "conceptId": "991381000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Comorbid conditions for selection simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Comorbid conditions for selection simple reference set",
+        "lang": "en"
+      },
+      "id": "991381000000107"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 31,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 31,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "89362005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Weight loss",
+          "lang": "en"
+        },
+        "id": "89362005"
+      }
+    },
+    {
+      "term": "Weight loss diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "359649009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Weight reduction diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Weight reduction diet",
+          "lang": "en"
+        },
+        "id": "359649009"
+      }
+    },
+    {
+      "term": "Recent weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "426977000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recent weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recent weight loss",
+          "lang": "en"
+        },
+        "id": "426977000"
+      }
+    },
+    {
+      "term": "Abnormal weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267024001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal weight loss",
+          "lang": "en"
+        },
+        "id": "267024001"
+      }
+    },
+    {
+      "term": "Excessive weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309257005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excessive weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excessive weight loss",
+          "lang": "en"
+        },
+        "id": "309257005"
+      }
+    },
+    {
+      "term": "Weight loss (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "89362005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Weight loss",
+          "lang": "en"
+        },
+        "id": "89362005"
+      }
+    },
+    {
+      "term": "Involuntary weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448765001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unintentional weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unintentional weight loss",
+          "lang": "en"
+        },
+        "id": "448765001"
+      }
+    },
+    {
+      "term": "Intentional weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416528001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intentional weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intentional weight loss",
+          "lang": "en"
+        },
+        "id": "416528001"
+      }
+    },
+    {
+      "term": "Unexplained weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "422868009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unexplained weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unexplained weight loss",
+          "lang": "en"
+        },
+        "id": "422868009"
+      }
+    },
+    {
+      "term": "Progressive weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161832001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Weight decreasing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Weight decreasing",
+          "lang": "en"
+        },
+        "id": "161832001"
+      }
+    },
+    {
+      "term": "Unintentional weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448765001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unintentional weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unintentional weight loss",
+          "lang": "en"
+        },
+        "id": "448765001"
+      }
+    },
+    {
+      "term": "Complaining of weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "198511000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Complaining of weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Complaining of weight loss",
+          "lang": "en"
+        },
+        "id": "198511000000103"
+      }
+    },
+    {
+      "term": "Recent weight loss (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "426977000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recent weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recent weight loss",
+          "lang": "en"
+        },
+        "id": "426977000"
+      }
+    },
+    {
+      "term": "Weight loss importance score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "904131000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Weight loss importance score (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Weight loss importance score",
+          "lang": "en"
+        },
+        "id": "904131000000105"
+      }
+    },
+    {
+      "term": "Weight loss confidence score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "904151000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Weight loss confidence score (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Weight loss confidence score",
+          "lang": "en"
+        },
+        "id": "904151000000103"
+      }
+    },
+    {
+      "term": "Abnormal weight loss (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267024001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal weight loss",
+          "lang": "en"
+        },
+        "id": "267024001"
+      }
+    },
+    {
+      "term": "Excessive weight loss (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309257005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excessive weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excessive weight loss",
+          "lang": "en"
+        },
+        "id": "309257005"
+      }
+    },
+    {
+      "term": "Abnormal intentional weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430237002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal intentional weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal intentional weight loss",
+          "lang": "en"
+        },
+        "id": "430237002"
+      }
+    },
+    {
+      "term": "Intentional weight loss (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416528001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intentional weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intentional weight loss",
+          "lang": "en"
+        },
+        "id": "416528001"
+      }
+    },
+    {
+      "term": "Unexplained weight loss (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "422868009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unexplained weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unexplained weight loss",
+          "lang": "en"
+        },
+        "id": "422868009"
+      }
+    },
+    {
+      "term": "Difficulty maintaining weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170806001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Difficulty maintaining weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Difficulty maintaining weight loss",
+          "lang": "en"
+        },
+        "id": "170806001"
+      }
+    },
+    {
+      "term": "Unintentional weight loss (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448765001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unintentional weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unintentional weight loss",
+          "lang": "en"
+        },
+        "id": "448765001"
+      }
+    },
+    {
+      "term": "AIDS-associated abnormal weight loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "421695000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal weight loss associated with acquired immunodeficiency syndrome (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal weight loss associated with AIDS",
+          "lang": "en"
+        },
+        "id": "421695000"
+      }
+    },
+    {
+      "term": "Complaining of weight loss (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "198511000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Complaining of weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Complaining of weight loss",
+          "lang": "en"
+        },
+        "id": "198511000000103"
+      }
+    },
+    {
+      "term": "Weight loss importance score (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "904131000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Weight loss importance score (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Weight loss importance score",
+          "lang": "en"
+        },
+        "id": "904131000000105"
+      }
+    },
+    {
+      "term": "Weight loss confidence score (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "904151000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Weight loss confidence score (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Weight loss confidence score",
+          "lang": "en"
+        },
+        "id": "904151000000103"
+      }
+    },
+    {
+      "term": "Abnormal weight loss associated with AIDS",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "421695000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal weight loss associated with acquired immunodeficiency syndrome (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal weight loss associated with AIDS",
+          "lang": "en"
+        },
+        "id": "421695000"
+      }
+    },
+    {
+      "term": "Abnormal intentional weight loss (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430237002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal intentional weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal intentional weight loss",
+          "lang": "en"
+        },
+        "id": "430237002"
+      }
+    },
+    {
+      "term": "Difficulty maintaining weight loss (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170806001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Difficulty maintaining weight loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Difficulty maintaining weight loss",
+          "lang": "en"
+        },
+        "id": "170806001"
+      }
+    },
+    {
+      "term": "Abnormal weight loss associated with acquired immunodeficiency syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "421695000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal weight loss associated with acquired immunodeficiency syndrome (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal weight loss associated with AIDS",
+          "lang": "en"
+        },
+        "id": "421695000"
+      }
+    },
+    {
+      "term": "Abnormal weight loss associated with acquired immunodeficiency syndrome (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "421695000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal weight loss associated with acquired immunodeficiency syndrome (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal weight loss associated with AIDS",
+          "lang": "en"
+        },
+        "id": "421695000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,880 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 36
+    },
+    "semanticTags": {
+      "finding": 15
+    },
+    "language": {
+      "en": 36
+    },
+    "membership": {
+      "1322291000000109": 15,
+      "1127601000000107": 15,
+      "900000000000497000": 15,
+      "733073007": 15,
+      "999002271000000101": 11
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 36,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 36,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Skin normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225544001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Skin appearance normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Skin appearance normal",
+          "lang": "en"
+        },
+        "id": "225544001"
+      }
+    },
+    {
+      "term": "Normal skin pH",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1965009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal skin pH (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal skin pH",
+          "lang": "en"
+        },
+        "id": "1965009"
+      }
+    },
+    {
+      "term": "Skin normal color",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297952003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal color of skin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal color of skin",
+          "lang": "en"
+        },
+        "id": "297952003"
+      }
+    },
+    {
+      "term": "Skin normal colour",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297952003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal color of skin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal color of skin",
+          "lang": "en"
+        },
+        "id": "297952003"
+      }
+    },
+    {
+      "term": "Skin turgor normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297956000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Skin turgor normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Skin turgor normal",
+          "lang": "en"
+        },
+        "id": "297956000"
+      }
+    },
+    {
+      "term": "Normal color of skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297952003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal color of skin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal color of skin",
+          "lang": "en"
+        },
+        "id": "297952003"
+      }
+    },
+    {
+      "term": "Normal colour of skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297952003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal color of skin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal color of skin",
+          "lang": "en"
+        },
+        "id": "297952003"
+      }
+    },
+    {
+      "term": "Skin appearance normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225544001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Skin appearance normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Skin appearance normal",
+          "lang": "en"
+        },
+        "id": "225544001"
+      }
+    },
+    {
+      "term": "Normal skin sensitivity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73230009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal skin sensitivity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal skin sensitivity",
+          "lang": "en"
+        },
+        "id": "73230009"
+      }
+    },
+    {
+      "term": "Normal skin consistency",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297948003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal skin consistency (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal skin consistency",
+          "lang": "en"
+        },
+        "id": "297948003"
+      }
+    },
+    {
+      "term": "Skin normal temperature",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297977002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Skin normal temperature (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Skin normal temperature",
+          "lang": "en"
+        },
+        "id": "297977002"
+      }
+    },
+    {
+      "term": "Normal skin pH (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1965009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal skin pH (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal skin pH",
+          "lang": "en"
+        },
+        "id": "1965009"
+      }
+    },
+    {
+      "term": "Normal moistness of skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702756006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal moistness of skin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal moistness of skin",
+          "lang": "en"
+        },
+        "id": "702756006"
+      }
+    },
+    {
+      "term": "Microbiota of skin normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31001000087104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Microbiota of skin normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal cutaneous microbiota",
+          "lang": "en"
+        },
+        "id": "31001000087104"
+      }
+    },
+    {
+      "term": "Abdominal wall skin normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300399001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abdominal wall skin normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abdominal wall skin normal",
+          "lang": "en"
+        },
+        "id": "300399001"
+      }
+    },
+    {
+      "term": "Skin turgor normal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297956000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Skin turgor normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Skin turgor normal",
+          "lang": "en"
+        },
+        "id": "297956000"
+      }
+    },
+    {
+      "term": "O/E - skin over lesion-normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164604009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - skin over lesion-normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - skin over lesion-normal",
+          "lang": "en"
+        },
+        "id": "164604009"
+      }
+    },
+    {
+      "term": "Normal color of skin (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297952003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal color of skin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal color of skin",
+          "lang": "en"
+        },
+        "id": "297952003"
+      }
+    },
+    {
+      "term": "Susceptibility skin test normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164965006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Susceptibility skin test normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Susceptibility skin test normal",
+          "lang": "en"
+        },
+        "id": "164965006"
+      }
+    },
+    {
+      "term": "Skin appearance normal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225544001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Skin appearance normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Skin appearance normal",
+          "lang": "en"
+        },
+        "id": "225544001"
+      }
+    },
+    {
+      "term": "Normal color of skin over lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "820948002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal color of skin over lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal color of skin over lesion",
+          "lang": "en"
+        },
+        "id": "820948002"
+      }
+    },
+    {
+      "term": "Normal skin sensitivity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73230009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal skin sensitivity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal skin sensitivity",
+          "lang": "en"
+        },
+        "id": "73230009"
+      }
+    },
+    {
+      "term": "Normal skin consistency (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297948003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal skin consistency (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal skin consistency",
+          "lang": "en"
+        },
+        "id": "297948003"
+      }
+    },
+    {
+      "term": "Skin normal temperature (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297977002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Skin normal temperature (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Skin normal temperature",
+          "lang": "en"
+        },
+        "id": "297977002"
+      }
+    },
+    {
+      "term": "Normal colour of skin over lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "820948002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal color of skin over lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal color of skin over lesion",
+          "lang": "en"
+        },
+        "id": "820948002"
+      }
+    },
+    {
+      "term": "Normal moistness of skin (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702756006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal moistness of skin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal moistness of skin",
+          "lang": "en"
+        },
+        "id": "702756006"
+      }
+    },
+    {
+      "term": "Microbiota of skin normal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31001000087104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Microbiota of skin normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal cutaneous microbiota",
+          "lang": "en"
+        },
+        "id": "31001000087104"
+      }
+    },
+    {
+      "term": "Abdominal wall skin normal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300399001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abdominal wall skin normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abdominal wall skin normal",
+          "lang": "en"
+        },
+        "id": "300399001"
+      }
+    },
+    {
+      "term": "Normal temperature of skin over lesion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "822961005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal temperature of skin over lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal temperature of skin over lesion",
+          "lang": "en"
+        },
+        "id": "822961005"
+      }
+    },
+    {
+      "term": "On examination - skin over lesion-normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164604009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - skin over lesion-normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - skin over lesion-normal",
+          "lang": "en"
+        },
+        "id": "164604009"
+      }
+    },
+    {
+      "term": "Susceptibility skin test normal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164965006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Susceptibility skin test normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Susceptibility skin test normal",
+          "lang": "en"
+        },
+        "id": "164965006"
+      }
+    },
+    {
+      "term": "Normal color of skin over lesion (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "820948002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal color of skin over lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal color of skin over lesion",
+          "lang": "en"
+        },
+        "id": "820948002"
+      }
+    },
+    {
+      "term": "Normal temperature of skin over lesion (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "822961005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal temperature of skin over lesion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal temperature of skin over lesion",
+          "lang": "en"
+        },
+        "id": "822961005"
+      }
+    },
+    {
+      "term": "On examination - skin temperature on lesion normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164611008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - skin temperature on lesion normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "On examination - skin temperature on lesion normal",
+          "lang": "en"
+        },
+        "id": "164611008"
+      }
+    },
+    {
+      "term": "On examination - skin over lesion-normal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164604009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - skin over lesion-normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - skin over lesion-normal",
+          "lang": "en"
+        },
+        "id": "164604009"
+      }
+    },
+    {
+      "term": "On examination - skin temperature on lesion normal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164611008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - skin temperature on lesion normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "On examination - skin temperature on lesion normal",
+          "lang": "en"
+        },
+        "id": "164611008"
+      }
+    }
+  ]
+}

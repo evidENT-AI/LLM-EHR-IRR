@@ -1,0 +1,1309 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 122
+    },
+    "semanticTags": {
+      "regime/therapy": 2,
+      "disorder": 26,
+      "environment": 1,
+      "physical object": 15,
+      "assessment scale": 1,
+      "procedure": 8,
+      "finding": 1,
+      "situation": 1
+    },
+    "language": {
+      "en": 122
+    },
+    "membership": {
+      "1322291000000109": 53,
+      "999004331000000102": 1,
+      "1127601000000107": 28,
+      "1382531000000102": 18,
+      "999001871000000106": 2,
+      "2181221000000101": 3,
+      "999002271000000101": 40,
+      "999000401000000107": 15,
+      "2222161000000102": 1,
+      "900000000000497000": 55,
+      "733073007": 55,
+      "1382401000000109": 5,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999001871000000106": {
+      "conceptId": "999001871000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Respiratory medicine diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Respiratory medicine diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001871000000106"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 122,
+  "totalPages": 3,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73430006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea",
+          "lang": "en"
+        },
+        "id": "73430006"
+      }
+    },
+    {
+      "term": "Sleep apnea mask",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "706225001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea mask (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea mask",
+          "lang": "en"
+        },
+        "id": "706225001"
+      }
+    },
+    {
+      "term": "Mixed sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230493001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mixed sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mixed sleep apnea",
+          "lang": "en"
+        },
+        "id": "230493001"
+      }
+    },
+    {
+      "term": "Sleep apnea pillow",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "701154000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea pillow (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea pillow",
+          "lang": "en"
+        },
+        "id": "701154000"
+      }
+    },
+    {
+      "term": "Sleep apnea clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443621004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea clinic (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea clinic",
+          "lang": "en"
+        },
+        "id": "443621004"
+      }
+    },
+    {
+      "term": "Central sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27405005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Central sleep apnea syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Central sleep apnea syndrome",
+          "lang": "en"
+        },
+        "id": "27405005"
+      }
+    },
+    {
+      "term": "Complex sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230493001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mixed sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mixed sleep apnea",
+          "lang": "en"
+        },
+        "id": "230493001"
+      }
+    },
+    {
+      "term": "Organic sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442164004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Organic sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Organic sleep apnea",
+          "lang": "en"
+        },
+        "id": "442164004"
+      }
+    },
+    {
+      "term": "Alveolar sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230494007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alveolar sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alveolar sleep apnea",
+          "lang": "en"
+        },
+        "id": "230494007"
+      }
+    },
+    {
+      "term": "Sleep apnea syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73430006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea",
+          "lang": "en"
+        },
+        "id": "73430006"
+      }
+    },
+    {
+      "term": "Sleep apnea recording",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "113026004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea recording (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea recording",
+          "lang": "en"
+        },
+        "id": "113026004"
+      }
+    },
+    {
+      "term": "Sleep apnea assessment",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103750000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea assessment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea assessment",
+          "lang": "en"
+        },
+        "id": "103750000"
+      }
+    },
+    {
+      "term": "Sleep apnea (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73430006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea",
+          "lang": "en"
+        },
+        "id": "73430006"
+      }
+    },
+    {
+      "term": "Obstructive sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78275009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstructive sleep apnea syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstructive sleep apnea syndrome",
+          "lang": "en"
+        },
+        "id": "78275009"
+      }
+    },
+    {
+      "term": "Insomnia with sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "41975002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insomnia with sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insomnia with sleep apnea",
+          "lang": "en"
+        },
+        "id": "41975002"
+      }
+    },
+    {
+      "term": "Appliance for sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272265001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Appliance for sleep apnea (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Appliance for sleep apnea",
+          "lang": "en"
+        },
+        "id": "272265001"
+      }
+    },
+    {
+      "term": "CSA - Central sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27405005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Central sleep apnea syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Central sleep apnea syndrome",
+          "lang": "en"
+        },
+        "id": "27405005"
+      }
+    },
+    {
+      "term": "SAS - Sleep apnea syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73430006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea",
+          "lang": "en"
+        },
+        "id": "73430006"
+      }
+    },
+    {
+      "term": "Sleep apnea palate implant",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702065009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea palate implant (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea palate implant",
+          "lang": "en"
+        },
+        "id": "702065009"
+      }
+    },
+    {
+      "term": "Sleep apnea tongue implant",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702064008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea tongue implant (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea tongue implant",
+          "lang": "en"
+        },
+        "id": "702064008"
+      }
+    },
+    {
+      "term": "Primary central sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9741000119101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary central sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary central sleep apnea",
+          "lang": "en"
+        },
+        "id": "9741000119101"
+      }
+    },
+    {
+      "term": "Central sleep apnea syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27405005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Central sleep apnea syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Central sleep apnea syndrome",
+          "lang": "en"
+        },
+        "id": "27405005"
+      }
+    },
+    {
+      "term": "Hypersomnia with sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79280005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypersomnia with sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypersomnia with sleep apnea",
+          "lang": "en"
+        },
+        "id": "79280005"
+      }
+    },
+    {
+      "term": "Mixed sleep apnea (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230493001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mixed sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mixed sleep apnea",
+          "lang": "en"
+        },
+        "id": "230493001"
+      }
+    },
+    {
+      "term": "OSA - Obstructive sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78275009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstructive sleep apnea syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstructive sleep apnea syndrome",
+          "lang": "en"
+        },
+        "id": "78275009"
+      }
+    },
+    {
+      "term": "Family history of sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430337004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of sleep apnea (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of sleep apnea",
+          "lang": "en"
+        },
+        "id": "430337004"
+      }
+    },
+    {
+      "term": "Primary sleep apnea of newborn",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "361208003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary sleep apnea of newborn (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary sleep apnea of newborn",
+          "lang": "en"
+        },
+        "id": "361208003"
+      }
+    },
+    {
+      "term": "Referral to sleep apnea clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "698560000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Referral to sleep apnea clinic (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referral to sleep apnea clinic",
+          "lang": "en"
+        },
+        "id": "698560000"
+      }
+    },
+    {
+      "term": "Organic sleep apnea (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442164004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Organic sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Organic sleep apnea",
+          "lang": "en"
+        },
+        "id": "442164004"
+      }
+    },
+    {
+      "term": "Alveolar sleep apnea (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230494007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alveolar sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alveolar sleep apnea",
+          "lang": "en"
+        },
+        "id": "230494007"
+      }
+    },
+    {
+      "term": "Obstructive sleep apnea syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78275009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstructive sleep apnea syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstructive sleep apnea syndrome",
+          "lang": "en"
+        },
+        "id": "78275009"
+      }
+    },
+    {
+      "term": "Drug induced central sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "104831000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Drug induced central sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Drug induced central sleep apnea",
+          "lang": "en"
+        },
+        "id": "104831000119109"
+      }
+    },
+    {
+      "term": "Sleep apnea clinic (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443621004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea clinic (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea clinic",
+          "lang": "en"
+        },
+        "id": "443621004"
+      }
+    },
+    {
+      "term": "Obstructive sleep apnea of adult",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1101000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstructive sleep apnea of adult (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstructive sleep apnea of adult",
+          "lang": "en"
+        },
+        "id": "1101000119103"
+      }
+    },
+    {
+      "term": "Obstructive sleep apnea of child",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1091000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstructive sleep apnea of child (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstructive sleep apnea of child",
+          "lang": "en"
+        },
+        "id": "1091000119108"
+      }
+    },
+    {
+      "term": "Sleep apnea monitoring with alarm",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82808001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea monitoring with alarm (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea monitoring with alarm",
+          "lang": "en"
+        },
+        "id": "82808001"
+      }
+    },
+    {
+      "term": "Sleep apnea recording (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "113026004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea recording (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea recording",
+          "lang": "en"
+        },
+        "id": "113026004"
+      }
+    },
+    {
+      "term": "Glaucoma and sleep apnea syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719976001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Glaucoma and sleep apnea syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glaucoma and sleep apnea syndrome",
+          "lang": "en"
+        },
+        "id": "719976001"
+      }
+    },
+    {
+      "term": "Sleep apnea assessment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103750000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea assessment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea assessment",
+          "lang": "en"
+        },
+        "id": "103750000"
+      }
+    },
+    {
+      "term": "Sleep apnea mask (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "706225001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea mask (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea mask",
+          "lang": "en"
+        },
+        "id": "706225001"
+      }
+    },
+    {
+      "term": "Insomnia with sleep apnea (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "41975002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insomnia with sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insomnia with sleep apnea",
+          "lang": "en"
+        },
+        "id": "41975002"
+      }
+    },
+    {
+      "term": "Sleep apnea pillow (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "701154000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea pillow (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea pillow",
+          "lang": "en"
+        },
+        "id": "701154000"
+      }
+    },
+    {
+      "term": "Berlin questionnaire for sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "445483007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Berlin questionnaire for sleep apnea (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Berlin questionnaire for sleep apnea",
+          "lang": "en"
+        },
+        "id": "445483007"
+      }
+    },
+    {
+      "term": "Home-use sleep apnea recording system",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720253003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Home-use sleep apnea recording system (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Home-use sleep apnea recording system",
+          "lang": "en"
+        },
+        "id": "720253003"
+      }
+    },
+    {
+      "term": "Insertion of appliance for sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234825004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insertion of appliance for sleep apnea (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insertion of appliance for sleep apnea",
+          "lang": "en"
+        },
+        "id": "234825004"
+      }
+    },
+    {
+      "term": "Primary central sleep apnea (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9741000119101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary central sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary central sleep apnea",
+          "lang": "en"
+        },
+        "id": "9741000119101"
+      }
+    },
+    {
+      "term": "Treatment-emergent central sleep apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "789055001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Treatment-emergent central sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Treatment-emergent central sleep apnea",
+          "lang": "en"
+        },
+        "id": "789055001"
+      }
+    },
+    {
+      "term": "Central sleep apnea syndrome (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27405005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Central sleep apnea syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Central sleep apnea syndrome",
+          "lang": "en"
+        },
+        "id": "27405005"
+      }
+    },
+    {
+      "term": "Hypersomnia with sleep apnea (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79280005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypersomnia with sleep apnea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypersomnia with sleep apnea",
+          "lang": "en"
+        },
+        "id": "79280005"
+      }
+    },
+    {
+      "term": "Sleep apnea breathing therapy equipment",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1284824006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleep apnea breathing therapy equipment (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleep apnea breathing therapy equipment",
+          "lang": "en"
+        },
+        "id": "1284824006"
+      }
+    }
+  ]
+}

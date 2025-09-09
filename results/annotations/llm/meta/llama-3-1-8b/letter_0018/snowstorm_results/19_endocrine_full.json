@@ -1,0 +1,518 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 14
+    },
+    "semanticTags": {
+      "observable entity": 7
+    },
+    "language": {
+      "en": 18
+    },
+    "membership": {
+      "1322291000000109": 7,
+      "999002571000000104": 1,
+      "900000000000497000": 5,
+      "733073007": 7,
+      "999002881000000100": 2
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    }
+  },
+  "totalElements": 18,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 18,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Endocrine studies",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1014731000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Endocrine studies (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endocrine studies",
+          "lang": "en"
+        },
+        "id": "1014731000000101"
+      }
+    },
+    {
+      "term": "Endocrine function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "123036008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endocrine function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endocrine function",
+          "lang": "en"
+        },
+        "id": "123036008"
+      }
+    },
+    {
+      "term": "Endocrine observable",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "364387009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endocrine observable (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endocrine observable",
+          "lang": "en"
+        },
+        "id": "364387009"
+      }
+    },
+    {
+      "term": "Endocrine test finding",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304599007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endocrine test finding (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endocrine test finding",
+          "lang": "en"
+        },
+        "id": "304599007"
+      }
+    },
+    {
+      "term": "Placental endocrine function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16166005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Placental endocrine function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Placental endocrine function",
+          "lang": "en"
+        },
+        "id": "16166005"
+      }
+    },
+    {
+      "term": "Endocrine test interpretation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304599007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endocrine test finding (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endocrine test finding",
+          "lang": "en"
+        },
+        "id": "304599007"
+      }
+    },
+    {
+      "term": "Endocrine studies (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1014731000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Endocrine studies (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endocrine studies",
+          "lang": "en"
+        },
+        "id": "1014731000000101"
+      }
+    },
+    {
+      "term": "Endocrine function (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "123036008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endocrine function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endocrine function",
+          "lang": "en"
+        },
+        "id": "123036008"
+      }
+    },
+    {
+      "term": "Endocrine observable (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "364387009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endocrine observable (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endocrine observable",
+          "lang": "en"
+        },
+        "id": "364387009"
+      }
+    },
+    {
+      "term": "Endocrine test finding (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304599007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endocrine test finding (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endocrine test finding",
+          "lang": "en"
+        },
+        "id": "304599007"
+      }
+    },
+    {
+      "term": "Multiple endocrine neoplasia mutation study",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1006231000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Multiple endocrine neoplasia mutation study (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Multiple endocrine neoplasia mutation study",
+          "lang": "en"
+        },
+        "id": "1006231000000102"
+      }
+    },
+    {
+      "term": "Secretory status of pancreatic endocrine tumor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "396893004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Functional status of pancreatic endocrine tumor (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Functional status of pancreatic endocrine tumor",
+          "lang": "en"
+        },
+        "id": "396893004"
+      }
+    },
+    {
+      "term": "Functional status of pancreatic endocrine tumor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "396893004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Functional status of pancreatic endocrine tumor (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Functional status of pancreatic endocrine tumor",
+          "lang": "en"
+        },
+        "id": "396893004"
+      }
+    },
+    {
+      "term": "Secretory status of pancreatic endocrine tumour",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "396893004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Functional status of pancreatic endocrine tumor (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Functional status of pancreatic endocrine tumor",
+          "lang": "en"
+        },
+        "id": "396893004"
+      }
+    },
+    {
+      "term": "Placental endocrine function (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16166005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Placental endocrine function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Placental endocrine function",
+          "lang": "en"
+        },
+        "id": "16166005"
+      }
+    },
+    {
+      "term": "Functional status of pancreatic endocrine tumour",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "396893004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Functional status of pancreatic endocrine tumor (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Functional status of pancreatic endocrine tumor",
+          "lang": "en"
+        },
+        "id": "396893004"
+      }
+    },
+    {
+      "term": "Multiple endocrine neoplasia mutation study (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1006231000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Multiple endocrine neoplasia mutation study (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Multiple endocrine neoplasia mutation study",
+          "lang": "en"
+        },
+        "id": "1006231000000102"
+      }
+    },
+    {
+      "term": "Functional status of pancreatic endocrine tumor (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "396893004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Functional status of pancreatic endocrine tumor (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Functional status of pancreatic endocrine tumor",
+          "lang": "en"
+        },
+        "id": "396893004"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1469 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 52,
+      "999000041000000102": 2,
+      "900000000000207008": 35
+    },
+    "semanticTags": {
+      "dose form": 1,
+      "product": 27,
+      "disorder": 1,
+      "clinical drug": 1,
+      "procedure": 7,
+      "finding": 5,
+      "situation": 3,
+      "qualifier value": 1
+    },
+    "language": {
+      "en": 89
+    },
+    "membership": {
+      "1322291000000109": 44,
+      "1127601000000107": 9,
+      "999004481000000108": 3,
+      "999000031000001105": 27,
+      "999000551000001106": 11,
+      "1382531000000102": 2,
+      "999000561000001109": 3,
+      "999000541000001108": 10,
+      "999002271000000101": 15,
+      "900000000000489007": 3,
+      "999000591000001100": 5,
+      "999000331000001107": 1,
+      "999000781000001107": 1,
+      "900000000000497000": 18,
+      "999001081000001103": 1,
+      "1127631000000101": 7,
+      "733073007": 18,
+      "999000441000001109": 2,
+      "999000571000001104": 3,
+      "30931000001101": 28,
+      "1382401000000109": 16
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999004481000000108": {
+      "conceptId": "999004481000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Birth method findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Birth method findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999004481000000108"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "999000561000001109": {
+      "conceptId": "999000561000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000561000001109"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999000591000001100": {
+      "conceptId": "999000591000001100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices parallel import simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices parallel import simple reference set",
+        "lang": "en"
+      },
+      "id": "999000591000001100"
+    },
+    "999000331000001107": {
+      "conceptId": "999000331000001107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing multi-ingredient rule 1 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing multi-ingredient rule 1 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000331000001107"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000781000001107": {
+      "conceptId": "999000781000001107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices dose form simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS dm+d (dictionary of medicines and devices) dose form simple reference set",
+        "lang": "en"
+      },
+      "id": "999000781000001107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999001081000001103": {
+      "conceptId": "999001081000001103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing dose form simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing dose form simple reference set",
+        "lang": "en"
+      },
+      "id": "999001081000001103"
+    },
+    "1127631000000101": {
+      "conceptId": "1127631000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Maternal delivery procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Maternal delivery procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "1127631000000101"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000441000001109": {
+      "conceptId": "999000441000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing suppositories and pessaries type 10 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing suppositories and pessaries type 10 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000441000001109"
+    },
+    "999000571000001104": {
+      "conceptId": "999000571000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000571000001104"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 89,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Vaginal delivery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289259007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal delivery (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal delivery",
+          "lang": "en"
+        },
+        "id": "289259007"
+      }
+    },
+    {
+      "term": "Vaginal delivery system",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1231571006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Prolonged-release vaginal delivery system (dose form)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prolonged-release vaginal delivery system",
+          "lang": "en"
+        },
+        "id": "1231571006"
+      }
+    },
+    {
+      "term": "Vaginal delivery of fetus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "700000006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal delivery of fetus (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal delivery of fetus",
+          "lang": "en"
+        },
+        "id": "700000006"
+      }
+    },
+    {
+      "term": "Vaginal delivery (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289259007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal delivery (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal delivery",
+          "lang": "en"
+        },
+        "id": "289259007"
+      }
+    },
+    {
+      "term": "Vaginal tear during delivery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249220002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal tear resulting from childbirth (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal tear resulting from childbirth",
+          "lang": "en"
+        },
+        "id": "249220002"
+      }
+    },
+    {
+      "term": "Spontaneous vaginal delivery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48782003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Delivery normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Delivery normal",
+          "lang": "en"
+        },
+        "id": "48782003"
+      }
+    },
+    {
+      "term": "Born by normal vaginal delivery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "395683001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Born by normal vaginal delivery (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Born by normal vaginal delivery",
+          "lang": "en"
+        },
+        "id": "395683001"
+      }
+    },
+    {
+      "term": "Vacuum assisted vaginal delivery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10761101000119105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vacuum assisted vaginal delivery (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vacuum assisted vaginal delivery",
+          "lang": "en"
+        },
+        "id": "10761101000119105"
+      }
+    },
+    {
+      "term": "Manually assisted vaginal delivery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5556001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Manually assisted spontaneous delivery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Manually assisted spontaneous delivery",
+          "lang": "en"
+        },
+        "id": "5556001"
+      }
+    },
+    {
+      "term": "SVD - Spontaneous vaginal delivery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48782003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Delivery normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Delivery normal",
+          "lang": "en"
+        },
+        "id": "48782003"
+      }
+    },
+    {
+      "term": "Vaginal delivery of fetus (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "700000006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal delivery of fetus (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal delivery of fetus",
+          "lang": "en"
+        },
+        "id": "700000006"
+      }
+    },
+    {
+      "term": "Prolonged-release vaginal delivery system",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1231571006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Prolonged-release vaginal delivery system (dose form)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prolonged-release vaginal delivery system",
+          "lang": "en"
+        },
+        "id": "1231571006"
+      }
+    },
+    {
+      "term": "Vaginal delivery system (qualifier value)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1231571006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Prolonged-release vaginal delivery system (dose form)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prolonged-release vaginal delivery system",
+          "lang": "en"
+        },
+        "id": "1231571006"
+      }
+    },
+    {
+      "term": "Vacuum assisted vaginal delivery (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10761101000119105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vacuum assisted vaginal delivery (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vacuum assisted vaginal delivery",
+          "lang": "en"
+        },
+        "id": "10761101000119105"
+      }
+    },
+    {
+      "term": "Vaginal delivery, medical personnel present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "22633006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal delivery, medical personnel present (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal delivery, medical personnel present",
+          "lang": "en"
+        },
+        "id": "22633006"
+      }
+    },
+    {
+      "term": "Born by normal vaginal delivery (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "395683001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Born by normal vaginal delivery (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Born by normal vaginal delivery",
+          "lang": "en"
+        },
+        "id": "395683001"
+      }
+    },
+    {
+      "term": "Twin live born in hospital by vaginal delivery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "151441000119105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Twin live born in hospital by vaginal delivery (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Twin live born in hospital by vaginal delivery",
+          "lang": "en"
+        },
+        "id": "151441000119105"
+      }
+    },
+    {
+      "term": "Multiple liveborn in hospital by vaginal delivery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16089691000119102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Multiple liveborn in hospital by vaginal delivery (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Multiple liveborn in hospital by vaginal delivery",
+          "lang": "en"
+        },
+        "id": "16089691000119102"
+      }
+    },
+    {
+      "term": "Vaginal delivery following previous cesarean section",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237313003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal delivery following previous cesarean section (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal delivery following previous cesarean section",
+          "lang": "en"
+        },
+        "id": "237313003"
+      }
+    },
+    {
+      "term": "Single liveborn born in hospital by vaginal delivery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "17561000119102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Single liveborn born in hospital by vaginal delivery (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Single liveborn born in hospital by vaginal delivery",
+          "lang": "en"
+        },
+        "id": "17561000119102"
+      }
+    },
+    {
+      "term": "Misoprostol 7micrograms/hour vaginal delivery system",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "28049711000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Misoprostol 7micrograms/hour vaginal delivery system (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Misoprostol 7micrograms/hour vaginal delivery system",
+          "lang": "en"
+        },
+        "id": "28049711000001108"
+      }
+    },
+    {
+      "term": "Vaginal delivery following previous caesarean section",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237313003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal delivery following previous cesarean section (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal delivery following previous cesarean section",
+          "lang": "en"
+        },
+        "id": "237313003"
+      }
+    },
+    {
+      "term": "Prolonged-release vaginal delivery system (dose form)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1231571006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Prolonged-release vaginal delivery system (dose form)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prolonged-release vaginal delivery system",
+          "lang": "en"
+        },
+        "id": "1231571006"
+      }
+    },
+    {
+      "term": "Vaginal delivery with forceps including postpartum care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45718005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal delivery with forceps including postpartum care (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal delivery with forceps including postpartum care",
+          "lang": "en"
+        },
+        "id": "45718005"
+      }
+    },
+    {
+      "term": "Vaginal delivery, medical personnel present (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "22633006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal delivery, medical personnel present (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal delivery, medical personnel present",
+          "lang": "en"
+        },
+        "id": "22633006"
+      }
+    },
+    {
+      "term": "Estradiol 7.5micrograms/24hours vaginal delivery system",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "24580611000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Estradiol 7.5micrograms/24hours vaginal delivery system (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estradiol 7.5micrograms/24hours vaginal delivery system",
+          "lang": "en"
+        },
+        "id": "24580611000001102"
+      }
+    },
+    {
+      "term": "Twin live born in hospital by vaginal delivery (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "151441000119105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Twin live born in hospital by vaginal delivery (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Twin live born in hospital by vaginal delivery",
+          "lang": "en"
+        },
+        "id": "151441000119105"
+      }
+    },
+    {
+      "term": "Misoprostol 7micrograms/hour vaginal delivery system 5 unit",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "28044711000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Misoprostol 7micrograms/hour vaginal delivery system 5 unit (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Misoprostol 7micrograms/hour vaginal delivery system 5 unit",
+          "lang": "en"
+        },
+        "id": "28044711000001107"
+      }
+    },
+    {
+      "term": "Dinoprostone 10 mg prolonged-release vaginal delivery system",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1236911009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing precisely dinoprostone 10 milligram/1 each prolonged-release vaginal delivery system (clinical drug)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dinoprostone 10 mg prolonged-release vaginal delivery system",
+          "lang": "en"
+        },
+        "id": "1236911009"
+      }
+    },
+    {
+      "term": "Multiple liveborn in hospital by vaginal delivery (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16089691000119102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Multiple liveborn in hospital by vaginal delivery (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Multiple liveborn in hospital by vaginal delivery",
+          "lang": "en"
+        },
+        "id": "16089691000119102"
+      }
+    },
+    {
+      "term": "Vaginal delivery following previous cesarean section (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237313003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal delivery following previous cesarean section (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal delivery following previous cesarean section",
+          "lang": "en"
+        },
+        "id": "237313003"
+      }
+    },
+    {
+      "term": "Misoprostol 7micrograms/hour vaginal delivery system (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "28049711000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Misoprostol 7micrograms/hour vaginal delivery system (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Misoprostol 7micrograms/hour vaginal delivery system",
+          "lang": "en"
+        },
+        "id": "28049711000001108"
+      }
+    },
+    {
+      "term": "Single liveborn born in hospital by vaginal delivery (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "17561000119102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Single liveborn born in hospital by vaginal delivery (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Single liveborn born in hospital by vaginal delivery",
+          "lang": "en"
+        },
+        "id": "17561000119102"
+      }
+    },
+    {
+      "term": "Estradiol 7.5micrograms/24hours vaginal delivery system 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "24576211000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Estradiol 7.5micrograms/24hours vaginal delivery system 1 device (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estradiol 7.5micrograms/24hours vaginal delivery system 1 device",
+          "lang": "en"
+        },
+        "id": "24576211000001108"
+      }
+    },
+    {
+      "term": "Estradiol 7.5micrograms/24hours vaginal delivery system (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "24580611000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Estradiol 7.5micrograms/24hours vaginal delivery system (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estradiol 7.5micrograms/24hours vaginal delivery system",
+          "lang": "en"
+        },
+        "id": "24580611000001102"
+      }
+    },
+    {
+      "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pilsco Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "37636311000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pilsco Ltd) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pilsco Ltd)",
+          "lang": "en"
+        },
+        "id": "37636311000001102"
+      }
+    },
+    {
+      "term": "Propess 10mg vaginal delivery system (Ferring Pharmaceuticals Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "9466711000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Propess 10mg vaginal pessaries (Ferring Pharmaceuticals Ltd) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Propess 10mg vaginal delivery system (Ferring Pharmaceuticals Ltd)",
+          "lang": "en"
+        },
+        "id": "9466711000001100"
+      }
+    },
+    {
+      "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pfizer Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "24576311000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pfizer Ltd) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pfizer Ltd)",
+          "lang": "en"
+        },
+        "id": "24576311000001100"
+      }
+    },
+    {
+      "term": "Vaginal delivery with forceps including postpartum care (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45718005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal delivery with forceps including postpartum care (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal delivery with forceps including postpartum care",
+          "lang": "en"
+        },
+        "id": "45718005"
+      }
+    },
+    {
+      "term": "Ethinylestradiol 2.7mg / Etonogestrel 11.7mg vaginal delivery system",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "15364711000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Etonogestrel 11.7mg / Ethinylestradiol 2.7mg vaginal delivery system (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ethinylestradiol 2.7mg / Etonogestrel 11.7mg vaginal delivery system",
+          "lang": "en"
+        },
+        "id": "15364711000001109"
+      }
+    },
+    {
+      "term": "Misoprostol 7micrograms/hour vaginal delivery system 5 unit (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "28044711000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Misoprostol 7micrograms/hour vaginal delivery system 5 unit (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Misoprostol 7micrograms/hour vaginal delivery system 5 unit",
+          "lang": "en"
+        },
+        "id": "28044711000001107"
+      }
+    },
+    {
+      "term": "Estring 7.5micrograms/24hours vaginal delivery system (CST Pharma Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "37405511000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Estring 7.5micrograms/24hours vaginal delivery system (CST Pharma Ltd) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estring 7.5micrograms/24hours vaginal delivery system (CST Pharma Ltd)",
+          "lang": "en"
+        },
+        "id": "37405511000001106"
+      }
+    },
+    {
+      "term": "NuvaRing 0.12mg/0.015mg per day vaginal delivery system (CST Pharma Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "37406311000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "NuvaRing 0.12mg/0.015mg per day vaginal delivery system (CST Pharma Ltd) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "NuvaRing 0.12mg/0.015mg per day vaginal delivery system (CST Pharma Ltd)",
+          "lang": "en"
+        },
+        "id": "37406311000001105"
+      }
+    },
+    {
+      "term": "Estradiol 7.5micrograms/24hours vaginal delivery system 1 device (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "24576211000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Estradiol 7.5micrograms/24hours vaginal delivery system 1 device (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estradiol 7.5micrograms/24hours vaginal delivery system 1 device",
+          "lang": "en"
+        },
+        "id": "24576211000001108"
+      }
+    },
+    {
+      "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pilsco Ltd) 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "37636411000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pilsco Ltd) 1 device (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pilsco Ltd) 1 device",
+          "lang": "en"
+        },
+        "id": "37636411000001109"
+      }
+    },
+    {
+      "term": "Propess 10mg vaginal delivery system (Ferring Pharmaceuticals Ltd) 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "9466811000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Propess 10mg vaginal pessaries (Ferring Pharmaceuticals Ltd) 1 pessary (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Propess 10mg vaginal delivery system (Ferring Pharmaceuticals Ltd) 1 device",
+          "lang": "en"
+        },
+        "id": "9466811000001108"
+      }
+    },
+    {
+      "term": "Propess 10mg vaginal delivery system (Ferring Pharmaceuticals Ltd) 5 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "10496611000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Propess 10mg vaginal delivery system (Ferring Pharmaceuticals Ltd) 5 device (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Propess 10mg vaginal delivery system (Ferring Pharmaceuticals Ltd) 5 device",
+          "lang": "en"
+        },
+        "id": "10496611000001109"
+      }
+    },
+    {
+      "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pfizer Ltd) 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "24576411000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pfizer Ltd) 1 device (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pfizer Ltd) 1 device",
+          "lang": "en"
+        },
+        "id": "24576411000001107"
+      }
+    },
+    {
+      "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pilsco Ltd) (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "37636311000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pilsco Ltd) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estring 7.5micrograms/24hours vaginal delivery system (Pilsco Ltd)",
+          "lang": "en"
+        },
+        "id": "37636311000001102"
+      }
+    },
+    {
+      "term": "NuvaRing 0.12mg/0.015mg per day vaginal delivery system (DE Pharmaceuticals)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "38156811000001101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "NuvaRing 0.12mg/0.015mg per day vaginal delivery system (DE Pharmaceuticals) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "NuvaRing 0.12mg/0.015mg per day vaginal delivery system (DE Pharmaceuticals)",
+          "lang": "en"
+        },
+        "id": "38156811000001101"
+      }
+    }
+  ]
+}

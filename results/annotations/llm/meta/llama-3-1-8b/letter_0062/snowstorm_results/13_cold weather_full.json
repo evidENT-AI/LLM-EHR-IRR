@@ -1,0 +1,353 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 10
+    },
+    "semanticTags": {
+      "disorder": 3,
+      "event": 1,
+      "finding": 1,
+      "physical force": 1
+    },
+    "language": {
+      "en": 10
+    },
+    "membership": {
+      "1322291000000109": 5,
+      "1127601000000107": 4,
+      "1382531000000102": 3,
+      "900000000000497000": 6,
+      "999002271000000101": 17,
+      "733073007": 6
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 10,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 10,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Cold weather",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45893009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold weather (physical force)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold weather",
+          "lang": "en"
+        },
+        "id": "45893009"
+      }
+    },
+    {
+      "term": "Accident due to cold weather",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217603005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Accident due to cold weather (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Accident due to cold weather",
+          "lang": "en"
+        },
+        "id": "217603005"
+      }
+    },
+    {
+      "term": "Cold weather (physical force)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45893009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cold weather (physical force)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cold weather",
+          "lang": "en"
+        },
+        "id": "45893009"
+      }
+    },
+    {
+      "term": "Rheumatic pain in cold weather",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103000001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Crymodynia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Crymodynia",
+          "lang": "en"
+        },
+        "id": "103000001"
+      }
+    },
+    {
+      "term": "Accident due to cold weather (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217603005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Accident due to cold weather (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Accident due to cold weather",
+          "lang": "en"
+        },
+        "id": "217603005"
+      }
+    },
+    {
+      "term": "Syndrome with characteristics of distal, slowly progressive muscular weakness, childhood-onset amyotrophy, autonomic dysfunction characterized by profuse sweating, distal cyanosis related to cold weather, orthostatic hypotension, and esophageal achalasia. It has been described in two sisters. Inheritance appears to be autosomal recessive.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230557001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hereditary dysautonomia with motor neuropathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hereditary dysautonomia with motor neuropathy",
+          "lang": "en"
+        },
+        "id": "230557001"
+      }
+    },
+    {
+      "term": "Syndrome with characteristics of distal, slowly progressive muscular weakness, childhood-onset amyotrophy, autonomic dysfunction characterised by profuse sweating, distal cyanosis related to cold weather, orthostatic hypotension, and oesophageal achalasia. It has been described in two sisters. Inheritance appears to be autosomal recessive.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230557001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hereditary dysautonomia with motor neuropathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hereditary dysautonomia with motor neuropathy",
+          "lang": "en"
+        },
+        "id": "230557001"
+      }
+    },
+    {
+      "term": "A rare genetic peripheral neuropathy disorder characterized by recurrent stereotyped episodic intense pain occurring predominantly in either the upper body or lower limbs in several members of a family. The pain is triggered or exacerbated by fatigue, cold exposure, fasting, weather changes and/or physical stress or exertion and may or may not diminish with age. Sweating and other manifestations such as tachycardia, breathing difficulties and generalized pallor may be associated.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "782756008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial episodic pain syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial episodic pain syndrome",
+          "lang": "en"
+        },
+        "id": "782756008"
+      }
+    },
+    {
+      "term": "A rare genetic peripheral neuropathy disorder characterised by recurrent stereotyped episodic intense pain occurring predominantly in either the upper body or lower limbs in several members of a family. The pain is triggered or exacerbated by fatigue, cold exposure, fasting, weather changes and/or physical stress or exertion and may or may not diminish with age. Sweating and other manifestations such as tachycardia, breathing difficulties and generalised pallor may be associated.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "782756008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial episodic pain syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial episodic pain syndrome",
+          "lang": "en"
+        },
+        "id": "782756008"
+      }
+    },
+    {
+      "term": "A rare genetic epidermal disorder with characteristics of a chronic diffuse fine scaly erythematous rash on the face (predominantly the chin, nasolabial folds, eyebrows) around the earlobes and over the scalp, associated with hyperkeratosis over elbows, knees, palms, soles and metacarpophalangeal joints, in the absence of associated rheumatological or neurological disorders. Cold weather, emotional stress and strenuous physical activity may exacerbate symptoms. There is evidence the disease is caused by mutation in the ZNF750 gene.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "782910009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Seborrhea-like dermatitis with psoriasiform elements (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Seborrhea-like dermatitis with psoriasiform elements",
+          "lang": "en"
+        },
+        "id": "782910009"
+      }
+    }
+  ]
+}

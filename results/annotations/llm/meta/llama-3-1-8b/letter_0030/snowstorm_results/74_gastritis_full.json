@@ -1,0 +1,1287 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 260
+    },
+    "semanticTags": {
+      "disorder": 96,
+      "situation": 2
+    },
+    "language": {
+      "en": 260
+    },
+    "membership": {
+      "1322291000000109": 98,
+      "991411000000109": 1,
+      "999004331000000102": 1,
+      "1127601000000107": 98,
+      "1382531000000102": 91,
+      "999003161000000108": 1,
+      "999001741000000107": 13,
+      "900000000000497000": 98,
+      "2181171000000109": 1,
+      "999002271000000101": 198,
+      "733073007": 98,
+      "999004381000000103": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999001741000000107": {
+      "conceptId": "999001741000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001741000000107"
+    },
+    "2181171000000109": {
+      "conceptId": "2181171000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181171000000109"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    }
+  },
+  "totalElements": 260,
+  "totalPages": 6,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4556007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gastritis",
+          "lang": "en"
+        },
+        "id": "4556007"
+      }
+    },
+    {
+      "term": "Acute gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25458004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute gastritis",
+          "lang": "en"
+        },
+        "id": "25458004"
+      }
+    },
+    {
+      "term": "Toxic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "74361008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Toxic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Toxic gastritis",
+          "lang": "en"
+        },
+        "id": "74361008"
+      }
+    },
+    {
+      "term": "Viral gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "285344007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Viral gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Viral gastritis",
+          "lang": "en"
+        },
+        "id": "285344007"
+      }
+    },
+    {
+      "term": "Reflux gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "57433008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Reflux gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reflux gastritis",
+          "lang": "en"
+        },
+        "id": "57433008"
+      }
+    },
+    {
+      "term": "Uremic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235659008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uremic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uremic gastritis",
+          "lang": "en"
+        },
+        "id": "235659008"
+      }
+    },
+    {
+      "term": "Fungal gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "723097009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastritis caused by fungus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gastritis caused by fungus",
+          "lang": "en"
+        },
+        "id": "723097009"
+      }
+    },
+    {
+      "term": "Chronic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8493009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic gastritis",
+          "lang": "en"
+        },
+        "id": "8493009"
+      }
+    },
+    {
+      "term": "Biliary gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "72950008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bile-induced gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bile-induced gastritis",
+          "lang": "en"
+        },
+        "id": "72950008"
+      }
+    },
+    {
+      "term": "Uraemic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235659008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Uremic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uremic gastritis",
+          "lang": "en"
+        },
+        "id": "235659008"
+      }
+    },
+    {
+      "term": "Crohn's gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235664007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Crohn's disease of stomach (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Crohn's disease of stomach",
+          "lang": "en"
+        },
+        "id": "235664007"
+      }
+    },
+    {
+      "term": "Erosive gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1086791000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erosive gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erosive gastritis",
+          "lang": "en"
+        },
+        "id": "1086791000119100"
+      }
+    },
+    {
+      "term": "Allergic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1824008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic gastritis",
+          "lang": "en"
+        },
+        "id": "1824008"
+      }
+    },
+    {
+      "term": "Gastritis polyposa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87252009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastric polyposis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gastric polyposis",
+          "lang": "en"
+        },
+        "id": "87252009"
+      }
+    },
+    {
+      "term": "Atrophic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "84568007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Atrophic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Atrophic gastritis",
+          "lang": "en"
+        },
+        "id": "84568007"
+      }
+    },
+    {
+      "term": "Irritant gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "42541005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irritant gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irritant gastritis",
+          "lang": "en"
+        },
+        "id": "42541005"
+      }
+    },
+    {
+      "term": "Dietetic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "197028009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dietetic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dietetic gastritis",
+          "lang": "en"
+        },
+        "id": "197028009"
+      }
+    },
+    {
+      "term": "Reactive gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235656001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Reactive gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reactive gastritis",
+          "lang": "en"
+        },
+        "id": "235656001"
+      }
+    },
+    {
+      "term": "Chemical gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235656001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Reactive gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reactive gastritis",
+          "lang": "en"
+        },
+        "id": "235656001"
+      }
+    },
+    {
+      "term": "Alcoholic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2043009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alcoholic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alcoholic gastritis",
+          "lang": "en"
+        },
+        "id": "2043009"
+      }
+    },
+    {
+      "term": "Corrosive gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "196740009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Corrosive gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Corrosive gastritis",
+          "lang": "en"
+        },
+        "id": "196740009"
+      }
+    },
+    {
+      "term": "Radiation gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "197012004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastritis caused by radiation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radiation gastritis",
+          "lang": "en"
+        },
+        "id": "197012004"
+      }
+    },
+    {
+      "term": "Infective gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235655002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infective gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infective gastritis",
+          "lang": "en"
+        },
+        "id": "235655002"
+      }
+    },
+    {
+      "term": "Bacterial gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "723096000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastritis caused by bacterium (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gastritis caused by bacterium",
+          "lang": "en"
+        },
+        "id": "723096000"
+      }
+    },
+    {
+      "term": "Parasitic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "723098004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Parasitic infection causing gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Parasitic infection causing gastritis",
+          "lang": "en"
+        },
+        "id": "723098004"
+      }
+    },
+    {
+      "term": "Mast cell gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "789697006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mast cell gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mast cell gastritis",
+          "lang": "en"
+        },
+        "id": "789697006"
+      }
+    },
+    {
+      "term": "Gastritis of newborn",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276527006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastritis of newborn (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gastritis of newborn",
+          "lang": "en"
+        },
+        "id": "276527006"
+      }
+    },
+    {
+      "term": "Gastritis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4556007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gastritis",
+          "lang": "en"
+        },
+        "id": "4556007"
+      }
+    },
+    {
+      "term": "Autoimmune gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "84568007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Atrophic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Atrophic gastritis",
+          "lang": "en"
+        },
+        "id": "84568007"
+      }
+    },
+    {
+      "term": "History of gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "691501000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of gastritis (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "History of gastritis",
+          "lang": "en"
+        },
+        "id": "691501000119103"
+      }
+    },
+    {
+      "term": "Vasculitic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1197706007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastritis due to vasculitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gastritis due to vasculitis",
+          "lang": "en"
+        },
+        "id": "1197706007"
+      }
+    },
+    {
+      "term": "Superficial gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "22304002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Superficial gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Superficial gastritis",
+          "lang": "en"
+        },
+        "id": "22304002"
+      }
+    },
+    {
+      "term": "Phlegmonous gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49781004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phlegmonous gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Phlegmonous gastritis",
+          "lang": "en"
+        },
+        "id": "49781004"
+      }
+    },
+    {
+      "term": "Giant rugal gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60002000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophic gastritis",
+          "lang": "en"
+        },
+        "id": "60002000"
+      }
+    },
+    {
+      "term": "Bile reflux gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "72950008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bile-induced gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bile-induced gastritis",
+          "lang": "en"
+        },
+        "id": "72950008"
+      }
+    },
+    {
+      "term": "Lymphocytic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "360375007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lymphocytic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lymphocytic gastritis",
+          "lang": "en"
+        },
+        "id": "360375007"
+      }
+    },
+    {
+      "term": "Metaplastic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "717861003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Metaplastic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Metaplastic gastritis",
+          "lang": "en"
+        },
+        "id": "717861003"
+      }
+    },
+    {
+      "term": "Collagenous gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711499009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Collagenous gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Collagenous gastritis",
+          "lang": "en"
+        },
+        "id": "711499009"
+      }
+    },
+    {
+      "term": "Suppurative gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "21871000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Suppurative gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Suppurative gastritis",
+          "lang": "en"
+        },
+        "id": "21871000119107"
+      }
+    },
+    {
+      "term": "Gastritis with sepsis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1204466001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastritis with sepsis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gastritis with sepsis",
+          "lang": "en"
+        },
+        "id": "1204466001"
+      }
+    },
+    {
+      "term": "Enteroviral gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1163522000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastritis caused by human Enterovirus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Enteroviral gastritis",
+          "lang": "en"
+        },
+        "id": "1163522000"
+      }
+    },
+    {
+      "term": "Eosinophilic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66329006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Eosinophilic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eosinophilic gastritis",
+          "lang": "en"
+        },
+        "id": "66329006"
+      }
+    },
+    {
+      "term": "Hypertrophic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60002000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophic gastritis",
+          "lang": "en"
+        },
+        "id": "60002000"
+      }
+    },
+    {
+      "term": "Bile-induced gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "72950008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bile-induced gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bile-induced gastritis",
+          "lang": "en"
+        },
+        "id": "72950008"
+      }
+    },
+    {
+      "term": "Drug-induced gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52305004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastritis medicamentosa (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gastritis medicamentosa",
+          "lang": "en"
+        },
+        "id": "52305004"
+      }
+    },
+    {
+      "term": "CG - Chronic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8493009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic gastritis",
+          "lang": "en"
+        },
+        "id": "8493009"
+      }
+    },
+    {
+      "term": "Suspicion of gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413241009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Suspicion of gastritis (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Suspicion of gastritis",
+          "lang": "en"
+        },
+        "id": "413241009"
+      }
+    },
+    {
+      "term": "Enterococcal gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1163521007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastritis caused by Enterococcus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Enterococcal gastritis",
+          "lang": "en"
+        },
+        "id": "1163521007"
+      }
+    },
+    {
+      "term": "Mucormycosis gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1163496005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastritis caused by Mucorales (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mucormycosis gastritis",
+          "lang": "en"
+        },
+        "id": "1163496005"
+      }
+    },
+    {
+      "term": "Emphysematous gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "7399006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Emphysematous gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Emphysematous gastritis",
+          "lang": "en"
+        },
+        "id": "7399006"
+      }
+    }
+  ]
+}

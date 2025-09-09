@@ -1,0 +1,444 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 15
+    },
+    "semanticTags": {
+      "environment": 3,
+      "occupation": 1,
+      "organism": 1,
+      "observable entity": 2,
+      "procedure": 1,
+      "record artifact": 1
+    },
+    "language": {
+      "en": 15
+    },
+    "membership": {
+      "1322291000000109": 5,
+      "1127551000000109": 1,
+      "900000000000497000": 9,
+      "733073007": 9,
+      "999001571000000109": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 15,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 15,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "PACU nurse",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224559004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recovery nurse (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recovery nurse",
+          "lang": "en"
+        },
+        "id": "224559004"
+      }
+    },
+    {
+      "term": "Pacui virus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77006001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pacui virus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pacui virus",
+          "lang": "en"
+        },
+        "id": "77006001"
+      }
+    },
+    {
+      "term": "PACU record",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416253002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-anesthesia care unit record (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "PACU record",
+          "lang": "en"
+        },
+        "id": "416253002"
+      }
+    },
+    {
+      "term": "PACU Phase 1",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415142008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postanesthesia care unit Phase 1 (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "PACU Phase 1",
+          "lang": "en"
+        },
+        "id": "415142008"
+      }
+    },
+    {
+      "term": "PACU Phase 2",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415143003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postanesthesia care unit Phase 2 (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "PACU Phase 2",
+          "lang": "en"
+        },
+        "id": "415143003"
+      }
+    },
+    {
+      "term": "Transfer to PACU",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398068008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Patient transfer to postoperative anesthesia care unit (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Patient transfer to postoperative anesthesia care unit",
+          "lang": "en"
+        },
+        "id": "398068008"
+      }
+    },
+    {
+      "term": "Pacui virus (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77006001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pacui virus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pacui virus",
+          "lang": "en"
+        },
+        "id": "77006001"
+      }
+    },
+    {
+      "term": "Post-anesthesia care unit (PACU) record",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416253002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-anesthesia care unit record (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "PACU record",
+          "lang": "en"
+        },
+        "id": "416253002"
+      }
+    },
+    {
+      "term": "Post-anaesthesia care unit (PACU) record",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416253002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-anesthesia care unit record (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "PACU record",
+          "lang": "en"
+        },
+        "id": "416253002"
+      }
+    },
+    {
+      "term": "PACU - postoperative anesthesia care unit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398161000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postoperative anesthesia care unit (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postoperative anesthesia care unit",
+          "lang": "en"
+        },
+        "id": "398161000"
+      }
+    },
+    {
+      "term": "PACU - postoperative anaesthesia care unit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398161000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postoperative anesthesia care unit (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postoperative anesthesia care unit",
+          "lang": "en"
+        },
+        "id": "398161000"
+      }
+    },
+    {
+      "term": "Time of discharge from (PACU) post anesthesia care unit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442431006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Time of discharge from post anesthesia care unit (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Time of discharge from post anesthesia care unit",
+          "lang": "en"
+        },
+        "id": "442431006"
+      }
+    },
+    {
+      "term": "Time of discharge from (PACU) post anaesthesia care unit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442431006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Time of discharge from post anesthesia care unit (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Time of discharge from post anesthesia care unit",
+          "lang": "en"
+        },
+        "id": "442431006"
+      }
+    },
+    {
+      "term": "Time ready for discharge from (PACU) post anesthesia care unit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442463000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Time ready for discharge from post anesthesia care unit (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Time ready for discharge from post anesthesia care unit",
+          "lang": "en"
+        },
+        "id": "442463000"
+      }
+    },
+    {
+      "term": "Time ready for discharge from (PACU) post anaesthesia care unit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442463000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Time ready for discharge from post anesthesia care unit (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Time ready for discharge from post anesthesia care unit",
+          "lang": "en"
+        },
+        "id": "442463000"
+      }
+    }
+  ]
+}

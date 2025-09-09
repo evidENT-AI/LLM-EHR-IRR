@@ -1,0 +1,455 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 15
+    },
+    "semanticTags": {
+      "finding": 7
+    },
+    "language": {
+      "en": 15
+    },
+    "membership": {
+      "1322291000000109": 7,
+      "1127601000000107": 6,
+      "999002571000000104": 1,
+      "900000000000497000": 7,
+      "733073007": 7,
+      "999002271000000101": 5
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 15,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 15,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Nasopharynx normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301206009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasopharynx normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasopharynx normal",
+          "lang": "en"
+        },
+        "id": "301206009"
+      }
+    },
+    {
+      "term": "Nasopharynx finding",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249362007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasopharynx finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasopharynx finding",
+          "lang": "en"
+        },
+        "id": "249362007"
+      }
+    },
+    {
+      "term": "Swollen nasopharynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277232003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swollen nasopharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swollen nasopharynx",
+          "lang": "en"
+        },
+        "id": "277232003"
+      }
+    },
+    {
+      "term": "Mass of nasopharynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429429006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mass of nasopharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mass of nasopharynx",
+          "lang": "en"
+        },
+        "id": "429429006"
+      }
+    },
+    {
+      "term": "No view of nasopharynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301205008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No view of nasopharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No view of nasopharynx",
+          "lang": "en"
+        },
+        "id": "301205008"
+      }
+    },
+    {
+      "term": "Nasopharynx observation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249362007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasopharynx finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasopharynx finding",
+          "lang": "en"
+        },
+        "id": "249362007"
+      }
+    },
+    {
+      "term": "Bleeding from nasopharynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249367001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bleeding from nasopharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bleeding from nasopharynx",
+          "lang": "en"
+        },
+        "id": "249367001"
+      }
+    },
+    {
+      "term": "Nasopharynx normal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301206009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasopharynx normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasopharynx normal",
+          "lang": "en"
+        },
+        "id": "301206009"
+      }
+    },
+    {
+      "term": "Swollen nasopharynx (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277232003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swollen nasopharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swollen nasopharynx",
+          "lang": "en"
+        },
+        "id": "277232003"
+      }
+    },
+    {
+      "term": "Nasopharynx finding (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249362007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasopharynx finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasopharynx finding",
+          "lang": "en"
+        },
+        "id": "249362007"
+      }
+    },
+    {
+      "term": "Mass of nasopharynx (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429429006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mass of nasopharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mass of nasopharynx",
+          "lang": "en"
+        },
+        "id": "429429006"
+      }
+    },
+    {
+      "term": "No view of nasopharynx (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301205008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No view of nasopharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No view of nasopharynx",
+          "lang": "en"
+        },
+        "id": "301205008"
+      }
+    },
+    {
+      "term": "Bleeding from nasopharynx (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249367001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bleeding from nasopharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bleeding from nasopharynx",
+          "lang": "en"
+        },
+        "id": "249367001"
+      }
+    },
+    {
+      "term": "Aspiration of gastric contents into nasopharynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10850901000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of gastric contents into nasopharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of gastric contents into nasopharynx",
+          "lang": "en"
+        },
+        "id": "10850901000119109"
+      }
+    },
+    {
+      "term": "Aspiration of gastric contents into nasopharynx (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10850901000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of gastric contents into nasopharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of gastric contents into nasopharynx",
+          "lang": "en"
+        },
+        "id": "10850901000119109"
+      }
+    }
+  ]
+}

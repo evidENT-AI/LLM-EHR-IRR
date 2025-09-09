@@ -1,0 +1,645 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 24
+    },
+    "semanticTags": {
+      "disorder": 9,
+      "procedure": 1
+    },
+    "language": {
+      "en": 24
+    },
+    "membership": {
+      "1322291000000109": 10,
+      "1127601000000107": 9,
+      "1382531000000102": 7,
+      "900000000000497000": 10,
+      "999002271000000101": 27,
+      "733073007": 10
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 24,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 24,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Otorrhea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "65668001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Otorrhea",
+          "lang": "en"
+        },
+        "id": "65668001"
+      }
+    },
+    {
+      "term": "Otorrhea (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "65668001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Otorrhea",
+          "lang": "en"
+        },
+        "id": "65668001"
+      }
+    },
+    {
+      "term": "Cerebrospinal otorrhea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68382005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea",
+          "lang": "en"
+        },
+        "id": "68382005"
+      }
+    },
+    {
+      "term": "Cerebrospinal fluid otorrhea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68382005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea",
+          "lang": "en"
+        },
+        "id": "68382005"
+      }
+    },
+    {
+      "term": "CSF - Cerebrospinal otorrhea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68382005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea",
+          "lang": "en"
+        },
+        "id": "68382005"
+      }
+    },
+    {
+      "term": "CSF - Cerebrospinal fluid otorrhea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68382005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea",
+          "lang": "en"
+        },
+        "id": "68382005"
+      }
+    },
+    {
+      "term": "Postoperative cerebrospinal otorrhea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232281004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postoperative cerebrospinal otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postoperative cerebrospinal otorrhea",
+          "lang": "en"
+        },
+        "id": "232281004"
+      }
+    },
+    {
+      "term": "Post-traumatic cerebrospinal otorrhea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232280003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-traumatic cerebrospinal otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-traumatic cerebrospinal otorrhea",
+          "lang": "en"
+        },
+        "id": "232280003"
+      }
+    },
+    {
+      "term": "Repair of cerebrospinal fluid otorrhea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304847004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Repair of cerebrospinal fluid otorrhea (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Repair of cerebrospinal fluid otorrhea",
+          "lang": "en"
+        },
+        "id": "304847004"
+      }
+    },
+    {
+      "term": "Cerebrospinal fluid otorrhea (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68382005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea",
+          "lang": "en"
+        },
+        "id": "68382005"
+      }
+    },
+    {
+      "term": "Postoperative cerebrospinal otorrhea (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232281004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postoperative cerebrospinal otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postoperative cerebrospinal otorrhea",
+          "lang": "en"
+        },
+        "id": "232281004"
+      }
+    },
+    {
+      "term": "Post-traumatic cerebrospinal otorrhea (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232280003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-traumatic cerebrospinal otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-traumatic cerebrospinal otorrhea",
+          "lang": "en"
+        },
+        "id": "232280003"
+      }
+    },
+    {
+      "term": "Cerebrospinal fluid otorrhea due to otitis media",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1259113002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea due to otitis media (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea due to otitis media",
+          "lang": "en"
+        },
+        "id": "1259113002"
+      }
+    },
+    {
+      "term": "Cerebrospinal fluid otorrhea due to encephalocele",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1259117001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea due to encephalocele (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea due to encephalocele",
+          "lang": "en"
+        },
+        "id": "1259117001"
+      }
+    },
+    {
+      "term": "Repair of cerebrospinal fluid otorrhea (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304847004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Repair of cerebrospinal fluid otorrhea (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Repair of cerebrospinal fluid otorrhea",
+          "lang": "en"
+        },
+        "id": "304847004"
+      }
+    },
+    {
+      "term": "Cerebrospinal fluid otorrhea due to otitis media (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1259113002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea due to otitis media (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea due to otitis media",
+          "lang": "en"
+        },
+        "id": "1259113002"
+      }
+    },
+    {
+      "term": "Intracranial hypotension due to cerebrospinal fluid otorrhea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1263544006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intracranial hypotension due to cerebrospinal fluid otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intracranial hypotension due to cerebrospinal fluid otorrhea",
+          "lang": "en"
+        },
+        "id": "1263544006"
+      }
+    },
+    {
+      "term": "Cerebrospinal fluid otorrhea due to encephalocele (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1259117001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea due to encephalocele (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea due to encephalocele",
+          "lang": "en"
+        },
+        "id": "1259117001"
+      }
+    },
+    {
+      "term": "Cerebrospinal fluid otorrhea due to giant arachnoid granulation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1259112007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea due to giant arachnoid granulation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea due to giant arachnoid granulation",
+          "lang": "en"
+        },
+        "id": "1259112007"
+      }
+    },
+    {
+      "term": "Cerebrospinal fluid otorrhea due to congenital deformity of labyrinth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1259114008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea due to congenital deformity of labyrinth (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea due to congenital deformity of labyrinth",
+          "lang": "en"
+        },
+        "id": "1259114008"
+      }
+    },
+    {
+      "term": "Intracranial hypotension due to cerebrospinal fluid otorrhea (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1263544006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intracranial hypotension due to cerebrospinal fluid otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intracranial hypotension due to cerebrospinal fluid otorrhea",
+          "lang": "en"
+        },
+        "id": "1263544006"
+      }
+    },
+    {
+      "term": "Cerebrospinal fluid otorrhea due to congenital malformation of labyrinth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1259114008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea due to congenital deformity of labyrinth (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea due to congenital deformity of labyrinth",
+          "lang": "en"
+        },
+        "id": "1259114008"
+      }
+    },
+    {
+      "term": "Cerebrospinal fluid otorrhea due to giant arachnoid granulation (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1259112007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea due to giant arachnoid granulation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea due to giant arachnoid granulation",
+          "lang": "en"
+        },
+        "id": "1259112007"
+      }
+    },
+    {
+      "term": "Cerebrospinal fluid otorrhea due to congenital deformity of labyrinth (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1259114008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebrospinal fluid otorrhea due to congenital deformity of labyrinth (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebrospinal fluid otorrhea due to congenital deformity of labyrinth",
+          "lang": "en"
+        },
+        "id": "1259114008"
+      }
+    }
+  ]
+}

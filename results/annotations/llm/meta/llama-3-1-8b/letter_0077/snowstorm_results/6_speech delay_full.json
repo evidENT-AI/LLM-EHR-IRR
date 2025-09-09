@@ -1,0 +1,1383 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 201
+    },
+    "semanticTags": {
+      "disorder": 140,
+      "procedure": 1
+    },
+    "language": {
+      "en": 205
+    },
+    "membership": {
+      "1322291000000109": 141,
+      "999004331000000102": 16,
+      "1127601000000107": 140,
+      "1382531000000102": 122,
+      "999003201000000100": 1,
+      "966251000000103": 1,
+      "999002271000000101": 179,
+      "2222191000000108": 1,
+      "900000000000489007": 1,
+      "999002061000000102": 1,
+      "999002451000000109": 1,
+      "900000000000497000": 139,
+      "999002051000000100": 12,
+      "733073007": 141,
+      "999001761000000108": 1,
+      "999004381000000103": 1,
+      "999001751000000105": 5
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "966251000000103": {
+      "conceptId": "966251000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy diagnostic procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy diagnostic procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "966251000000103"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 205,
+  "totalPages": 5,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Speech delay",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229721007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Speech delay (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Speech delay",
+          "lang": "en"
+        },
+        "id": "229721007"
+      }
+    },
+    {
+      "term": "Speech delay (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229721007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Speech delay (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Speech delay",
+          "lang": "en"
+        },
+        "id": "229721007"
+      }
+    },
+    {
+      "term": "Speech and language developmental delay",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "898051000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Speech and language developmental delay (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Speech and language developmental delay",
+          "lang": "en"
+        },
+        "id": "898051000000104"
+      }
+    },
+    {
+      "term": "Speech and language developmental delay (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "898051000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Speech and language developmental delay (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Speech and language developmental delay",
+          "lang": "en"
+        },
+        "id": "898051000000104"
+      }
+    },
+    {
+      "term": "Developmental and speech delay due to SOX5 deficiency",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "771472009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Developmental and speech delay due to SRY-box 5 deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Developmental and speech delay due to SOX5 deficiency",
+          "lang": "en"
+        },
+        "id": "771472009"
+      }
+    },
+    {
+      "term": "Speech, language developmental delay from hearing loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "441719005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Speech and language developmental delay due to hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Speech and language developmental delay due to hearing loss",
+          "lang": "en"
+        },
+        "id": "441719005"
+      }
+    },
+    {
+      "term": "Developmental and speech delay due to SRY-box 5 deficiency",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "771472009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Developmental and speech delay due to SRY-box 5 deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Developmental and speech delay due to SOX5 deficiency",
+          "lang": "en"
+        },
+        "id": "771472009"
+      }
+    },
+    {
+      "term": "Speech and language developmental delay due to hearing loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "441719005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Speech and language developmental delay due to hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Speech and language developmental delay due to hearing loss",
+          "lang": "en"
+        },
+        "id": "441719005"
+      }
+    },
+    {
+      "term": "Hypotonia, speech impairment, severe cognitive delay syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "763722004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypotonia, speech impairment, severe cognitive delay syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypotonia, speech impairment, severe cognitive delay syndrome",
+          "lang": "en"
+        },
+        "id": "763722004"
+      }
+    },
+    {
+      "term": "Child health screening for speech and language development delay",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "320641000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Child health screening for speech and language development delay (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child health screening for speech and language development delay",
+          "lang": "en"
+        },
+        "id": "320641000000103"
+      }
+    },
+    {
+      "term": "Developmental and speech delay due to SOX5 (SRY-box 5) deficiency",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "771472009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Developmental and speech delay due to SRY-box 5 deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Developmental and speech delay due to SOX5 deficiency",
+          "lang": "en"
+        },
+        "id": "771472009"
+      }
+    },
+    {
+      "term": "Developmental and speech delay due to SRY-box 5 deficiency (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "771472009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Developmental and speech delay due to SRY-box 5 deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Developmental and speech delay due to SOX5 deficiency",
+          "lang": "en"
+        },
+        "id": "771472009"
+      }
+    },
+    {
+      "term": "Speech and language developmental delay due to hearing loss (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "441719005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Speech and language developmental delay due to hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Speech and language developmental delay due to hearing loss",
+          "lang": "en"
+        },
+        "id": "441719005"
+      }
+    },
+    {
+      "term": "Intellectual disability, severe speech delay, mild dysmorphism syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774203000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intellectual disability, severe speech delay, mild dysmorphism syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intellectual disability, severe speech delay, mild dysmorphism syndrome",
+          "lang": "en"
+        },
+        "id": "774203000"
+      }
+    },
+    {
+      "term": "Hypotonia, speech impairment, severe cognitive delay syndrome (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "763722004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypotonia, speech impairment, severe cognitive delay syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypotonia, speech impairment, severe cognitive delay syndrome",
+          "lang": "en"
+        },
+        "id": "763722004"
+      }
+    },
+    {
+      "term": "Child health screening for speech and language development delay (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "320641000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Child health screening for speech and language development delay (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child health screening for speech and language development delay",
+          "lang": "en"
+        },
+        "id": "320641000000103"
+      }
+    },
+    {
+      "term": "Intellectual disability, severe speech delay, mild dysmorphism syndrome (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774203000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intellectual disability, severe speech delay, mild dysmorphism syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intellectual disability, severe speech delay, mild dysmorphism syndrome",
+          "lang": "en"
+        },
+        "id": "774203000"
+      }
+    },
+    {
+      "term": "Delayed speech and facial asymmetry with strabismus and ear lobe skin crease syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "716199000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Delayed speech and facial asymmetry with strabismus and ear lobe skin crease syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mehes syndrome",
+          "lang": "en"
+        },
+        "id": "716199000"
+      }
+    },
+    {
+      "term": "Delayed speech and facial asymmetry with strabismus and ear lobe skin crease syndrome (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "716199000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Delayed speech and facial asymmetry with strabismus and ear lobe skin crease syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mehes syndrome",
+          "lang": "en"
+        },
+        "id": "716199000"
+      }
+    },
+    {
+      "term": "TRAF7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1208998007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tumor necrosis factor receptor associated factor 7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "TRAF7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome",
+          "lang": "en"
+        },
+        "id": "1208998007"
+      }
+    },
+    {
+      "term": "CHD3-related developmental delay, speech delay, intellectual disability, abnormalities of vision, facial dysmorphism syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1179408008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chromodomain helicase dna-binding protein 3- related developmental delay, speech delay, intellectual disability, abnormalities of vision, facial dysmorphism syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CHD3-related developmental delay, speech delay, intellectual disability, abnormalities of vision, facial dysmorphism syndrome",
+          "lang": "en"
+        },
+        "id": "1179408008"
+      }
+    },
+    {
+      "term": "Tumor necrosis factor receptor associated factor 7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1208998007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tumor necrosis factor receptor associated factor 7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "TRAF7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome",
+          "lang": "en"
+        },
+        "id": "1208998007"
+      }
+    },
+    {
+      "term": "Tumour necrosis factor receptor associated factor 7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1208998007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tumor necrosis factor receptor associated factor 7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "TRAF7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome",
+          "lang": "en"
+        },
+        "id": "1208998007"
+      }
+    },
+    {
+      "term": "Tumor necrosis factor receptor associated factor 7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1208998007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tumor necrosis factor receptor associated factor 7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "TRAF7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome",
+          "lang": "en"
+        },
+        "id": "1208998007"
+      }
+    },
+    {
+      "term": "Chromodomain helicase dna-binding protein 3- related developmental delay, speech delay, intellectual disability, abnormalities of vision, facial dysmorphism syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1179408008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chromodomain helicase dna-binding protein 3- related developmental delay, speech delay, intellectual disability, abnormalities of vision, facial dysmorphism syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CHD3-related developmental delay, speech delay, intellectual disability, abnormalities of vision, facial dysmorphism syndrome",
+          "lang": "en"
+        },
+        "id": "1179408008"
+      }
+    },
+    {
+      "term": "Chromodomain helicase dna-binding protein 3- related developmental delay, speech delay, intellectual disability, abnormalities of vision, facial dysmorphism syndrome (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1179408008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chromodomain helicase dna-binding protein 3- related developmental delay, speech delay, intellectual disability, abnormalities of vision, facial dysmorphism syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CHD3-related developmental delay, speech delay, intellectual disability, abnormalities of vision, facial dysmorphism syndrome",
+          "lang": "en"
+        },
+        "id": "1179408008"
+      }
+    },
+    {
+      "term": "A rare genetic disease with characteristics of symmetrical muscular hypertrophy, hepatomegaly, polyhydramnios, macrocephaly and mild delay in motor, speech and language development.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773584001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Muscular hypertrophy, hepatomegaly, polyhydramnios syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Muscular hypertrophy, hepatomegaly, polyhydramnios syndrome",
+          "lang": "en"
+        },
+        "id": "773584001"
+      }
+    },
+    {
+      "term": "A rare genetic syndromic intellectual disability with characteristics of mild intellectual disability, delayed speech development, congenital heart defects, brachydactyly and dysmorphic facial features.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773494008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "14q24.1q24.3 microdeletion syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "14q24.1q24.3 microdeletion syndrome",
+          "lang": "en"
+        },
+        "id": "773494008"
+      }
+    },
+    {
+      "term": "A chromosome microdeletion syndrome with characteristics of neonatal hypotonia, global developmental delay, normal to accelerated growth, absent to severely delayed speech, and minor dysmorphic features.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "699310000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "22q13.3 deletion syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "22q13.3 deletion syndrome",
+          "lang": "en"
+        },
+        "id": "699310000"
+      }
+    },
+    {
+      "term": "A rare genetic syndromic intellectual disability with characteristics of intrauterine growth retardation, microcephaly, hypotonia, motor and neurodevelopmental delay, speech delay, intellectual disability and mild dysmorphic features.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1229883008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "19p13.3 microduplication syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "19p13.3 microduplication syndrome",
+          "lang": "en"
+        },
+        "id": "1229883008"
+      }
+    },
+    {
+      "term": "A rare, genetic, neonatal diabetes mellitus syndrome, that is a variant of DEND syndrome and has clinical characteristics of neonatal insulin-dependent diabetes mellitus, mild motor, speech or cognitive delay, and the absence of epilepsy.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303868000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Developmental delay, epilepsy, neonatal diabetes syndrome, intermediate form (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intermediate DEND syndrome",
+          "lang": "en"
+        },
+        "id": "1303868000"
+      }
+    },
+    {
+      "term": "A rare genetic epilepsy syndrome with characteristics of congenital alopecia, early-onset epilepsy, intellectual disability and speech delay. Large stature, delayed bone development and abnormal electroencephalogram have also been associated.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "788417006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alopecia, epilepsy, intellectual disability syndrome Moynahan type (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alopecia, epilepsy, intellectual disability syndrome Moynahan type",
+          "lang": "en"
+        },
+        "id": "788417006"
+      }
+    },
+    {
+      "term": "A rare syndromic intellectual disability with characteristics of developmental delay, speech apraxia, autism with stereotypies, intellectual disability and unspecific dysmorphic facial features. Seizures or isolated EEG abnormalities may also be associated.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1217382002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intellectual disability, autism, speech apraxia, craniofacial dysmorphism syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intellectual disability, autism, speech apraxia, craniofacial dysmorphism syndrome",
+          "lang": "en"
+        },
+        "id": "1217382002"
+      }
+    },
+    {
+      "term": "A rare genetic form of obesity characterized by severe early-onset obesity, hyperphagia, insulin resistance with hyperinsulinemia, reduced adult final height, delayed speech and language development and a tendency for social isolation and aggressive behavior.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "783556000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severe early-onset obesity insulin resistance syndrome due to SH2B adaptor protein 1 deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe early-onset obesity insulin resistance syndrome due to SH2B1 deficiency",
+          "lang": "en"
+        },
+        "id": "783556000"
+      }
+    },
+    {
+      "term": "A rare chromosomal anomaly with characteristics of a predominantly neuropsychiatric phenotype with a few dysmorphic features. Speech delay, learning difficulties, attention deficit hyperactivity disorder, bipolar disorder and aggressiveness have been reported.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773325004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Distal 7q11.23 microduplication syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Distal 7q11.23 microduplication syndrome",
+          "lang": "en"
+        },
+        "id": "773325004"
+      }
+    },
+    {
+      "term": "A rare genetic form of obesity characterised by severe early-onset obesity, hyperphagia, insulin resistance with hyperinsulinaemia, reduced adult final height, delayed speech and language development and a tendency for social isolation and aggressive behaviour.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "783556000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severe early-onset obesity insulin resistance syndrome due to SH2B adaptor protein 1 deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe early-onset obesity insulin resistance syndrome due to SH2B1 deficiency",
+          "lang": "en"
+        },
+        "id": "783556000"
+      }
+    },
+    {
+      "term": "An X-linked clinical subtype of L1 syndrome with characteristics of mild to moderate intellectual disability, delayed development of speech, hypotonia progressing to spasticity or spastic paraplegia, adducted thumbs and mild to moderate distension of the cerebral ventricles.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "838441009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intellectual disability, aphasia, shuffling gait, adducted thumbs syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "MASA syndrome",
+          "lang": "en"
+        },
+        "id": "838441009"
+      }
+    },
+    {
+      "term": "Blepharophimosis epicanthus inversus ptosis due to 3q23 microdeletion is a form of blepharophimosis epicanthus inversus ptosis syndrome (BPES), which in addition to the classical eyelids features of BPES, presents with genitourinary anomalies, spastic diplegia and speech delay.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "890180006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blepharophimosis epicanthus inversus ptosis syndrome plus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blepharophimosis epicanthus inversus ptosis syndrome plus",
+          "lang": "en"
+        },
+        "id": "890180006"
+      }
+    },
+    {
+      "term": "An autosomal anomaly with characteristics of variable clinical features, most commonly including global developmental delay, hypotonia, growth retardation with microcephaly, intellectual disability with severe speech delay, seizures or abnormal EEG, autistic spectrum disorder and other behavioral characteristics.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "13555004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ring chromosome 22 syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ring chromosome 22 syndrome",
+          "lang": "en"
+        },
+        "id": "13555004"
+      }
+    },
+    {
+      "term": "An autosomal anomaly with characteristics of variable clinical features, most commonly including global developmental delay, hypotonia, growth retardation with microcephaly, intellectual disability with severe speech delay, seizures or abnormal EEG, autistic spectrum disorder and other behavioural characteristics.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "13555004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ring chromosome 22 syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ring chromosome 22 syndrome",
+          "lang": "en"
+        },
+        "id": "13555004"
+      }
+    },
+    {
+      "term": "A rare chromosomal anomaly with characteristics of moderate intellectual disability, speech delay, postnatal microcephaly, eczema or atopic dermatitis, characteristic facial features (malar flattening, prominent nose, underdeveloped alae nasi, smooth philtrum, and thin vermillion of the upper lip) and reduced sensitivity to pain.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773547003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "13q12.3 microdeletion syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "13q12.3 microdeletion syndrome",
+          "lang": "en"
+        },
+        "id": "773547003"
+      }
+    },
+    {
+      "term": "A rare syndromic intellectual disability with characteristics of hypotonia, global developmental delay, limited or absent speech, intellectual disability, macrocephaly, mild dysmorphic features, seizures and autism spectrum disorder. Associated ophthalmologic, heart, skeletal and central nervous system anomalies have been reported.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1254652005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intellectual disability, macrocephaly, hypotonia, behavioral abnormalities syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intellectual disability, macrocephaly, hypotonia, behavioral abnormalities syndrome",
+          "lang": "en"
+        },
+        "id": "1254652005"
+      }
+    },
+    {
+      "term": "A partial deletion of the short arm of chromosome 16 characterized by developmental delay, intellectual disability, speech delay, autism spectrum disorder, epilepsy, hypogonadism, and hypotonia. The behavioral profile includes impulsivity, compulsivity, stubbornness, manipulative behaviors, temper tantrums, and aggressive behaviors.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1228890005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "16p13.2 microdeletion syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "16p13.2 microdeletion syndrome",
+          "lang": "en"
+        },
+        "id": "1228890005"
+      }
+    },
+    {
+      "term": "A rare complex spastic paraplegia with characteristics of early onset hypotonia that progresses to spasticity, global developmental delay, severe intellectual disability and speech impairment, microcephaly, short stature and dysmorphic features. Patients often become non-ambulatory and some develop seizures and stereotypic laughter.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "778011005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severe intellectual disability and progressive spastic paraplegia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe intellectual disability and progressive spastic paraplegia",
+          "lang": "en"
+        },
+        "id": "778011005"
+      }
+    },
+    {
+      "term": "A partial deletion of the short arm of chromosome 16 characterised by developmental delay, intellectual disability, speech delay, autism spectrum disorder, epilepsy, hypogonadism, and hypotonia. The behavioural profile includes impulsivity, compulsivity, stubbornness, manipulative behaviours, temper tantrums, and aggressive behaviours.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1228890005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "16p13.2 microdeletion syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "16p13.2 microdeletion syndrome",
+          "lang": "en"
+        },
+        "id": "1228890005"
+      }
+    },
+    {
+      "term": "A rare chromosomal anomaly syndrome with characteristics of mild global developmental delay/intellectual disability with poor to absent speech, dysmorphic features (long midface, retrognathia with overbite, protruding ears), microcephaly, failure to thrive, wide-based gait and a body posture with knee and elbow flexion and hands held in a midline.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "770629000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Distal 17p13.1 microdeletion syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Distal 17p13.1 microdeletion syndrome",
+          "lang": "en"
+        },
+        "id": "770629000"
+      }
+    },
+    {
+      "term": "A rare syndromic intellectual disability characterized by hypotonia, developmental delay, absent or severely delayed speech development, obstructive sleep apnea, mild dysmorphic facial features and behavioral abnormalities. Epilepsy, ataxia and nystagmus have also been reported. Caused by heterozygous mutation in the AHDC1 gene on chromosome 1p36.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774068004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "AT-hook DNA binding motif containing 1-related intellectual disability, obstructive sleep apnea, mild dysmorphism syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "AHDC1-related intellectual disability, obstructive sleep apnea, mild dysmorphism syndrome",
+          "lang": "en"
+        },
+        "id": "774068004"
+      }
+    },
+    {
+      "term": "A rare syndromic intellectual disability characterised by hypotonia, developmental delay, absent or severely delayed speech development, obstructive sleep apnoea, mild dysmorphic facial features and behavioural abnormalities. Epilepsy, ataxia and nystagmus have also been reported. Caused by heterozygous mutation in the AHDC1 gene on chromosome 1p36.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774068004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "AT-hook DNA binding motif containing 1-related intellectual disability, obstructive sleep apnea, mild dysmorphism syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "AHDC1-related intellectual disability, obstructive sleep apnea, mild dysmorphism syndrome",
+          "lang": "en"
+        },
+        "id": "774068004"
+      }
+    },
+    {
+      "term": "A severe form of developmental verbal apraxia with characteristics of a deficit in spontaneous speech, writing, grammatical judgment and repetition, defective articulation, moderate to severe degree of dyspraxia, a reduced use of consonant clusters and comprehension delay. Hearing and intelligence are normal. Inheritance is autosomal dominant with full penetrance.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "721220004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial developmental dysphasia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial developmental dysphasia",
+          "lang": "en"
+        },
+        "id": "721220004"
+      }
+    },
+    {
+      "term": "A rare genetic neurological disorder with characteristics of postnatal microcephaly, hypotonia during infancy followed in most cases by progressive spasticity mainly affecting the lower limbs and spastic diplegia or paraplegia, intellectual disability, delayed or absent speech and dysarthria. Seizures and mildly dysmorphic features have been described in some patients.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1173998003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postnatal microcephaly, infantile hypotonia, spastic diplegia, dysarthria, intellectual disability syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postnatal microcephaly, infantile hypotonia, spastic diplegia, dysarthria, intellectual disability syndrome",
+          "lang": "en"
+        },
+        "id": "1173998003"
+      }
+    }
+  ]
+}

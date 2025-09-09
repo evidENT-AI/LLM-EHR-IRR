@@ -1,0 +1,573 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 19
+    },
+    "semanticTags": {
+      "regime/therapy": 1,
+      "disorder": 2,
+      "situation": 6
+    },
+    "language": {
+      "en": 19
+    },
+    "membership": {
+      "1322291000000109": 9,
+      "1127601000000107": 8,
+      "1382531000000102": 2,
+      "900000000000497000": 9,
+      "2181151000000100": 1,
+      "999002051000000100": 1,
+      "733073007": 9,
+      "999002271000000101": 7
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2181151000000100": {
+      "conceptId": "2181151000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181151000000100"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 19,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 19,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "No family history of diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160274005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No family history of diabetes mellitus (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No family history of diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "160274005"
+      }
+    },
+    {
+      "term": "Family history of diabetes mellitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160303001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of diabetes mellitus (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "160303001"
+      }
+    },
+    {
+      "term": "No family history of diabetes mellitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160274005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No family history of diabetes mellitus (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No family history of diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "160274005"
+      }
+    },
+    {
+      "term": "No significant family history of diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160274005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No family history of diabetes mellitus (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No family history of diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "160274005"
+      }
+    },
+    {
+      "term": "Family history of diabetes mellitus type 1",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430678008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of diabetes mellitus type 1 (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of diabetes mellitus type 1",
+          "lang": "en"
+        },
+        "id": "430678008"
+      }
+    },
+    {
+      "term": "Family history of diabetes mellitus type 2",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430679000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of diabetes mellitus type 2 (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of diabetes mellitus type 2",
+          "lang": "en"
+        },
+        "id": "430679000"
+      }
+    },
+    {
+      "term": "Family history of diabetes mellitus (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160303001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of diabetes mellitus (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "160303001"
+      }
+    },
+    {
+      "term": "No family history of diabetes mellitus (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160274005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No family history of diabetes mellitus (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No family history of diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "160274005"
+      }
+    },
+    {
+      "term": "Family history of diabetes mellitus with complication",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "698650004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of diabetes mellitus with complication (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of diabetes mellitus with complication",
+          "lang": "en"
+        },
+        "id": "698650004"
+      }
+    },
+    {
+      "term": "Family history of diabetes mellitus type 1 (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430678008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of diabetes mellitus type 1 (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of diabetes mellitus type 1",
+          "lang": "en"
+        },
+        "id": "430678008"
+      }
+    },
+    {
+      "term": "Family history of diabetes mellitus type 2 (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430679000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of diabetes mellitus type 2 (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of diabetes mellitus type 2",
+          "lang": "en"
+        },
+        "id": "430679000"
+      }
+    },
+    {
+      "term": "Family history of diabetes mellitus in first degree relative",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416855002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of diabetes mellitus in first degree relative (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of diabetes mellitus in first degree relative",
+          "lang": "en"
+        },
+        "id": "416855002"
+      }
+    },
+    {
+      "term": "Family history of diabetes mellitus with complication (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "698650004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of diabetes mellitus with complication (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of diabetes mellitus with complication",
+          "lang": "en"
+        },
+        "id": "698650004"
+      }
+    },
+    {
+      "term": "Family history of diabetes mellitus in first degree relative (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416855002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of diabetes mellitus in first degree relative (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of diabetes mellitus in first degree relative",
+          "lang": "en"
+        },
+        "id": "416855002"
+      }
+    },
+    {
+      "term": "Supervision of high risk pregnancy with family history of diabetes mellitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "713387007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supervision of high risk pregnancy with family history of diabetes mellitus (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supervision of high risk pregnancy with family history of diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "713387007"
+      }
+    },
+    {
+      "term": "Supervision of high risk pregnancy with family history of diabetes mellitus (regime/therapy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "713387007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supervision of high risk pregnancy with family history of diabetes mellitus (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supervision of high risk pregnancy with family history of diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "713387007"
+      }
+    },
+    {
+      "term": "A form of diazoxide-sensitive diffuse hyperinsulinism characterized by macrosomia, transient or persistent hyperinsulinemic hypoglycemia, responsiveness to diazoxide and a propensity to develop maturity-onset diabetes of the young subtype 1. The disease frequently presents as neonatal hypoglycemia. All patients are responsive to medical management with diazoxide. Family history of diabetes is usually, but not always present. Caused by mutations in HNF4A gene (20q13.12). The transmission is autosomal dominant with variable penetrance.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "717048002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperinsulinism due to hepatocyte nuclear factor 4-alpha deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperinsulinism due to HNF4A deficiency",
+          "lang": "en"
+        },
+        "id": "717048002"
+      }
+    },
+    {
+      "term": "A form of diazoxide-sensitive diffuse hyperinsulinism characterised by macrosomia, transient or persistent hyperinsulinaemic hypoglycaemia, responsiveness to diazoxide and a propensity to develop maturity-onset diabetes of the young subtype 1. The disease frequently presents as neonatal hypoglycaemia. All patients are responsive to medical management with diazoxide. Family history of diabetes is usually, but not always present. Caused by mutations in HNF4A gene (20q13.12). The transmission is autosomal dominant with variable penetrance.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "717048002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperinsulinism due to hepatocyte nuclear factor 4-alpha deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperinsulinism due to HNF4A deficiency",
+          "lang": "en"
+        },
+        "id": "717048002"
+      }
+    },
+    {
+      "term": "A rare genetic endocrine disorder with characteristics of type 1 diabetes mellitus (DM), diabetes insipidus (DI), sensorineural deafness (D), bilateral optical atrophy (OA) and neurological signs. Two types of Wolfram syndrome may be distinguished: type 1 (WS1) and type 2 (WS2). Two causative genes have been identified: WFS1 (4p16.1) and CISD2 (4q24). The clinical criteria for Wolfram syndrome diagnosis are juvenile-onset diabetes mellitus and optic atrophy, family history of Wolfram syndrome or diabetes mellitus and deafness. Transmission is autosomal recessive.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "70694009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wolfram syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wolfram syndrome",
+          "lang": "en"
+        },
+        "id": "70694009"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1391 @@
+{
+  "buckets": {
+    "module": {
+      "999000021000000109": 5,
+      "999000011000000103": 58,
+      "900000000000207008": 132
+    },
+    "semanticTags": {
+      "regime/therapy": 3,
+      "foundation metadata concept": 2,
+      "environment": 34,
+      "assessment scale": 1,
+      "person": 1,
+      "observable entity": 1,
+      "procedure": 11,
+      "finding": 11,
+      "record artifact": 20,
+      "situation": 1
+    },
+    "language": {
+      "en": 195
+    },
+    "membership": {
+      "1322291000000109": 80,
+      "999004331000000102": 4,
+      "1127601000000107": 12,
+      "1382531000000102": 1,
+      "1127551000000109": 20,
+      "1326321000000103": 1,
+      "999002271000000101": 1,
+      "900000000000489007": 1,
+      "999002001000000101": 1,
+      "991441000000105": 1,
+      "900000000000497000": 54,
+      "733073007": 85,
+      "999001471000000108": 2,
+      "900000000000456007": 2,
+      "1382401000000109": 1,
+      "999002991000000109": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "1326321000000103": {
+      "conceptId": "1326321000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Post-COVID assessment service simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Post-COVID assessment service simple reference set",
+        "lang": "en"
+      },
+      "id": "1326321000000103"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002001000000101": {
+      "conceptId": "999002001000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Current care provider findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Current care provider findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002001000000101"
+    },
+    "991441000000105": {
+      "conceptId": "991441000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care follow-up procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care follow-up procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991441000000105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999000021000000109": {
+      "conceptId": "999000021000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension reference set module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension reference set module",
+        "lang": "en"
+      },
+      "id": "999000021000000109"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001471000000108": {
+      "conceptId": "999001471000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Care plan type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Care plan type simple reference set",
+        "lang": "en"
+      },
+      "id": "999001471000000108"
+    },
+    "900000000000456007": {
+      "conceptId": "900000000000456007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Reference set descriptor reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Reference set descriptor",
+        "lang": "en"
+      },
+      "id": "900000000000456007"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999002991000000109": {
+      "conceptId": "999002991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care attendance source simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care attendance source simple reference set",
+        "lang": "en"
+      },
+      "id": "999002991000000109"
+    }
+  },
+  "totalElements": 195,
+  "totalPages": 4,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Outpatient",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373864002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient",
+          "lang": "en"
+        },
+        "id": "373864002"
+      }
+    },
+    {
+      "term": "Outpatient note",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1854561000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outpatient note (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient note",
+          "lang": "en"
+        },
+        "id": "1854561000000107"
+      }
+    },
+    {
+      "term": "Outpatient letter",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "823681000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outpatient letter (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient letter",
+          "lang": "en"
+        },
+        "id": "823681000000100"
+      }
+    },
+    {
+      "term": "Outpatient details",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "886801000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outpatient details (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient details",
+          "lang": "en"
+        },
+        "id": "886801000000109"
+      }
+    },
+    {
+      "term": "Outpatient (person)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373864002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient",
+          "lang": "en"
+        },
+        "id": "373864002"
+      }
+    },
+    {
+      "term": "Outpatient procedure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371883000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient procedure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient procedure",
+          "lang": "en"
+        },
+        "id": "371883000"
+      }
+    },
+    {
+      "term": "Outpatient care plan",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "736271009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient care plan (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient care plan",
+          "lang": "en"
+        },
+        "id": "736271009"
+      }
+    },
+    {
+      "term": "Outpatient environment",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "440655000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient environment (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient environment",
+          "lang": "en"
+        },
+        "id": "440655000"
+      }
+    },
+    {
+      "term": "Outpatient nursing note",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "820481000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outpatient nursing note (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient nursing note",
+          "lang": "en"
+        },
+        "id": "820481000000106"
+      }
+    },
+    {
+      "term": "Outpatient medical note",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "820491000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outpatient medical note (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient medical note",
+          "lang": "en"
+        },
+        "id": "820491000000108"
+      }
+    },
+    {
+      "term": "Outpatient nursing report",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4181000179103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient nursing report (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient nursing report",
+          "lang": "en"
+        },
+        "id": "4181000179103"
+      }
+    },
+    {
+      "term": "Outpatient surgery center",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405607001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ambulatory surgery center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ambulatory surgery center",
+          "lang": "en"
+        },
+        "id": "405607001"
+      }
+    },
+    {
+      "term": "Outpatient surgery centre",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405607001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ambulatory surgery center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ambulatory surgery center",
+          "lang": "en"
+        },
+        "id": "405607001"
+      }
+    },
+    {
+      "term": "Outpatient care management",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737492002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient care management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient care management",
+          "lang": "en"
+        },
+        "id": "737492002"
+      }
+    },
+    {
+      "term": "Hospital outpatient report",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "25681000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Hospital outpatient report (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital outpatient report",
+          "lang": "en"
+        },
+        "id": "25681000000100"
+      }
+    },
+    {
+      "term": "Outpatient dialysis centre",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "789741000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient dialysis treatment facility (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient dialysis treatment facility",
+          "lang": "en"
+        },
+        "id": "789741000"
+      }
+    },
+    {
+      "term": "Outpatient dialysis center",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "789741000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient dialysis treatment facility (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient dialysis treatment facility",
+          "lang": "en"
+        },
+        "id": "789741000"
+      }
+    },
+    {
+      "term": "Outpatient dialysis clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "789741000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient dialysis treatment facility (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient dialysis treatment facility",
+          "lang": "en"
+        },
+        "id": "789741000"
+      }
+    },
+    {
+      "term": "Discharged from outpatients",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "183666007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharged from outpatients (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharged from outpatients",
+          "lang": "en"
+        },
+        "id": "183666007"
+      }
+    },
+    {
+      "term": "OPD - Outpatients department",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33022008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hospital-based outpatient department (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital-based outpatient department",
+          "lang": "en"
+        },
+        "id": "33022008"
+      }
+    },
+    {
+      "term": "Outpatient Clinic Attendance",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "163381000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outpatient Clinic Attendance - FocusActOrEvent (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient Clinic Attendance",
+          "lang": "en"
+        },
+        "id": "163381000000105"
+      }
+    },
+    {
+      "term": "Outpatient attendance avoided",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "353331000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Determination of outcome, outpatient attendance avoided (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient attendance avoided",
+          "lang": "en"
+        },
+        "id": "353331000000105"
+      }
+    },
+    {
+      "term": "Follow-up in outpatient clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "183654001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Follow-up in outpatient clinic (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Follow-up in outpatient clinic",
+          "lang": "en"
+        },
+        "id": "183654001"
+      }
+    },
+    {
+      "term": "Pediatric outpatient care plan",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "736241001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pediatric outpatient care plan (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pediatric outpatient care plan",
+          "lang": "en"
+        },
+        "id": "736241001"
+      }
+    },
+    {
+      "term": "Hospital based outpatient care",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "325331000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Hospital based outpatient care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital based outpatient care",
+          "lang": "en"
+        },
+        "id": "325331000000105"
+      }
+    },
+    {
+      "term": "Hospital outpatients department",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33022008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hospital-based outpatient department (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital-based outpatient department",
+          "lang": "en"
+        },
+        "id": "33022008"
+      }
+    },
+    {
+      "term": "Paediatric outpatient care plan",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "736241001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pediatric outpatient care plan (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pediatric outpatient care plan",
+          "lang": "en"
+        },
+        "id": "736241001"
+      }
+    },
+    {
+      "term": "Hospital-based outpatient clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33022008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hospital-based outpatient department (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital-based outpatient department",
+          "lang": "en"
+        },
+        "id": "33022008"
+      }
+    },
+    {
+      "term": "Outpatient procedure (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371883000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient procedure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient procedure",
+          "lang": "en"
+        },
+        "id": "371883000"
+      }
+    },
+    {
+      "term": "Under care of outpatient service",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1365701000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Under care of outpatient service (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Under care of outpatient service",
+          "lang": "en"
+        },
+        "id": "1365701000000109"
+      }
+    },
+    {
+      "term": "Outpatient counseling by chaplain",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "105395007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient counseling by chaplain (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient counseling by chaplain",
+          "lang": "en"
+        },
+        "id": "105395007"
+      }
+    },
+    {
+      "term": "First outpatient appointment date",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414260005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "First outpatient appointment date (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "First outpatient appointment date",
+          "lang": "en"
+        },
+        "id": "414260005"
+      }
+    },
+    {
+      "term": "Preparation of outpatient summary",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "859791000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Preparation of outpatient summary (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Preparation of outpatient summary",
+          "lang": "en"
+        },
+        "id": "859791000000106"
+      }
+    },
+    {
+      "term": "Outpatient clinic letter received",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "911951000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outpatient clinic letter received (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient clinic letter received",
+          "lang": "en"
+        },
+        "id": "911951000000101"
+      }
+    },
+    {
+      "term": "Outpatient note (record artifact)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1854561000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outpatient note (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient note",
+          "lang": "en"
+        },
+        "id": "1854561000000107"
+      }
+    },
+    {
+      "term": "Outpatient counselling by chaplain",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "105395007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient counseling by chaplain (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient counseling by chaplain",
+          "lang": "en"
+        },
+        "id": "105395007"
+      }
+    },
+    {
+      "term": "Management of outpatient discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718676006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Management of outpatient discharge (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Management of outpatient discharge",
+          "lang": "en"
+        },
+        "id": "718676006"
+      }
+    },
+    {
+      "term": "Mental disability outpatient score",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "165318002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mental disability outpatient score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mental disability outpatient score",
+          "lang": "en"
+        },
+        "id": "165318002"
+      }
+    },
+    {
+      "term": "Referral to outpatients department",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1066111000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Referral to outpatients department (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referral to outpatients department",
+          "lang": "en"
+        },
+        "id": "1066111000000103"
+      }
+    },
+    {
+      "term": "General outpatient clinic admission",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40274000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "General outpatient clinic admission (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "General outpatient clinic admission",
+          "lang": "en"
+        },
+        "id": "40274000"
+      }
+    },
+    {
+      "term": "Hospital outpatient progress report",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "445042000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hospital outpatient progress report (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital outpatient progress report",
+          "lang": "en"
+        },
+        "id": "445042000"
+      }
+    },
+    {
+      "term": "Outpatient letter (record artifact)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "823681000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outpatient letter (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient letter",
+          "lang": "en"
+        },
+        "id": "823681000000100"
+      }
+    },
+    {
+      "term": "Hospital-based outpatient ORL clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "23392004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hospital-based outpatient otorhinolaryngology clinic (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital-based outpatient otorhinolaryngology clinic",
+          "lang": "en"
+        },
+        "id": "23392004"
+      }
+    },
+    {
+      "term": "Hospital-based outpatient department",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33022008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hospital-based outpatient department (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital-based outpatient department",
+          "lang": "en"
+        },
+        "id": "33022008"
+      }
+    },
+    {
+      "term": "Hospital-based outpatient eye clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78088001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hospital-based outpatient ophthalmology clinic (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital-based outpatient ophthalmology clinic",
+          "lang": "en"
+        },
+        "id": "78088001"
+      }
+    },
+    {
+      "term": "Physical disability outpatient score",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "165274007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physical disability outpatient score (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physical disability outpatient score",
+          "lang": "en"
+        },
+        "id": "165274007"
+      }
+    },
+    {
+      "term": "Outpatient environment (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "440655000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Outpatient environment (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient environment",
+          "lang": "en"
+        },
+        "id": "440655000"
+      }
+    },
+    {
+      "term": "Outpatient details (record artifact)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "886801000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outpatient details (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Outpatient details",
+          "lang": "en"
+        },
+        "id": "886801000000109"
+      }
+    },
+    {
+      "term": "Hospital-based outpatient pain clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36293008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hospital-based outpatient pain clinic (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hospital-based outpatient pain clinic",
+          "lang": "en"
+        },
+        "id": "36293008"
+      }
+    },
+    {
+      "term": "Discharged from outpatients (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "183666007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharged from outpatients (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharged from outpatients",
+          "lang": "en"
+        },
+        "id": "183666007"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1414 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 20,
+      "999000041000000102": 1,
+      "900000000000207008": 116
+    },
+    "semanticTags": {
+      "finding": 66
+    },
+    "language": {
+      "en": 137
+    },
+    "membership": {
+      "1322291000000109": 66,
+      "999004331000000102": 13,
+      "991171000000107": 4,
+      "1127601000000107": 58,
+      "1382531000000102": 1,
+      "999002271000000101": 80,
+      "900000000000489007": 3,
+      "999002121000000109": 2,
+      "2222161000000102": 1,
+      "999002571000000104": 8,
+      "900000000000497000": 56,
+      "999002051000000100": 18,
+      "2181121000000105": 1,
+      "999002111000000103": 1,
+      "733073007": 66,
+      "999002871000000102": 5,
+      "999002751000000103": 5,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991171000000107": {
+      "conceptId": "991171000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy goals simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy goals simple reference set",
+        "lang": "en"
+      },
+      "id": "991171000000107"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999002121000000109": {
+      "conceptId": "999002121000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Accessible information - communication support simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Accessible information - communication support simple reference set",
+        "lang": "en"
+      },
+      "id": "999002121000000109"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "2181121000000105": {
+      "conceptId": "2181121000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181121000000105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "999002111000000103": {
+      "conceptId": "999002111000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy goals simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy goals simple reference set",
+        "lang": "en"
+      },
+      "id": "999002111000000103"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002871000000102": {
+      "conceptId": "999002871000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002871000000102"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "999002751000000103": {
+      "conceptId": "999002751000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Activity of daily living related to physical function findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Activity of daily living related to physical function findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002751000000103"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 137,
+  "totalPages": 3,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "O/E - hearing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309650001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - hearing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - hearing",
+          "lang": "en"
+        },
+        "id": "309650001"
+      }
+    },
+    {
+      "term": "Hearing worse",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "280122007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing worse (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing worse",
+          "lang": "en"
+        },
+        "id": "280122007"
+      }
+    },
+    {
+      "term": "Hearing change",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251358005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing change (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing change",
+          "lang": "en"
+        },
+        "id": "251358005"
+      }
+    },
+    {
+      "term": "Hearing voices",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247730001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Verbal auditory hallucinations (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Verbal auditory hallucinations",
+          "lang": "en"
+        },
+        "id": "247730001"
+      }
+    },
+    {
+      "term": "Hearing normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162339002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing normal",
+          "lang": "en"
+        },
+        "id": "162339002"
+      }
+    },
+    {
+      "term": "Hearing problem",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300228004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing problem (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing problem",
+          "lang": "en"
+        },
+        "id": "300228004"
+      }
+    },
+    {
+      "term": "Hearing finding",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "118230007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing finding",
+          "lang": "en"
+        },
+        "id": "118230007"
+      }
+    },
+    {
+      "term": "Hearing improved",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251359002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing improved (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing improved",
+          "lang": "en"
+        },
+        "id": "251359002"
+      }
+    },
+    {
+      "term": "Uses hearing aid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "285055002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does use hearing aid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does use hearing aid",
+          "lang": "en"
+        },
+        "id": "285055002"
+      }
+    },
+    {
+      "term": "Hearing symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162338005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing symptoms",
+          "lang": "en"
+        },
+        "id": "162338005"
+      }
+    },
+    {
+      "term": "Decreased hearing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103276001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Decreased hearing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Decreased hearing",
+          "lang": "en"
+        },
+        "id": "103276001"
+      }
+    },
+    {
+      "term": "Hearing unchanged",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251360007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing unchanged (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing unchanged",
+          "lang": "en"
+        },
+        "id": "251360007"
+      }
+    },
+    {
+      "term": "Sensitive hearing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247284004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sensitive hearing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sensitive hearing",
+          "lang": "en"
+        },
+        "id": "247284004"
+      }
+    },
+    {
+      "term": "Hearing for voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247300007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of ability to hear voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of ability to hear voice",
+          "lang": "en"
+        },
+        "id": "247300007"
+      }
+    },
+    {
+      "term": "Uses hearing loop",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "198061000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Uses hearing loop (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Uses hearing loop",
+          "lang": "en"
+        },
+        "id": "198061000000105"
+      }
+    },
+    {
+      "term": "Hearing for speech",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247300007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of ability to hear voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of ability to hear voice",
+          "lang": "en"
+        },
+        "id": "247300007"
+      }
+    },
+    {
+      "term": "Hearing difficulty",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162340000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing difficulty (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing difficulty",
+          "lang": "en"
+        },
+        "id": "162340000"
+      }
+    },
+    {
+      "term": "Hearing disability",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "197501000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Hearing disability (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing disability",
+          "lang": "en"
+        },
+        "id": "197501000000104"
+      }
+    },
+    {
+      "term": "Hearing for whisper",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247301006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of ability to hear whisper (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of ability to hear whisper",
+          "lang": "en"
+        },
+        "id": "247301006"
+      }
+    },
+    {
+      "term": "Hearing test normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275727004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing test normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing test normal",
+          "lang": "en"
+        },
+        "id": "275727004"
+      }
+    },
+    {
+      "term": "Hearing aid problem",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "390967001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing aid problem (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing aid problem",
+          "lang": "en"
+        },
+        "id": "390967001"
+      }
+    },
+    {
+      "term": "Does use hearing aid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "285055002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does use hearing aid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does use hearing aid",
+          "lang": "en"
+        },
+        "id": "285055002"
+      }
+    },
+    {
+      "term": "O/E - hearing normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164059009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - hearing normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - hearing normal",
+          "lang": "en"
+        },
+        "id": "164059009"
+      }
+    },
+    {
+      "term": "Hearing observations",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "118230007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing finding",
+          "lang": "en"
+        },
+        "id": "118230007"
+      }
+    },
+    {
+      "term": "Hearing test abnormal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "313203003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing test abnormal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing test abnormal",
+          "lang": "en"
+        },
+        "id": "313203003"
+      }
+    },
+    {
+      "term": "Deteriorating hearing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314914004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deteriorating hearing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deteriorating hearing",
+          "lang": "en"
+        },
+        "id": "314914004"
+      }
+    },
+    {
+      "term": "Hearing for loud voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247303009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of ability to hear loud voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of ability to hear loud voice",
+          "lang": "en"
+        },
+        "id": "247303009"
+      }
+    },
+    {
+      "term": "Finding of hearing aid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302291005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of hearing aid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of hearing aid",
+          "lang": "en"
+        },
+        "id": "302291005"
+      }
+    },
+    {
+      "term": "Able to use hearing aid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "285053009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to use hearing aid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to use hearing aid",
+          "lang": "en"
+        },
+        "id": "285053009"
+      }
+    },
+    {
+      "term": "Hearing worse (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "280122007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing worse (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing worse",
+          "lang": "en"
+        },
+        "id": "280122007"
+      }
+    },
+    {
+      "term": "Hearing for quiet voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247301006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of ability to hear whisper (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of ability to hear whisper",
+          "lang": "en"
+        },
+        "id": "247301006"
+      }
+    },
+    {
+      "term": "Hearing screening status",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "310240007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing screening status (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing screening status",
+          "lang": "en"
+        },
+        "id": "310240007"
+      }
+    },
+    {
+      "term": "Hearing for voice normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300226000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal ability to hear voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal ability to hear voice",
+          "lang": "en"
+        },
+        "id": "300226000"
+      }
+    },
+    {
+      "term": "Does not use hearing aid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "285056001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not use hearing aid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not use hearing aid",
+          "lang": "en"
+        },
+        "id": "285056001"
+      }
+    },
+    {
+      "term": "Hearing change (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251358005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing change (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing change",
+          "lang": "en"
+        },
+        "id": "251358005"
+      }
+    },
+    {
+      "term": "Hearing normal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162339002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing normal",
+          "lang": "en"
+        },
+        "id": "162339002"
+      }
+    },
+    {
+      "term": "On examination - hearing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309650001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - hearing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - hearing",
+          "lang": "en"
+        },
+        "id": "309650001"
+      }
+    },
+    {
+      "term": "Unable to use hearing aid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "285054003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unable to use hearing aid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unable to use hearing aid",
+          "lang": "en"
+        },
+        "id": "285054003"
+      }
+    },
+    {
+      "term": "Hearing finding (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "118230007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing finding",
+          "lang": "en"
+        },
+        "id": "118230007"
+      }
+    },
+    {
+      "term": "Hearing problem (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300228004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing problem (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing problem",
+          "lang": "en"
+        },
+        "id": "300228004"
+      }
+    },
+    {
+      "term": "Seen in hearing aid clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "313152005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Seen in hearing aid clinic (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Seen in hearing aid clinic",
+          "lang": "en"
+        },
+        "id": "313152005"
+      }
+    },
+    {
+      "term": "Hearing for whisper normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300220006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing for whisper normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing for whisper normal",
+          "lang": "en"
+        },
+        "id": "300220006"
+      }
+    },
+    {
+      "term": "Hearing for voice impaired",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300227009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing for voice impaired (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing for voice impaired",
+          "lang": "en"
+        },
+        "id": "300227009"
+      }
+    },
+    {
+      "term": "Hearing improved (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251359002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing improved (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing improved",
+          "lang": "en"
+        },
+        "id": "251359002"
+      }
+    },
+    {
+      "term": "Hearing symptoms (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162338005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing symptoms",
+          "lang": "en"
+        },
+        "id": "162338005"
+      }
+    },
+    {
+      "term": "Observation of hearing aid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302291005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of hearing aid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of hearing aid",
+          "lang": "en"
+        },
+        "id": "302291005"
+      }
+    },
+    {
+      "term": "Perception of hearing loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14230001000004101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perception of hearing loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perception of hearing loss",
+          "lang": "en"
+        },
+        "id": "14230001000004101"
+      }
+    },
+    {
+      "term": "Difficulty hearing whisper",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "401009005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Difficulty hearing whisper (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Difficulty hearing whisper",
+          "lang": "en"
+        },
+        "id": "401009005"
+      }
+    },
+    {
+      "term": "Difficulty hearing in noise",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277433005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Difficulty hearing in noise (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Difficulty hearing in noise",
+          "lang": "en"
+        },
+        "id": "277433005"
+      }
+    },
+    {
+      "term": "Hearing unchanged (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251360007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing unchanged (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing unchanged",
+          "lang": "en"
+        },
+        "id": "251360007"
+      }
+    }
+  ]
+}

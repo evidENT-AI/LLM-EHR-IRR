@@ -1,0 +1,1387 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 88
+    },
+    "semanticTags": {
+      "regime/therapy": 1,
+      "disorder": 23,
+      "physical object": 1,
+      "procedure": 18,
+      "finding": 3,
+      "situation": 1
+    },
+    "language": {
+      "en": 92
+    },
+    "membership": {
+      "1322291000000109": 47,
+      "991411000000109": 1,
+      "1127601000000107": 27,
+      "1382531000000102": 23,
+      "999003161000000108": 1,
+      "999003201000000100": 1,
+      "1128991000000109": 1,
+      "991271000000100": 1,
+      "991401000000107": 1,
+      "999002271000000101": 30,
+      "900000000000489007": 1,
+      "2222161000000102": 1,
+      "999000401000000107": 1,
+      "900000000000497000": 45,
+      "733073007": 47,
+      "1382401000000109": 40,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "991271000000100": {
+      "conceptId": "991271000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care treatments simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care treatments simple reference set",
+        "lang": "en"
+      },
+      "id": "991271000000100"
+    },
+    "991401000000107": {
+      "conceptId": "991401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care presenting complaints or issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care presenting complaints or issues simple reference set",
+        "lang": "en"
+      },
+      "id": "991401000000107"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 92,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249366005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bleeding from nose (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bleeding from nose",
+          "lang": "en"
+        },
+        "id": "249366005"
+      }
+    },
+    {
+      "term": "Epistaxis care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "707076002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Epistaxis care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Epistaxis care",
+          "lang": "en"
+        },
+        "id": "707076002"
+      }
+    },
+    {
+      "term": "Fetal epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1179365005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal epistaxis",
+          "lang": "en"
+        },
+        "id": "1179365005"
+      }
+    },
+    {
+      "term": "Epistaxis control",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35807001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Control of hemorrhage of nose (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Control of hemorrhage of nose",
+          "lang": "en"
+        },
+        "id": "35807001"
+      }
+    },
+    {
+      "term": "Anterior epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232354002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anterior epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anterior epistaxis",
+          "lang": "en"
+        },
+        "id": "232354002"
+      }
+    },
+    {
+      "term": "Neonatal epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722922001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal epistaxis",
+          "lang": "en"
+        },
+        "id": "722922001"
+      }
+    },
+    {
+      "term": "Posterior epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232355001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Posterior epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Posterior epistaxis",
+          "lang": "en"
+        },
+        "id": "232355001"
+      }
+    },
+    {
+      "term": "Traumatic epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232356000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic epistaxis",
+          "lang": "en"
+        },
+        "id": "232356000"
+      }
+    },
+    {
+      "term": "Recurrent epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2571000112102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent bleeding of nose (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent bleeding of nose",
+          "lang": "en"
+        },
+        "id": "2571000112102"
+      }
+    },
+    {
+      "term": "Control of epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35807001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Control of hemorrhage of nose (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Control of hemorrhage of nose",
+          "lang": "en"
+        },
+        "id": "35807001"
+      }
+    },
+    {
+      "term": "History of epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "511511000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "History of epistaxis (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "History of epistaxis",
+          "lang": "en"
+        },
+        "id": "511511000000101"
+      }
+    },
+    {
+      "term": "Post-surgical epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232357009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-surgical epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-surgical epistaxis",
+          "lang": "en"
+        },
+        "id": "232357009"
+      }
+    },
+    {
+      "term": "On examination epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164187003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination epistaxis (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "On examination - epistaxis",
+          "lang": "en"
+        },
+        "id": "164187003"
+      }
+    },
+    {
+      "term": "Epistaxis care management",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704134002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Epistaxis care management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Epistaxis care management",
+          "lang": "en"
+        },
+        "id": "704134002"
+      }
+    },
+    {
+      "term": "Epistaxis control - suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "287400009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Control of epistaxis by suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Control of epistaxis by suture",
+          "lang": "en"
+        },
+        "id": "287400009"
+      }
+    },
+    {
+      "term": "Brighton epistaxis balloon",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "360105002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Brighton epistaxis balloon (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Brighton epistaxis balloon",
+          "lang": "en"
+        },
+        "id": "360105002"
+      }
+    },
+    {
+      "term": "On examination - epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164187003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination epistaxis (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "On examination - epistaxis",
+          "lang": "en"
+        },
+        "id": "164187003"
+      }
+    },
+    {
+      "term": "Fetal epistaxis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1179365005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal epistaxis",
+          "lang": "en"
+        },
+        "id": "1179365005"
+      }
+    },
+    {
+      "term": "Epistaxis control - cautery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "287382003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Control of epistaxis by cautery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Control of epistaxis by cautery",
+          "lang": "en"
+        },
+        "id": "287382003"
+      }
+    },
+    {
+      "term": "Epistaxis from Little's area",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232354002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anterior epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anterior epistaxis",
+          "lang": "en"
+        },
+        "id": "232354002"
+      }
+    },
+    {
+      "term": "Evidence of recent epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277236000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Evidence of recent epistaxis (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Evidence of recent epistaxis",
+          "lang": "en"
+        },
+        "id": "277236000"
+      }
+    },
+    {
+      "term": "Suture of nose for epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "287400009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Control of epistaxis by suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Control of epistaxis by suture",
+          "lang": "en"
+        },
+        "id": "287400009"
+      }
+    },
+    {
+      "term": "Maternal perinatal epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1179366006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maternal perinatal epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maternal perinatal epistaxis",
+          "lang": "en"
+        },
+        "id": "1179366006"
+      }
+    },
+    {
+      "term": "Education for epistaxis care",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "806741000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Education for epistaxis care (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Education for epistaxis care",
+          "lang": "en"
+        },
+        "id": "806741000000101"
+      }
+    },
+    {
+      "term": "Anterior epistaxis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232354002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anterior epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anterior epistaxis",
+          "lang": "en"
+        },
+        "id": "232354002"
+      }
+    },
+    {
+      "term": "Control of anterior epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "439302009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Control of anterior nasal bleeding (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Control of anterior epistaxis",
+          "lang": "en"
+        },
+        "id": "439302009"
+      }
+    },
+    {
+      "term": "Neonatal epistaxis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722922001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal epistaxis",
+          "lang": "en"
+        },
+        "id": "722922001"
+      }
+    },
+    {
+      "term": "Posterior epistaxis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232355001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Posterior epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Posterior epistaxis",
+          "lang": "en"
+        },
+        "id": "232355001"
+      }
+    },
+    {
+      "term": "Traumatic epistaxis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232356000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic epistaxis",
+          "lang": "en"
+        },
+        "id": "232356000"
+      }
+    },
+    {
+      "term": "Control of posterior epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "440699009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Control of posterior nasal bleeding (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Control of posterior epistaxis",
+          "lang": "en"
+        },
+        "id": "440699009"
+      }
+    },
+    {
+      "term": "Control of epistaxis by suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "287400009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Control of epistaxis by suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Control of epistaxis by suture",
+          "lang": "en"
+        },
+        "id": "287400009"
+      }
+    },
+    {
+      "term": "Education about epistaxis care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "707080007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Education about epistaxis care (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Education about epistaxis care",
+          "lang": "en"
+        },
+        "id": "707080007"
+      }
+    },
+    {
+      "term": "Control of epistaxis by cautery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "287382003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Control of epistaxis by cautery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Control of epistaxis by cautery",
+          "lang": "en"
+        },
+        "id": "287382003"
+      }
+    },
+    {
+      "term": "Epistaxis care (regime/therapy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "707076002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Epistaxis care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Epistaxis care",
+          "lang": "en"
+        },
+        "id": "707076002"
+      }
+    },
+    {
+      "term": "Epistaxis control by cryosurgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "287393001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Epistaxis control by cryosurgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Epistaxis control by cryosurgery",
+          "lang": "en"
+        },
+        "id": "287393001"
+      }
+    },
+    {
+      "term": "History of epistaxis (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "511511000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "History of epistaxis (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "History of epistaxis",
+          "lang": "en"
+        },
+        "id": "511511000000101"
+      }
+    },
+    {
+      "term": "Post-surgical epistaxis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232357009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-surgical epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-surgical epistaxis",
+          "lang": "en"
+        },
+        "id": "232357009"
+      }
+    },
+    {
+      "term": "On examination epistaxis (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164187003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination epistaxis (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "On examination - epistaxis",
+          "lang": "en"
+        },
+        "id": "164187003"
+      }
+    },
+    {
+      "term": "Epistaxis from Kiesselbach's plexus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232354002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anterior epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anterior epistaxis",
+          "lang": "en"
+        },
+        "id": "232354002"
+      }
+    },
+    {
+      "term": "Epistaxis from anterior nasal septum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232354002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anterior epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anterior epistaxis",
+          "lang": "en"
+        },
+        "id": "232354002"
+      }
+    },
+    {
+      "term": "Epistaxis care management (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704134002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Epistaxis care management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Epistaxis care management",
+          "lang": "en"
+        },
+        "id": "704134002"
+      }
+    },
+    {
+      "term": "Packing of nose for anterior epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "242906003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Packing of nose for anterior epistaxis (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Packing of nose for anterior epistaxis",
+          "lang": "en"
+        },
+        "id": "242906003"
+      }
+    },
+    {
+      "term": "Evidence of recent epistaxis (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277236000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Evidence of recent epistaxis (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Evidence of recent epistaxis",
+          "lang": "en"
+        },
+        "id": "277236000"
+      }
+    },
+    {
+      "term": "Insertion of Brighton epistaxis balloon",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172821004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insertion of Brighton epistaxis balloon (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insertion of Brighton epistaxis balloon",
+          "lang": "en"
+        },
+        "id": "172821004"
+      }
+    },
+    {
+      "term": "Maternal perinatal epistaxis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1179366006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maternal perinatal epistaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maternal perinatal epistaxis",
+          "lang": "en"
+        },
+        "id": "1179366006"
+      }
+    },
+    {
+      "term": "Electrocoagulation of nose for epistaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "55810002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Coagulation of nose for epistaxis using electrical energy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Electrocoagulation of nose for epistaxis",
+          "lang": "en"
+        },
+        "id": "55810002"
+      }
+    },
+    {
+      "term": "Control of epistaxis using nasal packing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274491002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal packing for control of hemorrhage (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal packing for control of hemorrhage",
+          "lang": "en"
+        },
+        "id": "274491002"
+      }
+    },
+    {
+      "term": "Education for epistaxis care (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "806741000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Education for epistaxis care (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Education for epistaxis care",
+          "lang": "en"
+        },
+        "id": "806741000000101"
+      }
+    },
+    {
+      "term": "Control of epistaxis by unlisted technique",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35807001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Control of hemorrhage of nose (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Control of hemorrhage of nose",
+          "lang": "en"
+        },
+        "id": "35807001"
+      }
+    },
+    {
+      "term": "Control of epistaxis by ligation of artery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54194003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Control of epistaxis by ligation of artery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Control of epistaxis by ligation of artery",
+          "lang": "en"
+        },
+        "id": "54194003"
+      }
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 17
+    },
+    "semanticTags": {
+      "finding": 8
+    },
+    "language": {
+      "en": 17
+    },
+    "membership": {
+      "1322291000000109": 8,
+      "1127601000000107": 8,
+      "900000000000497000": 8,
+      "991401000000107": 1,
+      "999002271000000101": 10,
+      "733073007": 8
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "991401000000107": {
+      "conceptId": "991401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care presenting complaints or issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care presenting complaints or issues simple reference set",
+        "lang": "en"
+      },
+      "id": "991401000000107"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 17,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 17,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Nasal congestion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68235000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal congestion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal congestion",
+          "lang": "en"
+        },
+        "id": "68235000"
+      }
+    },
+    {
+      "term": "C/O nasal congestion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272034001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Complaining of nasal congestion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "C/O nasal congestion",
+          "lang": "en"
+        },
+        "id": "272034001"
+      }
+    },
+    {
+      "term": "Congestion of throat",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102617004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congestion of throat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congestion of throat",
+          "lang": "en"
+        },
+        "id": "102617004"
+      }
+    },
+    {
+      "term": "Congestion of mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413254002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congestion of mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congestion of mucosa",
+          "lang": "en"
+        },
+        "id": "413254002"
+      }
+    },
+    {
+      "term": "Congestion of pharynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102617004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congestion of throat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congestion of throat",
+          "lang": "en"
+        },
+        "id": "102617004"
+      }
+    },
+    {
+      "term": "Venous congestion of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271653008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Jugular venous engorgement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Jugular venous engorgement",
+          "lang": "en"
+        },
+        "id": "271653008"
+      }
+    },
+    {
+      "term": "Nasal congestion (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68235000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal congestion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal congestion",
+          "lang": "en"
+        },
+        "id": "68235000"
+      }
+    },
+    {
+      "term": "Pulmonary venous congestion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304523003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary venous congestion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary venous congestion",
+          "lang": "en"
+        },
+        "id": "304523003"
+      }
+    },
+    {
+      "term": "Congestion of throat (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102617004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congestion of throat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congestion of throat",
+          "lang": "en"
+        },
+        "id": "102617004"
+      }
+    },
+    {
+      "term": "Congestion of mucosa (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413254002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congestion of mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congestion of mucosa",
+          "lang": "en"
+        },
+        "id": "413254002"
+      }
+    },
+    {
+      "term": "Passive conjunctival congestion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "246677007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Passive conjunctival congestion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Passive conjunctival congestion",
+          "lang": "en"
+        },
+        "id": "246677007"
+      }
+    },
+    {
+      "term": "Complaining of nasal congestion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272034001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Complaining of nasal congestion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "C/O nasal congestion",
+          "lang": "en"
+        },
+        "id": "272034001"
+      }
+    },
+    {
+      "term": "Pulmonary venous congestion (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304523003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary venous congestion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary venous congestion",
+          "lang": "en"
+        },
+        "id": "304523003"
+      }
+    },
+    {
+      "term": "Passive conjunctival congestion (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "246677007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Passive conjunctival congestion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Passive conjunctival congestion",
+          "lang": "en"
+        },
+        "id": "246677007"
+      }
+    },
+    {
+      "term": "Complaining of nasal congestion (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272034001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Complaining of nasal congestion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "C/O nasal congestion",
+          "lang": "en"
+        },
+        "id": "272034001"
+      }
+    },
+    {
+      "term": "A tissue texture abnormality characterized principally by a palpable sense of sponginess in the tissue, interpreted as resulting from congestion due to increased fluid content.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416614003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tissue bogginess (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tissue bogginess",
+          "lang": "en"
+        },
+        "id": "416614003"
+      }
+    },
+    {
+      "term": "A tissue texture abnormality characterised principally by a palpable sense of sponginess in the tissue, interpreted as resulting from congestion due to increased fluid content.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416614003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tissue bogginess (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tissue bogginess",
+          "lang": "en"
+        },
+        "id": "416614003"
+      }
+    }
+  ]
+}

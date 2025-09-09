@@ -1,0 +1,1270 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 26,
+      "900000000000207008": 54
+    },
+    "semanticTags": {
+      "finding": 37
+    },
+    "language": {
+      "en": 80
+    },
+    "membership": {
+      "1322291000000109": 37,
+      "1127601000000107": 37,
+      "900000000000497000": 24,
+      "999002051000000100": 13,
+      "2181221000000101": 1,
+      "999002271000000101": 82,
+      "733073007": 37,
+      "900000000000489007": 13,
+      "999002611000000108": 1,
+      "1382501000000108": 6
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002611000000108": {
+      "conceptId": "999002611000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999002611000000108"
+    },
+    "1382501000000108": {
+      "conceptId": "1382501000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Dietary requirement findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Dietary requirement findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1382501000000108"
+    }
+  },
+  "totalElements": 80,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Aspiration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68052005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary aspiration (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration",
+          "lang": "en"
+        },
+        "id": "68052005"
+      }
+    },
+    {
+      "term": "Aspiration risk",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371736008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for aspiration (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for aspiration",
+          "lang": "en"
+        },
+        "id": "371736008"
+      }
+    },
+    {
+      "term": "Blood aspiration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25797006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary aspiration of blood (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration of blood",
+          "lang": "en"
+        },
+        "id": "25797006"
+      }
+    },
+    {
+      "term": "Aspiration of food",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "58849003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of food (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of food",
+          "lang": "en"
+        },
+        "id": "58849003"
+      }
+    },
+    {
+      "term": "Pulmonary aspiration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68052005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary aspiration (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration",
+          "lang": "en"
+        },
+        "id": "68052005"
+      }
+    },
+    {
+      "term": "Aspiration of vomitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30227006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary aspiration of gastric contents (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration of gastric contents",
+          "lang": "en"
+        },
+        "id": "30227006"
+      }
+    },
+    {
+      "term": "At risk for aspiration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371736008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for aspiration (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for aspiration",
+          "lang": "en"
+        },
+        "id": "371736008"
+      }
+    },
+    {
+      "term": "Aspiration into trachea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "439592004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration into trachea (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration into trachea",
+          "lang": "en"
+        },
+        "id": "439592004"
+      }
+    },
+    {
+      "term": "Aspiration of animal matter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47010009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of animal matter (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of animal matter",
+          "lang": "en"
+        },
+        "id": "47010009"
+      }
+    },
+    {
+      "term": "Neonatal aspiration of blood",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "206294001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal aspiration of blood (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal aspiration of blood",
+          "lang": "en"
+        },
+        "id": "206294001"
+      }
+    },
+    {
+      "term": "Aspiration of food (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "58849003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of food (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of food",
+          "lang": "en"
+        },
+        "id": "58849003"
+      }
+    },
+    {
+      "term": "Pulmonary aspiration of fluid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116277006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary aspiration of fluid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration of fluid",
+          "lang": "en"
+        },
+        "id": "116277006"
+      }
+    },
+    {
+      "term": "Pulmonary aspiration of blood",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25797006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary aspiration of blood (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration of blood",
+          "lang": "en"
+        },
+        "id": "25797006"
+      }
+    },
+    {
+      "term": "Aspiration of vegetable matter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52597000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of vegetable matter (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of vegetable matter",
+          "lang": "en"
+        },
+        "id": "52597000"
+      }
+    },
+    {
+      "term": "Aspiration of blood in newborn",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "206294001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal aspiration of blood (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal aspiration of blood",
+          "lang": "en"
+        },
+        "id": "206294001"
+      }
+    },
+    {
+      "term": "Pulmonary aspiration (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68052005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary aspiration (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration",
+          "lang": "en"
+        },
+        "id": "68052005"
+      }
+    },
+    {
+      "term": "Pulmonary aspiration of saliva",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "955181000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Pulmonary aspiration of saliva (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration of saliva",
+          "lang": "en"
+        },
+        "id": "955181000000102"
+      }
+    },
+    {
+      "term": "Aspiration syndrome in the adult",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129571008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration syndrome in the adult (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration syndrome in the adult",
+          "lang": "en"
+        },
+        "id": "129571008"
+      }
+    },
+    {
+      "term": "At increased risk for aspiration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371736008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for aspiration (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for aspiration",
+          "lang": "en"
+        },
+        "id": "371736008"
+      }
+    },
+    {
+      "term": "Aspiration into trachea (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "439592004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration into trachea (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration into trachea",
+          "lang": "en"
+        },
+        "id": "439592004"
+      }
+    },
+    {
+      "term": "Aspiration into respiratory tract",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413585005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration into respiratory tract (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration into respiratory tract",
+          "lang": "en"
+        },
+        "id": "413585005"
+      }
+    },
+    {
+      "term": "Aspiration of animal matter (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47010009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of animal matter (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of animal matter",
+          "lang": "en"
+        },
+        "id": "47010009"
+      }
+    },
+    {
+      "term": "Aspiration of tooth or dental material",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35144003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of tooth or dental material (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of tooth or dental material",
+          "lang": "en"
+        },
+        "id": "35144003"
+      }
+    },
+    {
+      "term": "Neonatal aspiration of blood (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "206294001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal aspiration of blood (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal aspiration of blood",
+          "lang": "en"
+        },
+        "id": "206294001"
+      }
+    },
+    {
+      "term": "Regurgitation - no aspiration detected",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398286002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Regurgitation - no aspiration detected (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Regurgitation - no aspiration detected",
+          "lang": "en"
+        },
+        "id": "398286002"
+      }
+    },
+    {
+      "term": "Aspiration into lower respiratory tract",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278692007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration into lower respiratory tract (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration into lower respiratory tract",
+          "lang": "en"
+        },
+        "id": "278692007"
+      }
+    },
+    {
+      "term": "Pulmonary aspiration of blood (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25797006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary aspiration of blood (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration of blood",
+          "lang": "en"
+        },
+        "id": "25797006"
+      }
+    },
+    {
+      "term": "Pulmonary aspiration of fluid (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116277006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary aspiration of fluid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration of fluid",
+          "lang": "en"
+        },
+        "id": "116277006"
+      }
+    },
+    {
+      "term": "Pulmonary aspiration of gastric contents",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30227006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary aspiration of gastric contents (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration of gastric contents",
+          "lang": "en"
+        },
+        "id": "30227006"
+      }
+    },
+    {
+      "term": "Aspiration of vegetable matter (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52597000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of vegetable matter (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of vegetable matter",
+          "lang": "en"
+        },
+        "id": "52597000"
+      }
+    },
+    {
+      "term": "Pulmonary aspiration of saliva (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "955181000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Pulmonary aspiration of saliva (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration of saliva",
+          "lang": "en"
+        },
+        "id": "955181000000102"
+      }
+    },
+    {
+      "term": "Aspiration syndrome in the adult (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129571008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration syndrome in the adult (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration syndrome in the adult",
+          "lang": "en"
+        },
+        "id": "129571008"
+      }
+    },
+    {
+      "term": "At increased risk for aspiration (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371736008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for aspiration (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for aspiration",
+          "lang": "en"
+        },
+        "id": "371736008"
+      }
+    },
+    {
+      "term": "Aspiration of gastric contents into larynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10850941000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of gastric contents into larynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of gastric contents into larynx",
+          "lang": "en"
+        },
+        "id": "10850941000119106"
+      }
+    },
+    {
+      "term": "Aspiration into respiratory tract (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413585005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration into respiratory tract (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration into respiratory tract",
+          "lang": "en"
+        },
+        "id": "413585005"
+      }
+    },
+    {
+      "term": "Aspiration of gastric contents into pharynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10850861000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of gastric contents into pharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of gastric contents into pharynx",
+          "lang": "en"
+        },
+        "id": "10850861000119103"
+      }
+    },
+    {
+      "term": "Aspiration of gastric contents into trachea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10859571000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of gastric contents into trachea (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of gastric contents into trachea",
+          "lang": "en"
+        },
+        "id": "10859571000119103"
+      }
+    },
+    {
+      "term": "Aspiration of gastric contents into bronchus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10859611000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of gastric contents into bronchus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of gastric contents into bronchus",
+          "lang": "en"
+        },
+        "id": "10859611000119107"
+      }
+    },
+    {
+      "term": "Aspiration of gastric contents into nasopharynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10850901000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of gastric contents into nasopharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of gastric contents into nasopharynx",
+          "lang": "en"
+        },
+        "id": "10850901000119109"
+      }
+    },
+    {
+      "term": "Aspiration of tooth or dental material (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35144003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of tooth or dental material (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of tooth or dental material",
+          "lang": "en"
+        },
+        "id": "35144003"
+      }
+    },
+    {
+      "term": "Regurgitation - no aspiration detected (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398286002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Regurgitation - no aspiration detected (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Regurgitation - no aspiration detected",
+          "lang": "en"
+        },
+        "id": "398286002"
+      }
+    },
+    {
+      "term": "Aspiration into lower respiratory tract (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278692007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration into lower respiratory tract (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration into lower respiratory tract",
+          "lang": "en"
+        },
+        "id": "278692007"
+      }
+    },
+    {
+      "term": "Aspiration test negative for air during procedure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442703001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration test negative for air during procedure (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration test negative for air during procedure",
+          "lang": "en"
+        },
+        "id": "442703001"
+      }
+    },
+    {
+      "term": "Pulmonary aspiration of gastric contents (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30227006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary aspiration of gastric contents (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary aspiration of gastric contents",
+          "lang": "en"
+        },
+        "id": "30227006"
+      }
+    },
+    {
+      "term": "Aspiration test negative for blood during procedure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442718000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration test negative for blood during procedure (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration test negative for blood during procedure",
+          "lang": "en"
+        },
+        "id": "442718000"
+      }
+    },
+    {
+      "term": "Aspiration of gastric contents into larynx (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10850941000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of gastric contents into larynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of gastric contents into larynx",
+          "lang": "en"
+        },
+        "id": "10850941000119106"
+      }
+    },
+    {
+      "term": "Aspiration of gastric contents into pharynx (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10850861000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of gastric contents into pharynx (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of gastric contents into pharynx",
+          "lang": "en"
+        },
+        "id": "10850861000119103"
+      }
+    },
+    {
+      "term": "Aspiration of gastric contents into respiratory tract",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10859791000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of gastric contents into respiratory tract (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of gastric contents into respiratory tract",
+          "lang": "en"
+        },
+        "id": "10859791000119109"
+      }
+    },
+    {
+      "term": "Aspiration of gastric contents into trachea (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10859571000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of gastric contents into trachea (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of gastric contents into trachea",
+          "lang": "en"
+        },
+        "id": "10859571000119103"
+      }
+    },
+    {
+      "term": "Aspiration of gastric contents into bronchus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10859611000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aspiration of gastric contents into bronchus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspiration of gastric contents into bronchus",
+          "lang": "en"
+        },
+        "id": "10859611000119107"
+      }
+    }
+  ]
+}

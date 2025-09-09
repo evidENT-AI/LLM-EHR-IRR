@@ -1,0 +1,2252 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000012004": 9,
+      "999000011000001104": 66,
+      "999000021000001108": 6,
+      "999000011000000103": 531,
+      "999000041000000102": 6,
+      "900000000000207008": 5628
+    },
+    "semanticTags": {
+      "regime/therapy": 33,
+      "navigational concept": 1,
+      "product": 15,
+      "occupation": 6,
+      "organism": 1412,
+      "assessment scale": 11,
+      "substance": 6,
+      "observable entity": 46,
+      "procedure": 64,
+      "finding": 316,
+      "social concept": 3,
+      "qualifier value": 13,
+      "foundation metadata concept": 5,
+      "disorder": 322,
+      "environment": 5,
+      "physical object": 23,
+      "person": 8,
+      "morphologic abnormality": 3,
+      "attribute": 1,
+      "core metadata concept": 1,
+      "event": 1,
+      "situation": 654,
+      "record artifact": 10
+    },
+    "language": {
+      "en": 6246
+    },
+    "membership": {
+      "999003161000000108": 9,
+      "999003201000000100": 3,
+      "1127551000000109": 10,
+      "999002271000000101": 1234,
+      "2222191000000108": 3,
+      "2222231000000104": 1,
+      "991301000000102": 2,
+      "999000641000001107": 2,
+      "999002571000000104": 14,
+      "1129631000000105": 1,
+      "900000000000497000": 2665,
+      "1127821000000102": 1,
+      "999001761000000108": 8,
+      "999001471000000108": 1,
+      "2181231000000104": 2,
+      "1382401000000109": 3,
+      "991411000000109": 1,
+      "1127601000000107": 1280,
+      "1033041000000104": 2,
+      "999000031000001105": 35,
+      "1127541000000106": 1,
+      "999000541000001108": 14,
+      "1955841000000104": 3,
+      "2181151000000100": 1,
+      "999002041000000103": 2,
+      "82551000000107": 1,
+      "1129541000000100": 1,
+      "991311000000100": 2,
+      "1128731000000105": 3,
+      "999000401000000107": 23,
+      "723561005": 1,
+      "999002051000000100": 6,
+      "733073007": 2914,
+      "991191000000106": 4,
+      "2170881000000102": 2,
+      "1127511000000105": 1,
+      "900000000000456007": 2,
+      "999003141000000107": 3,
+      "999001751000000105": 2,
+      "1322291000000109": 1530,
+      "999004331000000102": 70,
+      "1853461000000105": 5,
+      "1127531000000102": 2,
+      "999002901000000102": 1,
+      "999000551000001106": 21,
+      "2181181000000106": 5,
+      "991471000000104": 15,
+      "999002591000000100": 3,
+      "999002451000000109": 16,
+      "1127841000000109": 1,
+      "71681000000103": 1,
+      "12464501000001107": 3,
+      "999000961000001103": 7,
+      "1382531000000102": 308,
+      "999002381000000108": 4,
+      "999001571000000109": 6,
+      "999001061000000106": 5,
+      "900000000000489007": 35,
+      "1382491000000102": 2,
+      "1323321000000109": 1,
+      "999002001000000101": 2,
+      "446608001": 1,
+      "1027891000000106": 2,
+      "999004381000000103": 4,
+      "991461000000106": 1,
+      "30931000001101": 21
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "900000000000012004": {
+      "conceptId": "900000000000012004",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT model component module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT model component",
+        "lang": "en"
+      },
+      "id": "900000000000012004"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2222231000000104": {
+      "conceptId": "2222231000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric safeguarding issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric safeguarding issues simple reference set",
+        "lang": "en"
+      },
+      "id": "2222231000000104"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "991301000000102": {
+      "conceptId": "991301000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Eating disorder procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Eating disorder procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991301000000102"
+    },
+    "999000641000001107": {
+      "conceptId": "999000641000001107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices trade family group simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices trade family group simple reference set",
+        "lang": "en"
+      },
+      "id": "999000641000001107"
+    },
+    "1129631000000105": {
+      "conceptId": "1129631000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1129631000000105"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "1127821000000102": {
+      "conceptId": "1127821000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Acute kidney injury findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Acute kidney injury findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127821000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "999001471000000108": {
+      "conceptId": "999001471000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Care plan type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Care plan type simple reference set",
+        "lang": "en"
+      },
+      "id": "999001471000000108"
+    },
+    "2181231000000104": {
+      "conceptId": "2181231000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric rheumatology disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric rheumatology disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181231000000104"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1033041000000104": {
+      "conceptId": "1033041000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Smoking status of household members findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Smoking status of household members findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1033041000000104"
+    },
+    "1127541000000106": {
+      "conceptId": "1127541000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Specialities simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Specialities simple reference set",
+        "lang": "en"
+      },
+      "id": "1127541000000106"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "1955841000000104": {
+      "conceptId": "1955841000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Health Service secondary use data exclusions due to Human Fertilisation and Embryology Act 2008 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS secondary use data exclusions due to Human Fertilisation and Embryology Act 2008 simple reference set",
+        "lang": "en"
+      },
+      "id": "1955841000000104"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "2181151000000100": {
+      "conceptId": "2181151000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181151000000100"
+    },
+    "82551000000107": {
+      "conceptId": "82551000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service England National Genomic Test Directory whole genome sequencing test simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS England National Genomic Test Directory WGS (whole genome sequencing) test simple map reference set",
+        "lang": "en"
+      },
+      "id": "82551000000107"
+    },
+    "999002041000000103": {
+      "conceptId": "999002041000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Female genital mutilation related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Female genital mutilation related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002041000000103"
+    },
+    "1129541000000100": {
+      "conceptId": "1129541000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Homeless findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Homeless findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1129541000000100"
+    },
+    "991311000000100": {
+      "conceptId": "991311000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Early intervention in psychosis procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Early intervention in psychosis procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991311000000100"
+    },
+    "1128731000000105": {
+      "conceptId": "1128731000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional assessment scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional assessment scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "1128731000000105"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "723561005": {
+      "conceptId": "723561005",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "MRCM attribute domain international reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "MRCM attribute domain international reference set",
+        "lang": "en"
+      },
+      "id": "723561005"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "2170881000000102": {
+      "conceptId": "2170881000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric allergy and immunology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric allergy and immunology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2170881000000102"
+    },
+    "991191000000106": {
+      "conceptId": "991191000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy interventions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy interventions simple reference set",
+        "lang": "en"
+      },
+      "id": "991191000000106"
+    },
+    "999000021000001108": {
+      "conceptId": "999000021000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension reference set module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension reference set module",
+        "lang": "en"
+      },
+      "id": "999000021000001108"
+    },
+    "1127511000000105": {
+      "conceptId": "1127511000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Subject has carer findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Subject has carer findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127511000000105"
+    },
+    "900000000000456007": {
+      "conceptId": "900000000000456007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Reference set descriptor reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Reference set descriptor",
+        "lang": "en"
+      },
+      "id": "900000000000456007"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    },
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127531000000102": {
+      "conceptId": "1127531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Services simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Services simple reference set",
+        "lang": "en"
+      },
+      "id": "1127531000000102"
+    },
+    "1853461000000105": {
+      "conceptId": "1853461000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental Health Services Data Set psychological therapies simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental Health Services Data Set psychological therapies simple reference set",
+        "lang": "en"
+      },
+      "id": "1853461000000105"
+    },
+    "999002901000000102": {
+      "conceptId": "999002901000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Podiatric assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Podiatric assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002901000000102"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "991471000000104": {
+      "conceptId": "991471000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental health assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental health assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "991471000000104"
+    },
+    "999002591000000100": {
+      "conceptId": "999002591000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Perinatal mental health procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Perinatal mental health procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "999002591000000100"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "1127841000000109": {
+      "conceptId": "1127841000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Discussion about cardiopulmonary resuscitation procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Discussion about cardiopulmonary resuscitation procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "1127841000000109"
+    },
+    "71681000000103": {
+      "conceptId": "71681000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service England National Genomic Test Directory whole genome sequencing test simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS England National Genomic Test Directory WGS (whole genome sequencing) test simple reference set",
+        "lang": "en"
+      },
+      "id": "71681000000103"
+    },
+    "12464501000001107": {
+      "conceptId": "12464501000001107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Quality and Outcomes Framework general practice extraction - diaphragm contraceptives prescribable within general practice simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Quality and Outcomes Framework general practice extraction - diaphragm contraceptives prescribable within general practice simple reference set",
+        "lang": "en"
+      },
+      "id": "12464501000001107"
+    },
+    "999000961000001103": {
+      "conceptId": "999000961000001103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Quality and Outcomes Framework general practice extraction - Drug Tariff appliance intra-uterine contraceptive devices prescribable within general practice simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Quality and Outcomes Framework general practice extraction - Drug Tariff appliance intra-uterine contraceptive devices prescribable within general practice simple reference set",
+        "lang": "en"
+      },
+      "id": "999000961000001103"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999002381000000108": {
+      "conceptId": "999002381000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Safeguarding issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Safeguarding issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999002381000000108"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1382491000000102": {
+      "conceptId": "1382491000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Advance decision findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Advance decision findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1382491000000102"
+    },
+    "1323321000000109": {
+      "conceptId": "1323321000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323321000000109"
+    },
+    "999002001000000101": {
+      "conceptId": "999002001000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Current care provider findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Current care provider findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002001000000101"
+    },
+    "446608001": {
+      "conceptId": "446608001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT to ICD-O simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT to ICD-O simple map",
+        "lang": "en"
+      },
+      "id": "446608001"
+    },
+    "1027891000000106": {
+      "conceptId": "1027891000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Household composition findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Household composition findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1027891000000106"
+    },
+    "991461000000106": {
+      "conceptId": "991461000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental health assessment scale procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental health assessment scale procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991461000000106"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 6246,
+  "totalPages": 125,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35359004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family (social concept)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family",
+          "lang": "en"
+        },
+        "id": "35359004"
+      }
+    },
+    {
+      "term": "No family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224087003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No relatives (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No relatives",
+          "lang": "en"
+        },
+        "id": "224087003"
+      }
+    },
+    {
+      "term": "Pea family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272596006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pea family (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pea family",
+          "lang": "en"
+        },
+        "id": "272596006"
+      }
+    },
+    {
+      "term": "Family row",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161082005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family row (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family row",
+          "lang": "en"
+        },
+        "id": "161082005"
+      }
+    },
+    {
+      "term": "Lily family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107637007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Liliaceae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Liliaceae",
+          "lang": "en"
+        },
+        "id": "107637007"
+      }
+    },
+    {
+      "term": "Family food",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228011003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family food (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family food",
+          "lang": "en"
+        },
+        "id": "228011003"
+      }
+    },
+    {
+      "term": "Hemp family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272601002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemp family (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemp family",
+          "lang": "en"
+        },
+        "id": "272601002"
+      }
+    },
+    {
+      "term": "Arum family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107629004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Araceae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Araceae",
+          "lang": "en"
+        },
+        "id": "107629004"
+      }
+    },
+    {
+      "term": "Daisy family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272600001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daisy family (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daisy family",
+          "lang": "en"
+        },
+        "id": "272600001"
+      }
+    },
+    {
+      "term": "Large family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161060003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Member of large family (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Member of large family",
+          "lang": "en"
+        },
+        "id": "161060003"
+      }
+    },
+    {
+      "term": "Poppy family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107535007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Papaveraceae - poppy (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Papaveraceae - poppy",
+          "lang": "en"
+        },
+        "id": "107535007"
+      }
+    },
+    {
+      "term": "Heath family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107551004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Ericaceae - heather (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Ericaceae - heather",
+          "lang": "en"
+        },
+        "id": "107551004"
+      }
+    },
+    {
+      "term": "Birch family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107538009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Betulaceae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Betulaceae",
+          "lang": "en"
+        },
+        "id": "107538009"
+      }
+    },
+    {
+      "term": "Gourd family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107560007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Cucurbitaceae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Cucurbitaceae",
+          "lang": "en"
+        },
+        "id": "107560007"
+      }
+    },
+    {
+      "term": "Trade family",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "9191801000001103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Trade family (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Trade family",
+          "lang": "en"
+        },
+        "id": "9191801000001103"
+      }
+    },
+    {
+      "term": "Trade family",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "10358901000001101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Trade family (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Trade family",
+          "lang": "en"
+        },
+        "id": "10358901000001101"
+      }
+    },
+    {
+      "term": "Family doctor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62247001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family medicine specialist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family medicine specialist",
+          "lang": "en"
+        },
+        "id": "62247001"
+      }
+    },
+    {
+      "term": "Borage family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107622008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Boraginaceae - borage (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Boraginaceae - borage",
+          "lang": "en"
+        },
+        "id": "107622008"
+      }
+    },
+    {
+      "term": "Family member",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303071001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Person in the family (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Person in the family",
+          "lang": "en"
+        },
+        "id": "303071001"
+      }
+    },
+    {
+      "term": "Nettle family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107570009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Urticaceae - nettle (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Urticaceae - nettle",
+          "lang": "en"
+        },
+        "id": "107570009"
+      }
+    },
+    {
+      "term": "Spurge family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107571008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Euphorbiaceae - spurge (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Euphorbiaceae - spurge",
+          "lang": "en"
+        },
+        "id": "107571008"
+      }
+    },
+    {
+      "term": "Carrot family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107610005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Apiaceae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Apiaceae",
+          "lang": "en"
+        },
+        "id": "107610005"
+      }
+    },
+    {
+      "term": "Family of man",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "389213009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Hominidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Hominidae",
+          "lang": "en"
+        },
+        "id": "389213009"
+      }
+    },
+    {
+      "term": "Family Enidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "106886004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Enidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Enidae",
+          "lang": "en"
+        },
+        "id": "106886004"
+      }
+    },
+    {
+      "term": "Family Suidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "106996007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Suidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pigs and hogs",
+          "lang": "en"
+        },
+        "id": "106996007"
+      }
+    },
+    {
+      "term": "Family Boidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107281006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Boidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Boidae",
+          "lang": "en"
+        },
+        "id": "107281006"
+      }
+    },
+    {
+      "term": "Family coping",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405199009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family coping behavior (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family coping behavior",
+          "lang": "en"
+        },
+        "id": "405199009"
+      }
+    },
+    {
+      "term": "Family Issues",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "248539004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family problems (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family problems",
+          "lang": "en"
+        },
+        "id": "248539004"
+      }
+    },
+    {
+      "term": "Family Health",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "123601000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Family Health (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Health",
+          "lang": "en"
+        },
+        "id": "123601000001102"
+      }
+    },
+    {
+      "term": "Family therapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "51484002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family therapy (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family therapy",
+          "lang": "en"
+        },
+        "id": "51484002"
+      }
+    },
+    {
+      "term": "Family tension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "105485001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family tension (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family tension",
+          "lang": "en"
+        },
+        "id": "105485001"
+      }
+    },
+    {
+      "term": "Family support",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "243115004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family support (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family support",
+          "lang": "en"
+        },
+        "id": "243115004"
+      }
+    },
+    {
+      "term": "Labiate family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272602009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Labiate family (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Labiate family",
+          "lang": "en"
+        },
+        "id": "272602009"
+      }
+    },
+    {
+      "term": "Family illness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "266966009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family illness (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family illness",
+          "lang": "en"
+        },
+        "id": "266966009"
+      }
+    },
+    {
+      "term": "Family: Apidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28482008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bee (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bee",
+          "lang": "en"
+        },
+        "id": "28482008"
+      }
+    },
+    {
+      "term": "Figwort family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107619006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Scrophulariaceae - figwort (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Scrophulariaceae - figwort",
+          "lang": "en"
+        },
+        "id": "107619006"
+      }
+    },
+    {
+      "term": "Family Laridae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107094003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Laridae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gulls",
+          "lang": "en"
+        },
+        "id": "107094003"
+      }
+    },
+    {
+      "term": "Family Picidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107141005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Picidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Picidae",
+          "lang": "en"
+        },
+        "id": "107141005"
+      }
+    },
+    {
+      "term": "Family Equidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "388441000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Equidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Equidae",
+          "lang": "en"
+        },
+        "id": "388441000"
+      }
+    },
+    {
+      "term": "Family Felidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "388618001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Felidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cats",
+          "lang": "en"
+        },
+        "id": "388618001"
+      }
+    },
+    {
+      "term": "Family Loridae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "389041000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Loridae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Loridae",
+          "lang": "en"
+        },
+        "id": "389041000"
+      }
+    },
+    {
+      "term": "Family Bovidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "389115008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Bovidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Bovidae",
+          "lang": "en"
+        },
+        "id": "389115008"
+      }
+    },
+    {
+      "term": "Family Teiidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107273005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Teiidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Teiidae",
+          "lang": "en"
+        },
+        "id": "107273005"
+      }
+    },
+    {
+      "term": "Family Pilidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "106890002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Pilidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Pilidae",
+          "lang": "en"
+        },
+        "id": "106890002"
+      }
+    },
+    {
+      "term": "Family Ranidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107237003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Ranidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Ranidae",
+          "lang": "en"
+        },
+        "id": "107237003"
+      }
+    },
+    {
+      "term": "Family Manidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "106949004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Manidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Manidae",
+          "lang": "en"
+        },
+        "id": "106949004"
+      }
+    },
+    {
+      "term": "Family Todidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107126005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Todidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Todidae",
+          "lang": "en"
+        },
+        "id": "107126005"
+      }
+    },
+    {
+      "term": "Family Cebidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "106939002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Cebidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Cebidae",
+          "lang": "en"
+        },
+        "id": "106939002"
+      }
+    },
+    {
+      "term": "Family Hylidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107235006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Hylidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Hylidae",
+          "lang": "en"
+        },
+        "id": "107235006"
+      }
+    },
+    {
+      "term": "Family Pipidae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "107227008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family Pipidae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family Pipidae",
+          "lang": "en"
+        },
+        "id": "107227008"
+      }
+    }
+  ]
+}

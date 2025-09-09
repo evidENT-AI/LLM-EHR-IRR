@@ -1,0 +1,1210 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 183
+    },
+    "semanticTags": {
+      "regime/therapy": 1,
+      "disorder": 68,
+      "observable entity": 1,
+      "procedure": 3,
+      "finding": 4
+    },
+    "language": {
+      "en": 183
+    },
+    "membership": {
+      "1322291000000109": 77,
+      "1127601000000107": 72,
+      "1382531000000102": 9,
+      "900000000000497000": 77,
+      "999002271000000101": 135,
+      "733073007": 83,
+      "2170881000000102": 3
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2170881000000102": {
+      "conceptId": "2170881000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric allergy and immunology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric allergy and immunology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2170881000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 183,
+  "totalPages": 4,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Allergic reaction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419076005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction",
+          "lang": "en"
+        },
+        "id": "419076005"
+      }
+    },
+    {
+      "term": "Allergic reaction care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385800000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction management (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction management",
+          "lang": "en"
+        },
+        "id": "385800000"
+      }
+    },
+    {
+      "term": "Allergic drug reaction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416093006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by drug (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to drug",
+          "lang": "en"
+        },
+        "id": "416093006"
+      }
+    },
+    {
+      "term": "Acute allergic reaction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "241929008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute allergic reaction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute allergic reaction",
+          "lang": "en"
+        },
+        "id": "241929008"
+      }
+    },
+    {
+      "term": "Allergic reaction to oil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419375001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by oil (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to oil",
+          "lang": "en"
+        },
+        "id": "419375001"
+      }
+    },
+    {
+      "term": "Allergic reaction control",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385800000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction management (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction management",
+          "lang": "en"
+        },
+        "id": "385800000"
+      }
+    },
+    {
+      "term": "Allergic reaction to drug",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416093006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by drug (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to drug",
+          "lang": "en"
+        },
+        "id": "416093006"
+      }
+    },
+    {
+      "term": "Allergic reaction to food",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419452009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by food (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to food",
+          "lang": "en"
+        },
+        "id": "419452009"
+      }
+    },
+    {
+      "term": "Allergic reaction to venom",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "282093000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by venom (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to venom",
+          "lang": "en"
+        },
+        "id": "282093000"
+      }
+    },
+    {
+      "term": "Allergic reaction to pollen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418364006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by pollen (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to pollen",
+          "lang": "en"
+        },
+        "id": "418364006"
+      }
+    },
+    {
+      "term": "Allergic reaction to nickel",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "420091004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by nickel (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to nickel",
+          "lang": "en"
+        },
+        "id": "420091004"
+      }
+    },
+    {
+      "term": "Allergic reaction to animal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418448002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by animal (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to animal",
+          "lang": "en"
+        },
+        "id": "418448002"
+      }
+    },
+    {
+      "term": "Allergic reaction management",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385800000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction management (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction management",
+          "lang": "en"
+        },
+        "id": "385800000"
+      }
+    },
+    {
+      "term": "Allergic reaction (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419076005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction",
+          "lang": "en"
+        },
+        "id": "419076005"
+      }
+    },
+    {
+      "term": "Allergic transfusion reaction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "361098001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic transfusion reaction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic transfusion reaction",
+          "lang": "en"
+        },
+        "id": "361098001"
+      }
+    },
+    {
+      "term": "Allergic reaction to hair dye",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473104002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by hair dye (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to hair dye",
+          "lang": "en"
+        },
+        "id": "473104002"
+      }
+    },
+    {
+      "term": "Allergic reaction to adhesive",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418325008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by adhesive (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to adhesive",
+          "lang": "en"
+        },
+        "id": "418325008"
+      }
+    },
+    {
+      "term": "Allergic reaction to platinum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "420198007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by platinum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to platinum",
+          "lang": "en"
+        },
+        "id": "420198007"
+      }
+    },
+    {
+      "term": "Allergic reaction to chemical",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419838000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by chemical (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to chemical",
+          "lang": "en"
+        },
+        "id": "419838000"
+      }
+    },
+    {
+      "term": "Allergic reaction to bee sting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "282095007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by bee sting (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to bee sting",
+          "lang": "en"
+        },
+        "id": "282095007"
+      }
+    },
+    {
+      "term": "Allergic reaction to cosmetics",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418282006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by cosmetics (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to cosmetics",
+          "lang": "en"
+        },
+        "id": "418282006"
+      }
+    },
+    {
+      "term": "Allergic reaction to detergent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419515007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by detergent (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to detergent",
+          "lang": "en"
+        },
+        "id": "419515007"
+      }
+    },
+    {
+      "term": "Allergic reaction to colophony",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418579000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by colophony (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to colophony",
+          "lang": "en"
+        },
+        "id": "418579000"
+      }
+    },
+    {
+      "term": "Allergic reaction to flea bite",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419884005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by flea bite (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to flea bite",
+          "lang": "en"
+        },
+        "id": "419884005"
+      }
+    },
+    {
+      "term": "Allergic reaction to wasp sting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300909004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by wasp sting (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to wasp sting",
+          "lang": "en"
+        },
+        "id": "300909004"
+      }
+    },
+    {
+      "term": "Teach allergic reaction control",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385801001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction control education (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction control education",
+          "lang": "en"
+        },
+        "id": "385801001"
+      }
+    },
+    {
+      "term": "Allergic reaction to tattoo ink",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "432989008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by tattoo ink (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to tattoo ink",
+          "lang": "en"
+        },
+        "id": "432989008"
+      }
+    },
+    {
+      "term": "Allergic reaction caused by oil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419375001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by oil (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to oil",
+          "lang": "en"
+        },
+        "id": "419375001"
+      }
+    },
+    {
+      "term": "Allergic reaction to flour dust",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419447004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by flour dust (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to flour dust",
+          "lang": "en"
+        },
+        "id": "419447004"
+      }
+    },
+    {
+      "term": "Allergic reaction caused by egg",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15920161000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by egg protein (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction caused by egg protein",
+          "lang": "en"
+        },
+        "id": "15920161000119108"
+      }
+    },
+    {
+      "term": "Assess allergic reaction control",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385799004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction control assessment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction control assessment",
+          "lang": "en"
+        },
+        "id": "385799004"
+      }
+    },
+    {
+      "term": "Manage allergic reaction control",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385802008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction control management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction control management",
+          "lang": "en"
+        },
+        "id": "385802008"
+      }
+    },
+    {
+      "term": "Allergic reaction caused by food",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419452009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by food (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to food",
+          "lang": "en"
+        },
+        "id": "419452009"
+      }
+    },
+    {
+      "term": "Allergic reaction caused by drug",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416093006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by drug (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to drug",
+          "lang": "en"
+        },
+        "id": "416093006"
+      }
+    },
+    {
+      "term": "Allergic reaction to tree pollen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418943003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by tree pollen (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to tree pollen",
+          "lang": "en"
+        },
+        "id": "418943003"
+      }
+    },
+    {
+      "term": "Allergic reaction to weed pollen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419519001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by weed pollen (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to weed pollen",
+          "lang": "en"
+        },
+        "id": "419519001"
+      }
+    },
+    {
+      "term": "Allergic reaction to insect bite",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "871920005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by insect bite (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to insect bite",
+          "lang": "en"
+        },
+        "id": "871920005"
+      }
+    },
+    {
+      "term": "Allergic reaction caused by seed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15920441000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by seed (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction caused by seed",
+          "lang": "en"
+        },
+        "id": "15920441000119100"
+      }
+    },
+    {
+      "term": "Allergic reaction caused by fish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15920201000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by fish (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction caused by fish",
+          "lang": "en"
+        },
+        "id": "15920201000119103"
+      }
+    },
+    {
+      "term": "Allergic reaction to insect venom",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "282094006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by insect venom (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to insect venom",
+          "lang": "en"
+        },
+        "id": "282094006"
+      }
+    },
+    {
+      "term": "Allergic reaction caused by venom",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "282093000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by venom (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to venom",
+          "lang": "en"
+        },
+        "id": "282093000"
+      }
+    },
+    {
+      "term": "Allergic reaction to grass pollen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418367004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by grass pollen (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to grass pollen",
+          "lang": "en"
+        },
+        "id": "418367004"
+      }
+    },
+    {
+      "term": "Allergic reaction to lens protein",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14589007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phacoanaphylaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Phacoanaphylaxis",
+          "lang": "en"
+        },
+        "id": "14589007"
+      }
+    },
+    {
+      "term": "Allergic reaction caused by fruit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15920241000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by fruit (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction caused by fruit",
+          "lang": "en"
+        },
+        "id": "15920241000119101"
+      }
+    },
+    {
+      "term": "Acute allergic reaction (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "241929008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute allergic reaction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute allergic reaction",
+          "lang": "en"
+        },
+        "id": "241929008"
+      }
+    },
+    {
+      "term": "Allergic reaction caused by animal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418448002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by animal (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to animal",
+          "lang": "en"
+        },
+        "id": "418448002"
+      }
+    },
+    {
+      "term": "Allergic reaction caused by nickel",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "420091004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by nickel (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to nickel",
+          "lang": "en"
+        },
+        "id": "420091004"
+      }
+    },
+    {
+      "term": "Allergic reaction caused by pollen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418364006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by pollen (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to pollen",
+          "lang": "en"
+        },
+        "id": "418364006"
+      }
+    },
+    {
+      "term": "Allergic reaction caused by peanut",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15920361000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by peanut (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction caused by peanut",
+          "lang": "en"
+        },
+        "id": "15920361000119106"
+      }
+    },
+    {
+      "term": "Allergic reaction control education",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385801001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction control education (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction control education",
+          "lang": "en"
+        },
+        "id": "385801001"
+      }
+    }
+  ]
+}

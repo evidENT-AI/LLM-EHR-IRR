@@ -1,0 +1,35 @@
+text,context,qualifier,laterality,presence,primary_secondary,experiencer,treatment_stage,snomed_ct
+14-year-old,patient is a 14-year-old white female who presents with her mother complaining of a four-day history of cold symptoms consisting of nasal congestion and left ear pain.,,,confirmed,primary,patient,pre-treatment,
+white female,patient is a 14-year-old white female who presents with her mother complaining of a four-day history of cold symptoms consisting of nasal congestion and left ear pain.,,,confirmed,primary,patient,pre-treatment,
+nasal congestion,patient is a 14-year-old white female who presents with her mother complaining of a four-day history of cold symptoms consisting of nasal congestion and left ear pain.,symptoms,,confirmed,primary,patient,pre-treatment,68235000
+left ear pain,patient is a 14-year-old white female who presents with her mother complaining of a four-day history of cold symptoms consisting of nasal congestion and left ear pain.,symptoms,left,confirmed,primary,patient,pre-treatment,301354004
+dry cough,"she has had a dry cough and a fever as high as 100, but this has not been since the first day.",symptoms,,confirmed,primary,patient,pre-treatment,810511000000109
+fever,"she has had a dry cough and a fever as high as 100, but this has not been since the first day.",symptoms,,confirmed,primary,patient,pre-treatment,386661006
+vomiting,she denies any vomiting or diarrhea.,symptoms,,negated,primary,patient,pre-treatment,249497008
+diarrhea,she denies any vomiting or diarrhea.,symptoms,,negated,primary,patient,pre-treatment,267060006
+tylenol cough and cold,"she did try some tylenol cough and cold followed by tylenol cough and cold severe, but she does not think that this has helped.",treatments,,confirmed,primary,patient,pre-treatment,
+tylenol cough and cold severe,"she did try some tylenol cough and cold followed by tylenol cough and cold severe, but she does not think that this has helped.",treatments,,confirmed,primary,patient,pre-treatment,
+younger sister,the patient's younger sister has recently had respiratory infection complicated by pneumonia and otitis media.,risk factors,,confirmed,primary,family,pre-treatment,
+respiratory infection,the patient's younger sister has recently had respiratory infection complicated by pneumonia and otitis media.,diagnoses,,confirmed,primary,family,pre-treatment,54150009
+pneumonia,the patient's younger sister has recently had respiratory infection complicated by pneumonia and otitis media.,diagnoses,,confirmed,primary,family,pre-treatment,233604007
+otitis media,the patient's younger sister has recently had respiratory infection complicated by pneumonia and otitis media.,diagnoses,,confirmed,primary,family,pre-treatment,194288009
+sinus pressure,the patient does note some pressure in her sinuses.,symptoms,,confirmed,primary,patient,pre-treatment,1264052006
+skin rash,she denies any skin rash.,symptoms,,negated,primary,patient,pre-treatment,
+temp 38.1,"vital signs: temp is 38.1, pulse is elevated at 101, other vital signs are all within normal limits.",test results,,confirmed,primary,,pre-treatment,
+pulse 101,"vital signs: temp is 38.1, pulse is elevated at 101, other vital signs are all within normal limits.",test results,,confirmed,primary,,pre-treatment,86651002
+normocephalic,"general: patient is a healthy-appearing, white female, adolescent who is sitting on the stretcher, and appears only mildly ill.",signs,,confirmed,primary,,pre-treatment,301316004
+atraumatic,"general: patient is a healthy-appearing, white female, adolescent who is sitting on the stretcher, and appears only mildly ill.",signs,,confirmed,primary,,pre-treatment,
+pharynx shows no erythema,"heent: head is normocephalic, atraumatic. pharynx shows no erythema, tonsillar edema, or exudate.",signs,,confirmed,primary,,pre-treatment,
+tonsillar edema,"heent: head is normocephalic, atraumatic. pharynx shows no erythema, tonsillar edema, or exudate.",signs,,negated,primary,,pre-treatment,442778006
+exudate,"heent: head is normocephalic, atraumatic. pharynx shows no erythema, tonsillar edema, or exudate.",signs,,negated,primary,,pre-treatment,301791008
+clear tms,"heent: head is normocephalic, atraumatic. pharynx shows no erythema, tonsillar edema, or exudate. both tms are easily visualized and are clear with good light reflex and no erythema.",signs,,confirmed,primary,,pre-treatment,
+mild tenderness to percussion,sinuses do show some mild tenderness to percussion.,signs,,confirmed,primary,,pre-treatment,164246008
+meningismus,neck: no meningismus or enlarged anterior/posterior cervical lymph nodes.,signs,,negated,primary,,pre-treatment,437986008
+enlarged anterior/posterior cervical lymph nodes,neck: no meningismus or enlarged anterior/posterior cervical lymph nodes.,signs,,negated,primary,,pre-treatment,
+regular rate and rhythm,"heart: regular rate and rhythm without murmurs, rubs, or gallops.",signs,,confirmed,primary,,pre-treatment,64730000
+clear lungs,"lungs: clear without rales, rhonchi, or wheezes.",signs,,confirmed,primary,,pre-treatment,
+no rash,skin: no rash.,signs,,confirmed,primary,,pre-treatment,
+viral upper respiratory infection (uri) with sinus and eustachian congestion,assessment: viral upper respiratory infection (uri) with sinus and eustachian congestion.,diagnoses,,confirmed,primary,,pre-treatment,281794004
+advil cold & sinus,i did educate the patient about her problem and urged her to switch to advil cold & sinus for the next three to five days for better control of her sinus and eustachian discomfort.,treatments,,confirmed,primary,,post-treatment,
+afrin nasal spray,i did urge her to use afrin nasal spray for the next three to five days to further decongest her sinuses.,treatments,,confirmed,primary,,post-treatment,437960003
+unimproved,"if she is unimproved in five days, follow up with her pcp for re-exam.",risk factors,,,primary,,post-treatment,

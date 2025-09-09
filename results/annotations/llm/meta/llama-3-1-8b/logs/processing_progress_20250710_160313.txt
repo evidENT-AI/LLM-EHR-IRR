@@ -1,0 +1,12 @@
+Batch processing started at 20250710_160313
+Format: [letter_id] [model] [status]
+
+letter_0004 meta/llama-3.1-8b-instruct-maas success
+letter_0020 meta/llama-3.1-8b-instruct-maas success
+letter_0030 meta/llama-3.1-8b-instruct-maas success
+letter_0041 meta/llama-3.1-8b-instruct-maas failed: [Errno 63] File name too long: '../../results/annotations/llm/meta/llama-3-1-8b/meta-llama-3-1-8b-instruct-maas/letter_0041/snowstorm_results/6_anesthesia, bleeding, infection, injury of the nerves including lower lip weakness, tongue weakness, tongue numbness, shoulder weakness, need for physical therapy, possibility of total laryngectomy, possibility of inability to speak or swallow, difficulty eating, wound care issues, failure to heal, need for additional treatment_full.json'
+letter_0047 meta/llama-3.1-8b-instruct-maas success
+letter_0055 meta/llama-3.1-8b-instruct-maas success
+
+Processing ended at 20250710_161428
+Summary: 5/6 letters processed successfully

@@ -1,0 +1,504 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2,
+      "900000000000207008": 10
+    },
+    "semanticTags": {
+      "finding": 6
+    },
+    "language": {
+      "en": 12
+    },
+    "membership": {
+      "1322291000000109": 6,
+      "999004331000000102": 2,
+      "1127601000000107": 6,
+      "1027891000000106": 2,
+      "1323331000000106": 1,
+      "1382531000000102": 1,
+      "900000000000497000": 5,
+      "999002051000000100": 1,
+      "733073007": 6,
+      "999002271000000101": 5,
+      "1129541000000100": 1,
+      "900000000000489007": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "1129541000000100": {
+      "conceptId": "1129541000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Homeless findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Homeless findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1129541000000100"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1027891000000106": {
+      "conceptId": "1027891000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Household composition findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Household composition findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1027891000000106"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    }
+  },
+  "totalElements": 12,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 12,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Lives with friends",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224131009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lives with friends (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lives with friends",
+          "lang": "en"
+        },
+        "id": "224131009"
+      }
+    },
+    {
+      "term": "Drinks with friends",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228302005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Drinks with friends (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Drinks with friends",
+          "lang": "en"
+        },
+        "id": "228302005"
+      }
+    },
+    {
+      "term": "Sleeping at friends home",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224232006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleeping at friends home (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleeping at friends home",
+          "lang": "en"
+        },
+        "id": "224232006"
+      }
+    },
+    {
+      "term": "Lives with friends (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224131009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lives with friends (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lives with friends",
+          "lang": "en"
+        },
+        "id": "224131009"
+      }
+    },
+    {
+      "term": "Able to maintain friendships",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1066481000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to maintain friendships (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to maintain friendships",
+          "lang": "en"
+        },
+        "id": "1066481000000103"
+      }
+    },
+    {
+      "term": "Drinks with friends (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228302005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Drinks with friends (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Drinks with friends",
+          "lang": "en"
+        },
+        "id": "228302005"
+      }
+    },
+    {
+      "term": "Living temporarily with friends",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1095421000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Living temporarily with friends (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Living temporarily with friends",
+          "lang": "en"
+        },
+        "id": "1095421000000107"
+      }
+    },
+    {
+      "term": "Sleeping at friends home (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224232006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sleeping at friends home (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sleeping at friends home",
+          "lang": "en"
+        },
+        "id": "224232006"
+      }
+    },
+    {
+      "term": "Able to maintain friendships (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1066481000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to maintain friendships (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to maintain friendships",
+          "lang": "en"
+        },
+        "id": "1066481000000103"
+      }
+    },
+    {
+      "term": "Living temporarily with friends (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1095421000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Living temporarily with friends (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Living temporarily with friends",
+          "lang": "en"
+        },
+        "id": "1095421000000107"
+      }
+    },
+    {
+      "term": "Improvement in friendships and/or relationships",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "406542000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Improvement in friendships and/or relationships (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Improvement in friendships and/or relationships",
+          "lang": "en"
+        },
+        "id": "406542000"
+      }
+    },
+    {
+      "term": "Improvement in friendships and/or relationships (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "406542000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Improvement in friendships and/or relationships (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Improvement in friendships and/or relationships",
+          "lang": "en"
+        },
+        "id": "406542000"
+      }
+    }
+  ]
+}

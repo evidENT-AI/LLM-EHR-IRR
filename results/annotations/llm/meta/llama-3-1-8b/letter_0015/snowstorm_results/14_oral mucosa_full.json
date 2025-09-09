@@ -1,0 +1,644 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 24
+    },
+    "semanticTags": {
+      "finding": 12
+    },
+    "language": {
+      "en": 24
+    },
+    "membership": {
+      "1322291000000109": 12,
+      "1127601000000107": 11,
+      "999002571000000104": 1,
+      "900000000000497000": 12,
+      "733073007": 12,
+      "999002271000000101": 12
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 24,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 24,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Moist oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276398005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Moist oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Moist oral mucosa",
+          "lang": "en"
+        },
+        "id": "276398005"
+      }
+    },
+    {
+      "term": "Intact oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1149248007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intact oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intact oral mucosa",
+          "lang": "en"
+        },
+        "id": "1149248007"
+      }
+    },
+    {
+      "term": "Oral mucosa finding",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249400000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral mucosa finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral mucosa finding",
+          "lang": "en"
+        },
+        "id": "249400000"
+      }
+    },
+    {
+      "term": "Coating of oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249406006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Coating of oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Coating of oral mucosa",
+          "lang": "en"
+        },
+        "id": "249406006"
+      }
+    },
+    {
+      "term": "Deposits on oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249407002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deposits on oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deposits on oral mucosa",
+          "lang": "en"
+        },
+        "id": "249407002"
+      }
+    },
+    {
+      "term": "Bleeding of oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249418002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bleeding of oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bleeding of oral mucosa",
+          "lang": "en"
+        },
+        "id": "249418002"
+      }
+    },
+    {
+      "term": "Oral mucosa observations",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249400000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral mucosa finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral mucosa finding",
+          "lang": "en"
+        },
+        "id": "249400000"
+      }
+    },
+    {
+      "term": "Linea alba of oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709495007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Linea alba of oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Linea alba of oral mucosa",
+          "lang": "en"
+        },
+        "id": "709495007"
+      }
+    },
+    {
+      "term": "Moist oral mucosa (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276398005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Moist oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Moist oral mucosa",
+          "lang": "en"
+        },
+        "id": "276398005"
+      }
+    },
+    {
+      "term": "White patches on oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249403003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "White patches on oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "White patches on oral mucosa",
+          "lang": "en"
+        },
+        "id": "249403003"
+      }
+    },
+    {
+      "term": "Food deposits on oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249408007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Food deposits on oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Food deposits on oral mucosa",
+          "lang": "en"
+        },
+        "id": "249408007"
+      }
+    },
+    {
+      "term": "Intact oral mucosa (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1149248007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intact oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intact oral mucosa",
+          "lang": "en"
+        },
+        "id": "1149248007"
+      }
+    },
+    {
+      "term": "Hyperkeratosis of oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249409004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperkeratosis of oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperkeratosis of oral mucosa",
+          "lang": "en"
+        },
+        "id": "249409004"
+      }
+    },
+    {
+      "term": "Biting of oral mucosa - cheek",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "59901004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cheek biting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cheek biting",
+          "lang": "en"
+        },
+        "id": "59901004"
+      }
+    },
+    {
+      "term": "Oral mucosa finding (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249400000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oral mucosa finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral mucosa finding",
+          "lang": "en"
+        },
+        "id": "249400000"
+      }
+    },
+    {
+      "term": "White traceries on oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249404009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "White traceries on oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "White traceries on oral mucosa",
+          "lang": "en"
+        },
+        "id": "249404009"
+      }
+    },
+    {
+      "term": "Coating of oral mucosa (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249406006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Coating of oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Coating of oral mucosa",
+          "lang": "en"
+        },
+        "id": "249406006"
+      }
+    },
+    {
+      "term": "Deposits on oral mucosa (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249407002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deposits on oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deposits on oral mucosa",
+          "lang": "en"
+        },
+        "id": "249407002"
+      }
+    },
+    {
+      "term": "Bleeding of oral mucosa (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249418002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bleeding of oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bleeding of oral mucosa",
+          "lang": "en"
+        },
+        "id": "249418002"
+      }
+    },
+    {
+      "term": "Linea alba of oral mucosa (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709495007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Linea alba of oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Linea alba of oral mucosa",
+          "lang": "en"
+        },
+        "id": "709495007"
+      }
+    },
+    {
+      "term": "White patches on oral mucosa (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249403003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "White patches on oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "White patches on oral mucosa",
+          "lang": "en"
+        },
+        "id": "249403003"
+      }
+    },
+    {
+      "term": "Food deposits on oral mucosa (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249408007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Food deposits on oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Food deposits on oral mucosa",
+          "lang": "en"
+        },
+        "id": "249408007"
+      }
+    },
+    {
+      "term": "Hyperkeratosis of oral mucosa (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249409004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperkeratosis of oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperkeratosis of oral mucosa",
+          "lang": "en"
+        },
+        "id": "249409004"
+      }
+    },
+    {
+      "term": "White traceries on oral mucosa (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249404009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "White traceries on oral mucosa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "White traceries on oral mucosa",
+          "lang": "en"
+        },
+        "id": "249404009"
+      }
+    }
+  ]
+}

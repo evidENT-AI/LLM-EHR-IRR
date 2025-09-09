@@ -1,0 +1,1382 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 6,
+      "999000041000000102": 1,
+      "900000000000207008": 281
+    },
+    "semanticTags": {
+      "finding": 124
+    },
+    "language": {
+      "en": 288
+    },
+    "membership": {
+      "1322291000000109": 124,
+      "991171000000107": 18,
+      "999004331000000102": 1,
+      "999004351000000109": 1,
+      "1127601000000107": 105,
+      "2181171000000109": 2,
+      "1128991000000109": 2,
+      "999002271000000101": 103,
+      "900000000000489007": 2,
+      "2222161000000102": 2,
+      "999002571000000104": 19,
+      "900000000000497000": 121,
+      "999002051000000100": 83,
+      "2181121000000105": 1,
+      "1955851000000101": 1,
+      "733073007": 124
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991171000000107": {
+      "conceptId": "991171000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy goals simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy goals simple reference set",
+        "lang": "en"
+      },
+      "id": "991171000000107"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "999004351000000109": {
+      "conceptId": "999004351000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for gender related issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for gender related issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999004351000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "2181171000000109": {
+      "conceptId": "2181171000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181171000000109"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "2181121000000105": {
+      "conceptId": "2181121000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181121000000105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "1955851000000101": {
+      "conceptId": "1955851000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Health Service secondary use data exclusions due to Gender Recognition Act 2004 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS secondary use data exclusions due to Gender Recognition Act 2004 simple reference set",
+        "lang": "en"
+      },
+      "id": "1955851000000101"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    }
+  },
+  "totalElements": 288,
+  "totalPages": 6,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Wet voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719647002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wet voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wet voice",
+          "lang": "en"
+        },
+        "id": "719647002"
+      }
+    },
+    {
+      "term": "Live voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "260239008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Live voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Live voice",
+          "lang": "en"
+        },
+        "id": "260239008"
+      }
+    },
+    {
+      "term": "Voice abuse",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16266001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Voice abuse (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Voice abuse",
+          "lang": "en"
+        },
+        "id": "16266001"
+      }
+    },
+    {
+      "term": "Nasal voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289190003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal voice",
+          "lang": "en"
+        },
+        "id": "289190003"
+      }
+    },
+    {
+      "term": "Husky voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50219008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hoarse (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hoarse",
+          "lang": "en"
+        },
+        "id": "50219008"
+      }
+    },
+    {
+      "term": "Harsh voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "76412005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Harsh voice quality (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Harsh voice quality",
+          "lang": "en"
+        },
+        "id": "76412005"
+      }
+    },
+    {
+      "term": "Normal voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10503001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal voice",
+          "lang": "en"
+        },
+        "id": "10503001"
+      }
+    },
+    {
+      "term": "Double voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10602004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diphonia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diphonia",
+          "lang": "en"
+        },
+        "id": "10602004"
+      }
+    },
+    {
+      "term": "Senile voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103305000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Senile voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Senile voice",
+          "lang": "en"
+        },
+        "id": "103305000"
+      }
+    },
+    {
+      "term": "Voice misuse",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50896005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Voice misuse (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Voice misuse",
+          "lang": "en"
+        },
+        "id": "50896005"
+      }
+    },
+    {
+      "term": "Voice tremor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "55938009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Voice tremor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Voice tremor",
+          "lang": "en"
+        },
+        "id": "55938009"
+      }
+    },
+    {
+      "term": "Buccal voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229650007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Buccal voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Buccal voice",
+          "lang": "en"
+        },
+        "id": "229650007"
+      }
+    },
+    {
+      "term": "Croaky voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50219008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hoarse (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hoarse",
+          "lang": "en"
+        },
+        "id": "50219008"
+      }
+    },
+    {
+      "term": "Voice broken",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473003006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Virilized pitch of voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Virilized pitch of voice",
+          "lang": "en"
+        },
+        "id": "473003006"
+      }
+    },
+    {
+      "term": "Voice finding",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "118250006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Voice finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Voice finding",
+          "lang": "en"
+        },
+        "id": "118250006"
+      }
+    },
+    {
+      "term": "Loss of voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "44564008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Loss of voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Loss of voice",
+          "lang": "en"
+        },
+        "id": "44564008"
+      }
+    },
+    {
+      "term": "Voice cluster",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63836009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Voice cluster (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Voice cluster",
+          "lang": "en"
+        },
+        "id": "63836009"
+      }
+    },
+    {
+      "term": "Fistula voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229649007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fistula voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fistula voice",
+          "lang": "en"
+        },
+        "id": "229649007"
+      }
+    },
+    {
+      "term": "Breathy voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56505000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Breathy voice quality (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Breathy voice quality",
+          "lang": "en"
+        },
+        "id": "56505000"
+      }
+    },
+    {
+      "term": "Voice fatigue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8614008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vocal fatigue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vocal fatigue",
+          "lang": "en"
+        },
+        "id": "8614008"
+      }
+    },
+    {
+      "term": "Abnormal voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38160000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal voice",
+          "lang": "en"
+        },
+        "id": "38160000"
+      }
+    },
+    {
+      "term": "Amphoric voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43358008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Amphoric voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Amphoric voice",
+          "lang": "en"
+        },
+        "id": "43358008"
+      }
+    },
+    {
+      "term": "Hearing voices",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247730001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Verbal auditory hallucinations (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Verbal auditory hallucinations",
+          "lang": "en"
+        },
+        "id": "247730001"
+      }
+    },
+    {
+      "term": "Belching voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229647009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Esophageal voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Esophageal voice",
+          "lang": "en"
+        },
+        "id": "229647009"
+      }
+    },
+    {
+      "term": "Recorded voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "258108004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recorded voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recorded voice",
+          "lang": "en"
+        },
+        "id": "258108004"
+      }
+    },
+    {
+      "term": "Soothing voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "258130003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Soothing voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Soothing voice",
+          "lang": "en"
+        },
+        "id": "258130003"
+      }
+    },
+    {
+      "term": "Produces voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "286328007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does produce voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does produce voice",
+          "lang": "en"
+        },
+        "id": "286328007"
+      }
+    },
+    {
+      "term": "Eunuchoid voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91349007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Eunuchoid voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eunuchoid voice",
+          "lang": "en"
+        },
+        "id": "91349007"
+      }
+    },
+    {
+      "term": "Cavernous voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43358008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Amphoric voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Amphoric voice",
+          "lang": "en"
+        },
+        "id": "43358008"
+      }
+    },
+    {
+      "term": "Tremulous voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "55938009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Voice tremor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Voice tremor",
+          "lang": "en"
+        },
+        "id": "55938009"
+      }
+    },
+    {
+      "term": "Hyponasal voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229644002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyponasal voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyponasal voice",
+          "lang": "en"
+        },
+        "id": "229644002"
+      }
+    },
+    {
+      "term": "Change in voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274657005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Change in voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Change in voice",
+          "lang": "en"
+        },
+        "id": "274657005"
+      }
+    },
+    {
+      "term": "Absence of voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "44564008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Loss of voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Loss of voice",
+          "lang": "en"
+        },
+        "id": "44564008"
+      }
+    },
+    {
+      "term": "Hypernasal voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229645001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypernasal voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypernasal voice",
+          "lang": "en"
+        },
+        "id": "229645001"
+      }
+    },
+    {
+      "term": "Esophageal voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229647009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Esophageal voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Esophageal voice",
+          "lang": "en"
+        },
+        "id": "229647009"
+      }
+    },
+    {
+      "term": "Pharyngeal voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229651006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pharyngeal voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pharyngeal voice",
+          "lang": "en"
+        },
+        "id": "229651006"
+      }
+    },
+    {
+      "term": "Voice hoarseness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50219008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hoarse (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hoarse",
+          "lang": "en"
+        },
+        "id": "50219008"
+      }
+    },
+    {
+      "term": "Hearing for voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247300007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of ability to hear voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of ability to hear voice",
+          "lang": "en"
+        },
+        "id": "247300007"
+      }
+    },
+    {
+      "term": "Transsexual voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229641005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transsexual voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transsexual voice",
+          "lang": "en"
+        },
+        "id": "229641005"
+      }
+    },
+    {
+      "term": "Oesophageal voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229647009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Esophageal voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Esophageal voice",
+          "lang": "en"
+        },
+        "id": "229647009"
+      }
+    },
+    {
+      "term": "Responds to voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300202002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Responds to voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Responds to voice",
+          "lang": "en"
+        },
+        "id": "300202002"
+      }
+    },
+    {
+      "term": "Weakness of voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8614008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vocal fatigue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vocal fatigue",
+          "lang": "en"
+        },
+        "id": "8614008"
+      }
+    },
+    {
+      "term": "Response to voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300202002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Responds to voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Responds to voice",
+          "lang": "en"
+        },
+        "id": "300202002"
+      }
+    },
+    {
+      "term": "Voice tremor group",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "69600003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Voice tremor group (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Voice tremor group",
+          "lang": "en"
+        },
+        "id": "69600003"
+      }
+    },
+    {
+      "term": "Does produce voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "286328007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does produce voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does produce voice",
+          "lang": "en"
+        },
+        "id": "286328007"
+      }
+    },
+    {
+      "term": "High pitched voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "51406002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "High pitched voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "High pitched voice",
+          "lang": "en"
+        },
+        "id": "51406002"
+      }
+    },
+    {
+      "term": "Harsh voice quality",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "76412005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Harsh voice quality (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Harsh voice quality",
+          "lang": "en"
+        },
+        "id": "76412005"
+      }
+    },
+    {
+      "term": "Deaf sounding voice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229643008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Voice associated with deafness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Voice associated with deafness",
+          "lang": "en"
+        },
+        "id": "229643008"
+      }
+    },
+    {
+      "term": "Wet voice (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719647002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wet voice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wet voice",
+          "lang": "en"
+        },
+        "id": "719647002"
+      }
+    },
+    {
+      "term": "Organic voice tremor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "65864002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Organic voice tremor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Organic voice tremor",
+          "lang": "en"
+        },
+        "id": "65864002"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1414 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 46,
+      "999000041000000102": 2,
+      "900000000000207008": 102
+    },
+    "semanticTags": {
+      "finding": 60
+    },
+    "language": {
+      "en": 150
+    },
+    "membership": {
+      "1322291000000109": 60,
+      "999004331000000102": 1,
+      "1127601000000107": 57,
+      "1382531000000102": 1,
+      "1382541000000106": 1,
+      "1955841000000104": 2,
+      "999003091000000101": 10,
+      "2181221000000101": 1,
+      "2222211000000107": 1,
+      "999002271000000101": 35,
+      "2222221000000101": 1,
+      "900000000000489007": 10,
+      "1129631000000105": 3,
+      "999002571000000104": 3,
+      "900000000000497000": 41,
+      "2181121000000105": 1,
+      "733073007": 60,
+      "999004381000000103": 11
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "1382541000000106": {
+      "conceptId": "1382541000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care sickness absence category simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care sickness absence category simple reference set",
+        "lang": "en"
+      },
+      "id": "1382541000000106"
+    },
+    "1955841000000104": {
+      "conceptId": "1955841000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Health Service secondary use data exclusions due to Human Fertilisation and Embryology Act 2008 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS secondary use data exclusions due to Human Fertilisation and Embryology Act 2008 simple reference set",
+        "lang": "en"
+      },
+      "id": "1955841000000104"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "2222211000000107": {
+      "conceptId": "2222211000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric general findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric general findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2222211000000107"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2222221000000101": {
+      "conceptId": "2222221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric perinatal and neonatal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric perinatal and neonatal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222221000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1129631000000105": {
+      "conceptId": "1129631000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1129631000000105"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "2181121000000105": {
+      "conceptId": "2181121000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181121000000105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    }
+  },
+  "totalElements": 150,
+  "totalPages": 3,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Fear of infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102919003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fear of infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fear of infection",
+          "lang": "en"
+        },
+        "id": "102919003"
+      }
+    },
+    {
+      "term": "Fever with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722892007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fever due to infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fever due to infection",
+          "lang": "en"
+        },
+        "id": "722892007"
+      }
+    },
+    {
+      "term": "At risk for infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78648007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for infection",
+          "lang": "en"
+        },
+        "id": "78648007"
+      }
+    },
+    {
+      "term": "Fever due to infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722892007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fever due to infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fever due to infection",
+          "lang": "en"
+        },
+        "id": "722892007"
+      }
+    },
+    {
+      "term": "Edema due to infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "788914007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Edema due to infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infectious edema",
+          "lang": "en"
+        },
+        "id": "788914007"
+      }
+    },
+    {
+      "term": "Potential for infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78648007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for infection",
+          "lang": "en"
+        },
+        "id": "78648007"
+      }
+    },
+    {
+      "term": "Oedema due to infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "788914007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Edema due to infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infectious edema",
+          "lang": "en"
+        },
+        "id": "788914007"
+      }
+    },
+    {
+      "term": "At risk of eye infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704360006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for infection of eye (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for infection of eye",
+          "lang": "en"
+        },
+        "id": "704360006"
+      }
+    },
+    {
+      "term": "Infection control status",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "424228003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection control status (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection control status",
+          "lang": "en"
+        },
+        "id": "424228003"
+      }
+    },
+    {
+      "term": "At risk of cross-infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225943002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of cross-infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of cross-infection",
+          "lang": "en"
+        },
+        "id": "225943002"
+      }
+    },
+    {
+      "term": "High infection risk sample",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "281269004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "High infection risk sample (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "High infection risk sample",
+          "lang": "en"
+        },
+        "id": "281269004"
+      }
+    },
+    {
+      "term": "Fear of infection (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102919003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fear of infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fear of infection",
+          "lang": "en"
+        },
+        "id": "102919003"
+      }
+    },
+    {
+      "term": "Risk of postnatal infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1854841000000109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "At increased risk of postnatal infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of postnatal infection",
+          "lang": "en"
+        },
+        "id": "1854841000000109"
+      }
+    },
+    {
+      "term": "Infertility due to infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52937008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infertility due to infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infertility due to infection",
+          "lang": "en"
+        },
+        "id": "52937008"
+      }
+    },
+    {
+      "term": "Sputum evidence of infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275719008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sputum evidence of infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sputum evidence of infection",
+          "lang": "en"
+        },
+        "id": "275719008"
+      }
+    },
+    {
+      "term": "At risk for infection of eye",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704360006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for infection of eye (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for infection of eye",
+          "lang": "en"
+        },
+        "id": "704360006"
+      }
+    },
+    {
+      "term": "Tuberculosis infection latent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11999007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inactive tuberculosis (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inactive tuberculosis",
+          "lang": "en"
+        },
+        "id": "11999007"
+      }
+    },
+    {
+      "term": "At increased risk for infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78648007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for infection",
+          "lang": "en"
+        },
+        "id": "78648007"
+      }
+    },
+    {
+      "term": "Oligozoospermia due to infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "367771000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oligozoospermia due to infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oligozoospermia due to infection",
+          "lang": "en"
+        },
+        "id": "367771000119104"
+      }
+    },
+    {
+      "term": "Fever due to infection (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722892007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fever due to infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fever due to infection",
+          "lang": "en"
+        },
+        "id": "722892007"
+      }
+    },
+    {
+      "term": "Edema due to infection (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "788914007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Edema due to infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infectious edema",
+          "lang": "en"
+        },
+        "id": "788914007"
+      }
+    },
+    {
+      "term": "At risk of hepatitis B infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1091701000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "At risk of hepatitis B infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At risk of hepatitis B infection",
+          "lang": "en"
+        },
+        "id": "1091701000000105"
+      }
+    },
+    {
+      "term": "Fear of contracting HIV infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102920009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fear of contracting human immunodeficiency virus infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fear of contracting HIV infection",
+          "lang": "en"
+        },
+        "id": "102920009"
+      }
+    },
+    {
+      "term": "At risk of urinary tract infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225956009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of urinary tract infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of urinary tract infection",
+          "lang": "en"
+        },
+        "id": "225956009"
+      }
+    },
+    {
+      "term": "Infection control status (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "424228003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection control status (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection control status",
+          "lang": "en"
+        },
+        "id": "424228003"
+      }
+    },
+    {
+      "term": "Normal susceptibility to infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102464007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal susceptibility to infections (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102464007"
+      }
+    },
+    {
+      "term": "Adequate infection control measures",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704963003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adequate infection control measures (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adequate infection control measures",
+          "lang": "en"
+        },
+        "id": "704963003"
+      }
+    },
+    {
+      "term": "High infection risk sample (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "281269004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "High infection risk sample (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "High infection risk sample",
+          "lang": "en"
+        },
+        "id": "281269004"
+      }
+    },
+    {
+      "term": "At increased risk of cross-infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225943002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of cross-infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of cross-infection",
+          "lang": "en"
+        },
+        "id": "225943002"
+      }
+    },
+    {
+      "term": "Abnormal susceptibility to infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102465008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal susceptibility to infections (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102465008"
+      }
+    },
+    {
+      "term": "Potential for urinary tract infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225956009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of urinary tract infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of urinary tract infection",
+          "lang": "en"
+        },
+        "id": "225956009"
+      }
+    },
+    {
+      "term": "Inadequate infection control measures",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "424133005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inadequate infection control measures (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inadequate infection control measures",
+          "lang": "en"
+        },
+        "id": "424133005"
+      }
+    },
+    {
+      "term": "Increased susceptibility to infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102466009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Increased susceptibility to infections (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Increased susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102466009"
+      }
+    },
+    {
+      "term": "Decreased susceptibility to infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102467000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Decreased susceptibility to infections (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Decreased susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102467000"
+      }
+    },
+    {
+      "term": "Sputum evidence of infection (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275719008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sputum evidence of infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sputum evidence of infection",
+          "lang": "en"
+        },
+        "id": "275719008"
+      }
+    },
+    {
+      "term": "Infertility due to infection (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52937008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infertility due to infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infertility due to infection",
+          "lang": "en"
+        },
+        "id": "52937008"
+      }
+    },
+    {
+      "term": "At high risk of tuberculosis infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "707085002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At high risk of tuberculosis infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At high risk of tuberculosis infection",
+          "lang": "en"
+        },
+        "id": "707085002"
+      }
+    },
+    {
+      "term": "At increased risk for infection of eye",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704360006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for infection of eye (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for infection of eye",
+          "lang": "en"
+        },
+        "id": "704360006"
+      }
+    },
+    {
+      "term": "Complies with infection control regime",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "765581000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Complies with infection control regime (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Complies with infection control regime",
+          "lang": "en"
+        },
+        "id": "765581000000105"
+      }
+    },
+    {
+      "term": "At risk of blood-borne virus infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "838711000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "At risk of blood-borne virus infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At risk of blood-borne virus infection",
+          "lang": "en"
+        },
+        "id": "838711000000107"
+      }
+    },
+    {
+      "term": "Asthma trigger - respiratory infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "201031000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Asthma trigger - respiratory infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Asthma trigger - respiratory infection",
+          "lang": "en"
+        },
+        "id": "201031000000108"
+      }
+    },
+    {
+      "term": "Complies with infection control regimen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704960000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Complies with infection control regimen (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Complies with infection control regimen",
+          "lang": "en"
+        },
+        "id": "704960000"
+      }
+    },
+    {
+      "term": "WHO 2007 HIV infection clinical stage 1",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737378009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "World Health Organization 2007 Human immunodeficiency virus infection clinical stage 1 (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "World Health Organization 2007 Human immunodeficiency virus infection clinical stage 1",
+          "lang": "en"
+        },
+        "id": "737378009"
+      }
+    },
+    {
+      "term": "WHO 2007 HIV infection clinical stage 2",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737379001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "World Health Organization 2007 Human immunodeficiency virus infection clinical stage 2 (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "World Health Organization 2007 Human immunodeficiency virus infection clinical stage 2",
+          "lang": "en"
+        },
+        "id": "737379001"
+      }
+    },
+    {
+      "term": "WHO 2007 HIV infection clinical stage 3",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737380003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "World Health Organization 2007 Human immunodeficiency virus infection clinical stage 3 (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "World Health Organization 2007 Human immunodeficiency virus infection clinical stage 3",
+          "lang": "en"
+        },
+        "id": "737380003"
+      }
+    },
+    {
+      "term": "WHO 2007 HIV infection clinical stage 4",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737381004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "World Health Organization 2007 Human immunodeficiency virus infection clinical stage 4 (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "World Health Organization 2007 Human immunodeficiency virus infection clinical stage 4",
+          "lang": "en"
+        },
+        "id": "737381004"
+      }
+    },
+    {
+      "term": "At risk of UTI (urinary tract infection)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225956009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of urinary tract infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of urinary tract infection",
+          "lang": "en"
+        },
+        "id": "225956009"
+      }
+    },
+    {
+      "term": "Noncompliance: infection control regimen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "423678000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Noncompliance with infection control regimen (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Noncompliance with infection control regimen",
+          "lang": "en"
+        },
+        "id": "423678000"
+      }
+    },
+    {
+      "term": "At increased risk of postnatal infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1854841000000109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "At increased risk of postnatal infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of postnatal infection",
+          "lang": "en"
+        },
+        "id": "1854841000000109"
+      }
+    },
+    {
+      "term": "At risk of sexually transmitted infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "407560009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of sexually transmitted infection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of sexually transmitted infection",
+          "lang": "en"
+        },
+        "id": "407560009"
+      }
+    }
+  ]
+}

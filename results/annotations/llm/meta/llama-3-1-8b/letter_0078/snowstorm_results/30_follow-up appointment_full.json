@@ -1,0 +1,955 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 37,
+      "999000041000000102": 1
+    },
+    "semanticTags": {
+      "procedure": 18,
+      "situation": 1
+    },
+    "language": {
+      "en": 38
+    },
+    "membership": {
+      "1322291000000109": 19,
+      "1127601000000107": 1,
+      "900000000000497000": 1,
+      "733073007": 19,
+      "999004381000000103": 1,
+      "900000000000489007": 4
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    }
+  },
+  "totalElements": 38,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 38,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Follow-up appointment offered",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "896511000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Follow-up appointment offered (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Follow-up appointment offered",
+          "lang": "en"
+        },
+        "id": "896511000000107"
+      }
+    },
+    {
+      "term": "Patient follow-up open appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "91310009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Patient follow-up to return when and if necessary (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Patient follow-up to return when and if necessary",
+          "lang": "en"
+        },
+        "id": "91310009"
+      }
+    },
+    {
+      "term": "In-house urology follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "376701000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house urology follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house urology follow-up appointment",
+          "lang": "en"
+        },
+        "id": "376701000000107"
+      }
+    },
+    {
+      "term": "In-house podiatry follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247221000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house podiatry follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house podiatry follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247221000000101"
+      }
+    },
+    {
+      "term": "In-house chiropody follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247221000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house podiatry follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house podiatry follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247221000000101"
+      }
+    },
+    {
+      "term": "In-house dietetics follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247331000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house dietetics follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house dietetics follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247331000000105"
+      }
+    },
+    {
+      "term": "In-house ultrasound follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247291000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house ultrasound follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house ultrasound follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247291000000103"
+      }
+    },
+    {
+      "term": "In-house psychiatry follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "248971000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house psychiatry follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house psychiatry follow-up appointment",
+          "lang": "en"
+        },
+        "id": "248971000000105"
+      }
+    },
+    {
+      "term": "In-house cardiology follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "206181000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house cardiology follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house cardiology follow-up appointment",
+          "lang": "en"
+        },
+        "id": "206181000000103"
+      }
+    },
+    {
+      "term": "Follow-up appointment offered (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "896511000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Follow-up appointment offered (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Follow-up appointment offered",
+          "lang": "en"
+        },
+        "id": "896511000000107"
+      }
+    },
+    {
+      "term": "In-house counselling follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247191000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house counselling follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house counselling follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247191000000108"
+      }
+    },
+    {
+      "term": "In-house dermatology follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "201851000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house dermatology follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house dermatology follow-up appointment",
+          "lang": "en"
+        },
+        "id": "201851000000107"
+      }
+    },
+    {
+      "term": "In-house orthopaedic follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "206151000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house orthopaedic follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house orthopaedic follow-up appointment",
+          "lang": "en"
+        },
+        "id": "206151000000109"
+      }
+    },
+    {
+      "term": "In-house gynaecology follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "206211000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house gynaecology follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house gynaecology follow-up appointment",
+          "lang": "en"
+        },
+        "id": "206211000000102"
+      }
+    },
+    {
+      "term": "In-house rheumatology follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "376891000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house rheumatology follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house rheumatology follow-up appointment",
+          "lang": "en"
+        },
+        "id": "376891000000108"
+      }
+    },
+    {
+      "term": "In-house ophthalmology follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247251000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house ophthalmology follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house ophthalmology follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247251000000106"
+      }
+    },
+    {
+      "term": "In-house physiotherapy follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247501000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house physiotherapy follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house physiotherapy follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247501000000108"
+      }
+    },
+    {
+      "term": "In-house general surgery follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "791501000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house general surgery follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house general surgery follow-up appointment",
+          "lang": "en"
+        },
+        "id": "791501000000100"
+      }
+    },
+    {
+      "term": "In-house urology follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "376701000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house urology follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house urology follow-up appointment",
+          "lang": "en"
+        },
+        "id": "376701000000107"
+      }
+    },
+    {
+      "term": "In-house podiatry follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247221000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house podiatry follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house podiatry follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247221000000101"
+      }
+    },
+    {
+      "term": "In-house Ear, Nose and Throat follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "201881000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house Ear, Nose and Throat follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house Ear, Nose and Throat follow-up appointment",
+          "lang": "en"
+        },
+        "id": "201881000000101"
+      }
+    },
+    {
+      "term": "In-house dietetics follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247331000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house dietetics follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house dietetics follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247331000000105"
+      }
+    },
+    {
+      "term": "In-house ultrasound follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247291000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house ultrasound follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house ultrasound follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247291000000103"
+      }
+    },
+    {
+      "term": "In-house psychiatry follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "248971000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house psychiatry follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house psychiatry follow-up appointment",
+          "lang": "en"
+        },
+        "id": "248971000000105"
+      }
+    },
+    {
+      "term": "In-house cardiology follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "206181000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house cardiology follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house cardiology follow-up appointment",
+          "lang": "en"
+        },
+        "id": "206181000000103"
+      }
+    },
+    {
+      "term": "In-house genitourinary medicine follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "787781000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house genitourinary medicine follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house genitourinary medicine follow-up appointment",
+          "lang": "en"
+        },
+        "id": "787781000000107"
+      }
+    },
+    {
+      "term": "In-house counselling follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247191000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house counselling follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house counselling follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247191000000108"
+      }
+    },
+    {
+      "term": "In-house dermatology follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "201851000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house dermatology follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house dermatology follow-up appointment",
+          "lang": "en"
+        },
+        "id": "201851000000107"
+      }
+    },
+    {
+      "term": "In-house orthopaedic follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "206151000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house orthopaedic follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house orthopaedic follow-up appointment",
+          "lang": "en"
+        },
+        "id": "206151000000109"
+      }
+    },
+    {
+      "term": "In-house gynaecology follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "206211000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house gynaecology follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house gynaecology follow-up appointment",
+          "lang": "en"
+        },
+        "id": "206211000000102"
+      }
+    },
+    {
+      "term": "In-house diabetic foot screening follow-up appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "870741000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house diabetic foot screening follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house diabetic foot screening follow-up appointment",
+          "lang": "en"
+        },
+        "id": "870741000000109"
+      }
+    },
+    {
+      "term": "In-house rheumatology follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "376891000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house rheumatology follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house rheumatology follow-up appointment",
+          "lang": "en"
+        },
+        "id": "376891000000108"
+      }
+    },
+    {
+      "term": "In-house ophthalmology follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247251000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house ophthalmology follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house ophthalmology follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247251000000106"
+      }
+    },
+    {
+      "term": "In-house physiotherapy follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "247501000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house physiotherapy follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house physiotherapy follow-up appointment",
+          "lang": "en"
+        },
+        "id": "247501000000108"
+      }
+    },
+    {
+      "term": "In-house general surgery follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "791501000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house general surgery follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house general surgery follow-up appointment",
+          "lang": "en"
+        },
+        "id": "791501000000100"
+      }
+    },
+    {
+      "term": "In-house Ear, Nose and Throat follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "201881000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house Ear, Nose and Throat follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house Ear, Nose and Throat follow-up appointment",
+          "lang": "en"
+        },
+        "id": "201881000000101"
+      }
+    },
+    {
+      "term": "In-house genitourinary medicine follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "787781000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house genitourinary medicine follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house genitourinary medicine follow-up appointment",
+          "lang": "en"
+        },
+        "id": "787781000000107"
+      }
+    },
+    {
+      "term": "In-house diabetic foot screening follow-up appointment (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "870741000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house diabetic foot screening follow-up appointment (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house diabetic foot screening follow-up appointment",
+          "lang": "en"
+        },
+        "id": "870741000000109"
+      }
+    }
+  ]
+}

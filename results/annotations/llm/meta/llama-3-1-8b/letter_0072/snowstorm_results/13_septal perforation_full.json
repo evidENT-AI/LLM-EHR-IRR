@@ -1,0 +1,309 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 8
+    },
+    "semanticTags": {
+      "disorder": 2,
+      "procedure": 2
+    },
+    "language": {
+      "en": 8
+    },
+    "membership": {
+      "1322291000000109": 4,
+      "1127601000000107": 2,
+      "900000000000497000": 4,
+      "999002271000000101": 7,
+      "733073007": 4,
+      "1382401000000109": 3
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 8,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 8,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Nasal septal perforation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80142000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation of nasal septum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perforation of nasal septum",
+          "lang": "en"
+        },
+        "id": "80142000"
+      }
+    },
+    {
+      "term": "Repair of nasal septal perforation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63145008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Repair of nasal septal perforation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Repair of nasal septal perforation",
+          "lang": "en"
+        },
+        "id": "63145008"
+      }
+    },
+    {
+      "term": "Traumatic nasal septal perforation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232378007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic nasal septal perforation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic nasal septal perforation",
+          "lang": "en"
+        },
+        "id": "232378007"
+      }
+    },
+    {
+      "term": "Closure of nasal septal perforation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63145008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Repair of nasal septal perforation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Repair of nasal septal perforation",
+          "lang": "en"
+        },
+        "id": "63145008"
+      }
+    },
+    {
+      "term": "Traumatic nasal septal perforation (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232378007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic nasal septal perforation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic nasal septal perforation",
+          "lang": "en"
+        },
+        "id": "232378007"
+      }
+    },
+    {
+      "term": "Endoscopic repair of nasal septal perforation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303715004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic closure of perforation of nasal septum (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic closure of perforation of nasal septum",
+          "lang": "en"
+        },
+        "id": "1303715004"
+      }
+    },
+    {
+      "term": "Repair of nasal septal perforation (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63145008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Repair of nasal septal perforation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Repair of nasal septal perforation",
+          "lang": "en"
+        },
+        "id": "63145008"
+      }
+    },
+    {
+      "term": "ENSPR - endoscopic nasal septal perforation repair",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303715004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic closure of perforation of nasal septum (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic closure of perforation of nasal septum",
+          "lang": "en"
+        },
+        "id": "1303715004"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1254 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2,
+      "999000041000000102": 2,
+      "900000000000207008": 70
+    },
+    "semanticTags": {
+      "procedure": 35
+    },
+    "language": {
+      "en": 74
+    },
+    "membership": {
+      "1322291000000109": 35,
+      "900000000000497000": 34,
+      "991271000000100": 1,
+      "999002961000000103": 1,
+      "733073007": 35,
+      "900000000000489007": 1,
+      "1382401000000109": 66,
+      "999002971000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "991271000000100": {
+      "conceptId": "991271000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care treatments simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care treatments simple reference set",
+        "lang": "en"
+      },
+      "id": "991271000000100"
+    },
+    "999002961000000103": {
+      "conceptId": "999002961000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Podiatric surgery procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Podiatric surgery procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "999002961000000103"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999002971000000105": {
+      "conceptId": "999002971000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Podiatric therapeutic interventions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Podiatric therapeutic interventions simple reference set",
+        "lang": "en"
+      },
+      "id": "999002971000000105"
+    }
+  },
+  "totalElements": 74,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Removal of suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30549001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture",
+          "lang": "en"
+        },
+        "id": "30549001"
+      }
+    },
+    {
+      "term": "Removal of eye suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "315602003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of eye suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of eye suture",
+          "lang": "en"
+        },
+        "id": "315602003"
+      }
+    },
+    {
+      "term": "Removal of oral suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234921007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of oral suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of oral suture",
+          "lang": "en"
+        },
+        "id": "234921007"
+      }
+    },
+    {
+      "term": "Removal of mouth suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234921007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of oral suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of oral suture",
+          "lang": "en"
+        },
+        "id": "234921007"
+      }
+    },
+    {
+      "term": "Removal of drain suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "406143004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of drain suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of drain suture",
+          "lang": "en"
+        },
+        "id": "406143004"
+      }
+    },
+    {
+      "term": "ROS - removal of suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30549001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture",
+          "lang": "en"
+        },
+        "id": "30549001"
+      }
+    },
+    {
+      "term": "Removal of corneal suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172423006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of corneal suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of corneal suture",
+          "lang": "en"
+        },
+        "id": "172423006"
+      }
+    },
+    {
+      "term": "Removal of suture of cheek",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234927006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture of cheek (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture of cheek",
+          "lang": "en"
+        },
+        "id": "234927006"
+      }
+    },
+    {
+      "term": "Removal of Thiersch suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307587009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of Thiersch suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of Thiersch suture",
+          "lang": "en"
+        },
+        "id": "307587009"
+      }
+    },
+    {
+      "term": "Removal of suture from lip",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "426870002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from lip (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from lip",
+          "lang": "en"
+        },
+        "id": "426870002"
+      }
+    },
+    {
+      "term": "Removal of suture of thorax",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39307002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture of thorax (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture of thorax",
+          "lang": "en"
+        },
+        "id": "39307002"
+      }
+    },
+    {
+      "term": "SR - Removal of oral suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234921007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of oral suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of oral suture",
+          "lang": "en"
+        },
+        "id": "234921007"
+      }
+    },
+    {
+      "term": "Removal of suture of tongue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234924004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture of tongue (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture of tongue",
+          "lang": "en"
+        },
+        "id": "234924004"
+      }
+    },
+    {
+      "term": "Removal of suture from skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302415002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from skin (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from skin",
+          "lang": "en"
+        },
+        "id": "302415002"
+      }
+    },
+    {
+      "term": "Removal of suture from neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448381009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from neck",
+          "lang": "en"
+        },
+        "id": "448381009"
+      }
+    },
+    {
+      "term": "Removal of suture from head",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448958000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from head (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from head",
+          "lang": "en"
+        },
+        "id": "448958000"
+      }
+    },
+    {
+      "term": "Removal of alternate sutures",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "241025004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of alternate sutures (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of alternate sutures",
+          "lang": "en"
+        },
+        "id": "241025004"
+      }
+    },
+    {
+      "term": "Removal of suture of gingiva",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234923005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture of gingiva (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture of gingiva",
+          "lang": "en"
+        },
+        "id": "234923005"
+      }
+    },
+    {
+      "term": "Removal of suture from trunk",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "447834001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from trunk (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from trunk",
+          "lang": "en"
+        },
+        "id": "447834001"
+      }
+    },
+    {
+      "term": "Removal of suture from mouth",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "234921007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of oral suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of oral suture",
+          "lang": "en"
+        },
+        "id": "234921007"
+      }
+    },
+    {
+      "term": "Removal of skin sutures/clips",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "184043001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of skin sutures/clips (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of skin sutures/clips",
+          "lang": "en"
+        },
+        "id": "184043001"
+      }
+    },
+    {
+      "term": "Removal of suture from palate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234925003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from palate (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from palate",
+          "lang": "en"
+        },
+        "id": "234925003"
+      }
+    },
+    {
+      "term": "Removal of suture (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30549001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture",
+          "lang": "en"
+        },
+        "id": "30549001"
+      }
+    },
+    {
+      "term": "Removal of loose suture in eye",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "708689007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of loose suture in eye (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of loose suture in eye",
+          "lang": "en"
+        },
+        "id": "708689007"
+      }
+    },
+    {
+      "term": "Removal of conjunctival sutures",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417488009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of conjunctival sutures (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of conjunctival sutures",
+          "lang": "en"
+        },
+        "id": "417488009"
+      }
+    },
+    {
+      "term": "Removal of eye suture (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "315602003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of eye suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of eye suture",
+          "lang": "en"
+        },
+        "id": "315602003"
+      }
+    },
+    {
+      "term": "ROS - Removal of suture from mouth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234921007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of oral suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of oral suture",
+          "lang": "en"
+        },
+        "id": "234921007"
+      }
+    },
+    {
+      "term": "Removal of oral suture (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234921007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of oral suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of oral suture",
+          "lang": "en"
+        },
+        "id": "234921007"
+      }
+    },
+    {
+      "term": "Removal of sutures under anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48973003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of sutures under anesthesia (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of sutures under anesthesia",
+          "lang": "en"
+        },
+        "id": "48973003"
+      }
+    },
+    {
+      "term": "Removal of suture from tooth socket",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234922000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from tooth socket (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from tooth socket",
+          "lang": "en"
+        },
+        "id": "234922000"
+      }
+    },
+    {
+      "term": "Removal of suture of floor of mouth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234926002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture of floor of mouth (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture of floor of mouth",
+          "lang": "en"
+        },
+        "id": "234926002"
+      }
+    },
+    {
+      "term": "Removal of drain suture (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "406143004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of drain suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of drain suture",
+          "lang": "en"
+        },
+        "id": "406143004"
+      }
+    },
+    {
+      "term": "Removal of sutures under anaesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48973003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of sutures under anesthesia (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of sutures under anesthesia",
+          "lang": "en"
+        },
+        "id": "48973003"
+      }
+    },
+    {
+      "term": "Removal of suture from abdominal wall",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "76687004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from abdominal wall (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from abdominal wall",
+          "lang": "en"
+        },
+        "id": "76687004"
+      }
+    },
+    {
+      "term": "Removal of corneal suture (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172423006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of corneal suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of corneal suture",
+          "lang": "en"
+        },
+        "id": "172423006"
+      }
+    },
+    {
+      "term": "Removal of suture of cheek (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234927006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture of cheek (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture of cheek",
+          "lang": "en"
+        },
+        "id": "234927006"
+      }
+    },
+    {
+      "term": "Removal of Thiersch suture (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307587009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of Thiersch suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of Thiersch suture",
+          "lang": "en"
+        },
+        "id": "307587009"
+      }
+    },
+    {
+      "term": "Removal of suture from lip (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "426870002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from lip (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from lip",
+          "lang": "en"
+        },
+        "id": "426870002"
+      }
+    },
+    {
+      "term": "Removal of Shirodkar suture from cervix",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "259863001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of Shirodkar cerclage from cervix (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of Shirodkar cerclage from cervix",
+          "lang": "en"
+        },
+        "id": "259863001"
+      }
+    },
+    {
+      "term": "Removal of suture of tongue (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234924004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture of tongue (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture of tongue",
+          "lang": "en"
+        },
+        "id": "234924004"
+      }
+    },
+    {
+      "term": "Removal of suture of thorax (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39307002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture of thorax (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture of thorax",
+          "lang": "en"
+        },
+        "id": "39307002"
+      }
+    },
+    {
+      "term": "Removal of suture from skin (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302415002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from skin (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from skin",
+          "lang": "en"
+        },
+        "id": "302415002"
+      }
+    },
+    {
+      "term": "Removal of suture from neck (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448381009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from neck (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from neck",
+          "lang": "en"
+        },
+        "id": "448381009"
+      }
+    },
+    {
+      "term": "Removal of suture from head (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448958000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from head (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from head",
+          "lang": "en"
+        },
+        "id": "448958000"
+      }
+    },
+    {
+      "term": "Removal of surgical material and sutures",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "315603008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of surgical material and sutures (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of surgical material and sutures",
+          "lang": "en"
+        },
+        "id": "315603008"
+      }
+    },
+    {
+      "term": "Removal of protective suture from eyelid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172269008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of protective suture from eyelid (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of protective suture from eyelid",
+          "lang": "en"
+        },
+        "id": "172269008"
+      }
+    },
+    {
+      "term": "Removal of suture of gingiva (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234923005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture of gingiva (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture of gingiva",
+          "lang": "en"
+        },
+        "id": "234923005"
+      }
+    },
+    {
+      "term": "Removal of alternate sutures (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "241025004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of alternate sutures (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of alternate sutures",
+          "lang": "en"
+        },
+        "id": "241025004"
+      }
+    },
+    {
+      "term": "Removal of suture from trunk (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "447834001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from trunk (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from trunk",
+          "lang": "en"
+        },
+        "id": "447834001"
+      }
+    },
+    {
+      "term": "Removal of suture from palate (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234925003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of suture from palate (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of suture from palate",
+          "lang": "en"
+        },
+        "id": "234925003"
+      }
+    }
+  ]
+}
