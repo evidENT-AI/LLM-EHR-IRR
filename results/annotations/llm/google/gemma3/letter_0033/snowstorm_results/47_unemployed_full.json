@@ -1,0 +1,558 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 15
+    },
+    "semanticTags": {
+      "person": 1,
+      "finding": 3,
+      "situation": 4,
+      "qualifier value": 1
+    },
+    "language": {
+      "en": 19
+    },
+    "membership": {
+      "1322291000000109": 8,
+      "1127601000000107": 7,
+      "900000000000497000": 7,
+      "733073007": 9,
+      "999002271000000101": 7,
+      "900000000000489007": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 19,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 19,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Unemployed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73438004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unemployed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unemployed",
+          "lang": "en"
+        },
+        "id": "73438004"
+      }
+    },
+    {
+      "term": "UE - Unemployed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73438004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unemployed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unemployed",
+          "lang": "en"
+        },
+        "id": "73438004"
+      }
+    },
+    {
+      "term": "U/E - Unemployed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73438004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unemployed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unemployed",
+          "lang": "en"
+        },
+        "id": "73438004"
+      }
+    },
+    {
+      "term": "Parent unemployed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "281577004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Parent unemployed (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Parent unemployed",
+          "lang": "en"
+        },
+        "id": "281577004"
+      }
+    },
+    {
+      "term": "Unemployed father",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "281662004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unemployed father (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unemployed father",
+          "lang": "en"
+        },
+        "id": "281662004"
+      }
+    },
+    {
+      "term": "Unemployed mother",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "281663009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unemployed mother (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unemployed mother",
+          "lang": "en"
+        },
+        "id": "281663009"
+      }
+    },
+    {
+      "term": "Unemployed person",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "719401000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Unemployed person (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unemployed person",
+          "lang": "en"
+        },
+        "id": "719401000000102"
+      }
+    },
+    {
+      "term": "Unemployed person",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "354581000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Unemployed person (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unemployed person",
+          "lang": "en"
+        },
+        "id": "354581000000101"
+      }
+    },
+    {
+      "term": "Partner unemployed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160875000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partner unemployed (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partner unemployed",
+          "lang": "en"
+        },
+        "id": "160875000"
+      }
+    },
+    {
+      "term": "Recently unemployed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160899000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recently unemployed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recently unemployed",
+          "lang": "en"
+        },
+        "id": "160899000"
+      }
+    },
+    {
+      "term": "Unemployed (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73438004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unemployed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unemployed",
+          "lang": "en"
+        },
+        "id": "73438004"
+      }
+    },
+    {
+      "term": "Unemployed person (person)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "354581000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Unemployed person (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unemployed person",
+          "lang": "en"
+        },
+        "id": "354581000000101"
+      }
+    },
+    {
+      "term": "Recently unemployed (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160899000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recently unemployed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recently unemployed",
+          "lang": "en"
+        },
+        "id": "160899000"
+      }
+    },
+    {
+      "term": "Parent unemployed (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "281577004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Parent unemployed (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Parent unemployed",
+          "lang": "en"
+        },
+        "id": "281577004"
+      }
+    },
+    {
+      "term": "Unemployed father (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "281662004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unemployed father (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unemployed father",
+          "lang": "en"
+        },
+        "id": "281662004"
+      }
+    },
+    {
+      "term": "Unemployed mother (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "281663009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unemployed mother (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unemployed mother",
+          "lang": "en"
+        },
+        "id": "281663009"
+      }
+    },
+    {
+      "term": "Partner unemployed (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160875000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Partner unemployed (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Partner unemployed",
+          "lang": "en"
+        },
+        "id": "160875000"
+      }
+    },
+    {
+      "term": "Unemployed person (qualifier value)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "719401000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Unemployed person (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unemployed person",
+          "lang": "en"
+        },
+        "id": "719401000000102"
+      }
+    },
+    {
+      "term": "A status of being neither employed nor unemployed for example students, the retired, carers and also those who are not in work or seeking work.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "741062008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Not in labor force (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Not in labor force",
+          "lang": "en"
+        },
+        "id": "741062008"
+      }
+    }
+  ]
+}

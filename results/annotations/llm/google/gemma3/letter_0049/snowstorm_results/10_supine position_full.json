@@ -1,0 +1,568 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2,
+      "900000000000207008": 16
+    },
+    "semanticTags": {
+      "disorder": 1,
+      "procedure": 3,
+      "finding": 4
+    },
+    "language": {
+      "en": 18
+    },
+    "membership": {
+      "1322291000000109": 8,
+      "1127601000000107": 5,
+      "1382531000000102": 1,
+      "900000000000497000": 7,
+      "733073007": 8,
+      "999002271000000101": 2,
+      "900000000000489007": 1,
+      "999002521000000103": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999002521000000103": {
+      "conceptId": "999002521000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pain easing factors simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pain easing factors simple reference set",
+        "lang": "en"
+      },
+      "id": "999002521000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 18,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 18,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Supine position",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40199007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supine body position (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supine body position",
+          "lang": "en"
+        },
+        "id": "40199007"
+      }
+    },
+    {
+      "term": "Supine positioning",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1230176002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Positioning subject in supine position (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Positioning subject in supine position",
+          "lang": "en"
+        },
+        "id": "1230176002"
+      }
+    },
+    {
+      "term": "Supine body position",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40199007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supine body position (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supine body position",
+          "lang": "en"
+        },
+        "id": "40199007"
+      }
+    },
+    {
+      "term": "Placing in supine position",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "859421000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Placing in supine position (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Placing in supine position",
+          "lang": "en"
+        },
+        "id": "859421000000104"
+      }
+    },
+    {
+      "term": "Supine body position (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40199007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supine body position (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supine body position",
+          "lang": "en"
+        },
+        "id": "40199007"
+      }
+    },
+    {
+      "term": "Pain relief by supine position",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428643002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pain relief by supine position (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pain relief by supine position",
+          "lang": "en"
+        },
+        "id": "428643002"
+      }
+    },
+    {
+      "term": "Positioning subject in supine position",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1230176002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Positioning subject in supine position (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Positioning subject in supine position",
+          "lang": "en"
+        },
+        "id": "1230176002"
+      }
+    },
+    {
+      "term": "Placing in supine position (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "859421000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Placing in supine position (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Placing in supine position",
+          "lang": "en"
+        },
+        "id": "859421000000104"
+      }
+    },
+    {
+      "term": "Pain relief by supine position (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428643002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pain relief by supine position (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pain relief by supine position",
+          "lang": "en"
+        },
+        "id": "428643002"
+      }
+    },
+    {
+      "term": "Patient in supine position with hip support",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "397888006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Patient in supine position with hip support (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Patient in supine position with hip support",
+          "lang": "en"
+        },
+        "id": "397888006"
+      }
+    },
+    {
+      "term": "Supine body position for tube feeding of patient",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1172962004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supine body position for tube feeding of patient (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supine body position for tube feeding of patient",
+          "lang": "en"
+        },
+        "id": "1172962004"
+      }
+    },
+    {
+      "term": "Positioning subject in supine position (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1230176002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Positioning subject in supine position (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Positioning subject in supine position",
+          "lang": "en"
+        },
+        "id": "1230176002"
+      }
+    },
+    {
+      "term": "Patient in supine position with hip support (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "397888006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Patient in supine position with hip support (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Patient in supine position with hip support",
+          "lang": "en"
+        },
+        "id": "397888006"
+      }
+    },
+    {
+      "term": "Supine body position for enteral nutrition administration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1172962004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supine body position for tube feeding of patient (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supine body position for tube feeding of patient",
+          "lang": "en"
+        },
+        "id": "1172962004"
+      }
+    },
+    {
+      "term": "Supine body position for tube feeding of patient (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1172962004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supine body position for tube feeding of patient (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supine body position for tube feeding of patient",
+          "lang": "en"
+        },
+        "id": "1172962004"
+      }
+    },
+    {
+      "term": "The patient is placed in a supine position with the affected upper limb overhead and elbow flexed at 40 degrees. Anteroposterior force is applied to the radius and ulna with the forearm in external rotation. The test is considered positive if apprehension occurs.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1231598005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Posterolateral rotatory drawer test of elbow (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Posterolateral rotatory drawer test of elbow",
+          "lang": "en"
+        },
+        "id": "1231598005"
+      }
+    },
+    {
+      "term": "A rare genetic primary orthostatic disorder with characteristics of dizziness, palpitations, fatigue, blurred vision and tachycardia following postural change from a supine to an upright position in the absence of hypotension. Syncope with transient cognitive impairment and dyspnea may also occur. The norepinephrine transporter deficiency leads to abnormal uptake and high plasma concentrations of norepinephrine.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1217211002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postural orthostatic tachycardia syndrome due to norepinephrine transporter deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postural orthostatic tachycardia syndrome due to norepinephrine transporter deficiency",
+          "lang": "en"
+        },
+        "id": "1217211002"
+      }
+    },
+    {
+      "term": "A rare genetic primary orthostatic disorder with characteristics of dizziness, palpitations, fatigue, blurred vision and tachycardia following postural change from a supine to an upright position in the absence of hypotension. Syncope with transient cognitive impairment and dyspnoea may also occur. The norepinephrine transporter deficiency leads to abnormal uptake and high plasma concentrations of norepinephrine.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1217211002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postural orthostatic tachycardia syndrome due to norepinephrine transporter deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postural orthostatic tachycardia syndrome due to norepinephrine transporter deficiency",
+          "lang": "en"
+        },
+        "id": "1217211002"
+      }
+    }
+  ]
+}

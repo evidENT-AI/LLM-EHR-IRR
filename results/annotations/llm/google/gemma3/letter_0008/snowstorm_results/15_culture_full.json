@@ -1,0 +1,1206 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 465,
+      "900000000000207008": 10
+    },
+    "semanticTags": {
+      "observable entity": 235
+    },
+    "language": {
+      "en": 475
+    },
+    "membership": {
+      "1322291000000109": 235,
+      "1853551000000106": 206,
+      "900000000000497000": 3,
+      "733073007": 235,
+      "999004381000000103": 1,
+      "999002881000000100": 26
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1853551000000106": {
+      "conceptId": "1853551000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set",
+        "lang": "en"
+      },
+      "id": "1853551000000106"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    }
+  },
+  "last": false,
+  "totalElements": 475,
+  "totalPages": 10,
+  "first": true,
+  "numberOfElements": 50,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Blood culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1009211000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Blood culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood culture",
+          "lang": "en"
+        },
+        "id": "1009211000000104"
+      }
+    },
+    {
+      "term": "Stool culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1006101000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Stool culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stool culture",
+          "lang": "en"
+        },
+        "id": "1006101000000104"
+      }
+    },
+    {
+      "term": "Urine culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1023711000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Urine culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine culture",
+          "lang": "en"
+        },
+        "id": "1023711000000100"
+      }
+    },
+    {
+      "term": "Sample culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1010421000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Sample culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sample culture",
+          "lang": "en"
+        },
+        "id": "1010421000000103"
+      }
+    },
+    {
+      "term": "Faeces culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1006101000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Stool culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stool culture",
+          "lang": "en"
+        },
+        "id": "1006101000000104"
+      }
+    },
+    {
+      "term": "Aerobic culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1009761000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Aerobic culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aerobic culture",
+          "lang": "en"
+        },
+        "id": "1009761000000105"
+      }
+    },
+    {
+      "term": "Anaerobic culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1014951000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Anaerobic culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anaerobic culture",
+          "lang": "en"
+        },
+        "id": "1014951000000105"
+      }
+    },
+    {
+      "term": "Culture for fungi",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1020441000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Culture for fungi (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Culture for fungi",
+          "lang": "en"
+        },
+        "id": "1020441000000102"
+      }
+    },
+    {
+      "term": "Mycoplasma culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1021121000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Mycoplasma culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mycoplasma culture",
+          "lang": "en"
+        },
+        "id": "1021121000000108"
+      }
+    },
+    {
+      "term": "Culture for viruses",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1014961000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Culture for viruses (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Culture for viruses",
+          "lang": "en"
+        },
+        "id": "1014961000000108"
+      }
+    },
+    {
+      "term": "Penile swab culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1048961000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Penile swab culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penile swab culture",
+          "lang": "en"
+        },
+        "id": "1048961000000109"
+      }
+    },
+    {
+      "term": "Mycobacteria culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1020851000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Mycobacteria culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mycobacteria culture",
+          "lang": "en"
+        },
+        "id": "1020851000000102"
+      }
+    },
+    {
+      "term": "Low vaginal swab culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1011051000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Low vaginal swab culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Low vaginal swab culture",
+          "lang": "en"
+        },
+        "id": "1011051000000108"
+      }
+    },
+    {
+      "term": "High vaginal swab culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1011061000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "High vaginal swab culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "High vaginal swab culture",
+          "lang": "en"
+        },
+        "id": "1011061000000106"
+      }
+    },
+    {
+      "term": "Bacterial culture of sputum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "363891000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Identification of bacteria in sputum by culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Identification of bacteria in sputum by culture",
+          "lang": "en"
+        },
+        "id": "363891000119100"
+      }
+    },
+    {
+      "term": "Neisseria gonorrhoeae culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1011071000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Neisseria gonorrhoeae culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neisseria gonorrhoeae culture",
+          "lang": "en"
+        },
+        "id": "1011071000000104"
+      }
+    },
+    {
+      "term": "Mixed lymphocyte culture response",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "89547009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mixed lymphocyte culture response, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mixed lymphocyte culture response",
+          "lang": "en"
+        },
+        "id": "89547009"
+      }
+    },
+    {
+      "term": "Urine culture (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1023711000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Urine culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine culture",
+          "lang": "en"
+        },
+        "id": "1023711000000100"
+      }
+    },
+    {
+      "term": "Bacterial culture and sensitivity",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1018651000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Bacterial culture and sensitivity (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bacterial culture and sensitivity",
+          "lang": "en"
+        },
+        "id": "1018651000000109"
+      }
+    },
+    {
+      "term": "Blood culture (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1009211000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Blood culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood culture",
+          "lang": "en"
+        },
+        "id": "1009211000000104"
+      }
+    },
+    {
+      "term": "Stool culture (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1006101000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Stool culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stool culture",
+          "lang": "en"
+        },
+        "id": "1006101000000104"
+      }
+    },
+    {
+      "term": "Sample culture (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1010421000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Sample culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sample culture",
+          "lang": "en"
+        },
+        "id": "1010421000000103"
+      }
+    },
+    {
+      "term": "Fasciola culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "42581000237108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Fasciola culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fasciola culture qualitative result",
+          "lang": "en"
+        },
+        "id": "42581000237108"
+      }
+    },
+    {
+      "term": "Reovirus culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "43891000237101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Reovirus culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reovirus culture qualitative result",
+          "lang": "en"
+        },
+        "id": "43891000237101"
+      }
+    },
+    {
+      "term": "Aerobic culture (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1009761000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Aerobic culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aerobic culture",
+          "lang": "en"
+        },
+        "id": "1009761000000105"
+      }
+    },
+    {
+      "term": "Naegleria culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "44121000237108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Naegleria culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Naegleria culture qualitative result",
+          "lang": "en"
+        },
+        "id": "44121000237108"
+      }
+    },
+    {
+      "term": "Sapovirus culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "43981000237108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Sapovirus culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sapovirus culture qualitative result",
+          "lang": "en"
+        },
+        "id": "43981000237108"
+      }
+    },
+    {
+      "term": "Microscopy, culture and sensitivities",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1015411000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Microscopy, culture and sensitivities (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Microscopy, culture and sensitivities",
+          "lang": "en"
+        },
+        "id": "1015411000000100"
+      }
+    },
+    {
+      "term": "Anaerobic culture (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1014951000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Anaerobic culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anaerobic culture",
+          "lang": "en"
+        },
+        "id": "1014951000000105"
+      }
+    },
+    {
+      "term": "Culture for fungi (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1020441000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Culture for fungi (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Culture for fungi",
+          "lang": "en"
+        },
+        "id": "1020441000000102"
+      }
+    },
+    {
+      "term": "Mumps virus culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "42601000237101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Mumps virus culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mumps virus culture qualitative result",
+          "lang": "en"
+        },
+        "id": "42601000237101"
+      }
+    },
+    {
+      "term": "Mycoplasma culture (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1021121000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Mycoplasma culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mycoplasma culture",
+          "lang": "en"
+        },
+        "id": "1021121000000108"
+      }
+    },
+    {
+      "term": "Acanthamoeba culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "43711000237100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Acanthamoeba culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acanthamoeba culture qualitative result",
+          "lang": "en"
+        },
+        "id": "43711000237100"
+      }
+    },
+    {
+      "term": "Culture for viruses (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1014961000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Culture for viruses (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Culture for viruses",
+          "lang": "en"
+        },
+        "id": "1014961000000108"
+      }
+    },
+    {
+      "term": "Penile swab culture (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1048961000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Penile swab culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penile swab culture",
+          "lang": "en"
+        },
+        "id": "1048961000000109"
+      }
+    },
+    {
+      "term": "Strongyloides culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "44461000237106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Strongyloides culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strongyloides culture qualitative result",
+          "lang": "en"
+        },
+        "id": "44461000237106"
+      }
+    },
+    {
+      "term": "Reovirus number concentration by culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "42971000237102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Number concentration of Reovirus by culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reovirus number concentration by culture",
+          "lang": "en"
+        },
+        "id": "42971000237102"
+      }
+    },
+    {
+      "term": "Fasciola number concentration by culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "43321000237108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Number concentration of Fasciola by culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fasciola number concentration by culture",
+          "lang": "en"
+        },
+        "id": "43321000237108"
+      }
+    },
+    {
+      "term": "Mycobacteria culture (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1020851000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Mycobacteria culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mycobacteria culture",
+          "lang": "en"
+        },
+        "id": "1020851000000102"
+      }
+    },
+    {
+      "term": "Vibrio species culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "44541000237109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Vibrio species culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vibrio species culture qualitative result",
+          "lang": "en"
+        },
+        "id": "44541000237109"
+      }
+    },
+    {
+      "term": "Pichia species culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "44591000237101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Pichia species culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pichia species culture qualitative result",
+          "lang": "en"
+        },
+        "id": "44591000237101"
+      }
+    },
+    {
+      "term": "Naegleria number concentration by culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "44251000237109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Number concentration of Naegleria by culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Naegleria number concentration by culture",
+          "lang": "en"
+        },
+        "id": "44251000237109"
+      }
+    },
+    {
+      "term": "Sapovirus number concentration by culture",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "43661000237106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Number concentration of Sapovirus by culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sapovirus number concentration by culture",
+          "lang": "en"
+        },
+        "id": "43661000237106"
+      }
+    },
+    {
+      "term": "Streptococcus B culture of genital system",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "364061000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Presence of Streptococcus agalactiae in genital system by organism specific culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Presence of Streptococcus agalactiae in genital system by organism specific culture",
+          "lang": "en"
+        },
+        "id": "364061000119103"
+      }
+    },
+    {
+      "term": "Candida species culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "42721000237104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Candida species culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Candida species culture qualitative result",
+          "lang": "en"
+        },
+        "id": "42721000237104"
+      }
+    },
+    {
+      "term": "Bacillus cereus culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "44101000237101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Bacillus cereus culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bacillus cereus culture qualitative result",
+          "lang": "en"
+        },
+        "id": "44101000237101"
+      }
+    },
+    {
+      "term": "Human echovirus culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "44651000237106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of human echovirus culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Human echovirus culture qualitative result",
+          "lang": "en"
+        },
+        "id": "44651000237106"
+      }
+    },
+    {
+      "term": "Vibrio cholerae culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "43161000237104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Vibrio cholerae culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vibrio cholerae culture qualitative result",
+          "lang": "en"
+        },
+        "id": "43161000237104"
+      }
+    },
+    {
+      "term": "Yersinia pestis culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "43841000237109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Yersinia pestis culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Yersinia pestis culture qualitative result",
+          "lang": "en"
+        },
+        "id": "43841000237109"
+      }
+    },
+    {
+      "term": "Cytomegalovirus culture qualitative result",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "43011000237102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Qualitative result of Cytomegalovirus culture (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cytomegalovirus culture qualitative result",
+          "lang": "en"
+        },
+        "id": "43011000237102"
+      }
+    }
+  ]
+}

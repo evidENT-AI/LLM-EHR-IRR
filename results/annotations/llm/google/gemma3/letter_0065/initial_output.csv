@@ -1,0 +1,19 @@
+text,context,qualifier,laterality,presence,primary_secondary,experiencer,treatment_stage,snomed_ct
+59-year-old,"a 59-year-old male presents in followup after being evaluated and treated as an in-patient by dr. x for acute supraglottitis with airway obstruction and parapharyngeal cellulitis and peritonsillar cellulitis, admitted on 05/23/2008, discharged on 05/24/2008.",sociodemographics,,,,patient,,
+acute supraglottitis,acute supraglottitis with airway obstruction and parapharyngeal cellulitis and peritonsillar cellulitis.,diagnoses,,confirmed,primary,patient,pre-treatment,198440001
+airway obstruction,acute supraglottitis with airway obstruction and parapharyngeal cellulitis and peritonsillar cellulitis.,signs,,confirmed,primary,patient,pre-treatment,38341006
+parapharyngeal cellulitis,acute supraglottitis with airway obstruction and parapharyngeal cellulitis and peritonsillar cellulitis.,diagnoses,,confirmed,secondary,patient,pre-treatment,23233003
+peritonsillar cellulitis,acute supraglottitis with airway obstruction and parapharyngeal cellulitis and peritonsillar cellulitis.,diagnoses,,confirmed,secondary,patient,pre-treatment,23230008
+fiberoptic laryngoscopy,fiberoptic laryngoscopy identifying about 30% positive muller maneuver.,procedures,,confirmed,primary,patient,post-treatment,70353008
+muller maneuver,fiberoptic laryngoscopy identifying about 30% positive muller maneuver.,test results,,confirmed,primary,patient,post-treatment,
+supraglottic edema,"no supraglottic edema; +2/4 tonsils with small tonsil cyst, mid tonsil, left.",signs,,negated,primary,patient,post-treatment,
+tonsil cyst,"no supraglottic edema; +2/4 tonsils with small tonsil cyst, mid tonsil, left.",signs,left,confirmed,secondary,patient,post-treatment,
+tonsillar cellulitis,resolving acute supraglottic edema secondary to pharyngitis and tonsillar cellulitis.,diagnoses,,resolved,secondary,patient,post-treatment,23229005
+obstructive sleep apnea,"possible obstructive sleep apnea; however, the patient describes no known history of this phenomenon.",diagnoses,,suspected,secondary,patient,post-treatment,18350005
+hypercholesterolemia,"possible obstructive sleep apnea; however, the patient describes no known history of this phenomenon.   3. hypercholesterolemia.",diagnoses,,confirmed,secondary,patient,post-treatment,59621001
+history of anxiety,"possible obstructive sleep apnea; however, the patient describes no known history of this phenomenon.   3. hypercholesterolemia.   4. history of anxiety.",risk factors,,confirmed,secondary,patient,post-treatment,68362002
+history of coronary artery disease,"possible obstructive sleep apnea; however, the patient describes no known history of this phenomenon.   3. hypercholesterolemia.   4. history of anxiety.   5. history of coronary artery disease.",risk factors,,confirmed,secondary,patient,post-treatment,58374002
+hypertension,"possible obstructive sleep apnea; however, the patient describes no known history of this phenomenon.   3. hypercholesterolemia.   4. history of anxiety.   5. history of coronary artery disease.   6. hypertension.",diagnoses,,confirmed,secondary,patient,post-treatment,59621000
+augmentin,recommend continuing on augmentin and tapered prednisone as prescribed by dr. x.,treatments,,confirmed,primary,patient,post-treatment,9569701000001100
+prednisone,recommend continuing on augmentin and tapered prednisone as prescribed by dr. x.,treatments,,confirmed,secondary,patient,post-treatment,77330008
+cultures are still pending,cultures are still pending and follow up with dr. x in the next few weeks for re-evaluation.,test results,,suspected,secondary,patient,post-treatment,

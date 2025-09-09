@@ -1,0 +1,1351 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 225
+    },
+    "semanticTags": {
+      "disorder": 133,
+      "finding": 1
+    },
+    "language": {
+      "en": 225
+    },
+    "membership": {
+      "1322291000000109": 134,
+      "999004331000000102": 4,
+      "991411000000109": 1,
+      "1127601000000107": 134,
+      "1382531000000102": 115,
+      "999003161000000108": 6,
+      "2181181000000106": 2,
+      "999001741000000107": 2,
+      "999003091000000101": 1,
+      "999002271000000101": 154,
+      "2222191000000108": 2,
+      "999001061000000106": 2,
+      "900000000000497000": 134,
+      "733073007": 134,
+      "2170881000000102": 2,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999001741000000107": {
+      "conceptId": "999001741000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001741000000107"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "2170881000000102": {
+      "conceptId": "2170881000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric allergy and immunology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric allergy and immunology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2170881000000102"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 225,
+  "totalPages": 5,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Recurrent disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "58184002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent disease",
+          "lang": "en"
+        },
+        "id": "58184002"
+      }
+    },
+    {
+      "term": "Recurrent disease (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "58184002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent disease",
+          "lang": "en"
+        },
+        "id": "58184002"
+      }
+    },
+    {
+      "term": "Recurrent infectious disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "451991000124106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent infectious disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent infectious disease",
+          "lang": "en"
+        },
+        "id": "451991000124106"
+      }
+    },
+    {
+      "term": "Recurrent rheumatic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20005002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent rheumatic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent rheumatic heart disease",
+          "lang": "en"
+        },
+        "id": "20005002"
+      }
+    },
+    {
+      "term": "Recurrent post-transplant renal disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "707148007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent renal disease following transplantation of kidney (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent renal disease following transplantation of kidney",
+          "lang": "en"
+        },
+        "id": "707148007"
+      }
+    },
+    {
+      "term": "Recurrent infectious disease (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "451991000124106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent infectious disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent infectious disease",
+          "lang": "en"
+        },
+        "id": "451991000124106"
+      }
+    },
+    {
+      "term": "Recurrent rheumatic heart disease (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20005002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent rheumatic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent rheumatic heart disease",
+          "lang": "en"
+        },
+        "id": "20005002"
+      }
+    },
+    {
+      "term": "Graft failure due to recurrent recipient disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35006009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Graft failure due to recurrent recipient disease (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Graft failure due to recurrent recipient disease",
+          "lang": "en"
+        },
+        "id": "35006009"
+      }
+    },
+    {
+      "term": "Graft failure due to recurrent recipient disease (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35006009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Graft failure due to recurrent recipient disease (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Graft failure due to recurrent recipient disease",
+          "lang": "en"
+        },
+        "id": "35006009"
+      }
+    },
+    {
+      "term": "Recurrent renal disease following transplantation of kidney",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "707148007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent renal disease following transplantation of kidney (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent renal disease following transplantation of kidney",
+          "lang": "en"
+        },
+        "id": "707148007"
+      }
+    },
+    {
+      "term": "Gingival disease due to recurrent oral herpes simplex infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714746001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gingival disease due to recurrent oral herpes simplex infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gingival disease due to recurrent oral herpes simplex infection",
+          "lang": "en"
+        },
+        "id": "714746001"
+      }
+    },
+    {
+      "term": "Recurrent hematuria co-occurrent and due to dense deposit disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714813000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent hematuria co-occurrent and due to dense deposit disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent hematuria co-occurrent and due to dense deposit disease",
+          "lang": "en"
+        },
+        "id": "714813000"
+      }
+    },
+    {
+      "term": "Recurrent haematuria co-occurrent and due to dense deposit disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714813000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent hematuria co-occurrent and due to dense deposit disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent hematuria co-occurrent and due to dense deposit disease",
+          "lang": "en"
+        },
+        "id": "714813000"
+      }
+    },
+    {
+      "term": "Recurrent renal disease following transplantation of kidney (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "707148007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent renal disease following transplantation of kidney (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent renal disease following transplantation of kidney",
+          "lang": "en"
+        },
+        "id": "707148007"
+      }
+    },
+    {
+      "term": "Inflammatory bowel disease, recurrent sinopulmonary infection syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1186652002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inflammatory bowel disease, recurrent sinopulmonary infection syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inflammatory bowel disease, recurrent sinopulmonary infection syndrome",
+          "lang": "en"
+        },
+        "id": "1186652002"
+      }
+    },
+    {
+      "term": "Gingival disease due to recurrent oral herpes simplex infection (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714746001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gingival disease due to recurrent oral herpes simplex infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gingival disease due to recurrent oral herpes simplex infection",
+          "lang": "en"
+        },
+        "id": "714746001"
+      }
+    },
+    {
+      "term": "Recurrent hematuria co-occurrent and due to dense deposit disease (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714813000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent hematuria co-occurrent and due to dense deposit disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent hematuria co-occurrent and due to dense deposit disease",
+          "lang": "en"
+        },
+        "id": "714813000"
+      }
+    },
+    {
+      "term": "Recurrent hepatitis C virus induced liver disease following liver transplant",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1197150002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent hepatitis C virus induced liver disease following liver transplant (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent hepatitis C virus induced liver disease following liver transplant",
+          "lang": "en"
+        },
+        "id": "1197150002"
+      }
+    },
+    {
+      "term": "Recurrent hepatitis C virus induced liver disease in liver transplant recipient",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1197150002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent hepatitis C virus induced liver disease following liver transplant (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent hepatitis C virus induced liver disease following liver transplant",
+          "lang": "en"
+        },
+        "id": "1197150002"
+      }
+    },
+    {
+      "term": "Inflammatory bowel disease, recurrent sinopulmonary infection syndrome (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1186652002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inflammatory bowel disease, recurrent sinopulmonary infection syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inflammatory bowel disease, recurrent sinopulmonary infection syndrome",
+          "lang": "en"
+        },
+        "id": "1186652002"
+      }
+    },
+    {
+      "term": "Recurrent hepatitis C virus induced liver disease following liver transplant (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1197150002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent hepatitis C virus induced liver disease following liver transplant (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent hepatitis C virus induced liver disease following liver transplant",
+          "lang": "en"
+        },
+        "id": "1197150002"
+      }
+    },
+    {
+      "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "771333006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection syndrome",
+          "lang": "en"
+        },
+        "id": "771333006"
+      }
+    },
+    {
+      "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection syndrome (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "771333006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection syndrome",
+          "lang": "en"
+        },
+        "id": "771333006"
+      }
+    },
+    {
+      "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection, lymphopenia syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1186654001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection, lymphopenia syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection, lymphopenia syndrome",
+          "lang": "en"
+        },
+        "id": "1186654001"
+      }
+    },
+    {
+      "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection, lymphopenia syndrome (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1186654001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection, lymphopenia syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection, lymphopenia syndrome",
+          "lang": "en"
+        },
+        "id": "1186654001"
+      }
+    },
+    {
+      "term": "A decrease in lower leg circumference due to recurrent ulceration and fat necrosis causing loss of subcutaneous tissue in a patient with venous stasis disease.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410016009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lipodermatosclerosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lipodermatosclerosis",
+          "lang": "en"
+        },
+        "id": "410016009"
+      }
+    },
+    {
+      "term": "A rare granulomatous autoinflammatory disease with characteristics of infantile-onset, widespread, chronic, recurrent, progressive, lobular panniculitis associated with panuveitis, arthritis and severe systemic granulomatous inflammation.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773328002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infantile onset panniculitis with uveitis and systemic granulomatosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infantile onset panniculitis with uveitis and systemic granulomatosis",
+          "lang": "en"
+        },
+        "id": "773328002"
+      }
+    },
+    {
+      "term": "A form of congenital disorders of N-linked glycosylation characterized by microcephaly, hepatomegaly, edema of the extremities, intractable seizures and recurrent infections and increased bleeding tendency. The disease is caused by mutations in the gene ALG13 (Xq23).",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "733451007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital disorder of glycosylation type 1s (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital disorder of glycosylation type 1s",
+          "lang": "en"
+        },
+        "id": "733451007"
+      }
+    },
+    {
+      "term": "A form of congenital disorders of N-linked glycosylation characterised by microcephaly, hepatomegaly, oedema of the extremities, intractable seizures and recurrent infections and increased bleeding tendency. The disease is caused by mutations in the gene ALG13 (Xq23).",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "733451007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital disorder of glycosylation type 1s (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital disorder of glycosylation type 1s",
+          "lang": "en"
+        },
+        "id": "733451007"
+      }
+    },
+    {
+      "term": "A rare inflammatory bowel disease with characteristics of early cutaneous photosensitivity manifesting by sun-induced facial erythematous and vesicular lesions and severe recurrent colitis that leads to untreatable diarrhea. There have been no further descriptions in the literature since 1991.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720820000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cutaneous photosensitivity and lethal colitis syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cutaneous photosensitivity and lethal colitis syndrome",
+          "lang": "en"
+        },
+        "id": "720820000"
+      }
+    },
+    {
+      "term": "A rare inflammatory bowel disease with characteristics of early cutaneous photosensitivity manifesting by sun-induced facial erythematous and vesicular lesions and severe recurrent colitis that leads to untreatable diarrhoea. There have been no further descriptions in the literature since 1991.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720820000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cutaneous photosensitivity and lethal colitis syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cutaneous photosensitivity and lethal colitis syndrome",
+          "lang": "en"
+        },
+        "id": "720820000"
+      }
+    },
+    {
+      "term": "A rare form of agammaglobulinemia, a primary immunodeficiency disease, characterized by variable immune dysfunction with frequent and recurrent bacterial infections and/or chronic diarrhea. Caused by homozygous or compound heterozygous mutation in the mu heavy-chain gene (IGHM) on chromosome 14q32.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1297036006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Autosomal recessive agammaglobulinemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Autosomal recessive agammaglobulinemia",
+          "lang": "en"
+        },
+        "id": "1297036006"
+      }
+    },
+    {
+      "term": "A rare form of agammaglobulinaemia, a primary immunodeficiency disease, characterised by variable immune dysfunction with frequent and recurrent bacterial infections and/or chronic diarrhoea. Caused by homozygous or compound heterozygous mutation in the mu heavy-chain gene (IGHM) on chromosome 14q32.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1297036006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Autosomal recessive agammaglobulinemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Autosomal recessive agammaglobulinemia",
+          "lang": "en"
+        },
+        "id": "1297036006"
+      }
+    },
+    {
+      "term": "A rare immune dysregulation disease with immunodeficiency and characteristics of severe, progressive infantile onset inflammatory bowel disease with pancolitis, perianal disease (ulceration, fistulae), recurrent respiratory, genitourinary and cutaneous infections, arthritis and a high risk of B-cell lymphoma.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "771333006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection syndrome",
+          "lang": "en"
+        },
+        "id": "771333006"
+      }
+    },
+    {
+      "term": "A rare intestinal disease characterized by persistent or recurrent symptoms and signs of confirmed celiac disease despite a long-term, strict, gluten-free diet, in the absence of other causes of villous atrophy or malignant complications and with or without presence of increased abnormal intraepithelial lymphocytes.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "770593004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Refractory celiac disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Refractory celiac disease",
+          "lang": "en"
+        },
+        "id": "770593004"
+      }
+    },
+    {
+      "term": "A rare intestinal disease characterised by persistent or recurrent symptoms and signs of confirmed coeliac disease despite a long-term, strict, gluten-free diet, in the absence of other causes of villous atrophy or malignant complications and with or without presence of increased abnormal intraepithelial lymphocytes.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "770593004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Refractory celiac disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Refractory celiac disease",
+          "lang": "en"
+        },
+        "id": "770593004"
+      }
+    },
+    {
+      "term": "A rare hereditary syndromic intellectual disability characterized by cognitive impairment, behavioral and psychiatric problems, recurrent infections, atopic diseases and distinctive facial features in males. Females are clinically asymptomatic or mildly affected presenting mild learning difficulties and facial dysmorphism.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773670004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Distal Xq28 microduplication syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Distal Xq28 microduplication syndrome",
+          "lang": "en"
+        },
+        "id": "773670004"
+      }
+    },
+    {
+      "term": "A rare hereditary syndromic intellectual disability characterised by cognitive impairment, behavioural and psychiatric problems, recurrent infections, atopic diseases and distinctive facial features in males. Females are clinically asymptomatic or mildly affected presenting mild learning difficulties and facial dysmorphism.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773670004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Distal Xq28 microduplication syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Distal Xq28 microduplication syndrome",
+          "lang": "en"
+        },
+        "id": "773670004"
+      }
+    },
+    {
+      "term": "A rare genetic form of primary immunodeficiency with characteristics of growth retardation, early recurrent pulmonary infections leading to bronchiectasis, inflammatory gastrointestinal disease, and other symptoms, such as rash, dermatitis, skin infections. Caused by homozygous mutation in the MALT1 gene on chromosome 18q21.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773488000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Combined immunodeficiency due to mucosa-associated lymphoid tissue lymphoma translocation gene 1 deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Combined immunodeficiency due to MALT1 deficiency",
+          "lang": "en"
+        },
+        "id": "773488000"
+      }
+    },
+    {
+      "term": "A rare genetic hematologic and neurologic disease characterized by chronic Coombs-negative hemolysis. The disease is associated with early-onset relapsing immune-mediated inflammatory axonal or demyelinating sensory-motor peripheral polyneuropathy and isolated or recurrent cerebrovascular events (in anterior or posterior circulation).",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "778027003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary CD59 deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary CD59 deficiency",
+          "lang": "en"
+        },
+        "id": "778027003"
+      }
+    },
+    {
+      "term": "A rare genetic haematologic and neurologic disease characterised by chronic Coombs-negative haemolysis. The disease is associated with early-onset relapsing immune-mediated inflammatory axonal or demyelinating sensory-motor peripheral polyneuropathy and isolated or recurrent cerebrovascular events (in anterior or posterior circulation).",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "778027003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary CD59 deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary CD59 deficiency",
+          "lang": "en"
+        },
+        "id": "778027003"
+      }
+    },
+    {
+      "term": "A rare genetic gastroenterological disease characterized by infantile or childhood onset of severe gastrointestinal inflammation. Patients present with a variable phenotype including fever, diarrhea, failure to thrive, oral ulcers, fistulating perianal disease, strictures, granulomatous colitis, and recurrent bacterial and viral infections.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1300124001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tripartite motif-containing protein 22-related inflammatory bowel disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "TRIM22-related inflammatory bowel disease",
+          "lang": "en"
+        },
+        "id": "1300124001"
+      }
+    },
+    {
+      "term": "A rare genetic gastroenterological disease characterised by infantile or childhood onset of severe gastrointestinal inflammation. Patients present with a variable phenotype including fever, diarrhoea, failure to thrive, oral ulcers, fistulating perianal disease, strictures, granulomatous colitis, and recurrent bacterial and viral infections.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1300124001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tripartite motif-containing protein 22-related inflammatory bowel disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "TRIM22-related inflammatory bowel disease",
+          "lang": "en"
+        },
+        "id": "1300124001"
+      }
+    },
+    {
+      "term": "Benign nocturnal alternating hemiplegia of childhood is a rare neurologic disease characterized by recurrent attacks of nocturnal screaming or crying followed or accompanied by unilateral or sometimes bilateral hemiplegia. Disorder is not associated with neurological or developmental impairments but may be associated with mild behavioral abnormalities.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "771304005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benign nocturnal alternating hemiplegia of childhood (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Benign nocturnal alternating hemiplegia of childhood",
+          "lang": "en"
+        },
+        "id": "771304005"
+      }
+    },
+    {
+      "term": "Benign nocturnal alternating hemiplegia of childhood is a rare neurologic disease characterised by recurrent attacks of nocturnal screaming or crying followed or accompanied by unilateral or sometimes bilateral hemiplegia. Disorder is not associated with neurological or developmental impairments but may be associated with mild behavioural abnormalities.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "771304005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benign nocturnal alternating hemiplegia of childhood (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Benign nocturnal alternating hemiplegia of childhood",
+          "lang": "en"
+        },
+        "id": "771304005"
+      }
+    },
+    {
+      "term": "A rare genetic autoinflammatory syndrome with immune deficiency disease characterised by recurrent and severe flares of generalised pustular psoriasis associated with high fever, asthenia and systemic inflammation due to IL36R antagonist deficiency. Psoriatic nail changes (for example pitting and onychomadesis) and ichthyosis may occasionally be associated.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "784339002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deficiency of interleukin 36 receptor antagonist (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deficiency of interleukin 36 receptor antagonist",
+          "lang": "en"
+        },
+        "id": "784339002"
+      }
+    },
+    {
+      "term": "A rare genetic autoinflammatory syndrome with immune deficiency disease characterized by recurrent and severe flares of generalized pustular psoriasis associated with high fever, asthenia and systemic inflammation due to IL36R antagonist deficiency. Psoriatic nail changes (for example pitting and onychomadesis) and ichthyosis may occasionally be associated.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "784339002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deficiency of interleukin 36 receptor antagonist (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deficiency of interleukin 36 receptor antagonist",
+          "lang": "en"
+        },
+        "id": "784339002"
+      }
+    },
+    {
+      "term": "A rare genetic hematologic and intestinal disease characterized by childhood onset of bleeding tendency with epistaxis, gum bleeding, gastrointestinal bleeding, hematuria and menorrhagia due to impaired platelet aggregation and secretion, as well as recurrent gastrointestinal ulcer. Mildly reduced levels of coagulation factor XI have been reported in addition.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1172901009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cytosolic phospholipase-A2 alpha deficiency associated bleeding disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cytosolic phospholipase-A2 alpha deficiency associated bleeding disorder",
+          "lang": "en"
+        },
+        "id": "1172901009"
+      }
+    },
+    {
+      "term": "Insidious, chronic and recurrent disorder, characterized by small and elevated oval corneal intraepithelial, whitish-gray opacities, extending to the entire anterior surface of the cornea of both eyes. Corneal lesions show a tendency for the central pupillary area distribution with mild or absent conjunctival inflammation and no association to systemic disease.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416069001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thygeson superficial punctate keratitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thygeson superficial punctate keratitis",
+          "lang": "en"
+        },
+        "id": "416069001"
+      }
+    },
+    {
+      "term": "Insidious, chronic and recurrent disorder, characterised by small and elevated oval corneal intraepithelial, whitish-gray opacities, extending to the entire anterior surface of the cornea of both eyes. Corneal lesions show a tendency for the central pupillary area distribution with mild or absent conjunctival inflammation and no association to systemic disease.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416069001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thygeson superficial punctate keratitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thygeson superficial punctate keratitis",
+          "lang": "en"
+        },
+        "id": "416069001"
+      }
+    }
+  ]
+}

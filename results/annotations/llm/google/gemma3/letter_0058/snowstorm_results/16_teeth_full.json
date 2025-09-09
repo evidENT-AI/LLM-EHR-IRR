@@ -1,0 +1,1270 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 169
+    },
+    "semanticTags": {
+      "finding": 77
+    },
+    "language": {
+      "en": 169
+    },
+    "membership": {
+      "1322291000000109": 77,
+      "1127601000000107": 74,
+      "999002571000000104": 3,
+      "1323331000000106": 1,
+      "900000000000497000": 77,
+      "1128991000000109": 5,
+      "999002111000000103": 2,
+      "999002271000000101": 78,
+      "733073007": 77,
+      "999002871000000102": 14,
+      "999002751000000103": 14
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "999002111000000103": {
+      "conceptId": "999002111000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy goals simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy goals simple reference set",
+        "lang": "en"
+      },
+      "id": "999002111000000103"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999002871000000102": {
+      "conceptId": "999002871000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002871000000102"
+    },
+    "999002751000000103": {
+      "conceptId": "999002751000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Activity of daily living related to physical function findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Activity of daily living related to physical function findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002751000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 169,
+  "totalPages": 4,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "O/E - teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "270479002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - teeth examined (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - teeth examined",
+          "lang": "en"
+        },
+        "id": "270479002"
+      }
+    },
+    {
+      "term": "Cleans teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284842009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does clean own teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does clean own teeth",
+          "lang": "en"
+        },
+        "id": "284842009"
+      }
+    },
+    {
+      "term": "Tipped teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1162502008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tipping of teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tipping of teeth",
+          "lang": "en"
+        },
+        "id": "1162502008"
+      }
+    },
+    {
+      "term": "Teeth gnashing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "90207007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Grinding teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Grinding teeth",
+          "lang": "en"
+        },
+        "id": "90207007"
+      }
+    },
+    {
+      "term": "Grinding teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "90207007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Grinding teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Grinding teeth",
+          "lang": "en"
+        },
+        "id": "90207007"
+      }
+    },
+    {
+      "term": "Clenching teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110302009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Clenching teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Clenching teeth",
+          "lang": "en"
+        },
+        "id": "110302009"
+      }
+    },
+    {
+      "term": "Painful teething",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247349000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Painful teething (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Painful teething",
+          "lang": "en"
+        },
+        "id": "247349000"
+      }
+    },
+    {
+      "term": "False teeth lost",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278619004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Denture lost (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Denture lost",
+          "lang": "en"
+        },
+        "id": "278619004"
+      }
+    },
+    {
+      "term": "No natural teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278650002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Edentulous (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Edentulous",
+          "lang": "en"
+        },
+        "id": "278650002"
+      }
+    },
+    {
+      "term": "Does clean teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284842009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does clean own teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does clean own teeth",
+          "lang": "en"
+        },
+        "id": "284842009"
+      }
+    },
+    {
+      "term": "Tipping of teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1162502008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tipping of teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tipping of teeth",
+          "lang": "en"
+        },
+        "id": "1162502008"
+      }
+    },
+    {
+      "term": "Absence of teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1162783002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Absence of teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Absence of teeth",
+          "lang": "en"
+        },
+        "id": "1162783002"
+      }
+    },
+    {
+      "term": "Teething syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8004003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Teething syndrome (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Teething syndrome",
+          "lang": "en"
+        },
+        "id": "8004003"
+      }
+    },
+    {
+      "term": "Grinding of teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "90207007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Grinding teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Grinding teeth",
+          "lang": "en"
+        },
+        "id": "90207007"
+      }
+    },
+    {
+      "term": "False teeth loose",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278631002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Denture loose (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Denture loose",
+          "lang": "en"
+        },
+        "id": "278631002"
+      }
+    },
+    {
+      "term": "O/E - teeth - NAD",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "163151002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - teeth - no abnormality detected (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - teeth - NAD",
+          "lang": "en"
+        },
+        "id": "163151002"
+      }
+    },
+    {
+      "term": "O/E - false teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "163154005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - false teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - false teeth",
+          "lang": "en"
+        },
+        "id": "163154005"
+      }
+    },
+    {
+      "term": "Diastema of teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "734009000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diastema of teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diastema of teeth",
+          "lang": "en"
+        },
+        "id": "734009000"
+      }
+    },
+    {
+      "term": "Clenching of teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110302009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Clenching teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Clenching teeth",
+          "lang": "en"
+        },
+        "id": "110302009"
+      }
+    },
+    {
+      "term": "Broken false teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278616006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fractured denture (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fractured denture",
+          "lang": "en"
+        },
+        "id": "278616006"
+      }
+    },
+    {
+      "term": "False teeth present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278615005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Denture present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Denture present",
+          "lang": "en"
+        },
+        "id": "278615005"
+      }
+    },
+    {
+      "term": "Able to clean teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284840001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to clean own teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to clean own teeth",
+          "lang": "en"
+        },
+        "id": "284840001"
+      }
+    },
+    {
+      "term": "Weak teeth clenching",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "219656000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Weak teeth clenching (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Weak teeth clenching",
+          "lang": "en"
+        },
+        "id": "219656000"
+      }
+    },
+    {
+      "term": "O/E - teeth examined",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "270479002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - teeth examined (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - teeth examined",
+          "lang": "en"
+        },
+        "id": "270479002"
+      }
+    },
+    {
+      "term": "Extracting own teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284695009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulling own teeth out (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulling own teeth out",
+          "lang": "en"
+        },
+        "id": "284695009"
+      }
+    },
+    {
+      "term": "Does clean own teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284842009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does clean own teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does clean own teeth",
+          "lang": "en"
+        },
+        "id": "284842009"
+      }
+    },
+    {
+      "term": "Does not clean teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284843004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not clean own teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not clean own teeth",
+          "lang": "en"
+        },
+        "id": "284843004"
+      }
+    },
+    {
+      "term": "Denture teeth too big",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278636007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Denture teeth too big (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Denture teeth too big",
+          "lang": "en"
+        },
+        "id": "278636007"
+      }
+    },
+    {
+      "term": "Pulling own teeth out",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284695009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulling own teeth out (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulling own teeth out",
+          "lang": "en"
+        },
+        "id": "284695009"
+      }
+    },
+    {
+      "term": "Unable to clean teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284841002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unable to clean own teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unable to clean own teeth",
+          "lang": "en"
+        },
+        "id": "284841002"
+      }
+    },
+    {
+      "term": "Denture teeth too wide",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278635006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Denture teeth too wide (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Denture teeth too wide",
+          "lang": "en"
+        },
+        "id": "278635006"
+      }
+    },
+    {
+      "term": "Denture teeth too dark",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278640003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Denture teeth too dark (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Denture teeth too dark",
+          "lang": "en"
+        },
+        "id": "278640003"
+      }
+    },
+    {
+      "term": "Does clean false teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284848008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does clean own dentures (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does clean own dentures",
+          "lang": "en"
+        },
+        "id": "284848008"
+      }
+    },
+    {
+      "term": "O/E - discolored teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "163156007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - discolored teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - discolored teeth",
+          "lang": "en"
+        },
+        "id": "163156007"
+      }
+    },
+    {
+      "term": "Denture teeth too small",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278637003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Denture teeth too small (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Denture teeth too small",
+          "lang": "en"
+        },
+        "id": "278637003"
+      }
+    },
+    {
+      "term": "Denture teeth too light",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278641004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Denture teeth too light (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Denture teeth too light",
+          "lang": "en"
+        },
+        "id": "278641004"
+      }
+    },
+    {
+      "term": "Able to clean own teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284840001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to clean own teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to clean own teeth",
+          "lang": "en"
+        },
+        "id": "284840001"
+      }
+    },
+    {
+      "term": "O/E - discoloured teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "163156007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - discolored teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - discolored teeth",
+          "lang": "en"
+        },
+        "id": "163156007"
+      }
+    },
+    {
+      "term": "Does not clean own teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284843004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not clean own teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not clean own teeth",
+          "lang": "en"
+        },
+        "id": "284843004"
+      }
+    },
+    {
+      "term": "Abnormal number of teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "335443002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal number of teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal number of teeth",
+          "lang": "en"
+        },
+        "id": "335443002"
+      }
+    },
+    {
+      "term": "Grinding teeth (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "90207007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Grinding teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Grinding teeth",
+          "lang": "en"
+        },
+        "id": "90207007"
+      }
+    },
+    {
+      "term": "Unable to clean own teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284841002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unable to clean own teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unable to clean own teeth",
+          "lang": "en"
+        },
+        "id": "284841002"
+      }
+    },
+    {
+      "term": "Difficulty cleaning teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284844005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Difficulty cleaning own teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Difficulty cleaning own teeth",
+          "lang": "en"
+        },
+        "id": "284844005"
+      }
+    },
+    {
+      "term": "Able to clean false teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284846007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to clean own dentures (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to clean own dentures",
+          "lang": "en"
+        },
+        "id": "284846007"
+      }
+    },
+    {
+      "term": "Clenching teeth (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110302009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Clenching teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Clenching teeth",
+          "lang": "en"
+        },
+        "id": "110302009"
+      }
+    },
+    {
+      "term": "Spacing of anterior teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "734013007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Spacing of anterior teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Spacing of anterior teeth",
+          "lang": "en"
+        },
+        "id": "734013007"
+      }
+    },
+    {
+      "term": "Midline diastema of teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "734027002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Midline diastema of teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Midline diastema of teeth",
+          "lang": "en"
+        },
+        "id": "734027002"
+      }
+    },
+    {
+      "term": "Brush teeth independently",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "470391000124100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Independent brushing of own teeth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Independent brushing of own teeth",
+          "lang": "en"
+        },
+        "id": "470391000124100"
+      }
+    },
+    {
+      "term": "Does not clean false teeth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284849000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not clean own dentures (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not clean own dentures",
+          "lang": "en"
+        },
+        "id": "284849000"
+      }
+    },
+    {
+      "term": "Painful teething (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247349000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Painful teething (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Painful teething",
+          "lang": "en"
+        },
+        "id": "247349000"
+      }
+    }
+  ]
+}

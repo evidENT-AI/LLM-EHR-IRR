@@ -1,0 +1,1366 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 109,
+      "999000041000000102": 4,
+      "900000000000207008": 476
+    },
+    "semanticTags": {
+      "procedure": 271
+    },
+    "language": {
+      "en": 589
+    },
+    "membership": {
+      "1322291000000109": 271,
+      "999004351000000109": 6,
+      "1382531000000102": 1,
+      "991271000000100": 2,
+      "999002271000000101": 3,
+      "900000000000489007": 24,
+      "999002571000000104": 3,
+      "991451000000108": 7,
+      "723560006": 1,
+      "991441000000105": 1,
+      "900000000000497000": 217,
+      "1955851000000101": 5,
+      "733073007": 276,
+      "999001111000000105": 2,
+      "1382401000000109": 263
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004351000000109": {
+      "conceptId": "999004351000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for gender related issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for gender related issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999004351000000109"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "991271000000100": {
+      "conceptId": "991271000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care treatments simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care treatments simple reference set",
+        "lang": "en"
+      },
+      "id": "991271000000100"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "723560006": {
+      "conceptId": "723560006",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "MRCM domain international reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "MRCM domain international reference set",
+        "lang": "en"
+      },
+      "id": "723560006"
+    },
+    "991441000000105": {
+      "conceptId": "991441000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care follow-up procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care follow-up procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991441000000105"
+    },
+    "991451000000108": {
+      "conceptId": "991451000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care referral procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care referral procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991451000000108"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "1955851000000101": {
+      "conceptId": "1955851000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Health Service secondary use data exclusions due to Gender Recognition Act 2004 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS secondary use data exclusions due to Gender Recognition Act 2004 simple reference set",
+        "lang": "en"
+      },
+      "id": "1955851000000101"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001111000000105": {
+      "conceptId": "999001111000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "United Kingdom diagnostic imaging procedure simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "United Kingdom diagnostic imaging procedure simple reference set",
+        "lang": "en"
+      },
+      "id": "999001111000000105"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 589,
+  "totalPages": 12,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387713003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surgical procedure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surgical procedure",
+          "lang": "en"
+        },
+        "id": "387713003"
+      }
+    },
+    {
+      "term": "Top surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "836272003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gender confirmation top surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gender confirmation top surgery",
+          "lang": "en"
+        },
+        "id": "836272003"
+      }
+    },
+    {
+      "term": "Day surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "110468005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ambulatory surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ambulatory surgery",
+          "lang": "en"
+        },
+        "id": "110468005"
+      }
+    },
+    {
+      "term": "Acne surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33834001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acne surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acne surgery",
+          "lang": "en"
+        },
+        "id": "33834001"
+      }
+    },
+    {
+      "term": "Mohs surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418024000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mohs surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mohs surgery",
+          "lang": "en"
+        },
+        "id": "418024000"
+      }
+    },
+    {
+      "term": "Laser surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35631009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laser surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laser surgery",
+          "lang": "en"
+        },
+        "id": "35631009"
+      }
+    },
+    {
+      "term": "Thumb surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14290001000004107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Operation on thumb (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thumb surgery",
+          "lang": "en"
+        },
+        "id": "14290001000004107"
+      }
+    },
+    {
+      "term": "Mohs' surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418024000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mohs surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mohs surgery",
+          "lang": "en"
+        },
+        "id": "418024000"
+      }
+    },
+    {
+      "term": "Fetal surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "386809009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Operation on fetus (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Operation on fetus",
+          "lang": "en"
+        },
+        "id": "386809009"
+      }
+    },
+    {
+      "term": "Bottom surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "836273008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gender confirmation bottom surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gender confirmation bottom surgery",
+          "lang": "en"
+        },
+        "id": "836273008"
+      }
+    },
+    {
+      "term": "Foetal surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "386809009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Operation on fetus (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Operation on fetus",
+          "lang": "en"
+        },
+        "id": "386809009"
+      }
+    },
+    {
+      "term": "Intersex surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "24878005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intersex surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intersex surgery",
+          "lang": "en"
+        },
+        "id": "24878005"
+      }
+    },
+    {
+      "term": "Cataract surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110473004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cataract surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cataract surgery",
+          "lang": "en"
+        },
+        "id": "110473004"
+      }
+    },
+    {
+      "term": "Cosmetic surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56306000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cosmetic surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cosmetic surgery",
+          "lang": "en"
+        },
+        "id": "56306000"
+      }
+    },
+    {
+      "term": "Optional surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274075007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Optional surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Optional surgery",
+          "lang": "en"
+        },
+        "id": "274075007"
+      }
+    },
+    {
+      "term": "Facelift surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77726006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Facial rhytidoplasty (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Facial rhytidoplasty",
+          "lang": "en"
+        },
+        "id": "77726006"
+      }
+    },
+    {
+      "term": "Glaucoma surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "86077009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Operation for glaucoma (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Operation for glaucoma",
+          "lang": "en"
+        },
+        "id": "86077009"
+      }
+    },
+    {
+      "term": "Elective surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274075007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Optional surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Optional surgery",
+          "lang": "en"
+        },
+        "id": "274075007"
+      }
+    },
+    {
+      "term": "Nystagmus surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "231642008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nystagmus surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nystagmus surgery",
+          "lang": "en"
+        },
+        "id": "231642008"
+      }
+    },
+    {
+      "term": "Laser eye surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "608849003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surgical procedure on eye proper using laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surgical procedure on eye proper using laser",
+          "lang": "en"
+        },
+        "id": "608849003"
+      }
+    },
+    {
+      "term": "Bariatric surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430715008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bariatric operative procedure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bariatric operative procedure",
+          "lang": "en"
+        },
+        "id": "430715008"
+      }
+    },
+    {
+      "term": "Open heart surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2598006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Open heart surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Open heart surgery",
+          "lang": "en"
+        },
+        "id": "2598006"
+      }
+    },
+    {
+      "term": "Ambulatory surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110468005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ambulatory surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ambulatory surgery",
+          "lang": "en"
+        },
+        "id": "110468005"
+      }
+    },
+    {
+      "term": "Strabismus surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "41453009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Strabismus surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strabismus surgery",
+          "lang": "en"
+        },
+        "id": "41453009"
+      }
+    },
+    {
+      "term": "Endoscopic surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "264274002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic operation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic operation",
+          "lang": "en"
+        },
+        "id": "264274002"
+      }
+    },
+    {
+      "term": "Antireflux surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "265357009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Antireflux operation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Antireflux operation",
+          "lang": "en"
+        },
+        "id": "265357009"
+      }
+    },
+    {
+      "term": "Refractive surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373391005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Refractive surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Refractive surgery",
+          "lang": "en"
+        },
+        "id": "373391005"
+      }
+    },
+    {
+      "term": "Tommy John surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "439632006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Reconstruction of medial collateral ligament of elbow using tendon graft (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reconstruction of medial collateral ligament of elbow using tendon graft",
+          "lang": "en"
+        },
+        "id": "439632006"
+      }
+    },
+    {
+      "term": "Pre-surgery testing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110467000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pre-surgery testing (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pre-surgery testing",
+          "lang": "en"
+        },
+        "id": "110467000"
+      }
+    },
+    {
+      "term": "Periodontal surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234677007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Periodontal operation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Periodontal operation",
+          "lang": "en"
+        },
+        "id": "234677007"
+      }
+    },
+    {
+      "term": "Anti-reflux surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "265357009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Antireflux operation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Antireflux operation",
+          "lang": "en"
+        },
+        "id": "265357009"
+      }
+    },
+    {
+      "term": "Minor surgery claim",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "12441000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Minor surgery claim (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Minor surgery claim",
+          "lang": "en"
+        },
+        "id": "12441000000108"
+      }
+    },
+    {
+      "term": "Orthognathic surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78807007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Orthognathic operation of mandible (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Orthognathic operation of mandible",
+          "lang": "en"
+        },
+        "id": "78807007"
+      }
+    },
+    {
+      "term": "Pre-surgery evaluation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110466009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pre-surgery evaluation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pre-surgery evaluation",
+          "lang": "en"
+        },
+        "id": "110466009"
+      }
+    },
+    {
+      "term": "Laser surgery of mouth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307277009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laser surgery of mouth (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laser surgery of mouth",
+          "lang": "en"
+        },
+        "id": "307277009"
+      }
+    },
+    {
+      "term": "Coronary artery surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31413008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Operative procedure on coronary artery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Operative procedure on coronary artery",
+          "lang": "en"
+        },
+        "id": "31413008"
+      }
+    },
+    {
+      "term": "Bench surgery procedure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52406004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision and reimplantation of organ for extracorporeal surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision and reimplantation of organ for extracorporeal surgery",
+          "lang": "en"
+        },
+        "id": "52406004"
+      }
+    },
+    {
+      "term": "Surgery care management",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "787301000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Surgery care management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surgery care management",
+          "lang": "en"
+        },
+        "id": "787301000000101"
+      }
+    },
+    {
+      "term": "Surgery on apex of tooth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "265328005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Periapical surgery of tooth (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Periapical surgery of tooth",
+          "lang": "en"
+        },
+        "id": "265328005"
+      }
+    },
+    {
+      "term": "Acne surgery (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33834001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acne surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acne surgery",
+          "lang": "en"
+        },
+        "id": "33834001"
+      }
+    },
+    {
+      "term": "Keratorefractive surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "17179006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Refractive keratoplasty (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Refractive keratoplasty",
+          "lang": "en"
+        },
+        "id": "17179006"
+      }
+    },
+    {
+      "term": "Mohs surgery (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418024000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mohs surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mohs surgery",
+          "lang": "en"
+        },
+        "id": "418024000"
+      }
+    },
+    {
+      "term": "Sex reassignment surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719670005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gender confirmation surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gender confirmation surgery",
+          "lang": "en"
+        },
+        "id": "719670005"
+      }
+    },
+    {
+      "term": "Minor ambulatory surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711580002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Minor ambulatory surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Minor ambulatory surgery",
+          "lang": "en"
+        },
+        "id": "711580002"
+      }
+    },
+    {
+      "term": "Admission to day surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709063003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Admission to same day surgery center (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Admission to same day surgery center",
+          "lang": "en"
+        },
+        "id": "709063003"
+      }
+    },
+    {
+      "term": "Robotic assisted surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711364006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surgery using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robotic assisted surgery",
+          "lang": "en"
+        },
+        "id": "711364006"
+      }
+    },
+    {
+      "term": "Glaucoma implant surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "265291005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insertion of drainage tube into anterior chamber (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insertion of drainage tube into anterior chamber",
+          "lang": "en"
+        },
+        "id": "265291005"
+      }
+    },
+    {
+      "term": "Gender affirming surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719670005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gender confirmation surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gender confirmation surgery",
+          "lang": "en"
+        },
+        "id": "719670005"
+      }
+    },
+    {
+      "term": "In-house general surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "506581000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "In-house general surgery (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "In-house general surgery",
+          "lang": "en"
+        },
+        "id": "506581000000103"
+      }
+    },
+    {
+      "term": "Cardiac surgery procedure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64915003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Operation on heart (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Operation on heart",
+          "lang": "en"
+        },
+        "id": "64915003"
+      }
+    }
+  ]
+}

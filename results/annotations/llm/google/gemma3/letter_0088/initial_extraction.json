@@ -1,0 +1,84 @@
+{
+  "labels": {
+    "Tonsillectomy": {
+      "context": "Tonsillectomy.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "70240008"
+    },
+    "Chronic tonsillitis": {
+      "context": "Postoperative Diagnosis:\nChronic tonsillitis.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "88340006"
+    },
+    "Crowe-Davis mouth gag": {
+      "context": "Under general orotracheal anesthesia, a Crowe-Davis mouth gag was inserted and suspended.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "electrocautery dissection": {
+      "context": "Tonsils were removed by electrocautery dissection and the tonsillar beds were injected with Marcaine 0.25% plain.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Marcaine 0.25% plain": {
+      "context": "Tonsils were removed by electrocautery dissection and the tonsillar beds were injected with Marcaine 0.25% plain.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "catheter": {
+      "context": "A catheter was inserted in the nose and brought out from mouth.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "saline": {
+      "context": "The throat was irrigated with saline.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "no further bleeding": {
+      "context": "There was no further bleeding.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    }
+  }
+}

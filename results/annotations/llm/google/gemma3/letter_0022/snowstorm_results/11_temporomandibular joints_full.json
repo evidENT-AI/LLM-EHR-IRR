@@ -1,0 +1,1256 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 9,
+      "900000000000207008": 55
+    },
+    "semanticTags": {
+      "disorder": 10,
+      "procedure": 6,
+      "finding": 4
+    },
+    "language": {
+      "en": 64
+    },
+    "membership": {
+      "1322291000000109": 20,
+      "1127601000000107": 14,
+      "1382531000000102": 10,
+      "900000000000497000": 17,
+      "733073007": 20,
+      "999002271000000101": 14,
+      "999001111000000105": 4,
+      "900000000000489007": 3,
+      "1382401000000109": 34
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999001111000000105": {
+      "conceptId": "999001111000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "United Kingdom diagnostic imaging procedure simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "United Kingdom diagnostic imaging procedure simple reference set",
+        "lang": "en"
+      },
+      "id": "999001111000000105"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 64,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Pain in both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15639721000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pain in bilateral temporomandibular joints (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral temporomandibular joint pain",
+          "lang": "en"
+        },
+        "id": "15639721000119105"
+      }
+    },
+    {
+      "term": "Pain in bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15639721000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pain in bilateral temporomandibular joints (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral temporomandibular joint pain",
+          "lang": "en"
+        },
+        "id": "15639721000119105"
+      }
+    },
+    {
+      "term": "Arthritis of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15980751000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Arthritis of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral temporomandibular joint arthritis",
+          "lang": "en"
+        },
+        "id": "15980751000119103"
+      }
+    },
+    {
+      "term": "Adhesions of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15727761000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adhesions of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral adhesions of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15727761000119101"
+      }
+    },
+    {
+      "term": "Tenderness of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15883961000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tenderness of bilateral temporomandibular joints (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral tenderness of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15883961000119103"
+      }
+    },
+    {
+      "term": "Derangement of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15979951000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Derangement of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral derangement of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15979951000119100"
+      }
+    },
+    {
+      "term": "Cone beam CT of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1149371000000102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Cone beam computed tomography of bilateral temporomandibular joints (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cone beam CT of bilateral temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "1149371000000102"
+      }
+    },
+    {
+      "term": "Osteoarthritis of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15686081000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Osteoarthritis of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral osteoarthritis of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15686081000119107"
+      }
+    },
+    {
+      "term": "Arthritis of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15980751000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Arthritis of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral temporomandibular joint arthritis",
+          "lang": "en"
+        },
+        "id": "15980751000119103"
+      }
+    },
+    {
+      "term": "Bilateral adhesions of temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15727761000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adhesions of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral adhesions of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15727761000119101"
+      }
+    },
+    {
+      "term": "Adhesions of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15727761000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adhesions of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral adhesions of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15727761000119101"
+      }
+    },
+    {
+      "term": "Tenderness of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15883961000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tenderness of bilateral temporomandibular joints (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral tenderness of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15883961000119103"
+      }
+    },
+    {
+      "term": "Bilateral tenderness of temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15883961000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tenderness of bilateral temporomandibular joints (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral tenderness of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15883961000119103"
+      }
+    },
+    {
+      "term": "Bilateral derangement of temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15979951000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Derangement of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral derangement of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15979951000119100"
+      }
+    },
+    {
+      "term": "Derangement of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15979951000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Derangement of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral derangement of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15979951000119100"
+      }
+    },
+    {
+      "term": "Cone beam CT of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1149371000000102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Cone beam computed tomography of bilateral temporomandibular joints (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cone beam CT of bilateral temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "1149371000000102"
+      }
+    },
+    {
+      "term": "Popping of both temporomandibular joints on opening",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737138006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Popping of bilateral temporomandibular joints on opening (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral popping of temporomandibular joints on opening",
+          "lang": "en"
+        },
+        "id": "737138006"
+      }
+    },
+    {
+      "term": "Sprain of ligament of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16674031000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sprain of ligament of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral jaw sprain",
+          "lang": "en"
+        },
+        "id": "16674031000119105"
+      }
+    },
+    {
+      "term": "Closed dislocation of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16561681000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Closed dislocation of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral closed dislocation of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "16561681000119100"
+      }
+    },
+    {
+      "term": "Pain in bilateral temporomandibular joints (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15639721000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pain in bilateral temporomandibular joints (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral temporomandibular joint pain",
+          "lang": "en"
+        },
+        "id": "15639721000119105"
+      }
+    },
+    {
+      "term": "Bilateral osteoarthritis of temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15686081000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Osteoarthritis of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral osteoarthritis of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15686081000119107"
+      }
+    },
+    {
+      "term": "Osteoarthritis of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15686081000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Osteoarthritis of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral osteoarthritis of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15686081000119107"
+      }
+    },
+    {
+      "term": "CT arthrography of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "866222008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography arthrography of bilateral temporomandibular joints (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CT arthrography of bilateral temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "866222008"
+      }
+    },
+    {
+      "term": "Fluoroscopic arthrogram of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5111000087107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fluoroscopic arthrography of bilateral temporomandibular joints (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fluoroscopic arthrography of bilateral temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "5111000087107"
+      }
+    },
+    {
+      "term": "Bilateral popping of temporomandibular joints on opening",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737138006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Popping of bilateral temporomandibular joints on opening (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral popping of temporomandibular joints on opening",
+          "lang": "en"
+        },
+        "id": "737138006"
+      }
+    },
+    {
+      "term": "Popping of bilateral temporomandibular joints on opening",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737138006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Popping of bilateral temporomandibular joints on opening (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral popping of temporomandibular joints on opening",
+          "lang": "en"
+        },
+        "id": "737138006"
+      }
+    },
+    {
+      "term": "Sprain of ligament of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16674031000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sprain of ligament of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral jaw sprain",
+          "lang": "en"
+        },
+        "id": "16674031000119105"
+      }
+    },
+    {
+      "term": "Bilateral closed dislocation of temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16561681000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Closed dislocation of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral closed dislocation of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "16561681000119100"
+      }
+    },
+    {
+      "term": "Closed dislocation of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16561681000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Closed dislocation of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral closed dislocation of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "16561681000119100"
+      }
+    },
+    {
+      "term": "Articular disc disorder of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15980471000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Articular disc disorder of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral temporomandibular joint articular disc disorder",
+          "lang": "en"
+        },
+        "id": "15980471000119101"
+      }
+    },
+    {
+      "term": "Crepitus of bilateral temporomandibular joints on opening",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737143004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Crepitus of bilateral temporomandibular joints on opening (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral crepitus of temporomandibular joints on opening",
+          "lang": "en"
+        },
+        "id": "737143004"
+      }
+    },
+    {
+      "term": "Bilateral crepitus of temporomandibular joints on opening",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737143004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Crepitus of bilateral temporomandibular joints on opening (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral crepitus of temporomandibular joints on opening",
+          "lang": "en"
+        },
+        "id": "737143004"
+      }
+    },
+    {
+      "term": "Displacement of meniscus of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15979711000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Displacement of meniscus of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral displacement of temporomandibular joint meniscuses",
+          "lang": "en"
+        },
+        "id": "15979711000119104"
+      }
+    },
+    {
+      "term": "Arthritis of bilateral temporomandibular joints (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15980751000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Arthritis of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral temporomandibular joint arthritis",
+          "lang": "en"
+        },
+        "id": "15980751000119103"
+      }
+    },
+    {
+      "term": "Tenderness of bilateral temporomandibular joints (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15883961000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tenderness of bilateral temporomandibular joints (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral tenderness of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15883961000119103"
+      }
+    },
+    {
+      "term": "Dysfunction syndrome pain of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15632531000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bilateral temporomandibular joint pain dysfunction syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral temporomandibular joint pain dysfunction syndrome",
+          "lang": "en"
+        },
+        "id": "15632531000119107"
+      }
+    },
+    {
+      "term": "Adhesions of bilateral temporomandibular joints (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15727761000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adhesions of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral adhesions of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15727761000119101"
+      }
+    },
+    {
+      "term": "Derangement of bilateral temporomandibular joints (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15979951000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Derangement of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral derangement of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15979951000119100"
+      }
+    },
+    {
+      "term": "Articular disc disorder of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15980471000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Articular disc disorder of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral temporomandibular joint articular disc disorder",
+          "lang": "en"
+        },
+        "id": "15980471000119101"
+      }
+    },
+    {
+      "term": "Displacement of meniscus of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15979711000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Displacement of meniscus of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral displacement of temporomandibular joint meniscuses",
+          "lang": "en"
+        },
+        "id": "15979711000119104"
+      }
+    },
+    {
+      "term": "Cone beam CT guided injection of both temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1137531000000104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Injection of bilateral temporomandibular joints using cone beam computed tomography guidance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cone beam CT guided injection of bilateral temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "1137531000000104"
+      }
+    },
+    {
+      "term": "Fluoroscopic arthrography of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5111000087107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fluoroscopic arthrography of bilateral temporomandibular joints (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fluoroscopic arthrography of bilateral temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "5111000087107"
+      }
+    },
+    {
+      "term": "Osteoarthritis of bilateral temporomandibular joints (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15686081000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Osteoarthritis of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral osteoarthritis of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "15686081000119107"
+      }
+    },
+    {
+      "term": "Open traumatic dislocation of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16561481000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Open traumatic dislocation of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Open traumatic bilateral jaw dislocation",
+          "lang": "en"
+        },
+        "id": "16561481000119103"
+      }
+    },
+    {
+      "term": "Popping of bilateral temporomandibular joints on opening (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737138006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Popping of bilateral temporomandibular joints on opening (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral popping of temporomandibular joints on opening",
+          "lang": "en"
+        },
+        "id": "737138006"
+      }
+    },
+    {
+      "term": "Crepitus of bilateral temporomandibular joints on opening (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737143004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Crepitus of bilateral temporomandibular joints on opening (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral crepitus of temporomandibular joints on opening",
+          "lang": "en"
+        },
+        "id": "737143004"
+      }
+    },
+    {
+      "term": "Sprain of ligament of bilateral temporomandibular joints (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16674031000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sprain of ligament of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral jaw sprain",
+          "lang": "en"
+        },
+        "id": "16674031000119105"
+      }
+    },
+    {
+      "term": "Closed dislocation of bilateral temporomandibular joints (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16561681000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Closed dislocation of bilateral temporomandibular joints (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral closed dislocation of temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "16561681000119100"
+      }
+    },
+    {
+      "term": "Cone beam CT guided injection of bilateral temporomandibular joints",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1137531000000104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Injection of bilateral temporomandibular joints using cone beam computed tomography guidance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cone beam CT guided injection of bilateral temporomandibular joints",
+          "lang": "en"
+        },
+        "id": "1137531000000104"
+      }
+    },
+    {
+      "term": "Fluoroscopy guided injection of both TMJ (temporomandibular joints)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1147041000000102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Injection of bilateral temporomandibular joints using fluoroscopic guidance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fluoroscopy guided injection of bilateral TMJ (temporomandibular joints)",
+          "lang": "en"
+        },
+        "id": "1147041000000102"
+      }
+    }
+  ]
+}

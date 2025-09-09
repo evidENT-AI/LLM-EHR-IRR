@@ -1,0 +1,1174 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 81
+    },
+    "semanticTags": {
+      "finding": 30
+    },
+    "language": {
+      "en": 81
+    },
+    "membership": {
+      "1322291000000109": 30,
+      "1127601000000107": 30,
+      "900000000000497000": 30,
+      "999002271000000101": 36,
+      "733073007": 30
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 81,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "EKG hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1155004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Myocardial hypertrophy, determined by electrocardiogram (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "EKG hypertrophy",
+          "lang": "en"
+        },
+        "id": "1155004"
+      }
+    },
+    {
+      "term": "Muscle hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249829006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Muscle hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Muscle hypertrophy",
+          "lang": "en"
+        },
+        "id": "249829006"
+      }
+    },
+    {
+      "term": "Hypertrophy of arm",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298745009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of upper limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of upper limb",
+          "lang": "en"
+        },
+        "id": "298745009"
+      }
+    },
+    {
+      "term": "Hypertrophy of leg",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1268319002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of lower limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of lower limb",
+          "lang": "en"
+        },
+        "id": "1268319002"
+      }
+    },
+    {
+      "term": "Hypertrophy of lower leg",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1268320008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of lower leg (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of lower leg",
+          "lang": "en"
+        },
+        "id": "1268320008"
+      }
+    },
+    {
+      "term": "Atrial hypertrophy by EKG",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82281000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of cardiac atrium, determined by electrocardiogram (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Atrial hypertrophy by EKG",
+          "lang": "en"
+        },
+        "id": "82281000"
+      }
+    },
+    {
+      "term": "Hypertrophy of upper limb",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298745009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of upper limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of upper limb",
+          "lang": "en"
+        },
+        "id": "298745009"
+      }
+    },
+    {
+      "term": "Hypertrophy of lower limb",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1268319002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of lower limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of lower limb",
+          "lang": "en"
+        },
+        "id": "1268319002"
+      }
+    },
+    {
+      "term": "Muscle hypertrophy (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249829006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Muscle hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Muscle hypertrophy",
+          "lang": "en"
+        },
+        "id": "249829006"
+      }
+    },
+    {
+      "term": "Infantile breast hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371096003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infantile breast hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infantile breast hypertrophy",
+          "lang": "en"
+        },
+        "id": "371096003"
+      }
+    },
+    {
+      "term": "Left atrial hypertrophy by EKG",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87469009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of left cardiac atrium, determined by electrocardiogram (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Left atrial hypertrophy by EKG",
+          "lang": "en"
+        },
+        "id": "87469009"
+      }
+    },
+    {
+      "term": "Ventricular hypertrophy by EKG",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "83370008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of cardiac ventricle, determined by electrocardiogram (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ventricular hypertrophy by EKG",
+          "lang": "en"
+        },
+        "id": "83370008"
+      }
+    },
+    {
+      "term": "O/E-muscle hypertrophy present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "163639003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - muscle hypertrophy present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E-muscle hypertrophy present",
+          "lang": "en"
+        },
+        "id": "163639003"
+      }
+    },
+    {
+      "term": "ECG:left ventricle hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164873001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electrocardiographic left ventricle hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "EKG:left ventricle hypertrophy",
+          "lang": "en"
+        },
+        "id": "164873001"
+      }
+    },
+    {
+      "term": "Masticatory muscle hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "699458005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of muscles of mastication (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of muscles of mastication",
+          "lang": "en"
+        },
+        "id": "699458005"
+      }
+    },
+    {
+      "term": "EKG:left ventricle hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164873001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electrocardiographic left ventricle hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "EKG:left ventricle hypertrophy",
+          "lang": "en"
+        },
+        "id": "164873001"
+      }
+    },
+    {
+      "term": "Hypertrophy of lower extremity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1268319002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of lower limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of lower limb",
+          "lang": "en"
+        },
+        "id": "1268319002"
+      }
+    },
+    {
+      "term": "Right atrial hypertrophy by EKG",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77566008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Right atrial hypertrophy by electrocardiogram (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Right atrial hypertrophy by electrocardiogram",
+          "lang": "en"
+        },
+        "id": "77566008"
+      }
+    },
+    {
+      "term": "EKG: right ventricle hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164877000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electrocardiographic right ventricular hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "EKG: right ventricle hypertrophy",
+          "lang": "en"
+        },
+        "id": "164877000"
+      }
+    },
+    {
+      "term": "ECG: right ventricle hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164877000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electrocardiographic right ventricular hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "EKG: right ventricle hypertrophy",
+          "lang": "en"
+        },
+        "id": "164877000"
+      }
+    },
+    {
+      "term": "ECG: Left ventricular hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164873001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electrocardiographic left ventricle hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "EKG:left ventricle hypertrophy",
+          "lang": "en"
+        },
+        "id": "164873001"
+      }
+    },
+    {
+      "term": "Hypertrophy of lower leg (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1268320008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of lower leg (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of lower leg",
+          "lang": "en"
+        },
+        "id": "1268320008"
+      }
+    },
+    {
+      "term": "Left ventricular hypertrophy by EKG",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25488008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Left ventricular hypertrophy by electrocardiogram (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Left ventricular hypertrophy by electrocardiogram",
+          "lang": "en"
+        },
+        "id": "25488008"
+      }
+    },
+    {
+      "term": "Hypertrophy of upper limb (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298745009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of upper limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of upper limb",
+          "lang": "en"
+        },
+        "id": "298745009"
+      }
+    },
+    {
+      "term": "Hypertrophy of lower limb (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1268319002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of lower limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of lower limb",
+          "lang": "en"
+        },
+        "id": "1268319002"
+      }
+    },
+    {
+      "term": "Hypertrophy of muscles of mastication",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "699458005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of muscles of mastication (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of muscles of mastication",
+          "lang": "en"
+        },
+        "id": "699458005"
+      }
+    },
+    {
+      "term": "ECG: RVH - right ventricle hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164877000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electrocardiographic right ventricular hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "EKG: right ventricle hypertrophy",
+          "lang": "en"
+        },
+        "id": "164877000"
+      }
+    },
+    {
+      "term": "Infantile breast hypertrophy (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371096003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infantile breast hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infantile breast hypertrophy",
+          "lang": "en"
+        },
+        "id": "371096003"
+      }
+    },
+    {
+      "term": "On examination - muscle hypertrophy present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "163639003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - muscle hypertrophy present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E-muscle hypertrophy present",
+          "lang": "en"
+        },
+        "id": "163639003"
+      }
+    },
+    {
+      "term": "Nocturia due to benign prostatic hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1711000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nocturia due to benign prostatic hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nocturia due to benign prostatic hypertrophy",
+          "lang": "en"
+        },
+        "id": "1711000119101"
+      }
+    },
+    {
+      "term": "Right atrial hypertrophy by electrocardiogram",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77566008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Right atrial hypertrophy by electrocardiogram (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Right atrial hypertrophy by electrocardiogram",
+          "lang": "en"
+        },
+        "id": "77566008"
+      }
+    },
+    {
+      "term": "Hypertrophy of muscles of mastication (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "699458005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of muscles of mastication (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of muscles of mastication",
+          "lang": "en"
+        },
+        "id": "699458005"
+      }
+    },
+    {
+      "term": "Electrocardiographic left ventricle hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164873001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electrocardiographic left ventricle hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "EKG:left ventricle hypertrophy",
+          "lang": "en"
+        },
+        "id": "164873001"
+      }
+    },
+    {
+      "term": "Apex beat displaced - left ventricle hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274614000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Apex beat displaced - left ventricle hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Apex beat displaced - LVH (left ventricle hypertrophy)",
+          "lang": "en"
+        },
+        "id": "274614000"
+      }
+    },
+    {
+      "term": "Electrocardiogram: no left ventricle hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164874007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electrocardiogram: no left ventricle hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ECG: no LVH",
+          "lang": "en"
+        },
+        "id": "164874007"
+      }
+    },
+    {
+      "term": "Left ventricular hypertrophy by electrocardiogram",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25488008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Left ventricular hypertrophy by electrocardiogram (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Left ventricular hypertrophy by electrocardiogram",
+          "lang": "en"
+        },
+        "id": "25488008"
+      }
+    },
+    {
+      "term": "Apex beat displaced - right ventricle hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274615004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Apex beat displaced - right ventricle hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Apex beat displaced - RVH (right ventricle hypertrophy)",
+          "lang": "en"
+        },
+        "id": "274615004"
+      }
+    },
+    {
+      "term": "Electrocardiogram: no right ventricle hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164878005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electrocardiogram: no right ventricle hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ECG: no RVH",
+          "lang": "en"
+        },
+        "id": "164878005"
+      }
+    },
+    {
+      "term": "Electrocardiographic right ventricular hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164877000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electrocardiographic right ventricular hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "EKG: right ventricle hypertrophy",
+          "lang": "en"
+        },
+        "id": "164877000"
+      }
+    },
+    {
+      "term": "Urinary urgency due to benign prostatic hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "117511000119107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urinary urgency due to benign prostatic hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urinary urgency due to benign prostatic hypertrophy",
+          "lang": "en"
+        },
+        "id": "117511000119107"
+      }
+    },
+    {
+      "term": "Urinary hesitancy due to benign prostatic hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "117501000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urinary hesitancy due to benign prostatic hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urinary hesitancy due to benign prostatic hypertrophy",
+          "lang": "en"
+        },
+        "id": "117501000119109"
+      }
+    },
+    {
+      "term": "Urinary frequency due to benign prostatic hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "117531000119102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urinary frequency due to benign prostatic hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urinary frequency due to benign prostatic hypertrophy",
+          "lang": "en"
+        },
+        "id": "117531000119102"
+      }
+    },
+    {
+      "term": "Urinary retention due to benign prostatic hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "117551000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incomplete emptying of urinary bladder due to benign prostatic hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incomplete emptying of urinary bladder due to benign prostatic hypertrophy",
+          "lang": "en"
+        },
+        "id": "117551000119108"
+      }
+    },
+    {
+      "term": "On examination - muscle hypertrophy present (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "163639003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - muscle hypertrophy present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E-muscle hypertrophy present",
+          "lang": "en"
+        },
+        "id": "163639003"
+      }
+    },
+    {
+      "term": "Nocturia due to benign prostatic hypertrophy (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1711000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nocturia due to benign prostatic hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nocturia due to benign prostatic hypertrophy",
+          "lang": "en"
+        },
+        "id": "1711000119101"
+      }
+    },
+    {
+      "term": "Apex beat displaced - LVH (left ventricle hypertrophy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274614000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Apex beat displaced - left ventricle hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Apex beat displaced - LVH (left ventricle hypertrophy)",
+          "lang": "en"
+        },
+        "id": "274614000"
+      }
+    },
+    {
+      "term": "Myocardial hypertrophy, determined by electrocardiogram",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1155004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Myocardial hypertrophy, determined by electrocardiogram (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "EKG hypertrophy",
+          "lang": "en"
+        },
+        "id": "1155004"
+      }
+    },
+    {
+      "term": "Right atrial hypertrophy by electrocardiogram (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77566008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Right atrial hypertrophy by electrocardiogram (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Right atrial hypertrophy by electrocardiogram",
+          "lang": "en"
+        },
+        "id": "77566008"
+      }
+    },
+    {
+      "term": "Weak urinary stream due to benign prostatic hypertrophy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "117521000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Weak urinary stream due to benign prostatic hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Weak urinary stream due to benign prostatic hypertrophy",
+          "lang": "en"
+        },
+        "id": "117521000119100"
+      }
+    },
+    {
+      "term": "Apex beat displaced - RVH (right ventricle hypertrophy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274615004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Apex beat displaced - right ventricle hypertrophy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Apex beat displaced - RVH (right ventricle hypertrophy)",
+          "lang": "en"
+        },
+        "id": "274615004"
+      }
+    }
+  ]
+}

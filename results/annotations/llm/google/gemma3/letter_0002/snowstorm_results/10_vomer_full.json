@@ -1,0 +1,1354 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 69
+    },
+    "semanticTags": {
+      "disorder": 15,
+      "organism": 1,
+      "substance": 1,
+      "body structure": 10,
+      "procedure": 1
+    },
+    "language": {
+      "en": 69
+    },
+    "membership": {
+      "1322291000000109": 16,
+      "1127601000000107": 14,
+      "1382531000000102": 14,
+      "999003161000000108": 2,
+      "999003201000000100": 1,
+      "999003151000000105": 6,
+      "999002271000000101": 16,
+      "734138000": 5,
+      "723264001": 10,
+      "999003181000000104": 1,
+      "446608001": 6,
+      "999002571000000104": 1,
+      "900000000000497000": 28,
+      "733073007": 28,
+      "1382401000000109": 1,
+      "30931000001101": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "999003151000000105": {
+      "conceptId": "999003151000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen topography values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen topography values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003151000000105"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "734138000": {
+      "conceptId": "734138000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Anatomy structure and entire association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Anatomy structure and entire association reference set",
+        "lang": "en"
+      },
+      "id": "734138000"
+    },
+    "723264001": {
+      "conceptId": "723264001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Lateralizable body structure reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Lateralizable body structure reference set",
+        "lang": "en"
+      },
+      "id": "723264001"
+    },
+    "999003181000000104": {
+      "conceptId": "999003181000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003181000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "446608001": {
+      "conceptId": "446608001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT to ICD-O simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT to ICD-O simple map",
+        "lang": "en"
+      },
+      "id": "446608001"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "last": false,
+  "totalElements": 69,
+  "totalPages": 2,
+  "first": true,
+  "numberOfElements": 50,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87166008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomer bone structure (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomer bone structure",
+          "lang": "en"
+        },
+        "id": "87166008"
+      }
+    },
+    {
+      "term": "Selene vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60736004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Selene vomer (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Selene vomer",
+          "lang": "en"
+        },
+        "id": "60736004"
+      }
+    },
+    {
+      "term": "Entire vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272678009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Entire vomer bone (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Entire vomer bone",
+          "lang": "en"
+        },
+        "id": "272678009"
+      }
+    },
+    {
+      "term": "Vomerine flap",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "262267008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomerine flap (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomerine flap",
+          "lang": "en"
+        },
+        "id": "262267008"
+      }
+    },
+    {
+      "term": "Unossified vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "93127002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lack of ossification of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lack of ossification of vomer",
+          "lang": "en"
+        },
+        "id": "93127002"
+      }
+    },
+    {
+      "term": "Vomeronasal organ",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56969001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomeronasal organ structure (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomeronasal organ structure",
+          "lang": "en"
+        },
+        "id": "56969001"
+      }
+    },
+    {
+      "term": "Neoplasm of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "126549004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neoplasm of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neoplasm of vomer",
+          "lang": "en"
+        },
+        "id": "126549004"
+      }
+    },
+    {
+      "term": "Disorder of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128232000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Disorder of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Disorder of vomer",
+          "lang": "en"
+        },
+        "id": "128232000"
+      }
+    },
+    {
+      "term": "Entire vomer bone",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272678009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Entire vomer bone (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Entire vomer bone",
+          "lang": "en"
+        },
+        "id": "272678009"
+      }
+    },
+    {
+      "term": "Agenesis of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1003520004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Agenesis of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Agenesis of vomer",
+          "lang": "en"
+        },
+        "id": "1003520004"
+      }
+    },
+    {
+      "term": "Vomer bone structure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87166008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomer bone structure (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomer bone structure",
+          "lang": "en"
+        },
+        "id": "87166008"
+      }
+    },
+    {
+      "term": "Vomeronasal cartilage",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50329004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of vomeronasal cartilage (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Structure of vomeronasal cartilage",
+          "lang": "en"
+        },
+        "id": "50329004"
+      }
+    },
+    {
+      "term": "Congenital fused vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92883006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital abnormal fusion of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital abnormal fusion of vomer",
+          "lang": "en"
+        },
+        "id": "92883006"
+      }
+    },
+    {
+      "term": "Congenital small vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "93302004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital hypoplasia of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital hypoplasia of vomer",
+          "lang": "en"
+        },
+        "id": "93302004"
+      }
+    },
+    {
+      "term": "Selene vomer (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60736004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Selene vomer (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Selene vomer",
+          "lang": "en"
+        },
+        "id": "60736004"
+      }
+    },
+    {
+      "term": "Benign neoplasm of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92485009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benign neoplasm of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Benign neoplasm of vomer",
+          "lang": "en"
+        },
+        "id": "92485009"
+      }
+    },
+    {
+      "term": "Entire vomeronasal organ",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "361346007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Entire vomeronasal organ (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Entire vomeronasal organ",
+          "lang": "en"
+        },
+        "id": "361346007"
+      }
+    },
+    {
+      "term": "Vomerine flap (substance)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "262267008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomerine flap (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomerine flap",
+          "lang": "en"
+        },
+        "id": "262267008"
+      }
+    },
+    {
+      "term": "Bone tissue of vomer bone",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427621007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bone tissue structure of vomer bone (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bone tissue of vomer bone",
+          "lang": "en"
+        },
+        "id": "427621007"
+      }
+    },
+    {
+      "term": "Congenital misshapen vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92958005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital abnormal shape of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital abnormal shape of vomer",
+          "lang": "en"
+        },
+        "id": "92958005"
+      }
+    },
+    {
+      "term": "Congenital absence of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91920008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital absence of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital absence of vomer",
+          "lang": "en"
+        },
+        "id": "91920008"
+      }
+    },
+    {
+      "term": "Congenital anomaly of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "93028009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital anomaly of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital anomaly of vomer",
+          "lang": "en"
+        },
+        "id": "93028009"
+      }
+    },
+    {
+      "term": "Vomeronasal organ structure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56969001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomeronasal organ structure (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomeronasal organ structure",
+          "lang": "en"
+        },
+        "id": "56969001"
+      }
+    },
+    {
+      "term": "Neoplasm of vomer (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "126549004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neoplasm of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neoplasm of vomer",
+          "lang": "en"
+        },
+        "id": "126549004"
+      }
+    },
+    {
+      "term": "Disorder of vomer (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128232000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Disorder of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Disorder of vomer",
+          "lang": "en"
+        },
+        "id": "128232000"
+      }
+    },
+    {
+      "term": "Entire vomeronasal cartilage",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "368123006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Entire vomeronasal cartilage (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Entire vomeronasal cartilage",
+          "lang": "en"
+        },
+        "id": "368123006"
+      }
+    },
+    {
+      "term": "Agenesis of vomer (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1003520004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Agenesis of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Agenesis of vomer",
+          "lang": "en"
+        },
+        "id": "1003520004"
+      }
+    },
+    {
+      "term": "Lack of ossification of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "93127002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lack of ossification of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lack of ossification of vomer",
+          "lang": "en"
+        },
+        "id": "93127002"
+      }
+    },
+    {
+      "term": "Reduced ossification of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "93611005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incomplete ossification of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incomplete ossification of vomer",
+          "lang": "en"
+        },
+        "id": "93611005"
+      }
+    },
+    {
+      "term": "Congenital hypoplasia of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "93302004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital hypoplasia of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital hypoplasia of vomer",
+          "lang": "en"
+        },
+        "id": "93302004"
+      }
+    },
+    {
+      "term": "Incomplete ossification of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "93611005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incomplete ossification of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incomplete ossification of vomer",
+          "lang": "en"
+        },
+        "id": "93611005"
+      }
+    },
+    {
+      "term": "Entire bone tissue of vomer bone",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "730761000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Entire bone tissue of vomer bone (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Entire bone tissue of vomer bone",
+          "lang": "en"
+        },
+        "id": "730761000"
+      }
+    },
+    {
+      "term": "Entire vomero-premaxillary suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "731575002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Entire vomero-premaxillary suture (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Entire vomero-premaxillary suture",
+          "lang": "en"
+        },
+        "id": "731575002"
+      }
+    },
+    {
+      "term": "Congenital abnormal shape of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92958005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital abnormal shape of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital abnormal shape of vomer",
+          "lang": "en"
+        },
+        "id": "92958005"
+      }
+    },
+    {
+      "term": "Structure of vomeronasal cartilage",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50329004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of vomeronasal cartilage (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Structure of vomeronasal cartilage",
+          "lang": "en"
+        },
+        "id": "50329004"
+      }
+    },
+    {
+      "term": "Entire vomer bone (body structure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272678009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Entire vomer bone (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Entire vomer bone",
+          "lang": "en"
+        },
+        "id": "272678009"
+      }
+    },
+    {
+      "term": "Vomero-premaxillary faciosynostosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "109406005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomero-premaxillary faciosynostosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomero-premaxillary faciosynostosis",
+          "lang": "en"
+        },
+        "id": "109406005"
+      }
+    },
+    {
+      "term": "Congenital abnormal fusion of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92883006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital abnormal fusion of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital abnormal fusion of vomer",
+          "lang": "en"
+        },
+        "id": "92883006"
+      }
+    },
+    {
+      "term": "Benign neoplasm of vomer (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92485009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benign neoplasm of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Benign neoplasm of vomer",
+          "lang": "en"
+        },
+        "id": "92485009"
+      }
+    },
+    {
+      "term": "Primary malignant neoplasm of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "94142007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary malignant neoplasm of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary malignant neoplasm of vomer",
+          "lang": "en"
+        },
+        "id": "94142007"
+      }
+    },
+    {
+      "term": "Bone tissue structure of vomer bone",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427621007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bone tissue structure of vomer bone (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bone tissue of vomer bone",
+          "lang": "en"
+        },
+        "id": "427621007"
+      }
+    },
+    {
+      "term": "Secondary malignant neoplasm of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "94680007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Metastatic malignant neoplasm to vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Metastatic malignant neoplasm to vomer",
+          "lang": "en"
+        },
+        "id": "94680007"
+      }
+    },
+    {
+      "term": "Vomer bone structure (body structure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87166008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomer bone structure (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomer bone structure",
+          "lang": "en"
+        },
+        "id": "87166008"
+      }
+    },
+    {
+      "term": "Metastatic malignant neoplasm to vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "94680007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Metastatic malignant neoplasm to vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Metastatic malignant neoplasm to vomer",
+          "lang": "en"
+        },
+        "id": "94680007"
+      }
+    },
+    {
+      "term": "Congenital absence of vomer (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91920008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital absence of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital absence of vomer",
+          "lang": "en"
+        },
+        "id": "91920008"
+      }
+    },
+    {
+      "term": "Congenital anomaly of vomer (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "93028009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital anomaly of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital anomaly of vomer",
+          "lang": "en"
+        },
+        "id": "93028009"
+      }
+    },
+    {
+      "term": "Metastatic malignant neoplasm of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "94680007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Metastatic malignant neoplasm to vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Metastatic malignant neoplasm to vomer",
+          "lang": "en"
+        },
+        "id": "94680007"
+      }
+    },
+    {
+      "term": "Neoplasm of uncertain behavior of vomer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95182008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neoplasm of uncertain behavior of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neoplasm of uncertain behavior of vomer",
+          "lang": "en"
+        },
+        "id": "95182008"
+      }
+    },
+    {
+      "term": "Structure of vomero-premaxillary suture",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711633004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of vomero-premaxillary suture (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Structure of vomero-premaxillary suture",
+          "lang": "en"
+        },
+        "id": "711633004"
+      }
+    },
+    {
+      "term": "Lack of ossification of vomer (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "93127002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lack of ossification of vomer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lack of ossification of vomer",
+          "lang": "en"
+        },
+        "id": "93127002"
+      }
+    }
+  ]
+}

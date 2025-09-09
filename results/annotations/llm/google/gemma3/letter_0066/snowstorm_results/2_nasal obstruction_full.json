@@ -1,0 +1,763 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 25
+    },
+    "semanticTags": {
+      "disorder": 10,
+      "finding": 2,
+      "situation": 1
+    },
+    "language": {
+      "en": 25
+    },
+    "membership": {
+      "1322291000000109": 13,
+      "999004331000000102": 1,
+      "1127601000000107": 13,
+      "1382531000000102": 7,
+      "999003161000000108": 2,
+      "999003201000000100": 2,
+      "900000000000497000": 13,
+      "999002271000000101": 14,
+      "733073007": 13,
+      "999001761000000108": 2,
+      "2222161000000102": 1,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 25,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 25,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Nasal obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232209000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal obstruction",
+          "lang": "en"
+        },
+        "id": "232209000"
+      }
+    },
+    {
+      "term": "NO - Nasal obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232209000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal obstruction",
+          "lang": "en"
+        },
+        "id": "232209000"
+      }
+    },
+    {
+      "term": "Nasal sinus obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371126007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal sinus obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal sinus obstruction",
+          "lang": "en"
+        },
+        "id": "371126007"
+      }
+    },
+    {
+      "term": "Nasal airway obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232209000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal obstruction",
+          "lang": "en"
+        },
+        "id": "232209000"
+      }
+    },
+    {
+      "term": "Nasal obstruction present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267100006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal obstruction present (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal obstruction present",
+          "lang": "en"
+        },
+        "id": "267100006"
+      }
+    },
+    {
+      "term": "Alternate nasal obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249346001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alternate nasal obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alternate nasal obstruction",
+          "lang": "en"
+        },
+        "id": "249346001"
+      }
+    },
+    {
+      "term": "Nasal obstruction (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232209000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal obstruction",
+          "lang": "en"
+        },
+        "id": "232209000"
+      }
+    },
+    {
+      "term": "Nasal sinus obstruction (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371126007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal sinus obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal sinus obstruction",
+          "lang": "en"
+        },
+        "id": "371126007"
+      }
+    },
+    {
+      "term": "Nasal obstruction present (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267100006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal obstruction present (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal obstruction present",
+          "lang": "en"
+        },
+        "id": "267100006"
+      }
+    },
+    {
+      "term": "Mouth breathing with nasal obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110290008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mouth breathing due to nasal obstruction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mouth breathing with nasal obstruction",
+          "lang": "en"
+        },
+        "id": "110290008"
+      }
+    },
+    {
+      "term": "Alternate nasal obstruction (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249346001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alternate nasal obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alternate nasal obstruction",
+          "lang": "en"
+        },
+        "id": "249346001"
+      }
+    },
+    {
+      "term": "Mouth breathing due to nasal obstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110290008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mouth breathing due to nasal obstruction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mouth breathing with nasal obstruction",
+          "lang": "en"
+        },
+        "id": "110290008"
+      }
+    },
+    {
+      "term": "Mouth breathing due to nasal obstruction (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110290008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mouth breathing due to nasal obstruction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mouth breathing with nasal obstruction",
+          "lang": "en"
+        },
+        "id": "110290008"
+      }
+    },
+    {
+      "term": "Habitual breathing through the mouth, usually associated with obstruction of nasal passages",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77329001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mouth breathing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mouth breathing",
+          "lang": "en"
+        },
+        "id": "77329001"
+      }
+    },
+    {
+      "term": "A rare genetic otorhinolaryngological malformation with characteristics of congenital impatency of the nasolacrimal drainage system in various members of a family. Presentation is not specific and may include a uni or bilateral medial canthal mass, dacryocystitis, nasal obstruction, periorbital cellulitis and epiphora. Dacryocystocele and lacrimal puncta agenesis may be associated.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1230016009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial congenital nasolacrimal duct obstruction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial congenital nasolacrimal duct obstruction",
+          "lang": "en"
+        },
+        "id": "1230016009"
+      }
+    },
+    {
+      "term": "A rare neoplastic disease characterized by the presence of a tumor located in the parotid, sublingual, submandibular and/or minor salivary glands, which presents with a wide spectrum of clinical features depending on the location, size and type of salivary gland involved, usually manifesting as a slow-growing, painless, commonly solitary mass, rarely associated with facial nerve palsy or nasal/airway obstruction.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "783195009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benign epithelial tumor of salivary gland (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Benign epithelial tumor of salivary gland",
+          "lang": "en"
+        },
+        "id": "783195009"
+      }
+    },
+    {
+      "term": "A rare neoplastic disease characterised by the presence of a tumour located in the parotid, sublingual, submandibular and/or minor salivary glands, which presents with a wide spectrum of clinical features depending on the location, size and type of salivary gland involved, usually manifesting as a slow-growing, painless, commonly solitary mass, rarely associated with facial nerve palsy or nasal/airway obstruction.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "783195009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benign epithelial tumor of salivary gland (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Benign epithelial tumor of salivary gland",
+          "lang": "en"
+        },
+        "id": "783195009"
+      }
+    },
+    {
+      "term": "A unilateral or bilateral congenital cyst of the nasolacrimal duct, which is almost always associated with dacryocystocele, presenting most commonly at birth or a few weeks of age (but rarely presenting in adulthood) as a benign, grayish blue mass in the inferomedial canthus or in the nasal cavity, that can cause epiphora, dacryocystitis (inflammation of the lacrimal sac) and nasal obstruction. It is more commonly reported in females.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1230269002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital cyst of nasolacrimal duct (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasolacrimal duct cyst",
+          "lang": "en"
+        },
+        "id": "1230269002"
+      }
+    },
+    {
+      "term": "A unilateral or bilateral congenital cyst of the nasolacrimal duct, which is almost always associated with dacryocystocele, presenting most commonly at birth or a few weeks of age (but rarely presenting in adulthood) as a benign, greyish blue mass in the inferomedial canthus or in the nasal cavity, that can cause epiphora, dacryocystitis (inflammation of the lacrimal sac) and nasal obstruction. It is more commonly reported in females.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1230269002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital cyst of nasolacrimal duct (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasolacrimal duct cyst",
+          "lang": "en"
+        },
+        "id": "1230269002"
+      }
+    },
+    {
+      "term": "A rare and benign but locally aggressive fibrovascular tumor arising from the posterolateral wall of the nasopharynx, which affects mainly young and adolescent males (onset usually occurring between 7-19 years of age) and that presents as a mass in the nasopharynx and nasal cavity, leading to manifestations such as nasal obstruction, epistaxis, profound facial swelling, proptosis or diplopia. Although slowly progressive, it has a high rate of recurrence and sometimes invades adjacent structures.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "716590006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Juvenile angiofibroma of nasopharynx (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Juvenile nasopharyngeal angiofibroma",
+          "lang": "en"
+        },
+        "id": "716590006"
+      }
+    },
+    {
+      "term": "A rare and benign but locally aggressive fibrovascular tumour arising from the posterolateral wall of the nasopharynx, which affects mainly young and adolescent males (onset usually occurring between 7-19 years of age) and that presents as a mass in the nasopharynx and nasal cavity, leading to manifestations such as nasal obstruction, epistaxis, profound facial swelling, proptosis or diplopia. Although slowly progressive, it has a high rate of recurrence and sometimes invades adjacent structures.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "716590006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Juvenile angiofibroma of nasopharynx (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Juvenile nasopharyngeal angiofibroma",
+          "lang": "en"
+        },
+        "id": "716590006"
+      }
+    },
+    {
+      "term": "A rare head and neck tumor characterized by a malignant epithelial neoplasm most commonly arising in the maxillary sinus or nasal cavity, occurring as a keratinizing, a non-keratinizing, or a spindle cell (sarcomatoid) type. Patients may present with nasal obstruction, epistaxis, rhinorrhea, swelling, or (at more advances stages) with facial pain and/or paralysis, diplopia and proptosis. Patients with paranasal sinus tumors present later and at a higher stage than patients with nasal cavity carcinomas. Risk factors are smoking and industrial exposures. High-risk Human papillomavirus is most frequently associated with the non-keratinizing type.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1229871006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary squamous cell carcinoma of nasal cavity and paranasal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary squamous cell carcinoma of nasal cavity and paranasal sinus",
+          "lang": "en"
+        },
+        "id": "1229871006"
+      }
+    },
+    {
+      "term": "A rare head and neck tumour characterised by a malignant epithelial neoplasm most commonly arising in the maxillary sinus or nasal cavity, occurring as a keratinising, a non-keratinising, or a spindle cell (sarcomatoid) type. Patients may present with nasal obstruction, epistaxis, rhinorrhoea, swelling, or (at more advances stages) with facial pain and/or paralysis, diplopia and proptosis. Patients with paranasal sinus tumours present later and at a higher stage than patients with nasal cavity carcinomas. Risk factors are smoking and industrial exposures. High-risk Human papillomavirus is most frequently associated with the non-keratinising type.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1229871006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary squamous cell carcinoma of nasal cavity and paranasal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary squamous cell carcinoma of nasal cavity and paranasal sinus",
+          "lang": "en"
+        },
+        "id": "1229871006"
+      }
+    },
+    {
+      "term": "A rare neoplastic disease with the presence of a neoplasm located in the parotid, sublingual, submandibular and/or minor salivary glands. The disease presents with a wide spectrum of clinical features depending on the location, size and type of salivary gland involved, ranging from clinically asymptomatic, slow-growing, painless mass(es), that may or may not be fixed to underlying skin or muscles, to rapidly growing mass(es) associated with pain, facial weakness/nerve palsy, dysphagia, palatal/parapharyngeal fullness, nasal obstruction/bleeding, voice hoarseness/change, trismus, palate bone erosion, telangiectasia, mucosal/skin ulceration and/or cervical adenopathy.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "783155007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Malignant epithelial neoplasm of salivary gland (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Malignant epithelial neoplasm of salivary gland",
+          "lang": "en"
+        },
+        "id": "783155007"
+      }
+    },
+    {
+      "term": "A rare otorhinolaryngological malformation syndrome with characteristics of a distinctive mask-like facial dysmorphism, lacrimal duct obstruction, extrapyramidal features, digital malformations and intellectual disability. Reported in 3 families to date. The facies has a mask-like appearance due to weakness of facial muscles and lacrimal duct obstruction is characteristic. Clinical features also include telecanthus, bulky nose, broad nasal bridge, sometimes a hypoplastic midface, longitudinal cheek furrows, trapezoidal upper lip and malformation of the ears. Intellectual disability, cutaneous syndactyly, torsion dystonia, increased deep tendon reflexes; Babinski sign, poor coordination and joint laxity are also observed.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "717913006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blepharonasofacial malformation syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blepharonasofacial malformation syndrome",
+          "lang": "en"
+        },
+        "id": "717913006"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1290 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 62
+    },
+    "semanticTags": {
+      "disorder": 15,
+      "person": 14,
+      "morphologic abnormality": 1,
+      "finding": 2,
+      "situation": 4
+    },
+    "language": {
+      "en": 62
+    },
+    "membership": {
+      "1322291000000109": 36,
+      "999004331000000102": 3,
+      "1127601000000107": 21,
+      "1382531000000102": 14,
+      "1027891000000106": 1,
+      "1955841000000104": 1,
+      "900000000000497000": 36,
+      "733073007": 36,
+      "999002271000000101": 23,
+      "999001061000000106": 1,
+      "999003141000000107": 1,
+      "999004371000000100": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "1955841000000104": {
+      "conceptId": "1955841000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Health Service secondary use data exclusions due to Human Fertilisation and Embryology Act 2008 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS secondary use data exclusions due to Human Fertilisation and Embryology Act 2008 simple reference set",
+        "lang": "en"
+      },
+      "id": "1955841000000104"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999004371000000100": {
+      "conceptId": "999004371000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for assisted fertilisation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for assisted fertilisation simple reference set",
+        "lang": "en"
+      },
+      "id": "999004371000000100"
+    },
+    "1027891000000106": {
+      "conceptId": "1027891000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Household composition findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Household composition findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1027891000000106"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 62,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66089001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daughter",
+          "lang": "en"
+        },
+        "id": "66089001"
+      }
+    },
+    {
+      "term": "FH: Daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160454000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history with explicit context pertaining to daughter (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history with explicit context pertaining to daughter",
+          "lang": "en"
+        },
+        "id": "160454000"
+      }
+    },
+    {
+      "term": "Step daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "22573006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stepdaughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stepdaughter",
+          "lang": "en"
+        },
+        "id": "22573006"
+      }
+    },
+    {
+      "term": "Only daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34972000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Only daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Only daughter",
+          "lang": "en"
+        },
+        "id": "34972000"
+      }
+    },
+    {
+      "term": "Daughter cyst",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125292003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daughter cyst (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daughter cyst",
+          "lang": "en"
+        },
+        "id": "125292003"
+      }
+    },
+    {
+      "term": "Legal daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "113159003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Legal daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Legal daughter",
+          "lang": "en"
+        },
+        "id": "113159003"
+      }
+    },
+    {
+      "term": "Grand daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "44181008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granddaughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granddaughter",
+          "lang": "en"
+        },
+        "id": "44181008"
+      }
+    },
+    {
+      "term": "Oldest daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "3425009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oldest daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oldest daughter",
+          "lang": "en"
+        },
+        "id": "3425009"
+      }
+    },
+    {
+      "term": "Foster daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31831004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Foster daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Foster daughter",
+          "lang": "en"
+        },
+        "id": "31831004"
+      }
+    },
+    {
+      "term": "Daughter-in-law",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1258961002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daughter-in-law (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daughter-in-law",
+          "lang": "en"
+        },
+        "id": "1258961002"
+      }
+    },
+    {
+      "term": "Natural daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "83420006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Natural daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Natural daughter",
+          "lang": "en"
+        },
+        "id": "83420006"
+      }
+    },
+    {
+      "term": "Adopted daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "393549001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adopted daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adopted daughter",
+          "lang": "en"
+        },
+        "id": "393549001"
+      }
+    },
+    {
+      "term": "Youngest daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6676009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Youngest daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Youngest daughter",
+          "lang": "en"
+        },
+        "id": "6676009"
+      }
+    },
+    {
+      "term": "FH: Daughter dead",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160457007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daughter deceased (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daughter deceased",
+          "lang": "en"
+        },
+        "id": "160457007"
+      }
+    },
+    {
+      "term": "Daughter (person)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66089001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daughter",
+          "lang": "en"
+        },
+        "id": "66089001"
+      }
+    },
+    {
+      "term": "Daughter deceased",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160457007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daughter deceased (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daughter deceased",
+          "lang": "en"
+        },
+        "id": "160457007"
+      }
+    },
+    {
+      "term": "Surrogate daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "3851003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surrogate daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surrogate daughter",
+          "lang": "en"
+        },
+        "id": "3851003"
+      }
+    },
+    {
+      "term": "Biological daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "83420006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Natural daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Natural daughter",
+          "lang": "en"
+        },
+        "id": "83420006"
+      }
+    },
+    {
+      "term": "Lives with daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224135000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lives with daughter (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lives with daughter",
+          "lang": "en"
+        },
+        "id": "224135000"
+      }
+    },
+    {
+      "term": "Only daughter (person)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34972000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Only daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Only daughter",
+          "lang": "en"
+        },
+        "id": "34972000"
+      }
+    },
+    {
+      "term": "Legal daughter (person)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "113159003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Legal daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Legal daughter",
+          "lang": "en"
+        },
+        "id": "113159003"
+      }
+    },
+    {
+      "term": "Foster daughter (person)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31831004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Foster daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Foster daughter",
+          "lang": "en"
+        },
+        "id": "31831004"
+      }
+    },
+    {
+      "term": "Oldest daughter (person)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "3425009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oldest daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oldest daughter",
+          "lang": "en"
+        },
+        "id": "3425009"
+      }
+    },
+    {
+      "term": "Family history: Daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160454000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history with explicit context pertaining to daughter (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history with explicit context pertaining to daughter",
+          "lang": "en"
+        },
+        "id": "160454000"
+      }
+    },
+    {
+      "term": "Daughter-in-law (person)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1258961002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daughter-in-law (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daughter-in-law",
+          "lang": "en"
+        },
+        "id": "1258961002"
+      }
+    },
+    {
+      "term": "Daughter made appointment",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185410002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daughter made appointment (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daughter made appointment",
+          "lang": "en"
+        },
+        "id": "185410002"
+      }
+    },
+    {
+      "term": "Natural daughter (person)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "83420006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Natural daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Natural daughter",
+          "lang": "en"
+        },
+        "id": "83420006"
+      }
+    },
+    {
+      "term": "Adopted daughter (person)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "393549001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adopted daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adopted daughter",
+          "lang": "en"
+        },
+        "id": "393549001"
+      }
+    },
+    {
+      "term": "Youngest daughter (person)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6676009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Youngest daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Youngest daughter",
+          "lang": "en"
+        },
+        "id": "6676009"
+      }
+    },
+    {
+      "term": "FH: Daughter alive and well",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160455004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Daughter alive and well (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Daughter alive and well",
+          "lang": "en"
+        },
+        "id": "160455004"
+      }
+    },
+    {
+      "term": "Surrogate daughter (person)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "3851003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surrogate daughter (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surrogate daughter",
+          "lang": "en"
+        },
+        "id": "3851003"
+      }
+    },
+    {
+      "term": "Lives with daughter (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224135000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lives with daughter (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lives with daughter",
+          "lang": "en"
+        },
+        "id": "224135000"
+      }
+    },
+    {
+      "term": "Family history: Daughter dead",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160457007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daughter deceased (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daughter deceased",
+          "lang": "en"
+        },
+        "id": "160457007"
+      }
+    },
+    {
+      "term": "Daughter deceased (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160457007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daughter deceased (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daughter deceased",
+          "lang": "en"
+        },
+        "id": "160457007"
+      }
+    },
+    {
+      "term": "FH: Daughter alive with problem",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160456003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Daughter alive with problem (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Daughter alive with problem",
+          "lang": "en"
+        },
+        "id": "160456003"
+      }
+    },
+    {
+      "term": "Mother-daughter symbiotic syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129607003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mother-daughter symbiotic syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mother-daughter symbiotic syndrome",
+          "lang": "en"
+        },
+        "id": "129607003"
+      }
+    },
+    {
+      "term": "Daughter made appointment (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185410002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daughter made appointment (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daughter made appointment",
+          "lang": "en"
+        },
+        "id": "185410002"
+      }
+    },
+    {
+      "term": "Daughter cyst (morphologic abnormality)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125292003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Daughter cyst (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Daughter cyst",
+          "lang": "en"
+        },
+        "id": "125292003"
+      }
+    },
+    {
+      "term": "Family history: Daughter alive and well",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160455004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Daughter alive and well (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Daughter alive and well",
+          "lang": "en"
+        },
+        "id": "160455004"
+      }
+    },
+    {
+      "term": "Family history: Daughter alive with problem",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160456003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Daughter alive with problem (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Daughter alive with problem",
+          "lang": "en"
+        },
+        "id": "160456003"
+      }
+    },
+    {
+      "term": "Mother-daughter symbiotic syndrome (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129607003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mother-daughter symbiotic syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mother-daughter symbiotic syndrome",
+          "lang": "en"
+        },
+        "id": "129607003"
+      }
+    },
+    {
+      "term": "Family history: Daughter alive and well (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160455004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Daughter alive and well (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Daughter alive and well",
+          "lang": "en"
+        },
+        "id": "160455004"
+      }
+    },
+    {
+      "term": "Family history: Daughter alive with problem (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160456003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Daughter alive with problem (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Daughter alive with problem",
+          "lang": "en"
+        },
+        "id": "160456003"
+      }
+    },
+    {
+      "term": "The daughter of one's father who has a different mother.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719764006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Paternal half sister (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Paternal half sister",
+          "lang": "en"
+        },
+        "id": "719764006"
+      }
+    },
+    {
+      "term": "The daughter of one's mother who has a different father.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719765007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maternal half sister (person)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maternal half sister",
+          "lang": "en"
+        },
+        "id": "719765007"
+      }
+    },
+    {
+      "term": "Family history with explicit context pertaining to daughter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160454000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history with explicit context pertaining to daughter (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history with explicit context pertaining to daughter",
+          "lang": "en"
+        },
+        "id": "160454000"
+      }
+    },
+    {
+      "term": "Family history with explicit context pertaining to daughter (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160454000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history with explicit context pertaining to daughter (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history with explicit context pertaining to daughter",
+          "lang": "en"
+        },
+        "id": "160454000"
+      }
+    },
+    {
+      "term": "Syndrome with characteristics of intrauterine growth retardation and intermittent locking of the finger joints. It has been described in two individuals: a mother and her daughter. The mode of transmission is autosomal dominant.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "726734001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Short stature locking fingers syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Short stature locking fingers syndrome",
+          "lang": "en"
+        },
+        "id": "726734001"
+      }
+    },
+    {
+      "term": "Syndrome with characteristics of congenital ptosis and posterior fusion of the lumbosacral vertebrae. It has been described in a mother and her two daughters. Serum lactic dehydrogenase activity was elevated in the mother and 1 daughter.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "724064004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Posterior fusion of lumbosacral vertebrae and blepharoptosis syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Posterior fusion of lumbosacral vertebrae and blepharoptosis syndrome",
+          "lang": "en"
+        },
+        "id": "724064004"
+      }
+    },
+    {
+      "term": "This syndrome has characteristics of bilateral congenital blepharoptosis, ectopia lentis and high myopia. It has been described in three members of one family (in a mother and her two daughters). Transmission appears to be autosomal dominant.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "717915004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blepharoptosis, myopia, ectopia lentis syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blepharoptosis, myopia, ectopia lentis syndrome",
+          "lang": "en"
+        },
+        "id": "717915004"
+      }
+    }
+  ]
+}

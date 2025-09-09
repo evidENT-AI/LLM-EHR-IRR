@@ -1,0 +1,235 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 6
+    },
+    "semanticTags": {
+      "finding": 1,
+      "situation": 2
+    },
+    "language": {
+      "en": 6
+    },
+    "membership": {
+      "1322291000000109": 3,
+      "1127601000000107": 3,
+      "900000000000497000": 3,
+      "733073007": 3
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "last": true,
+  "totalElements": 6,
+  "totalPages": 1,
+  "first": true,
+  "numberOfElements": 6,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Inhaled steroids use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170659001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inhaled steroids use (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inhaled steroids use",
+          "lang": "en"
+        },
+        "id": "170659001"
+      }
+    },
+    {
+      "term": "Inhaled steroids used daily",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711436000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inhaled steroids used daily (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inhaled steroids used daily",
+          "lang": "en"
+        },
+        "id": "711436000"
+      }
+    },
+    {
+      "term": "Inhaled steroids use (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170659001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inhaled steroids use (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inhaled steroids use",
+          "lang": "en"
+        },
+        "id": "170659001"
+      }
+    },
+    {
+      "term": "Inhaled steroids used daily (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "711436000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inhaled steroids used daily (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inhaled steroids used daily",
+          "lang": "en"
+        },
+        "id": "711436000"
+      }
+    },
+    {
+      "term": "Long-term current use of inhaled steroid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "710817009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Long-term current use of inhaled steroid (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Long-term current use of inhaled steroid",
+          "lang": "en"
+        },
+        "id": "710817009"
+      }
+    },
+    {
+      "term": "Long-term current use of inhaled steroid (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "710817009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Long-term current use of inhaled steroid (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Long-term current use of inhaled steroid",
+          "lang": "en"
+        },
+        "id": "710817009"
+      }
+    }
+  ]
+}

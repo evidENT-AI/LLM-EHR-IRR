@@ -1,0 +1,476 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2,
+      "900000000000207008": 14
+    },
+    "semanticTags": {
+      "finding": 7
+    },
+    "language": {
+      "en": 16
+    },
+    "membership": {
+      "1322291000000109": 7,
+      "1127601000000107": 7,
+      "900000000000497000": 6,
+      "733073007": 7,
+      "999002271000000101": 7
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 16,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 16,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Married",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87915002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Married (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Married",
+          "lang": "en"
+        },
+        "id": "87915002"
+      }
+    },
+    {
+      "term": "Never married",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125725006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Marital status: single, never married (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Single, never married",
+          "lang": "en"
+        },
+        "id": "125725006"
+      }
+    },
+    {
+      "term": "Legally married",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36629006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Legally married (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Legally married",
+          "lang": "en"
+        },
+        "id": "36629006"
+      }
+    },
+    {
+      "term": "Married (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87915002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Married (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Married",
+          "lang": "en"
+        },
+        "id": "87915002"
+      }
+    },
+    {
+      "term": "Legal married state",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36629006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Legally married (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Legally married",
+          "lang": "en"
+        },
+        "id": "36629006"
+      }
+    },
+    {
+      "term": "Not currently married",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125681006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Single person (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Single person",
+          "lang": "en"
+        },
+        "id": "125681006"
+      }
+    },
+    {
+      "term": "Engaged to be married",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54986009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Engaged to be married (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Engaged to be married",
+          "lang": "en"
+        },
+        "id": "54986009"
+      }
+    },
+    {
+      "term": "Single, never married",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125725006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Marital status: single, never married (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Single, never married",
+          "lang": "en"
+        },
+        "id": "125725006"
+      }
+    },
+    {
+      "term": "Married/civil partner",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "286051000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Married/civil partner (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Married/civil partner",
+          "lang": "en"
+        },
+        "id": "286051000000109"
+      }
+    },
+    {
+      "term": "Legally married (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36629006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Legally married (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Legally married",
+          "lang": "en"
+        },
+        "id": "36629006"
+      }
+    },
+    {
+      "term": "Maladjustment to married life",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35491004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maladjustment to married life (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maladjustment to married life",
+          "lang": "en"
+        },
+        "id": "35491004"
+      }
+    },
+    {
+      "term": "Engaged to be married (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54986009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Engaged to be married (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Engaged to be married",
+          "lang": "en"
+        },
+        "id": "54986009"
+      }
+    },
+    {
+      "term": "Married/civil partner (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "286051000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Married/civil partner (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Married/civil partner",
+          "lang": "en"
+        },
+        "id": "286051000000109"
+      }
+    },
+    {
+      "term": "Marital status: single, never married",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125725006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Marital status: single, never married (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Single, never married",
+          "lang": "en"
+        },
+        "id": "125725006"
+      }
+    },
+    {
+      "term": "Maladjustment to married life (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35491004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maladjustment to married life (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maladjustment to married life",
+          "lang": "en"
+        },
+        "id": "35491004"
+      }
+    },
+    {
+      "term": "Marital status: single, never married (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125725006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Marital status: single, never married (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Single, never married",
+          "lang": "en"
+        },
+        "id": "125725006"
+      }
+    }
+  ]
+}

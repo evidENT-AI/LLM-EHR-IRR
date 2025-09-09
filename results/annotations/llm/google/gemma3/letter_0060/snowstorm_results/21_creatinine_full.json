@@ -1,0 +1,1222 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 474,
+      "999000041000000102": 50,
+      "900000000000207008": 7
+    },
+    "semanticTags": {
+      "observable entity": 257
+    },
+    "language": {
+      "en": 531
+    },
+    "membership": {
+      "1322291000000109": 257,
+      "1853551000000106": 159,
+      "900000000000497000": 3,
+      "733073007": 259,
+      "900000000000489007": 2,
+      "999002881000000100": 94
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1853551000000106": {
+      "conceptId": "1853551000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set",
+        "lang": "en"
+      },
+      "id": "1853551000000106"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    }
+  },
+  "totalElements": 531,
+  "totalPages": 11,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Creatinine level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1032061000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Creatinine level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Creatinine level",
+          "lang": "en"
+        },
+        "id": "1032061000000108"
+      }
+    },
+    {
+      "term": "Lead/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029621000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Lead/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lead/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029621000000102"
+      }
+    },
+    {
+      "term": "Urea/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029611000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Urea/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urea/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029611000000108"
+      }
+    },
+    {
+      "term": "Zinc/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029601000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Zinc/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Zinc/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029601000000106"
+      }
+    },
+    {
+      "term": "Urine creatinine level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1003271000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Urine creatinine level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine creatinine level",
+          "lang": "en"
+        },
+        "id": "1003271000000106"
+      }
+    },
+    {
+      "term": "Serum creatinine level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1000731000000107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Serum creatinine level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serum creatinine level",
+          "lang": "en"
+        },
+        "id": "1000731000000107"
+      }
+    },
+    {
+      "term": "5HIAA/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1030051000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "5-hydroxyindoleacetic acid/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "5HIAA/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1030051000000106"
+      }
+    },
+    {
+      "term": "Fluid sample creatinine",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1010391000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Fluid sample creatinine (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fluid sample creatinine",
+          "lang": "en"
+        },
+        "id": "1010391000000109"
+      }
+    },
+    {
+      "term": "Plasma creatinine level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1001011000000107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Plasma creatinine level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Plasma creatinine level",
+          "lang": "en"
+        },
+        "id": "1001011000000107"
+      }
+    },
+    {
+      "term": "Cobalt/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029411000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Cobalt/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cobalt/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029411000000105"
+      }
+    },
+    {
+      "term": "Lysine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1031871000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Lysine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lysine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1031871000000104"
+      }
+    },
+    {
+      "term": "Serine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1031851000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Serine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1031851000000108"
+      }
+    },
+    {
+      "term": "Valine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1031841000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Valine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Valine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1031841000000105"
+      }
+    },
+    {
+      "term": "Citrate/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1028391000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Citrate/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Citrate/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1028391000000100"
+      }
+    },
+    {
+      "term": "Glycine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029951000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Glycine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glycine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029951000000101"
+      }
+    },
+    {
+      "term": "Cystine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029981000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Cystine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cystine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029981000000107"
+      }
+    },
+    {
+      "term": "Leucine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029991000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Leucine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Leucine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029991000000109"
+      }
+    },
+    {
+      "term": "Alanine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029661000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Alanine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alanine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029661000000105"
+      }
+    },
+    {
+      "term": "Amylase/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029651000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Amylase/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Amylase/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029651000000107"
+      }
+    },
+    {
+      "term": "Cadmium/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029591000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Cadmium/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cadmium/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029591000000100"
+      }
+    },
+    {
+      "term": "Calcium/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1027951000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Calcium/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Calcium/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1027951000000108"
+      }
+    },
+    {
+      "term": "Albumin/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1028271000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Albumin/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Albumin/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1028271000000109"
+      }
+    },
+    {
+      "term": "Mercury/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029181000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Mercury/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mercury/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029181000000105"
+      }
+    },
+    {
+      "term": "Taurine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1030381000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Taurine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Taurine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1030381000000103"
+      }
+    },
+    {
+      "term": "Proline/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1030341000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Proline/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Proline/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1030341000000106"
+      }
+    },
+    {
+      "term": "Chloride/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1006221000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Chloride/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chloride/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1006221000000104"
+      }
+    },
+    {
+      "term": "Creatinine clearance test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1015981000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Creatinine clearance test (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Creatinine clearance test",
+          "lang": "en"
+        },
+        "id": "1015981000000103"
+      }
+    },
+    {
+      "term": "Chromium/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029421000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Chromium/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chromium/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029421000000104"
+      }
+    },
+    {
+      "term": "Arginine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1031681000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Arginine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Arginine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1031681000000103"
+      }
+    },
+    {
+      "term": "Dopamine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1031011000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Dopamine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dopamine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1031011000000101"
+      }
+    },
+    {
+      "term": "Tyrosine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1030371000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Tyrosine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tyrosine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1030371000000100"
+      }
+    },
+    {
+      "term": "Creatinine renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102811001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Creatinine renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Creatinine renal clearance",
+          "lang": "en"
+        },
+        "id": "102811001"
+      }
+    },
+    {
+      "term": "Creatinine reduction ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251872006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Creatinine reduction ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Creatinine reduction ratio",
+          "lang": "en"
+        },
+        "id": "251872006"
+      }
+    },
+    {
+      "term": "Glycolate/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029581000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Glycolate/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glycolate/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029581000000102"
+      }
+    },
+    {
+      "term": "Glutamate/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029961000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Glutamic acid/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glutamic acid/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029961000000103"
+      }
+    },
+    {
+      "term": "Histidine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029971000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Histidine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Histidine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029971000000105"
+      }
+    },
+    {
+      "term": "Phosphate/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029671000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Phosphate/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Phosphate/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029671000000103"
+      }
+    },
+    {
+      "term": "Aspartate/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029641000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Aspartate/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspartate/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029641000000109"
+      }
+    },
+    {
+      "term": "Manganese/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1029631000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Manganese/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Manganese/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1029631000000100"
+      }
+    },
+    {
+      "term": "Albumin / creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1028271000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Albumin/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Albumin/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1028271000000109"
+      }
+    },
+    {
+      "term": "Magnesium/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1031471000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Magnesium/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Magnesium/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1031471000000102"
+      }
+    },
+    {
+      "term": "Ornithine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1030401000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Ornithine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ornithine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1030401000000103"
+      }
+    },
+    {
+      "term": "Threonine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1030351000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Threonine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Threonine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1030351000000109"
+      }
+    },
+    {
+      "term": "Glutamine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1030331000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Glutamine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glutamine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1030331000000102"
+      }
+    },
+    {
+      "term": "Isoleucine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1031671000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Isoleucine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Isoleucine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1031671000000100"
+      }
+    },
+    {
+      "term": "Adrenaline/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1027941000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Adrenaline/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adrenaline/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1027941000000105"
+      }
+    },
+    {
+      "term": "Methionine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1030391000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Methionine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Methionine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1030391000000101"
+      }
+    },
+    {
+      "term": "Tryptophan/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1030361000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Tryptophan/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tryptophan/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1030361000000107"
+      }
+    },
+    {
+      "term": "Urine urate/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "994341000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Urine urate/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine urate/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "994341000000101"
+      }
+    },
+    {
+      "term": "Homocystine/creatinine ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1031881000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Homocystine/creatinine ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Homocystine/creatinine ratio",
+          "lang": "en"
+        },
+        "id": "1031881000000102"
+      }
+    }
+  ]
+}

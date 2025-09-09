@@ -1,0 +1,943 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 39
+    },
+    "semanticTags": {
+      "finding": 17
+    },
+    "language": {
+      "en": 39
+    },
+    "membership": {
+      "1322291000000109": 17,
+      "1127601000000107": 17,
+      "900000000000497000": 17,
+      "733073007": 17,
+      "999002271000000101": 17
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 39,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 39,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298349001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "298349001"
+      }
+    },
+    {
+      "term": "O/E - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275897000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "275897000"
+      }
+    },
+    {
+      "term": "O/E - soft tissue swelling-gen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164599003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - soft tissue swelling-gen (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - soft tissue swelling-gen",
+          "lang": "en"
+        },
+        "id": "164599003"
+      }
+    },
+    {
+      "term": "O/E-soft tissue swelling-local",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164600000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - soft tissue swelling-local (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E-soft tissue swelling-local",
+          "lang": "en"
+        },
+        "id": "164600000"
+      }
+    },
+    {
+      "term": "Soft tissue swelling (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298349001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "298349001"
+      }
+    },
+    {
+      "term": "Toe joint - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299579001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Toe joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Toe joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "299579001"
+      }
+    },
+    {
+      "term": "Foot joint - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299482009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Foot joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Foot joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "299482009"
+      }
+    },
+    {
+      "term": "Soft tissue swelling of knee joint",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299324008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Soft tissue swelling of knee joint (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Soft tissue swelling of knee joint",
+          "lang": "en"
+        },
+        "id": "299324008"
+      }
+    },
+    {
+      "term": "Elbow joint - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298872009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Soft tissue swelling of elbow joint (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Soft tissue swelling of elbow joint",
+          "lang": "en"
+        },
+        "id": "298872009"
+      }
+    },
+    {
+      "term": "Wrist joint - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298943009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wrist joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wrist joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "298943009"
+      }
+    },
+    {
+      "term": "Thumb joint - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299134007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thumb joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thumb joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "299134007"
+      }
+    },
+    {
+      "term": "Soft tissue swelling of ankle joint",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299416002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Soft tissue swelling of ankle joint (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Soft tissue swelling of ankle joint",
+          "lang": "en"
+        },
+        "id": "299416002"
+      }
+    },
+    {
+      "term": "Lumbar spine - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298596008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lumbar spine - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lumbar spine - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "298596008"
+      }
+    },
+    {
+      "term": "Finger joint - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299126001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finger joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finger joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "299126001"
+      }
+    },
+    {
+      "term": "Soft tissue swelling of elbow joint",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298872009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Soft tissue swelling of elbow joint (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Soft tissue swelling of elbow joint",
+          "lang": "en"
+        },
+        "id": "298872009"
+      }
+    },
+    {
+      "term": "Cervical spine - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298400009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swelling of soft tissue of cervical spine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swelling of soft tissue of cervical spine",
+          "lang": "en"
+        },
+        "id": "298400009"
+      }
+    },
+    {
+      "term": "Thoracic spine - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298502004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thoracic spine - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thoracic spine - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "298502004"
+      }
+    },
+    {
+      "term": "Shoulder joint - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298770009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Shoulder joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Shoulder joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "298770009"
+      }
+    },
+    {
+      "term": "On examination - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275897000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "275897000"
+      }
+    },
+    {
+      "term": "Swelling of soft tissue of cervical spine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298400009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swelling of soft tissue of cervical spine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swelling of soft tissue of cervical spine",
+          "lang": "en"
+        },
+        "id": "298400009"
+      }
+    },
+    {
+      "term": "On examination - soft tissue swelling-gen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164599003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - soft tissue swelling-gen (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - soft tissue swelling-gen",
+          "lang": "en"
+        },
+        "id": "164599003"
+      }
+    },
+    {
+      "term": "Toe joint - soft tissue swelling (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299579001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Toe joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Toe joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "299579001"
+      }
+    },
+    {
+      "term": "Foot joint - soft tissue swelling (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299482009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Foot joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Foot joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "299482009"
+      }
+    },
+    {
+      "term": "On examination - soft tissue swelling-local",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164600000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - soft tissue swelling-local (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E-soft tissue swelling-local",
+          "lang": "en"
+        },
+        "id": "164600000"
+      }
+    },
+    {
+      "term": "Wrist joint - soft tissue swelling (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298943009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wrist joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wrist joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "298943009"
+      }
+    },
+    {
+      "term": "Thumb joint - soft tissue swelling (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299134007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thumb joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thumb joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "299134007"
+      }
+    },
+    {
+      "term": "Soft tissue swelling of knee joint (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299324008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Soft tissue swelling of knee joint (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Soft tissue swelling of knee joint",
+          "lang": "en"
+        },
+        "id": "299324008"
+      }
+    },
+    {
+      "term": "Lumbar spine - soft tissue swelling (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298596008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lumbar spine - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lumbar spine - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "298596008"
+      }
+    },
+    {
+      "term": "Finger joint - soft tissue swelling (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299126001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finger joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finger joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "299126001"
+      }
+    },
+    {
+      "term": "Soft tissue swelling of ankle joint (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299416002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Soft tissue swelling of ankle joint (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Soft tissue swelling of ankle joint",
+          "lang": "en"
+        },
+        "id": "299416002"
+      }
+    },
+    {
+      "term": "Soft tissue swelling of elbow joint (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298872009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Soft tissue swelling of elbow joint (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Soft tissue swelling of elbow joint",
+          "lang": "en"
+        },
+        "id": "298872009"
+      }
+    },
+    {
+      "term": "Temporomandibular joint - soft tissue swelling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298369006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Temporomandibular joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Temporomandibular joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "298369006"
+      }
+    },
+    {
+      "term": "Thoracic spine - soft tissue swelling (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298502004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thoracic spine - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thoracic spine - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "298502004"
+      }
+    },
+    {
+      "term": "Shoulder joint - soft tissue swelling (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298770009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Shoulder joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Shoulder joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "298770009"
+      }
+    },
+    {
+      "term": "On examination - soft tissue swelling (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275897000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "275897000"
+      }
+    },
+    {
+      "term": "Swelling of soft tissue of cervical spine (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298400009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swelling of soft tissue of cervical spine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swelling of soft tissue of cervical spine",
+          "lang": "en"
+        },
+        "id": "298400009"
+      }
+    },
+    {
+      "term": "On examination - soft tissue swelling-gen (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164599003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - soft tissue swelling-gen (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - soft tissue swelling-gen",
+          "lang": "en"
+        },
+        "id": "164599003"
+      }
+    },
+    {
+      "term": "On examination - soft tissue swelling-local (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164600000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - soft tissue swelling-local (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E-soft tissue swelling-local",
+          "lang": "en"
+        },
+        "id": "164600000"
+      }
+    },
+    {
+      "term": "Temporomandibular joint - soft tissue swelling (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298369006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Temporomandibular joint - soft tissue swelling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Temporomandibular joint - soft tissue swelling",
+          "lang": "en"
+        },
+        "id": "298369006"
+      }
+    }
+  ]
+}

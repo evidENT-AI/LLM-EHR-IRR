@@ -1,0 +1,29 @@
+text,context,qualifier,laterality,presence,primary_secondary,experiencer,treatment_stage,snomed_ct
+14-year-old,patient is a 14-year-old white female who presents with her mother complaining of a four-day history of cold symptoms consisting of nasal congestion and left ear pain.,sociodemographics,,,,patient,,
+white female,patient is a 14-year-old white female who presents with her mother complaining of a four-day history of cold symptoms consisting of nasal congestion and left ear pain.,sociodemographics,,,,patient,,
+nasal congestion,patient is a 14-year-old white female who presents with her mother complaining of a four-day history of cold symptoms consisting of nasal congestion and left ear pain.,symptoms,,confirmed,primary,patient,post-treatment,60828002
+left ear pain,patient is a 14-year-old white female who presents with her mother complaining of a four-day history of cold symptoms consisting of nasal congestion and left ear pain.,symptoms,left,confirmed,primary,patient,post-treatment,60584000
+dry cough,"she has had a dry cough and a fever as high as 100, but this has not been since the first day.",symptoms,,confirmed,secondary,patient,post-treatment,49727002
+fever,"she has had a dry cough and a fever as high as 100, but this has not been since the first day.",signs,,confirmed,primary,patient,post-treatment,386661006
+vomiting,she denies any vomiting or diarrhea.,symptoms,,negated,secondary,patient,post-treatment,40906000
+diarrhea,she denies any vomiting or diarrhea.,symptoms,,negated,secondary,patient,post-treatment,60870001
+tylenol cough and cold,"she did try some tylenol cough and cold followed by tylenol cough and cold severe, but she does not think that this has helped.",treatments,,confirmed,primary,patient,post-treatment,
+tylenol cough and cold severe,"she did try some tylenol cough and cold followed by tylenol cough and cold severe, but she does not think that this has helped.",treatments,,confirmed,primary,patient,post-treatment,
+respiratory infection,the patient's younger sister has recently had respiratory infection complicated by pneumonia and otitis media.,diagnoses,,confirmed,secondary,family,post-treatment,
+pneumonia,the patient's younger sister has recently had respiratory infection complicated by pneumonia and otitis media.,diagnoses,,confirmed,secondary,family,post-treatment,238290007
+otitis media,the patient's younger sister has recently had respiratory infection complicated by pneumonia and otitis media.,diagnoses,,confirmed,secondary,family,post-treatment,60253000
+pressure in her sinuses,the patient does note some pressure in her sinuses.,symptoms,,confirmed,primary,patient,post-treatment,
+skin rash,she denies any skin rash.,signs,,negated,secondary,patient,post-treatment,
+temp is 38.1,"vital signs: temp is 38.1, pulse is elevated at 101, other vital signs are all within normal limits.",test results,,confirmed,primary,patient,post-treatment,
+pulse is elevated at 101,"vital signs: temp is 38.1, pulse is elevated at 101, other vital signs are all within normal limits.",test results,,confirmed,primary,patient,post-treatment,
+room air oximetry is 100%,room air oximetry is 100%.,test results,,confirmed,primary,patient,post-treatment,
+"head is normocephalic, atraumatic","heent: head is normocephalic, atraumatic. pharynx shows no erythema, tonsillar edema, or exudate.",signs,,confirmed,primary,patient,post-treatment,
+no erythema,"pharynx shows no erythema, tonsillar edema, or exudate.",signs,,negated,primary,patient,post-treatment,
+tonsillar edema,"pharynx shows no erythema, tonsillar edema, or exudate.",signs,,negated,primary,patient,post-treatment,
+exudate,"pharynx shows no erythema, tonsillar edema, or exudate.",signs,,negated,primary,patient,post-treatment,
+tms are clear,both tms are easily visualized and are clear with good light reflex and no erythema.,signs,bilateral,confirmed,primary,patient,post-treatment,
+mild tenderness to percussion,sinuses do show some mild tenderness to percussion.,signs,,confirmed,primary,patient,post-treatment,
+viral upper respiratory infection (uri),assessment: viral upper respiratory infection (uri) with sinus and eustachian congestion.,diagnoses,,confirmed,primary,patient,post-treatment,26739006
+eustachian congestion,assessment: viral upper respiratory infection (uri) with sinus and eustachian congestion.,diagnoses,,confirmed,secondary,patient,post-treatment,
+advil cold & sinus,i did educate the patient about her problem and urged her to switch to advil cold & sinus for the next three to five days for better control of her sinus and eustachian discomfort.,treatments,,suspected,primary,patient,post-treatment,
+afrin nasal spray,i did urge her to use afrin nasal spray for the next three to five days to further decongest her sinuses.,treatments,,suspected,primary,patient,post-treatment,

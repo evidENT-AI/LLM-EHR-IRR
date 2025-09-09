@@ -1,0 +1,1355 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 6,
+      "900000000000207008": 105
+    },
+    "semanticTags": {
+      "disorder": 10,
+      "assessment scale": 1,
+      "body structure": 4,
+      "observable entity": 2,
+      "procedure": 10,
+      "finding": 17
+    },
+    "language": {
+      "en": 111
+    },
+    "membership": {
+      "1322291000000109": 40,
+      "1127601000000107": 26,
+      "1382531000000102": 4,
+      "999003151000000105": 3,
+      "999003091000000101": 2,
+      "999002271000000101": 40,
+      "734138000": 1,
+      "723264001": 2,
+      "2222161000000102": 1,
+      "446608001": 4,
+      "999002571000000104": 2,
+      "900000000000497000": 41,
+      "733073007": 44,
+      "999004381000000103": 2,
+      "1382401000000109": 13
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003151000000105": {
+      "conceptId": "999003151000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen topography values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen topography values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003151000000105"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "734138000": {
+      "conceptId": "734138000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Anatomy structure and entire association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Anatomy structure and entire association reference set",
+        "lang": "en"
+      },
+      "id": "734138000"
+    },
+    "723264001": {
+      "conceptId": "723264001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Lateralizable body structure reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Lateralizable body structure reference set",
+        "lang": "en"
+      },
+      "id": "723264001"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "446608001": {
+      "conceptId": "446608001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT to ICD-O simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT to ICD-O simple map",
+        "lang": "en"
+      },
+      "id": "446608001"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 111,
+  "totalPages": 3,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Both tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91636008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bilateral palatine tonsils (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral palatine tonsils",
+          "lang": "en"
+        },
+        "id": "91636008"
+      }
+    },
+    {
+      "term": "Large tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249395001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Large tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Large tonsils",
+          "lang": "en"
+        },
+        "id": "249395001"
+      }
+    },
+    {
+      "term": "Small tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276399002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small tonsils",
+          "lang": "en"
+        },
+        "id": "276399002"
+      }
+    },
+    {
+      "term": "O/E - tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "268980008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - tonsils",
+          "lang": "en"
+        },
+        "id": "268980008"
+      }
+    },
+    {
+      "term": "Healthy tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276400009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Healthy tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Healthy tonsils",
+          "lang": "en"
+        },
+        "id": "276400009"
+      }
+    },
+    {
+      "term": "Inflamed tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "281795003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inflamed tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inflamed tonsils",
+          "lang": "en"
+        },
+        "id": "281795003"
+      }
+    },
+    {
+      "term": "Bilateral tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91636008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bilateral palatine tonsils (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral palatine tonsils",
+          "lang": "en"
+        },
+        "id": "91636008"
+      }
+    },
+    {
+      "term": "Exudate on tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301791008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Exudate on tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Exudate on tonsils",
+          "lang": "en"
+        },
+        "id": "301791008"
+      }
+    },
+    {
+      "term": "Tonsils obstructive",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249396000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsils meet in middle (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsils meet in middle",
+          "lang": "en"
+        },
+        "id": "249396000"
+      }
+    },
+    {
+      "term": "Both faucial tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91636008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bilateral palatine tonsils (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral palatine tonsils",
+          "lang": "en"
+        },
+        "id": "91636008"
+      }
+    },
+    {
+      "term": "Tonsils and adenoids",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303337002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsil and adenoid structure (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsil and adenoid structure",
+          "lang": "en"
+        },
+        "id": "303337002"
+      }
+    },
+    {
+      "term": "Normal sized tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300279005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal sized tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal sized tonsils",
+          "lang": "en"
+        },
+        "id": "300279005"
+      }
+    },
+    {
+      "term": "Procedure on tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385449002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Procedure on tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Procedure on tonsils",
+          "lang": "en"
+        },
+        "id": "385449002"
+      }
+    },
+    {
+      "term": "Operation on tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385450002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Operation on tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Operation on tonsils",
+          "lang": "en"
+        },
+        "id": "385450002"
+      }
+    },
+    {
+      "term": "Both palatine tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91636008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bilateral palatine tonsils (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral palatine tonsils",
+          "lang": "en"
+        },
+        "id": "91636008"
+      }
+    },
+    {
+      "term": "Hypertrophy of tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46689006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of tonsils (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of tonsils",
+          "lang": "en"
+        },
+        "id": "46689006"
+      }
+    },
+    {
+      "term": "Enlargement of tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46689006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of tonsils (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of tonsils",
+          "lang": "en"
+        },
+        "id": "46689006"
+      }
+    },
+    {
+      "term": "Hyperplasia of tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49885004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperplasia of tonsils (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperplasia of tonsils",
+          "lang": "en"
+        },
+        "id": "49885004"
+      }
+    },
+    {
+      "term": "Tonsils meet in middle",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249396000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsils meet in middle (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsils meet in middle",
+          "lang": "en"
+        },
+        "id": "249396000"
+      }
+    },
+    {
+      "term": "O/E - tonsils enlarged",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275876001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - tonsils enlarged (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - tonsils enlarged",
+          "lang": "en"
+        },
+        "id": "275876001"
+      }
+    },
+    {
+      "term": "O/E - tonsils hyperemic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164252009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - tonsils hyperemic (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - tonsils hyperemic",
+          "lang": "en"
+        },
+        "id": "164252009"
+      }
+    },
+    {
+      "term": "Small tonsils (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276399002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small tonsils",
+          "lang": "en"
+        },
+        "id": "276399002"
+      }
+    },
+    {
+      "term": "Large tonsils (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249395001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Large tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Large tonsils",
+          "lang": "en"
+        },
+        "id": "249395001"
+      }
+    },
+    {
+      "term": "O/E - tonsils hyperaemic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164252009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - tonsils hyperemic (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - tonsils hyperemic",
+          "lang": "en"
+        },
+        "id": "164252009"
+      }
+    },
+    {
+      "term": "O/E - exudate on tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "394715003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - exudate on tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - exudate on tonsils",
+          "lang": "en"
+        },
+        "id": "394715003"
+      }
+    },
+    {
+      "term": "On examination - tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "268980008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - tonsils",
+          "lang": "en"
+        },
+        "id": "268980008"
+      }
+    },
+    {
+      "term": "Healthy tonsils (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276400009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Healthy tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Healthy tonsils",
+          "lang": "en"
+        },
+        "id": "276400009"
+      }
+    },
+    {
+      "term": "Inflamed tonsils (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "281795003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inflamed tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inflamed tonsils",
+          "lang": "en"
+        },
+        "id": "281795003"
+      }
+    },
+    {
+      "term": "Bilateral palatine tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91636008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bilateral palatine tonsils (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral palatine tonsils",
+          "lang": "en"
+        },
+        "id": "91636008"
+      }
+    },
+    {
+      "term": "Primary syphilis of tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10345003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary syphilis of tonsils (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary syphilis of tonsils",
+          "lang": "en"
+        },
+        "id": "10345003"
+      }
+    },
+    {
+      "term": "Entire tonsils and adenoids",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "361670003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Entire tonsils and adenoids (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Entire tonsils and adenoids",
+          "lang": "en"
+        },
+        "id": "361670003"
+      }
+    },
+    {
+      "term": "O/E - tonsils normal/healthy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164251002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - tonsils normal/healthy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - tonsils normal/healthy",
+          "lang": "en"
+        },
+        "id": "164251002"
+      }
+    },
+    {
+      "term": "Exudate on tonsils (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301791008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Exudate on tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Exudate on tonsils",
+          "lang": "en"
+        },
+        "id": "301791008"
+      }
+    },
+    {
+      "term": "Absence of bilateral tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "858576003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Absence of bilateral tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Absence of bilateral tonsils",
+          "lang": "en"
+        },
+        "id": "858576003"
+      }
+    },
+    {
+      "term": "Secondary syphilis of tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "81339006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Secondary syphilis of tonsil (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Secondary syphilis of tonsil",
+          "lang": "en"
+        },
+        "id": "81339006"
+      }
+    },
+    {
+      "term": "O/E - tonsils grossly enlarged",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164254005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - tonsils grossly enlarged (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - tonsils grossly enlarged",
+          "lang": "en"
+        },
+        "id": "164254005"
+      }
+    },
+    {
+      "term": "O/E - tonsils - quinsy present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164255006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - tonsils - quinsy present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - tonsils - quinsy present",
+          "lang": "en"
+        },
+        "id": "164255006"
+      }
+    },
+    {
+      "term": "Normal sized tonsils (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300279005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal sized tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal sized tonsils",
+          "lang": "en"
+        },
+        "id": "300279005"
+      }
+    },
+    {
+      "term": "Laser excision of both tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "173426007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laser excision of bilateral tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laser excision of bilateral tonsils",
+          "lang": "en"
+        },
+        "id": "173426007"
+      }
+    },
+    {
+      "term": "Congenital asymmetry of tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "445554007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital asymmetry of tonsils (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital asymmetry of tonsils",
+          "lang": "en"
+        },
+        "id": "445554007"
+      }
+    },
+    {
+      "term": "Tonsils meet in middle (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249396000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsils meet in middle (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsils meet in middle",
+          "lang": "en"
+        },
+        "id": "249396000"
+      }
+    },
+    {
+      "term": "Procedure on tonsils (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385449002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Procedure on tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Procedure on tonsils",
+          "lang": "en"
+        },
+        "id": "385449002"
+      }
+    },
+    {
+      "term": "Operation on tonsils (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385450002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Operation on tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Operation on tonsils",
+          "lang": "en"
+        },
+        "id": "385450002"
+      }
+    },
+    {
+      "term": "Hypertrophy of tonsils (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46689006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophy of tonsils (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophy of tonsils",
+          "lang": "en"
+        },
+        "id": "46689006"
+      }
+    },
+    {
+      "term": "Hyperplasia of tonsils (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49885004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperplasia of tonsils (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperplasia of tonsils",
+          "lang": "en"
+        },
+        "id": "49885004"
+      }
+    },
+    {
+      "term": "On examination - tonsils enlarged",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275876001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - tonsils enlarged (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - tonsils enlarged",
+          "lang": "en"
+        },
+        "id": "275876001"
+      }
+    },
+    {
+      "term": "On examination - tonsils (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "268980008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - tonsils",
+          "lang": "en"
+        },
+        "id": "268980008"
+      }
+    },
+    {
+      "term": "On examination - tonsils hyperemic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164252009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - tonsils hyperemic (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - tonsils hyperemic",
+          "lang": "en"
+        },
+        "id": "164252009"
+      }
+    },
+    {
+      "term": "Hyperemia of both palatine tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "829999002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperemia of bilateral palatine tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral palatine tonsil hyperemia",
+          "lang": "en"
+        },
+        "id": "829999002"
+      }
+    },
+    {
+      "term": "Hyperplasia of tonsils AND adenoids",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40453004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperplasia of both palatine AND pharyngeal tonsils (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperplasia of tonsils AND adenoids",
+          "lang": "en"
+        },
+        "id": "40453004"
+      }
+    }
+  ]
+}

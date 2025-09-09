@@ -1,0 +1,966 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 30,
+      "999000041000000102": 2,
+      "900000000000207008": 2
+    },
+    "semanticTags": {
+      "product": 16
+    },
+    "language": {
+      "en": 34
+    },
+    "membership": {
+      "1322291000000109": 16,
+      "999000031000001105": 15,
+      "999000561000001109": 6,
+      "900000000000497000": 1,
+      "999000421000001104": 3,
+      "733073007": 1,
+      "999000581000001102": 1,
+      "900000000000489007": 3,
+      "999000571000001104": 9,
+      "225581000001107": 6,
+      "30931000001101": 16
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000561000001109": {
+      "conceptId": "999000561000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000561000001109"
+    },
+    "999000421000001104": {
+      "conceptId": "999000421000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing oral solids type 1 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing oral solids type 1 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000421000001104"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000581000001102": {
+      "conceptId": "999000581000001102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual therapeutic moiety simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual therapeutic moiety simple reference set",
+        "lang": "en"
+      },
+      "id": "999000581000001102"
+    },
+    "225581000001107": {
+      "conceptId": "225581000001107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Coronavirus disease 2019 (COVID-19) general practice extraction - corticosteroid medication simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Coronavirus disease 2019 (COVID-19) general practice extraction - corticosteroid medication simple reference set",
+        "lang": "en"
+      },
+      "id": "225581000001107"
+    },
+    "999000571000001104": {
+      "conceptId": "999000571000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000571000001104"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 34,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 34,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Prednisone",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "777310000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only prednisone (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone only product",
+          "lang": "en"
+        },
+        "id": "777310000"
+      }
+    },
+    {
+      "term": "Prednisone (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "777310000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only prednisone (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone only product",
+          "lang": "en"
+        },
+        "id": "777310000"
+      }
+    },
+    {
+      "term": "Prednisone 1mg tablets",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42087611000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 1mg tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 1mg tablets",
+          "lang": "en"
+        },
+        "id": "42087611000001109"
+      }
+    },
+    {
+      "term": "Prednisone 5mg tablets",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42087811000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 5mg tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 5mg tablets",
+          "lang": "en"
+        },
+        "id": "42087811000001108"
+      }
+    },
+    {
+      "term": "Prednisone only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "777310000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only prednisone (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone only product",
+          "lang": "en"
+        },
+        "id": "777310000"
+      }
+    },
+    {
+      "term": "Prednisone 50mg tablets",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42087711000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 50mg tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 50mg tablets",
+          "lang": "en"
+        },
+        "id": "42087711000001100"
+      }
+    },
+    {
+      "term": "Prednisone 1mg tablets (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42087611000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 1mg tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 1mg tablets",
+          "lang": "en"
+        },
+        "id": "42087611000001109"
+      }
+    },
+    {
+      "term": "Prednisone 5mg tablets (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42087811000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 5mg tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 5mg tablets",
+          "lang": "en"
+        },
+        "id": "42087811000001108"
+      }
+    },
+    {
+      "term": "Prednisone 1mg tablets 50 tablet",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11386411000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 1mg tablets 50 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 1mg tablets 50 tablet",
+          "lang": "en"
+        },
+        "id": "11386411000001105"
+      }
+    },
+    {
+      "term": "Prednisone 50mg tablets (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42087711000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 50mg tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 50mg tablets",
+          "lang": "en"
+        },
+        "id": "42087711000001100"
+      }
+    },
+    {
+      "term": "Prednisone 50mg tablets 50 tablet",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11387211000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 50mg tablets 50 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 50mg tablets 50 tablet",
+          "lang": "en"
+        },
+        "id": "11387211000001108"
+      }
+    },
+    {
+      "term": "Prednisone 5mg tablets 100 tablet",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11386911000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 5mg tablets 100 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 5mg tablets 100 tablet",
+          "lang": "en"
+        },
+        "id": "11386911000001102"
+      }
+    },
+    {
+      "term": "Prednisone 1mg tablets 100 tablet",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11386711000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 1mg tablets 100 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 1mg tablets 100 tablet",
+          "lang": "en"
+        },
+        "id": "11386711000001104"
+      }
+    },
+    {
+      "term": "Prednisone 1mg modified-release tablets",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17872811000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 1mg modified-release tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 1mg modified-release tablets",
+          "lang": "en"
+        },
+        "id": "17872811000001100"
+      }
+    },
+    {
+      "term": "Prednisone 2mg modified-release tablets",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17873211000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 2mg modified-release tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 2mg modified-release tablets",
+          "lang": "en"
+        },
+        "id": "17873211000001107"
+      }
+    },
+    {
+      "term": "Prednisone 5mg modified-release tablets",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17873811000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 5mg modified-release tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 5mg modified-release tablets",
+          "lang": "en"
+        },
+        "id": "17873811000001108"
+      }
+    },
+    {
+      "term": "Prednisone 1mg tablets 50 tablet (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11386411000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 1mg tablets 50 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 1mg tablets 50 tablet",
+          "lang": "en"
+        },
+        "id": "11386411000001105"
+      }
+    },
+    {
+      "term": "Prednisone 50mg tablets 50 tablet (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11387211000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 50mg tablets 50 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 50mg tablets 50 tablet",
+          "lang": "en"
+        },
+        "id": "11387211000001108"
+      }
+    },
+    {
+      "term": "Prednisone 5mg tablets 100 tablet (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11386911000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 5mg tablets 100 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 5mg tablets 100 tablet",
+          "lang": "en"
+        },
+        "id": "11386911000001102"
+      }
+    },
+    {
+      "term": "Prednisone 1mg tablets 100 tablet (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11386711000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 1mg tablets 100 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 1mg tablets 100 tablet",
+          "lang": "en"
+        },
+        "id": "11386711000001104"
+      }
+    },
+    {
+      "term": "Prednisone 1mg modified-release tablets (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17872811000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 1mg modified-release tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 1mg modified-release tablets",
+          "lang": "en"
+        },
+        "id": "17872811000001100"
+      }
+    },
+    {
+      "term": "Prednisone 2mg modified-release tablets (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17873211000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 2mg modified-release tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 2mg modified-release tablets",
+          "lang": "en"
+        },
+        "id": "17873211000001107"
+      }
+    },
+    {
+      "term": "Prednisone 5mg modified-release tablets (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17873811000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 5mg modified-release tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 5mg modified-release tablets",
+          "lang": "en"
+        },
+        "id": "17873811000001108"
+      }
+    },
+    {
+      "term": "Prednisone 5mg modified-release tablets 30 tablet",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17874011000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 5mg modified-release tablets 30 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 5mg modified-release tablets 30 tablet",
+          "lang": "en"
+        },
+        "id": "17874011000001100"
+      }
+    },
+    {
+      "term": "Prednisone 2mg modified-release tablets 30 tablet",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17873411000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 2mg modified-release tablets 30 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 2mg modified-release tablets 30 tablet",
+          "lang": "en"
+        },
+        "id": "17873411000001106"
+      }
+    },
+    {
+      "term": "Prednisone 1mg modified-release tablets 30 tablet",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17873011000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 1mg modified-release tablets 30 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 1mg modified-release tablets 30 tablet",
+          "lang": "en"
+        },
+        "id": "17873011000001102"
+      }
+    },
+    {
+      "term": "Prednisone 5mg modified-release tablets 100 tablet",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17874211000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 5mg modified-release tablets 100 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 5mg modified-release tablets 100 tablet",
+          "lang": "en"
+        },
+        "id": "17874211000001105"
+      }
+    },
+    {
+      "term": "Prednisone 2mg modified-release tablets 100 tablet",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17873611000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 2mg modified-release tablets 100 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 2mg modified-release tablets 100 tablet",
+          "lang": "en"
+        },
+        "id": "17873611000001109"
+      }
+    },
+    {
+      "term": "Product containing only prednisone (medicinal product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "777310000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only prednisone (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone only product",
+          "lang": "en"
+        },
+        "id": "777310000"
+      }
+    },
+    {
+      "term": "Prednisone 5mg modified-release tablets 30 tablet (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17874011000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 5mg modified-release tablets 30 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 5mg modified-release tablets 30 tablet",
+          "lang": "en"
+        },
+        "id": "17874011000001100"
+      }
+    },
+    {
+      "term": "Prednisone 2mg modified-release tablets 30 tablet (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17873411000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 2mg modified-release tablets 30 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 2mg modified-release tablets 30 tablet",
+          "lang": "en"
+        },
+        "id": "17873411000001106"
+      }
+    },
+    {
+      "term": "Prednisone 1mg modified-release tablets 30 tablet (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17873011000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 1mg modified-release tablets 30 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 1mg modified-release tablets 30 tablet",
+          "lang": "en"
+        },
+        "id": "17873011000001102"
+      }
+    },
+    {
+      "term": "Prednisone 5mg modified-release tablets 100 tablet (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17874211000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 5mg modified-release tablets 100 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 5mg modified-release tablets 100 tablet",
+          "lang": "en"
+        },
+        "id": "17874211000001105"
+      }
+    },
+    {
+      "term": "Prednisone 2mg modified-release tablets 100 tablet (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17873611000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Prednisone 2mg modified-release tablets 100 tablet (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prednisone 2mg modified-release tablets 100 tablet",
+          "lang": "en"
+        },
+        "id": "17873611000001109"
+      }
+    }
+  ]
+}

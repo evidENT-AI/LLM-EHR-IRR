@@ -1,0 +1,939 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 24,
+      "900000000000207008": 11
+    },
+    "semanticTags": {
+      "finding": 16
+    },
+    "language": {
+      "en": 35
+    },
+    "membership": {
+      "1322291000000109": 16,
+      "999004331000000102": 5,
+      "1127601000000107": 15,
+      "999002571000000104": 1,
+      "900000000000497000": 5,
+      "999002131000000106": 3,
+      "733073007": 16,
+      "999002271000000101": 10,
+      "900000000000489007": 3
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002131000000106": {
+      "conceptId": "999002131000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Accessible information - requires specific contact method simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Accessible information - requires specific contact method simple reference set",
+        "lang": "en"
+      },
+      "id": "999002131000000106"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 35,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 35,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Mentally alert",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248234008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mentally alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mentally alert",
+          "lang": "en"
+        },
+        "id": "248234008"
+      }
+    },
+    {
+      "term": "Impaired alertness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704426000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Impairment of mental alertness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Impairment of mental alertness",
+          "lang": "en"
+        },
+        "id": "704426000"
+      }
+    },
+    {
+      "term": "Requires visual alert",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "945951000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Requires visual alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Requires visual alert",
+          "lang": "en"
+        },
+        "id": "945951000000108"
+      }
+    },
+    {
+      "term": "Requires audible alert",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "945931000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Requires audible alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Requires audible alert",
+          "lang": "en"
+        },
+        "id": "945931000000101"
+      }
+    },
+    {
+      "term": "Requires tactile alert",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "945971000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Requires tactile alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Requires tactile alert",
+          "lang": "en"
+        },
+        "id": "945971000000104"
+      }
+    },
+    {
+      "term": "Mentally alert (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248234008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mentally alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mentally alert",
+          "lang": "en"
+        },
+        "id": "248234008"
+      }
+    },
+    {
+      "term": "Mental alertness - finding",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "365933000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of mental alertness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mental alertness - finding",
+          "lang": "en"
+        },
+        "id": "365933000"
+      }
+    },
+    {
+      "term": "Airway alert form received",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "882621000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Airway alert form received (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airway alert form received",
+          "lang": "en"
+        },
+        "id": "882621000000100"
+      }
+    },
+    {
+      "term": "Finding of mental alertness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "365933000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of mental alertness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mental alertness - finding",
+          "lang": "en"
+        },
+        "id": "365933000"
+      }
+    },
+    {
+      "term": "Has anticoagulant alert card",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1833071000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Has anticoagulant alert card (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has anticoagulant alert card",
+          "lang": "en"
+        },
+        "id": "1833071000000106"
+      }
+    },
+    {
+      "term": "Impairment of mental alertness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704426000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Impairment of mental alertness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Impairment of mental alertness",
+          "lang": "en"
+        },
+        "id": "704426000"
+      }
+    },
+    {
+      "term": "Requires visual alert (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "945951000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Requires visual alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Requires visual alert",
+          "lang": "en"
+        },
+        "id": "945951000000108"
+      }
+    },
+    {
+      "term": "Requires audible alert (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "945931000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Requires audible alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Requires audible alert",
+          "lang": "en"
+        },
+        "id": "945931000000101"
+      }
+    },
+    {
+      "term": "Requires tactile alert (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "945971000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Requires tactile alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Requires tactile alert",
+          "lang": "en"
+        },
+        "id": "945971000000104"
+      }
+    },
+    {
+      "term": "Wears medical alert identification",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "774641000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Wears medical alert identification (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wears medical alert identification",
+          "lang": "en"
+        },
+        "id": "774641000000109"
+      }
+    },
+    {
+      "term": "Airway alert form received (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "882621000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Airway alert form received (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airway alert form received",
+          "lang": "en"
+        },
+        "id": "882621000000100"
+      }
+    },
+    {
+      "term": "Finding of mental alertness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "365933000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of mental alertness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mental alertness - finding",
+          "lang": "en"
+        },
+        "id": "365933000"
+      }
+    },
+    {
+      "term": "Has anticoagulant alert card (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1833071000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Has anticoagulant alert card (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has anticoagulant alert card",
+          "lang": "en"
+        },
+        "id": "1833071000000106"
+      }
+    },
+    {
+      "term": "Has novel oral anticoagulant alert card",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1024711000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Has novel oral anticoagulant alert card (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has DOAC (direct-acting oral anticoagulant) alert card",
+          "lang": "en"
+        },
+        "id": "1024711000000103"
+      }
+    },
+    {
+      "term": "Impairment of mental alertness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704426000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Impairment of mental alertness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Impairment of mental alertness",
+          "lang": "en"
+        },
+        "id": "704426000"
+      }
+    },
+    {
+      "term": "Does not wear medical alert identification",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "774651000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Does not wear medical alert identification (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not wear medical alert identification",
+          "lang": "en"
+        },
+        "id": "774651000000107"
+      }
+    },
+    {
+      "term": "Wears medical alert identification (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "774641000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Wears medical alert identification (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wears medical alert identification",
+          "lang": "en"
+        },
+        "id": "774641000000109"
+      }
+    },
+    {
+      "term": "Has NOAC (novel oral anticoagulant) alert card",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1024711000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Has novel oral anticoagulant alert card (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has DOAC (direct-acting oral anticoagulant) alert card",
+          "lang": "en"
+        },
+        "id": "1024711000000103"
+      }
+    },
+    {
+      "term": "Has novel oral anticoagulant alert card (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1024711000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Has novel oral anticoagulant alert card (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has DOAC (direct-acting oral anticoagulant) alert card",
+          "lang": "en"
+        },
+        "id": "1024711000000103"
+      }
+    },
+    {
+      "term": "Does not wear medical alert identification (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "774651000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Does not wear medical alert identification (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not wear medical alert identification",
+          "lang": "en"
+        },
+        "id": "774651000000107"
+      }
+    },
+    {
+      "term": "Has DOAC (direct-acting oral anticoagulant) alert card",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1024711000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Has novel oral anticoagulant alert card (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has DOAC (direct-acting oral anticoagulant) alert card",
+          "lang": "en"
+        },
+        "id": "1024711000000103"
+      }
+    },
+    {
+      "term": "Professional judgement not to engage patient with insulin alert requirements",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "805521000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Professional judgement not to engage patient with insulin alert requirements (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Professional judgement not to engage patient with insulin alert requirements",
+          "lang": "en"
+        },
+        "id": "805521000000106"
+      }
+    },
+    {
+      "term": "Cardiac pacemaker battery depletion at elective replacement indicator timing alert",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1208837000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiac pacemaker battery depletion at elective replacement indicator timing alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiac pacemaker battery depletion at elective replacement indicator timing alert",
+          "lang": "en"
+        },
+        "id": "1208837000"
+      }
+    },
+    {
+      "term": "Professional judgement not to engage patient with insulin alert requirements (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "805521000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Professional judgement not to engage patient with insulin alert requirements (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Professional judgement not to engage patient with insulin alert requirements",
+          "lang": "en"
+        },
+        "id": "805521000000106"
+      }
+    },
+    {
+      "term": "Cardiac pacemaker battery depletion at elective replacement indicator timing alert (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1208837000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiac pacemaker battery depletion at elective replacement indicator timing alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiac pacemaker battery depletion at elective replacement indicator timing alert",
+          "lang": "en"
+        },
+        "id": "1208837000"
+      }
+    },
+    {
+      "term": "A card carried in order to alert others in an emergency situation that the card holder has diabetes.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720724003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Has diabetes identity card (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has diabetes identity card",
+          "lang": "en"
+        },
+        "id": "720724003"
+      }
+    },
+    {
+      "term": "Police notified of general practitioner concern regarding suitability to hold firearm licence following system alert",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1366301000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Police notified of general practitioner concern regarding suitability to hold firearm licence following system alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Police notified of general practitioner concern regarding suitability to hold firearm licence following system alert",
+          "lang": "en"
+        },
+        "id": "1366301000000102"
+      }
+    },
+    {
+      "term": "Police notified of GP (general practitioner) concern regarding suitability to hold firearm licence following system alert",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1366301000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Police notified of general practitioner concern regarding suitability to hold firearm licence following system alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Police notified of general practitioner concern regarding suitability to hold firearm licence following system alert",
+          "lang": "en"
+        },
+        "id": "1366301000000102"
+      }
+    },
+    {
+      "term": "Police notified of general practitioner concern regarding suitability to hold firearm licence following system alert (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1366301000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Police notified of general practitioner concern regarding suitability to hold firearm licence following system alert (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Police notified of general practitioner concern regarding suitability to hold firearm licence following system alert",
+          "lang": "en"
+        },
+        "id": "1366301000000102"
+      }
+    },
+    {
+      "term": "Presence of alerting signs when the actual state of the childs physical/mental health is not yet clear but there is no perceived risk of immediate serious harm to the childs physical health or life. (Royal College of Paediatrics and Child Health)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "2088961000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Perplexing presentations (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perplexing presentations",
+          "lang": "en"
+        },
+        "id": "2088961000000103"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1305 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 138
+    },
+    "semanticTags": {
+      "disorder": 41,
+      "morphologic abnormality": 2,
+      "body structure": 2,
+      "procedure": 12
+    },
+    "language": {
+      "en": 138
+    },
+    "membership": {
+      "1322291000000109": 55,
+      "1127601000000107": 41,
+      "1382531000000102": 18,
+      "999002531000000101": 9,
+      "999003151000000105": 2,
+      "999002271000000101": 57,
+      "734138000": 1,
+      "723264001": 2,
+      "446608001": 1,
+      "900000000000497000": 57,
+      "733073007": 57,
+      "1382401000000109": 27,
+      "999003141000000107": 2
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999002531000000101": {
+      "conceptId": "999002531000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Wound integrity findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Wound integrity findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002531000000101"
+    },
+    "999003151000000105": {
+      "conceptId": "999003151000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen topography values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen topography values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003151000000105"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "734138000": {
+      "conceptId": "734138000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Anatomy structure and entire association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Anatomy structure and entire association reference set",
+        "lang": "en"
+      },
+      "id": "734138000"
+    },
+    "723264001": {
+      "conceptId": "723264001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Lateralizable body structure reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Lateralizable body structure reference set",
+        "lang": "en"
+      },
+      "id": "723264001"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "446608001": {
+      "conceptId": "446608001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT to ICD-O simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT to ICD-O simple map",
+        "lang": "en"
+      },
+      "id": "446608001"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 138,
+  "totalPages": 3,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11108009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence",
+          "lang": "en"
+        },
+        "id": "11108009"
+      }
+    },
+    {
+      "term": "Wound dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225553008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wound dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wound dehiscence",
+          "lang": "en"
+        },
+        "id": "225553008"
+      }
+    },
+    {
+      "term": "Wound dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410723003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wound dehiscence (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wound dehiscence",
+          "lang": "en"
+        },
+        "id": "410723003"
+      }
+    },
+    {
+      "term": "Zonular dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "370947000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Zonular dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Zonular dehiscence",
+          "lang": "en"
+        },
+        "id": "370947000"
+      }
+    },
+    {
+      "term": "Killian dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "280207007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of Killian's dehiscence (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Killian's dehiscence",
+          "lang": "en"
+        },
+        "id": "280207007"
+      }
+    },
+    {
+      "term": "Killian's dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "280207007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of Killian's dehiscence (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Killian's dehiscence",
+          "lang": "en"
+        },
+        "id": "280207007"
+      }
+    },
+    {
+      "term": "Dehiscence of fascia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "441737006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of fascia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of fascia",
+          "lang": "en"
+        },
+        "id": "441737006"
+      }
+    },
+    {
+      "term": "Perineal wound dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314948003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perineal wound dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perineal wound dehiscence",
+          "lang": "en"
+        },
+        "id": "314948003"
+      }
+    },
+    {
+      "term": "Dehiscence of anastomosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "446953001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of anastomosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of anastomosis",
+          "lang": "en"
+        },
+        "id": "446953001"
+      }
+    },
+    {
+      "term": "Dehiscence of nerve repair",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230804008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of nerve repair (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of nerve repair",
+          "lang": "en"
+        },
+        "id": "230804008"
+      }
+    },
+    {
+      "term": "Operation wound dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "22247000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of surgical wound (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of surgical wound",
+          "lang": "en"
+        },
+        "id": "22247000"
+      }
+    },
+    {
+      "term": "Traumatic wound dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371052003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic wound dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic wound dehiscence",
+          "lang": "en"
+        },
+        "id": "371052003"
+      }
+    },
+    {
+      "term": "Dehiscence of pyloroplasty",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "446430005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of pyloroplasty (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of pyloroplasty",
+          "lang": "en"
+        },
+        "id": "446430005"
+      }
+    },
+    {
+      "term": "Dehiscence of tendon repair",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213196006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of tendon repair (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of tendon repair",
+          "lang": "en"
+        },
+        "id": "213196006"
+      }
+    },
+    {
+      "term": "Dehiscence of wound of skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427832005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of wound of skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of wound of skin",
+          "lang": "en"
+        },
+        "id": "427832005"
+      }
+    },
+    {
+      "term": "Entire Killian's dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "730975004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Entire Killian's dehiscence (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Entire Killian's dehiscence",
+          "lang": "en"
+        },
+        "id": "730975004"
+      }
+    },
+    {
+      "term": "Wound dehiscence (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225553008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wound dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wound dehiscence",
+          "lang": "en"
+        },
+        "id": "225553008"
+      }
+    },
+    {
+      "term": "Resuture of wound dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "29629000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Resuture of wound dehiscence (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Resuture of wound dehiscence",
+          "lang": "en"
+        },
+        "id": "29629000"
+      }
+    },
+    {
+      "term": "Dehiscence of surgical wound",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "22247000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of surgical wound (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of surgical wound",
+          "lang": "en"
+        },
+        "id": "22247000"
+      }
+    },
+    {
+      "term": "Dehiscence of operation wound",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "22247000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of surgical wound (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of surgical wound",
+          "lang": "en"
+        },
+        "id": "22247000"
+      }
+    },
+    {
+      "term": "Zonular dehiscence (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "370947000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Zonular dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Zonular dehiscence",
+          "lang": "en"
+        },
+        "id": "370947000"
+      }
+    },
+    {
+      "term": "Biliary anastomotic dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235939007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Biliary anastomotic breakdown (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Biliary anastomotic breakdown",
+          "lang": "en"
+        },
+        "id": "235939007"
+      }
+    },
+    {
+      "term": "Gastric anastomotic dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236100008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastric anastomotic dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gastric anastomotic dehiscence",
+          "lang": "en"
+        },
+        "id": "236100008"
+      }
+    },
+    {
+      "term": "Dehiscence of laparotomy wound",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "446339007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of laparotomy wound (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of laparotomy wound",
+          "lang": "en"
+        },
+        "id": "446339007"
+      }
+    },
+    {
+      "term": "Duodenal anastomotic dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236101007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Duodenal anastomotic dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Duodenal anastomotic dehiscence",
+          "lang": "en"
+        },
+        "id": "236101007"
+      }
+    },
+    {
+      "term": "Superficial dehiscence of wound",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37981000119106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Superficial dehiscence of wound (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Superficial dehiscence of wound",
+          "lang": "en"
+        },
+        "id": "37981000119106"
+      }
+    },
+    {
+      "term": "Dehiscence of gastrojejunostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "446928004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of gastrojejunostomy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of gastrojejunostomy",
+          "lang": "en"
+        },
+        "id": "446928004"
+      }
+    },
+    {
+      "term": "Dehiscence of fascia (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "441737006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of fascia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of fascia",
+          "lang": "en"
+        },
+        "id": "441737006"
+      }
+    },
+    {
+      "term": "Bronchial anastomotic dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233804009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bronchial anastomotic dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bronchial anastomotic dehiscence",
+          "lang": "en"
+        },
+        "id": "233804009"
+      }
+    },
+    {
+      "term": "Dehiscence of appendectomy wound",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "446324006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of appendectomy wound (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of appendectomy wound",
+          "lang": "en"
+        },
+        "id": "446324006"
+      }
+    },
+    {
+      "term": "Esophageal anastomotic dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236099000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Esophageal anastomotic dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Esophageal anastomotic dehiscence",
+          "lang": "en"
+        },
+        "id": "236099000"
+      }
+    },
+    {
+      "term": "Repair of uterine scar dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237033005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Repair of uterine scar dehiscence (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Repair of uterine scar dehiscence",
+          "lang": "en"
+        },
+        "id": "237033005"
+      }
+    },
+    {
+      "term": "Resuture of episiotomy dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "285417003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Resuture of episiotomy dehiscence (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Resuture of episiotomy dehiscence",
+          "lang": "en"
+        },
+        "id": "285417003"
+      }
+    },
+    {
+      "term": "Structure of Killian's dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "280207007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Structure of Killian's dehiscence (body structure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Killian's dehiscence",
+          "lang": "en"
+        },
+        "id": "280207007"
+      }
+    },
+    {
+      "term": "Oesophageal anastomotic dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236099000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Esophageal anastomotic dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Esophageal anastomotic dehiscence",
+          "lang": "en"
+        },
+        "id": "236099000"
+      }
+    },
+    {
+      "term": "Superior canal dehiscence syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "717799003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Superior semicircular canal dehiscence syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Superior semicircular canal dehiscence syndrome",
+          "lang": "en"
+        },
+        "id": "717799003"
+      }
+    },
+    {
+      "term": "Dehiscence of appendicectomy wound",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "446324006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of appendectomy wound (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of appendectomy wound",
+          "lang": "en"
+        },
+        "id": "446324006"
+      }
+    },
+    {
+      "term": "Repair of abdominal wall dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80173001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Closure of abdominal wall dehiscence (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Closure of abdominal wall dehiscence",
+          "lang": "en"
+        },
+        "id": "80173001"
+      }
+    },
+    {
+      "term": "Prosthetic cardiac valve dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234181008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Prosthetic cardiac valve dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prosthetic cardiac valve dehiscence",
+          "lang": "en"
+        },
+        "id": "234181008"
+      }
+    },
+    {
+      "term": "Closure of abdominal wall dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80173001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Closure of abdominal wall dehiscence (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Closure of abdominal wall dehiscence",
+          "lang": "en"
+        },
+        "id": "80173001"
+      }
+    },
+    {
+      "term": "Dehiscence (morphologic abnormality)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11108009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence",
+          "lang": "en"
+        },
+        "id": "11108009"
+      }
+    },
+    {
+      "term": "Dehiscence of anastomosis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "446953001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of anastomosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of anastomosis",
+          "lang": "en"
+        },
+        "id": "446953001"
+      }
+    },
+    {
+      "term": "Perineal wound dehiscence (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314948003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perineal wound dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perineal wound dehiscence",
+          "lang": "en"
+        },
+        "id": "314948003"
+      }
+    },
+    {
+      "term": "Dehiscence of nerve repair (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230804008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of nerve repair (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of nerve repair",
+          "lang": "en"
+        },
+        "id": "230804008"
+      }
+    },
+    {
+      "term": "Traumatic wound dehiscence (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371052003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic wound dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic wound dehiscence",
+          "lang": "en"
+        },
+        "id": "371052003"
+      }
+    },
+    {
+      "term": "Dehiscence of pyloroplasty (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "446430005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of pyloroplasty (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of pyloroplasty",
+          "lang": "en"
+        },
+        "id": "446430005"
+      }
+    },
+    {
+      "term": "Small intestine anastomotic dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236102000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small intestine anastomotic dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small intestine anastomotic dehiscence",
+          "lang": "en"
+        },
+        "id": "236102000"
+      }
+    },
+    {
+      "term": "Large intestine anastomotic dehiscence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236103005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Large intestine anastomotic dehiscence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Large intestine anastomotic dehiscence",
+          "lang": "en"
+        },
+        "id": "236103005"
+      }
+    },
+    {
+      "term": "Dehiscence of tendon repair (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213196006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of tendon repair (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of tendon repair",
+          "lang": "en"
+        },
+        "id": "213196006"
+      }
+    },
+    {
+      "term": "Dehiscence of wound of skin (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427832005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dehiscence of wound of skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dehiscence of wound of skin",
+          "lang": "en"
+        },
+        "id": "427832005"
+      }
+    }
+  ]
+}

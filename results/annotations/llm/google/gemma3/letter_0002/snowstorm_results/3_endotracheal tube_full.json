@@ -1,0 +1,1238 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "999000041000000102": 1,
+      "900000000000207008": 51
+    },
+    "semanticTags": {
+      "procedure": 26
+    },
+    "language": {
+      "en": 56
+    },
+    "membership": {
+      "1322291000000109": 26,
+      "1323331000000106": 1,
+      "900000000000497000": 24,
+      "991271000000100": 1,
+      "733073007": 26,
+      "900000000000489007": 2,
+      "1382401000000109": 16
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "991271000000100": {
+      "conceptId": "991271000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care treatments simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care treatments simple reference set",
+        "lang": "en"
+      },
+      "id": "991271000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "last": false,
+  "totalElements": 56,
+  "totalPages": 2,
+  "first": true,
+  "numberOfElements": 50,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Endotracheal tube care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409088002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tube care: endotracheal (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tube care: endotracheal",
+          "lang": "en"
+        },
+        "id": "409088002"
+      }
+    },
+    {
+      "term": "Tube care: endotracheal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409088002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tube care: endotracheal (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tube care: endotracheal",
+          "lang": "en"
+        },
+        "id": "409088002"
+      }
+    },
+    {
+      "term": "Endotracheal tube suction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225715000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endotracheal tube suction (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endotracheal tube suction",
+          "lang": "en"
+        },
+        "id": "225715000"
+      }
+    },
+    {
+      "term": "Changing endotracheal tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225719006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Changing endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Changing endotracheal tube",
+          "lang": "en"
+        },
+        "id": "225719006"
+      }
+    },
+    {
+      "term": "Reposition endotracheal tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225716004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Reposition endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reposition endotracheal tube",
+          "lang": "en"
+        },
+        "id": "225716004"
+      }
+    },
+    {
+      "term": "Removal of endotracheal tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271280005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "271280005"
+      }
+    },
+    {
+      "term": "Insertion of endotracheal tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "112798008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insertion of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insertion of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "112798008"
+      }
+    },
+    {
+      "term": "Anchoring of endotracheal tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704991006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anchoring of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anchoring of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "704991006"
+      }
+    },
+    {
+      "term": "Check endotracheal tube position",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225718003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Checking position of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Checking position of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "225718003"
+      }
+    },
+    {
+      "term": "Changing endotracheal tube tapes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225721001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Changing endotracheal tube tapes (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Changing endotracheal tube tapes",
+          "lang": "en"
+        },
+        "id": "225721001"
+      }
+    },
+    {
+      "term": "Maintenance of endotracheal tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409088002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tube care: endotracheal (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tube care: endotracheal",
+          "lang": "en"
+        },
+        "id": "409088002"
+      }
+    },
+    {
+      "term": "Check endotracheal tube is secure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225717008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Check endotracheal tube is secure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Check endotracheal tube is secure",
+          "lang": "en"
+        },
+        "id": "225717008"
+      }
+    },
+    {
+      "term": "Changing endotracheal tube headband",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225720000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Changing endotracheal tube headband (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Changing endotracheal tube headband",
+          "lang": "en"
+        },
+        "id": "225720000"
+      }
+    },
+    {
+      "term": "Tube care: endotracheal (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409088002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tube care: endotracheal (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tube care: endotracheal",
+          "lang": "en"
+        },
+        "id": "409088002"
+      }
+    },
+    {
+      "term": "Manual securing of endotracheal tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429618000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Manual securing of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Manual securing of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "429618000"
+      }
+    },
+    {
+      "term": "Anchoring endotracheal tube manually",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "243741000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Anchoring endotracheal tube manually (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anchoring ET tube manually",
+          "lang": "en"
+        },
+        "id": "243741000000106"
+      }
+    },
+    {
+      "term": "Endotracheal tube suction (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225715000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endotracheal tube suction (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endotracheal tube suction",
+          "lang": "en"
+        },
+        "id": "225715000"
+      }
+    },
+    {
+      "term": "Securing endotracheal tube using tape",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428626000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Securing endotracheal tube using tape (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Securing endotracheal tube using tape",
+          "lang": "en"
+        },
+        "id": "428626000"
+      }
+    },
+    {
+      "term": "Checking position of endotracheal tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225718003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Checking position of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Checking position of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "225718003"
+      }
+    },
+    {
+      "term": "Changing endotracheal tube (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225719006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Changing endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Changing endotracheal tube",
+          "lang": "en"
+        },
+        "id": "225719006"
+      }
+    },
+    {
+      "term": "Anchoring endotracheal tube using tape",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "428626000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Securing endotracheal tube using tape (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Securing endotracheal tube using tape",
+          "lang": "en"
+        },
+        "id": "428626000"
+      }
+    },
+    {
+      "term": "Securing endotracheal tube using holder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429184008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Securing endotracheal tube using holder (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Securing endotracheal tube using holder",
+          "lang": "en"
+        },
+        "id": "429184008"
+      }
+    },
+    {
+      "term": "Removal of endotracheal tube (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271280005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "271280005"
+      }
+    },
+    {
+      "term": "Reposition endotracheal tube (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225716004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Reposition endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reposition endotracheal tube",
+          "lang": "en"
+        },
+        "id": "225716004"
+      }
+    },
+    {
+      "term": "Anchoring endotracheal tube using holder",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "243751000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Anchoring endotracheal tube using holder (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anchoring ET tube using holder",
+          "lang": "en"
+        },
+        "id": "243751000000109"
+      }
+    },
+    {
+      "term": "Insertion of endotracheal tube (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "112798008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insertion of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insertion of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "112798008"
+      }
+    },
+    {
+      "term": "Anchoring of endotracheal tube (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "704991006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anchoring of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anchoring of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "704991006"
+      }
+    },
+    {
+      "term": "Irrigation and suction of endotracheal tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443533003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irrigation and suction of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irrigation and suction of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "443533003"
+      }
+    },
+    {
+      "term": "Insertion of double lumen endotracheal tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "733509002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insertion of double lumen tracheobronchial tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insertion of double lumen tracheobronchial tube",
+          "lang": "en"
+        },
+        "id": "733509002"
+      }
+    },
+    {
+      "term": "Changing endotracheal tube tapes (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225721001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Changing endotracheal tube tapes (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Changing endotracheal tube tapes",
+          "lang": "en"
+        },
+        "id": "225721001"
+      }
+    },
+    {
+      "term": "Change of endotracheal or endobronchial tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398118003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Change of endotracheal or endobronchial tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Change of endotracheal or endobronchial tube",
+          "lang": "en"
+        },
+        "id": "398118003"
+      }
+    },
+    {
+      "term": "Check endotracheal tube is secure (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225717008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Check endotracheal tube is secure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Check endotracheal tube is secure",
+          "lang": "en"
+        },
+        "id": "225717008"
+      }
+    },
+    {
+      "term": "Changing endotracheal tube headband (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225720000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Changing endotracheal tube headband (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Changing endotracheal tube headband",
+          "lang": "en"
+        },
+        "id": "225720000"
+      }
+    },
+    {
+      "term": "Manual securing of endotracheal tube (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429618000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Manual securing of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Manual securing of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "429618000"
+      }
+    },
+    {
+      "term": "Endotracheal or endobronchial tube over catheter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "397874007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endotracheal or endobronchial tube change over tube exchange catheter (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airway exchange catheter procedure",
+          "lang": "en"
+        },
+        "id": "397874007"
+      }
+    },
+    {
+      "term": "Anchoring endotracheal tube manually (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "243741000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Anchoring endotracheal tube manually (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anchoring ET tube manually",
+          "lang": "en"
+        },
+        "id": "243741000000106"
+      }
+    },
+    {
+      "term": "Securing endotracheal tube using tape (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428626000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Securing endotracheal tube using tape (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Securing endotracheal tube using tape",
+          "lang": "en"
+        },
+        "id": "428626000"
+      }
+    },
+    {
+      "term": "Insertion of endotracheal tube using laryngoscope",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429161001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insertion of endotracheal tube using laryngoscope (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insertion of endotracheal tube using laryngoscope",
+          "lang": "en"
+        },
+        "id": "429161001"
+      }
+    },
+    {
+      "term": "Checking position of endotracheal tube (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225718003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Checking position of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Checking position of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "225718003"
+      }
+    },
+    {
+      "term": "Securing endotracheal tube using holder (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429184008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Securing endotracheal tube using holder (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Securing endotracheal tube using holder",
+          "lang": "en"
+        },
+        "id": "429184008"
+      }
+    },
+    {
+      "term": "Anchoring endotracheal tube using holder (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "243751000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Anchoring endotracheal tube using holder (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anchoring ET tube using holder",
+          "lang": "en"
+        },
+        "id": "243751000000109"
+      }
+    },
+    {
+      "term": "Checking position of endotracheal tube by auscultation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "432028000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Checking position of endotracheal tube by auscultation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Checking position of endotracheal tube by auscultation",
+          "lang": "en"
+        },
+        "id": "432028000"
+      }
+    },
+    {
+      "term": "Irrigation and suction of endotracheal tube (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443533003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irrigation and suction of endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irrigation and suction of endotracheal tube",
+          "lang": "en"
+        },
+        "id": "443533003"
+      }
+    },
+    {
+      "term": "Change of endotracheal or endobronchial tube (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398118003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Change of endotracheal or endobronchial tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Change of endotracheal or endobronchial tube",
+          "lang": "en"
+        },
+        "id": "398118003"
+      }
+    },
+    {
+      "term": "Insertion of endotracheal tube using laryngoscope (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429161001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insertion of endotracheal tube using laryngoscope (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insertion of endotracheal tube using laryngoscope",
+          "lang": "en"
+        },
+        "id": "429161001"
+      }
+    },
+    {
+      "term": "Administration of inhalation anesthetic using endotracheal tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449126000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Administration of inhalation anesthetic using endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Administration of inhalation anesthetic using endotracheal tube",
+          "lang": "en"
+        },
+        "id": "449126000"
+      }
+    },
+    {
+      "term": "Administration of inhalation anaesthetic using endotracheal tube",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449126000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Administration of inhalation anesthetic using endotracheal tube (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Administration of inhalation anesthetic using endotracheal tube",
+          "lang": "en"
+        },
+        "id": "449126000"
+      }
+    },
+    {
+      "term": "Checking position of endotracheal tube by auscultation (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "432028000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Checking position of endotracheal tube by auscultation (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Checking position of endotracheal tube by auscultation",
+          "lang": "en"
+        },
+        "id": "432028000"
+      }
+    },
+    {
+      "term": "Checking position of endotracheal tube using exhaled carbon dioxide",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "432987005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Checking position of endotracheal tube using exhaled carbon dioxide (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Checking position of endotracheal tube using exhaled carbon dioxide",
+          "lang": "en"
+        },
+        "id": "432987005"
+      }
+    },
+    {
+      "term": "Endotracheal or endobronchial tube change over tube exchange catheter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "397874007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endotracheal or endobronchial tube change over tube exchange catheter (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airway exchange catheter procedure",
+          "lang": "en"
+        },
+        "id": "397874007"
+      }
+    }
+  ]
+}

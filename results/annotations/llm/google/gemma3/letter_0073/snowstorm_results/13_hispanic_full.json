@@ -1,0 +1,992 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 8,
+      "900000000000207008": 24
+    },
+    "semanticTags": {
+      "product": 4,
+      "disorder": 3,
+      "organism": 6,
+      "racial group": 1,
+      "observable entity": 2
+    },
+    "language": {
+      "en": 32
+    },
+    "membership": {
+      "1322291000000109": 10,
+      "1127601000000107": 3,
+      "999000031000001105": 4,
+      "1382531000000102": 1,
+      "999000361000001104": 1,
+      "999000551000001106": 1,
+      "999000561000001109": 1,
+      "999000541000001108": 1,
+      "999002271000000101": 3,
+      "999000391000001108": 1,
+      "999000271000001101": 1,
+      "999000451000001107": 1,
+      "900000000000497000": 12,
+      "733073007": 12,
+      "999000571000001104": 1,
+      "30931000001101": 4
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000361000001104": {
+      "conceptId": "999000361000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing never valid as a virtual medicinal product rule 3 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing never valid as a virtual medicinal product rule 3 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000361000001104"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "999000561000001109": {
+      "conceptId": "999000561000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000561000001109"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999000391000001108": {
+      "conceptId": "999000391000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing no virtual therapeutic moiety rule 2 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing no virtual therapeutic moiety rule 2 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000391000001108"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000271000001101": {
+      "conceptId": "999000271000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing injections type 20 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing injections type 20 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000271000001101"
+    },
+    "999000451000001107": {
+      "conceptId": "999000451000001107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing topical liquids type 5a simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing topical liquids type 5a simple reference set",
+        "lang": "en"
+      },
+      "id": "999000451000001107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000571000001104": {
+      "conceptId": "999000571000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000571000001104"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 32,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 32,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Hispanic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414408004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hispanic (racial group)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hispanic",
+          "lang": "en"
+        },
+        "id": "414408004"
+      }
+    },
+    {
+      "term": "Hispanic, white",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414412005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hispanic, white (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hispanic, white",
+          "lang": "en"
+        },
+        "id": "414412005"
+      }
+    },
+    {
+      "term": "Hispanic, black",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414409007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hispanic, black (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hispanic, black",
+          "lang": "en"
+        },
+        "id": "414409007"
+      }
+    },
+    {
+      "term": "Vibrio hispanicus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "438880003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vibrio hispanicus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vibrio hispanicus",
+          "lang": "en"
+        },
+        "id": "438880003"
+      }
+    },
+    {
+      "term": "Borrelia hispanica",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11787006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Borrelia hispanica (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Borrelia hispanica",
+          "lang": "en"
+        },
+        "id": "11787006"
+      }
+    },
+    {
+      "term": "Haloarcula hispanica",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417874004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Haloarcula hispanica (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Haloarcula hispanica",
+          "lang": "en"
+        },
+        "id": "417874004"
+      }
+    },
+    {
+      "term": "Arthropsis hispanica",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "51571000087103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neoarthropsis hispanica (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neoarthropsis hispanica",
+          "lang": "en"
+        },
+        "id": "51571000087103"
+      }
+    },
+    {
+      "term": "Hispanic (racial group)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414408004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hispanic (racial group)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hispanic",
+          "lang": "en"
+        },
+        "id": "414408004"
+      }
+    },
+    {
+      "term": "Neoarthropsis hispanica",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "51571000087103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neoarthropsis hispanica (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neoarthropsis hispanica",
+          "lang": "en"
+        },
+        "id": "51571000087103"
+      }
+    },
+    {
+      "term": "Salinicoccus hispanicus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "781647009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Salinicoccus hispanicus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Salinicoccus hispanicus",
+          "lang": "en"
+        },
+        "id": "781647009"
+      }
+    },
+    {
+      "term": "Methylobacterium hispanicum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430067001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Methylobacterium hispanicum (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Methylobacterium hispanicum",
+          "lang": "en"
+        },
+        "id": "430067001"
+      }
+    },
+    {
+      "term": "Vibrio hispanicus (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "438880003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vibrio hispanicus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vibrio hispanicus",
+          "lang": "en"
+        },
+        "id": "438880003"
+      }
+    },
+    {
+      "term": "Borrelia hispanica (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11787006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Borrelia hispanica (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Borrelia hispanica",
+          "lang": "en"
+        },
+        "id": "11787006"
+      }
+    },
+    {
+      "term": "Haloarcula hispanica (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417874004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Haloarcula hispanica (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Haloarcula hispanica",
+          "lang": "en"
+        },
+        "id": "417874004"
+      }
+    },
+    {
+      "term": "Neoarthropsis hispanica (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "51571000087103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neoarthropsis hispanica (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neoarthropsis hispanica",
+          "lang": "en"
+        },
+        "id": "51571000087103"
+      }
+    },
+    {
+      "term": "Salinicoccus hispanicus (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "781647009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Salinicoccus hispanicus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Salinicoccus hispanicus",
+          "lang": "en"
+        },
+        "id": "781647009"
+      }
+    },
+    {
+      "term": "Hispanic, white (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414412005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hispanic, white (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hispanic, white",
+          "lang": "en"
+        },
+        "id": "414412005"
+      }
+    },
+    {
+      "term": "Hispanic, black (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414409007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hispanic, black (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hispanic, black",
+          "lang": "en"
+        },
+        "id": "414409007"
+      }
+    },
+    {
+      "term": "Methylobacterium hispanicum (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430067001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Methylobacterium hispanicum (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Methylobacterium hispanicum",
+          "lang": "en"
+        },
+        "id": "430067001"
+      }
+    },
+    {
+      "term": "Infection caused by Borrelia hispanica",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1279688004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection caused by Borrelia hispanica (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection caused by Borrelia hispanica",
+          "lang": "en"
+        },
+        "id": "1279688004"
+      }
+    },
+    {
+      "term": "Relapsing fever caused by Borrelia hispanica",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1279687009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Relapsing fever caused by Borrelia hispanica (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Relapsing fever caused by Borrelia hispanica",
+          "lang": "en"
+        },
+        "id": "1279687009"
+      }
+    },
+    {
+      "term": "Infection caused by Borrelia hispanica (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1279688004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection caused by Borrelia hispanica (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection caused by Borrelia hispanica",
+          "lang": "en"
+        },
+        "id": "1279688004"
+      }
+    },
+    {
+      "term": "Relapsing fever caused by Borrelia hispanica (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1279687009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Relapsing fever caused by Borrelia hispanica (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Relapsing fever caused by Borrelia hispanica",
+          "lang": "en"
+        },
+        "id": "1279687009"
+      }
+    },
+    {
+      "term": "Generic London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42946611000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Generic London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Generic London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test",
+          "lang": "en"
+        },
+        "id": "42946611000001109"
+      }
+    },
+    {
+      "term": "London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (Inmunotek)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42946411000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (Inmunotek) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (Inmunotek)",
+          "lang": "en"
+        },
+        "id": "42946411000001106"
+      }
+    },
+    {
+      "term": "Generic London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test 2.5 ml",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42946311000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Generic London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test 2.5 ml (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Generic London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test 2.5 ml",
+          "lang": "en"
+        },
+        "id": "42946311000001104"
+      }
+    },
+    {
+      "term": "Generic London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42946611000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Generic London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Generic London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test",
+          "lang": "en"
+        },
+        "id": "42946611000001109"
+      }
+    },
+    {
+      "term": "London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (Inmunotek) 2.5 ml",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42946511000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (Inmunotek) 2.5 ml (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (Inmunotek) 2.5 ml",
+          "lang": "en"
+        },
+        "id": "42946511000001105"
+      }
+    },
+    {
+      "term": "London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (Inmunotek) (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42946411000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (Inmunotek) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (Inmunotek)",
+          "lang": "en"
+        },
+        "id": "42946411000001106"
+      }
+    },
+    {
+      "term": "Generic London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test 2.5 ml (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42946311000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Generic London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test 2.5 ml (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Generic London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test 2.5 ml",
+          "lang": "en"
+        },
+        "id": "42946311000001104"
+      }
+    },
+    {
+      "term": "London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (Inmunotek) 2.5 ml (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42946511000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (Inmunotek) 2.5 ml (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "London Plane (Platanus hispanica) pollen 50HEP/ml solution for skin prick test (Inmunotek) 2.5 ml",
+          "lang": "en"
+        },
+        "id": "42946511000001105"
+      }
+    },
+    {
+      "term": "Charcot-Marie-Tooth disease, type 4F (CMT4F) is a demyelinating CMT peripheral sensorimotor polyneuropathy. It is a rare form of CMT4 but the few reported families are from diverse ethnic groups: Lebanese Shiite Muslims, Hispanic North Americans, Northern Europeans and a Vietnamese family. Onset generally occurs in childhood but severity varies. Early onset with delayed motor milestones, and proximal and distal muscle weakness has been reported but a family in which the clinical picture was marked initially by sensory neuropathy has also been described. CMT4 is caused by mutations in the PRX gene (19q13.2). Transmitted in an autosomal recessive manner.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "715801001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Charcot-Marie-Tooth disease type 4F (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Charcot-Marie-Tooth disease type 4F",
+          "lang": "en"
+        },
+        "id": "715801001"
+      }
+    }
+  ]
+}

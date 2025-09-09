@@ -1,0 +1,1422 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 4,
+      "999000011000000103": 31,
+      "999000041000000102": 2,
+      "900000000000207008": 116
+    },
+    "semanticTags": {
+      "regime/therapy": 3,
+      "disorder": 5,
+      "product": 3,
+      "occupation": 1,
+      "assessment scale": 1,
+      "observable entity": 1,
+      "procedure": 1,
+      "finding": 51,
+      "situation": 5
+    },
+    "language": {
+      "en": 153
+    },
+    "membership": {
+      "1322291000000109": 71,
+      "1127601000000107": 61,
+      "1033041000000104": 4,
+      "999000031000001105": 2,
+      "1323331000000106": 1,
+      "999000551000001106": 1,
+      "999000541000001108": 1,
+      "999002271000000101": 62,
+      "999001571000000109": 1,
+      "900000000000497000": 54,
+      "2181121000000105": 1,
+      "999000631000001100": 1,
+      "733073007": 68,
+      "991381000000107": 1,
+      "30931000001101": 3,
+      "999000891000000102": 3,
+      "1382401000000109": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1033041000000104": {
+      "conceptId": "1033041000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Smoking status of household members findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Smoking status of household members findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1033041000000104"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "2181121000000105": {
+      "conceptId": "2181121000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181121000000105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999000631000001100": {
+      "conceptId": "999000631000001100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices trade family simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices trade family simple reference set",
+        "lang": "en"
+      },
+      "id": "999000631000001100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "991381000000107": {
+      "conceptId": "991381000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Comorbid conditions for selection simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Comorbid conditions for selection simple reference set",
+        "lang": "en"
+      },
+      "id": "991381000000107"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999000891000000102": {
+      "conceptId": "999000891000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Smoking simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Smoking simple reference set",
+        "lang": "en"
+      },
+      "id": "999000891000000102"
+    }
+  },
+  "totalElements": 153,
+  "totalPages": 4,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77176002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smoker",
+          "lang": "en"
+        },
+        "id": "77176002"
+      }
+    },
+    {
+      "term": "Ex-smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8517006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-smoker",
+          "lang": "en"
+        },
+        "id": "8517006"
+      }
+    },
+    {
+      "term": "Non-smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8392000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-smoker",
+          "lang": "en"
+        },
+        "id": "8392000"
+      }
+    },
+    {
+      "term": "Pipe smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82302008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pipe smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pipe smoker",
+          "lang": "en"
+        },
+        "id": "82302008"
+      }
+    },
+    {
+      "term": "Cigar smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "59978006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cigar smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cigar smoker",
+          "lang": "en"
+        },
+        "id": "59978006"
+      }
+    },
+    {
+      "term": "Chain smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230065006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chain smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chain smoker",
+          "lang": "en"
+        },
+        "id": "230065006"
+      }
+    },
+    {
+      "term": "Former smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8517006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-smoker",
+          "lang": "en"
+        },
+        "id": "8517006"
+      }
+    },
+    {
+      "term": "Smokers' cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46802002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smokers' cough (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smokers' cough",
+          "lang": "en"
+        },
+        "id": "46802002"
+      }
+    },
+    {
+      "term": "Passive smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43381005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Passive smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Passive smoker",
+          "lang": "en"
+        },
+        "id": "43381005"
+      }
+    },
+    {
+      "term": "Ex-pipe smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160620009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-pipe smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-pipe smoker",
+          "lang": "en"
+        },
+        "id": "160620009"
+      }
+    },
+    {
+      "term": "Current smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77176002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smoker",
+          "lang": "en"
+        },
+        "id": "77176002"
+      }
+    },
+    {
+      "term": "Smoker in home",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "94151000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smoker in household (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smoker in home",
+          "lang": "en"
+        },
+        "id": "94151000119101"
+      }
+    },
+    {
+      "term": "Ex-cigar smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160621008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-cigar smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-cigar smoker",
+          "lang": "en"
+        },
+        "id": "160621008"
+      }
+    },
+    {
+      "term": "Cigarette smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "65568007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cigarette smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cigarette smoker",
+          "lang": "en"
+        },
+        "id": "65568007"
+      }
+    },
+    {
+      "term": "Smoker (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77176002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smoker",
+          "lang": "en"
+        },
+        "id": "77176002"
+      }
+    },
+    {
+      "term": "Smokers keratosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235033006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smokers keratosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smokers keratosis",
+          "lang": "en"
+        },
+        "id": "235033006"
+      }
+    },
+    {
+      "term": "Water pipe smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "698289004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hookah pipe smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hookah pipe smoker",
+          "lang": "en"
+        },
+        "id": "698289004"
+      }
+    },
+    {
+      "term": "Occasional smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "428041000124106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Occasional tobacco smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Occasional tobacco smoker",
+          "lang": "en"
+        },
+        "id": "428041000124106"
+      }
+    },
+    {
+      "term": "Tolerant ex-smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "53896009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tolerant ex-smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tolerant ex-smoker",
+          "lang": "en"
+        },
+        "id": "53896009"
+      }
+    },
+    {
+      "term": "Hookah pipe smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "698289004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hookah pipe smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hookah pipe smoker",
+          "lang": "en"
+        },
+        "id": "698289004"
+      }
+    },
+    {
+      "term": "Smoker's melanosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5661000124106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smoker's melanosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smoker's melanosis",
+          "lang": "en"
+        },
+        "id": "5661000124106"
+      }
+    },
+    {
+      "term": "Involuntary smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43381005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Passive smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Passive smoker",
+          "lang": "en"
+        },
+        "id": "43381005"
+      }
+    },
+    {
+      "term": "Tolerant non-smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87739003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tolerant non-smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tolerant non-smoker",
+          "lang": "en"
+        },
+        "id": "87739003"
+      }
+    },
+    {
+      "term": "Ex-cigarette smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "281018007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-cigarette smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-cigarette smoker",
+          "lang": "en"
+        },
+        "id": "281018007"
+      }
+    },
+    {
+      "term": "Ex-smoker (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8517006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-smoker",
+          "lang": "en"
+        },
+        "id": "8517006"
+      }
+    },
+    {
+      "term": "Smoker in household",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "94151000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smoker in household (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smoker in home",
+          "lang": "en"
+        },
+        "id": "94151000119101"
+      }
+    },
+    {
+      "term": "Meat and fish smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "12539000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Meat and fish smoker (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Meat and fish smoker",
+          "lang": "en"
+        },
+        "id": "12539000"
+      }
+    },
+    {
+      "term": "Smoker in the family",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275105001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smoker in the family (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smoker in the family",
+          "lang": "en"
+        },
+        "id": "275105001"
+      }
+    },
+    {
+      "term": "Not a passive smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "315213009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Not a passive smoker (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Not a passive smoker",
+          "lang": "en"
+        },
+        "id": "315213009"
+      }
+    },
+    {
+      "term": "Non-smoker (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8392000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-smoker",
+          "lang": "en"
+        },
+        "id": "8392000"
+      }
+    },
+    {
+      "term": "Intolerant ex-smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "360890004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intolerant ex-smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intolerant ex-smoker",
+          "lang": "en"
+        },
+        "id": "360890004"
+      }
+    },
+    {
+      "term": "Aggressive ex-smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "360900008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aggressive ex-smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aggressive ex-smoker",
+          "lang": "en"
+        },
+        "id": "360900008"
+      }
+    },
+    {
+      "term": "Pipe smoker (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82302008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pipe smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pipe smoker",
+          "lang": "en"
+        },
+        "id": "82302008"
+      }
+    },
+    {
+      "term": "Aggressive non-smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "360918006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aggressive non-smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aggressive non-smoker",
+          "lang": "en"
+        },
+        "id": "360918006"
+      }
+    },
+    {
+      "term": "Intolerant non-smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "360929005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intolerant non-smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intolerant non-smoker",
+          "lang": "en"
+        },
+        "id": "360929005"
+      }
+    },
+    {
+      "term": "Light cigarette smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230060001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Light cigarette smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Light cigarette smoker",
+          "lang": "en"
+        },
+        "id": "230060001"
+      }
+    },
+    {
+      "term": "Heavy cigarette smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230063004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Heavy cigarette smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Heavy cigarette smoker",
+          "lang": "en"
+        },
+        "id": "230063004"
+      }
+    },
+    {
+      "term": "Chain smoker (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230065006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chain smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chain smoker",
+          "lang": "en"
+        },
+        "id": "230065006"
+      }
+    },
+    {
+      "term": "Cigar smoker (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "59978006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cigar smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cigar smoker",
+          "lang": "en"
+        },
+        "id": "59978006"
+      }
+    },
+    {
+      "term": "Ex-smoker in household",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1104241000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Ex-smoker in household (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-smoker in household",
+          "lang": "en"
+        },
+        "id": "1104241000000108"
+      }
+    },
+    {
+      "term": "Ex-smoker annual review",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "505761000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Ex-smoker annual review (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-smoker annual review",
+          "lang": "en"
+        },
+        "id": "505761000000105"
+      }
+    },
+    {
+      "term": "Trivial cigarette smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230059006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Occasional cigarette smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Occasional cigarette smoker",
+          "lang": "en"
+        },
+        "id": "230059006"
+      }
+    },
+    {
+      "term": "Passive smoker (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43381005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Passive smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Passive smoker",
+          "lang": "en"
+        },
+        "id": "43381005"
+      }
+    },
+    {
+      "term": "Ex-pipe smoker (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160620009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-pipe smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-pipe smoker",
+          "lang": "en"
+        },
+        "id": "160620009"
+      }
+    },
+    {
+      "term": "Non-smoker annual review",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "505681000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Non-smoker annual review (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-smoker annual review",
+          "lang": "en"
+        },
+        "id": "505681000000109"
+      }
+    },
+    {
+      "term": "Ex-smoker amount unknown",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1092031000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Ex-smoker amount unknown (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-smoker amount unknown",
+          "lang": "en"
+        },
+        "id": "1092031000000108"
+      }
+    },
+    {
+      "term": "Moderate cigarette smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230062009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Moderate cigarette smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Moderate cigarette smoker",
+          "lang": "en"
+        },
+        "id": "230062009"
+      }
+    },
+    {
+      "term": "Smokers' cough (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46802002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smokers' cough (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smokers' cough",
+          "lang": "en"
+        },
+        "id": "46802002"
+      }
+    },
+    {
+      "term": "Ex-cigar smoker (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160621008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-cigar smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-cigar smoker",
+          "lang": "en"
+        },
+        "id": "160621008"
+      }
+    },
+    {
+      "term": "Occasional tobacco smoker",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428041000124106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Occasional tobacco smoker (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Occasional tobacco smoker",
+          "lang": "en"
+        },
+        "id": "428041000124106"
+      }
+    }
+  ]
+}

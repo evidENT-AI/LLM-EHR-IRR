@@ -1,0 +1,355 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 6,
+      "999000041000000102": 5
+    },
+    "semanticTags": {
+      "observable entity": 11
+    },
+    "language": {
+      "en": 11
+    },
+    "membership": {
+      "1322291000000109": 11,
+      "1853551000000106": 5,
+      "733073007": 11,
+      "999002881000000100": 6
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1853551000000106": {
+      "conceptId": "1853551000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set",
+        "lang": "en"
+      },
+      "id": "1853551000000106"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    }
+  },
+  "last": true,
+  "totalElements": 11,
+  "totalPages": 1,
+  "first": true,
+  "numberOfElements": 11,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "TSH (thyroid stimulating hormone) level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1027151000000105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Thyroid stimulating hormone level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "TSH (thyroid stimulating hormone) level",
+          "lang": "en"
+        },
+        "id": "1027151000000105"
+      }
+    },
+    {
+      "term": "Serum TSH (thyroid stimulating hormone) level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1022791000000101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Serum thyroid stimulating hormone level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serum TSH (thyroid stimulating hormone) level",
+          "lang": "en"
+        },
+        "id": "1022791000000101"
+      }
+    },
+    {
+      "term": "Plasma TSH (thyroid stimulating hormone) level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1022801000000102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Plasma thyroid stimulating hormone level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Plasma TSH (thyroid stimulating hormone) level",
+          "lang": "en"
+        },
+        "id": "1022801000000102"
+      }
+    },
+    {
+      "term": "Blood spot TSH (thyroid stimulating hormone) level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "999201000000109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Blood spot thyroid stimulating hormone level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood spot TSH (thyroid stimulating hormone) level",
+          "lang": "en"
+        },
+        "id": "999201000000109"
+      }
+    },
+    {
+      "term": "TSH (thyroid stimulating hormone) receptor antibody level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "995841000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Thyroid stimulating hormone receptor antibody level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thyroid stimulating hormone receptor antibody level",
+          "lang": "en"
+        },
+        "id": "995841000000105"
+      }
+    },
+    {
+      "term": "TSH (thyroid stimulating hormone) arbitrary concentration in serum",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1109731000000105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Arbitrary concentration of thyroid stimulating hormone in serum (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thyroid stimulating hormone arbitrary concentration in serum",
+          "lang": "en"
+        },
+        "id": "1109731000000105"
+      }
+    },
+    {
+      "term": "TSH (thyroid stimulating hormone) molar concentration in blood spot",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "67951000237101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Substance concentration of thyroid stimulating hormone in blood spot (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "TSH (thyroid stimulating hormone) molar concentration in blood spot",
+          "lang": "en"
+        },
+        "id": "67951000237101"
+      }
+    },
+    {
+      "term": "TSH (thyroid stimulating hormone) arbitrary concentration in plasma",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1109411000000105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Arbitrary concentration of thyroid stimulating hormone in plasma (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "TSH (thyroid stimulating hormone) arbitrary concentration in plasma",
+          "lang": "en"
+        },
+        "id": "1109411000000105"
+      }
+    },
+    {
+      "term": "TSH (thyroid stimulating hormone) binding site inhibitor globulin level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1005531000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Thyroid stimulating hormone binding site inhibitor globulin level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thyroid stimulating hormone binding site inhibitor globulin level",
+          "lang": "en"
+        },
+        "id": "1005531000000107"
+      }
+    },
+    {
+      "term": "TSH (thyroid stimulating hormone) receptor antibody arbitrary concentration in serum",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "53131000237109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Arbitrary concentration of thyroid stimulating hormone receptor antibody in serum (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "TSH (thyroid stimulating hormone) receptor antibody arbitrary concentration in serum",
+          "lang": "en"
+        },
+        "id": "53131000237109"
+      }
+    },
+    {
+      "term": "TSH (thyroid stimulating hormone) receptor antibody arbitrary concentration in plasma",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "53041000237103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Arbitrary concentration of thyroid stimulating hormone receptor antibody in plasma (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "TSH (thyroid stimulating hormone) receptor antibody arbitrary concentration in plasma",
+          "lang": "en"
+        },
+        "id": "53041000237103"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1607 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000012004": 7,
+      "999000011000000103": 32,
+      "900000000000207008": 183
+    },
+    "semanticTags": {
+      "regime/therapy": 2,
+      "product": 1,
+      "organism": 1,
+      "substance": 2,
+      "body structure": 3,
+      "observable entity": 2,
+      "procedure": 12,
+      "finding": 22,
+      "qualifier value": 5,
+      "foundation metadata concept": 3,
+      "disorder": 70,
+      "disposition": 1,
+      "environment": 1,
+      "attribute": 2,
+      "event": 11,
+      "release characteristic": 3,
+      "record artifact": 1,
+      "situation": 1
+    },
+    "language": {
+      "en": 222
+    },
+    "membership": {
+      "1322291000000109": 123,
+      "999004331000000102": 7,
+      "999003161000000108": 2,
+      "2181181000000106": 1,
+      "1127551000000109": 1,
+      "999002271000000101": 226,
+      "2222191000000108": 1,
+      "999003181000000104": 1,
+      "991451000000108": 1,
+      "900000000000497000": 128,
+      "723562003": 1,
+      "1382401000000109": 12,
+      "999003021000000104": 1,
+      "1127601000000107": 93,
+      "1382531000000102": 61,
+      "2181151000000100": 1,
+      "734138000": 3,
+      "966291000000106": 11,
+      "999001061000000106": 1,
+      "723561005": 1,
+      "999002061000000102": 1,
+      "991441000000105": 1,
+      "999002051000000100": 1,
+      "733073007": 143,
+      "999003191000000102": 1,
+      "2170881000000102": 1,
+      "999003011000000105": 1,
+      "900000000000456007": 2,
+      "30931000001101": 3
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000012004": {
+      "conceptId": "900000000000012004",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT model component module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT model component",
+        "lang": "en"
+      },
+      "id": "900000000000012004"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999003181000000104": {
+      "conceptId": "999003181000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003181000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "991451000000108": {
+      "conceptId": "991451000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care referral procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care referral procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991451000000108"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "723562003": {
+      "conceptId": "723562003",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "MRCM attribute range international reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "MRCM attribute range international reference set",
+        "lang": "en"
+      },
+      "id": "723562003"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999003021000000104": {
+      "conceptId": "999003021000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care discharge status simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care discharge status simple reference set",
+        "lang": "en"
+      },
+      "id": "999003021000000104"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2181151000000100": {
+      "conceptId": "2181151000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181151000000100"
+    },
+    "734138000": {
+      "conceptId": "734138000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Anatomy structure and entire association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Anatomy structure and entire association reference set",
+        "lang": "en"
+      },
+      "id": "734138000"
+    },
+    "966291000000106": {
+      "conceptId": "966291000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Newborn blood spot screening result sub-status simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Newborn blood spot screening result sub-status simple reference set",
+        "lang": "en"
+      },
+      "id": "966291000000106"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "723561005": {
+      "conceptId": "723561005",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "MRCM attribute domain international reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "MRCM attribute domain international reference set",
+        "lang": "en"
+      },
+      "id": "723561005"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "991441000000105": {
+      "conceptId": "991441000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care follow-up procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care follow-up procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991441000000105"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999003191000000102": {
+      "conceptId": "999003191000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1D Central nervous system neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1D CNS (central nervous system) neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003191000000102"
+    },
+    "2170881000000102": {
+      "conceptId": "2170881000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric allergy and immunology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric allergy and immunology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2170881000000102"
+    },
+    "999003011000000105": {
+      "conceptId": "999003011000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care discharge destination simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care discharge destination simple reference set",
+        "lang": "en"
+      },
+      "id": "999003011000000105"
+    },
+    "900000000000456007": {
+      "conceptId": "900000000000456007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Reference set descriptor reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Reference set descriptor",
+        "lang": "en"
+      },
+      "id": "900000000000456007"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 222,
+  "totalPages": 5,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Same",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "262126009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Same (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Same",
+          "lang": "en"
+        },
+        "id": "262126009"
+      }
+    },
+    {
+      "term": "SAME AS",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000012004",
+      "concept": {
+        "conceptId": "168666000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000012004",
+        "fsn": {
+          "term": "SAME AS (attribute)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "SAME AS",
+          "lang": "en"
+        },
+        "id": "168666000"
+      }
+    },
+    {
+      "term": "Khalilia sameera",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79634003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Khalilia sameera (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Khalilia sameera",
+          "lang": "en"
+        },
+        "id": "79634003"
+      }
+    },
+    {
+      "term": "Fall on same level",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33036003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level",
+          "lang": "en"
+        },
+        "id": "33036003"
+      }
+    },
+    {
+      "term": "SAME AS (attribute)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000012004",
+      "concept": {
+        "conceptId": "168666000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000012004",
+        "fsn": {
+          "term": "SAME AS (attribute)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "SAME AS",
+          "lang": "en"
+        },
+        "id": "168666000"
+      }
+    },
+    {
+      "term": "Pedophilia, same sex",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "67227000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pedophilia, same sex (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pedophilia, same sex",
+          "lang": "en"
+        },
+        "id": "67227000"
+      }
+    },
+    {
+      "term": "Paedophilia, same sex",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "67227000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pedophilia, same sex (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pedophilia, same sex",
+          "lang": "en"
+        },
+        "id": "67227000"
+      }
+    },
+    {
+      "term": "Same (qualifier value)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "262126009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Same (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Same",
+          "lang": "en"
+        },
+        "id": "262126009"
+      }
+    },
+    {
+      "term": "Same day surgery center",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405607001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ambulatory surgery center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ambulatory surgery center",
+          "lang": "en"
+        },
+        "id": "405607001"
+      }
+    },
+    {
+      "term": "Same day surgery centre",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405607001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ambulatory surgery center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ambulatory surgery center",
+          "lang": "en"
+        },
+        "id": "405607001"
+      }
+    },
+    {
+      "term": "Fall on same level (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33036003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level",
+          "lang": "en"
+        },
+        "id": "33036003"
+      }
+    },
+    {
+      "term": "Same generation sex partner",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225515003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Same generation sex partner (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Same generation sex partner",
+          "lang": "en"
+        },
+        "id": "225515003"
+      }
+    },
+    {
+      "term": "Khalilia sameera (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79634003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Khalilia sameera (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Khalilia sameera",
+          "lang": "en"
+        },
+        "id": "79634003"
+      }
+    },
+    {
+      "term": "Patient's condition the same",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "359748005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Patient condition unchanged (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Patient condition unchanged",
+          "lang": "en"
+        },
+        "id": "359748005"
+      }
+    },
+    {
+      "term": "Always follows the same route",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284522007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Always follows the same route - stereotyped routine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Always follows the same route - stereotyped routine",
+          "lang": "en"
+        },
+        "id": "284522007"
+      }
+    },
+    {
+      "term": "Same day but before procedure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47531000087108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Same day but before procedure (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Same day but before procedure",
+          "lang": "en"
+        },
+        "id": "47531000087108"
+      }
+    },
+    {
+      "term": "Change of work - same employer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "183351002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Change of work - same employer (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Change of work - same employer",
+          "lang": "en"
+        },
+        "id": "183351002"
+      }
+    },
+    {
+      "term": "Pedophilia, same sex (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "67227000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pedophilia, same sex (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pedophilia, same sex",
+          "lang": "en"
+        },
+        "id": "67227000"
+      }
+    },
+    {
+      "term": "Fall on same level from slipping",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217155007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level from slipping (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level from slipping",
+          "lang": "en"
+        },
+        "id": "217155007"
+      }
+    },
+    {
+      "term": "Fall on same level from tripping",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217156008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level from tripping (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level from tripping",
+          "lang": "en"
+        },
+        "id": "217156008"
+      }
+    },
+    {
+      "term": "Pedophilia, same AND opposite sex",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46023009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pedophilia, same AND opposite sex (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pedophilia, same AND opposite sex",
+          "lang": "en"
+        },
+        "id": "46023009"
+      }
+    },
+    {
+      "term": "Fall on same level from stumbling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217157004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level from stumbling (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level from stumbling",
+          "lang": "en"
+        },
+        "id": "217157004"
+      }
+    },
+    {
+      "term": "SAME AS association reference set",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000012004",
+      "concept": {
+        "conceptId": "900000000000527005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000012004",
+        "fsn": {
+          "term": "SAME AS association reference set (foundation metadata concept)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "SAME AS association reference set",
+          "lang": "en"
+        },
+        "id": "900000000000527005"
+      }
+    },
+    {
+      "term": "Paedophilia, same AND opposite sex",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46023009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pedophilia, same AND opposite sex (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pedophilia, same AND opposite sex",
+          "lang": "en"
+        },
+        "id": "46023009"
+      }
+    },
+    {
+      "term": "Caution - same name - check patient",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "717001000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Caution - same name - check patient (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Caution - same name - check patient",
+          "lang": "en"
+        },
+        "id": "717001000000102"
+      }
+    },
+    {
+      "term": "Admission to same day surgery center",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709063003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Admission to same day surgery center (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Admission to same day surgery center",
+          "lang": "en"
+        },
+        "id": "709063003"
+      }
+    },
+    {
+      "term": "Admission to same day surgery centre",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709063003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Admission to same day surgery center (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Admission to same day surgery center",
+          "lang": "en"
+        },
+        "id": "709063003"
+      }
+    },
+    {
+      "term": "Referral for same day emergency care",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "898791000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Referral for ambulatory care (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referral for same day emergency care",
+          "lang": "en"
+        },
+        "id": "898791000000105"
+      }
+    },
+    {
+      "term": "Same generation sex partner (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225515003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Same generation sex partner (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Same generation sex partner",
+          "lang": "en"
+        },
+        "id": "225515003"
+      }
+    },
+    {
+      "term": "Fall on same level from sports contact",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217161005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level from sports contact (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level from sports contact",
+          "lang": "en"
+        },
+        "id": "217161005"
+      }
+    },
+    {
+      "term": "Change of work - same employer (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "183351002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Change of work - same employer (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Change of work - same employer",
+          "lang": "en"
+        },
+        "id": "183351002"
+      }
+    },
+    {
+      "term": "Fall on same level from slipping (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217155007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level from slipping (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level from slipping",
+          "lang": "en"
+        },
+        "id": "217155007"
+      }
+    },
+    {
+      "term": "Fall on same level from tripping (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217156008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level from tripping (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level from tripping",
+          "lang": "en"
+        },
+        "id": "217156008"
+      }
+    },
+    {
+      "term": "Fall on same level from stumbling (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217157004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level from stumbling (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level from stumbling",
+          "lang": "en"
+        },
+        "id": "217157004"
+      }
+    },
+    {
+      "term": "Follows same drug-related routine every day",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228428007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Follows same drug-related routine every day (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Follows same drug-related routine every day",
+          "lang": "en"
+        },
+        "id": "228428007"
+      }
+    },
+    {
+      "term": "Fall on same level due to nature of surface",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274918000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level due to nature of surface (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level due to nature of surface",
+          "lang": "en"
+        },
+        "id": "274918000"
+      }
+    },
+    {
+      "term": "Referral for SDEC (same day emergency care)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "898791000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Referral for ambulatory care (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referral for same day emergency care",
+          "lang": "en"
+        },
+        "id": "898791000000105"
+      }
+    },
+    {
+      "term": "Pedophilia, same AND opposite sex (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46023009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pedophilia, same AND opposite sex (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pedophilia, same AND opposite sex",
+          "lang": "en"
+        },
+        "id": "46023009"
+      }
+    },
+    {
+      "term": "Fall on same level from impact against object",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "269699007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level from impact against object (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level from impact against object",
+          "lang": "en"
+        },
+        "id": "269699007"
+      }
+    },
+    {
+      "term": "Fall on same level from sports contact (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217161005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level from sports contact (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level from sports contact",
+          "lang": "en"
+        },
+        "id": "217161005"
+      }
+    },
+    {
+      "term": "Same day but before procedure (qualifier value)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47531000087108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Same day but before procedure (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Same day but before procedure",
+          "lang": "en"
+        },
+        "id": "47531000087108"
+      }
+    },
+    {
+      "term": "Admission to same day surgery center (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709063003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Admission to same day surgery center (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Admission to same day surgery center",
+          "lang": "en"
+        },
+        "id": "709063003"
+      }
+    },
+    {
+      "term": "Always follows the same route - stereotyped routine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284522007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Always follows the same route - stereotyped routine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Always follows the same route - stereotyped routine",
+          "lang": "en"
+        },
+        "id": "284522007"
+      }
+    },
+    {
+      "term": "Fall on same level due to nature of surface (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274918000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level due to nature of surface (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level due to nature of surface",
+          "lang": "en"
+        },
+        "id": "274918000"
+      }
+    },
+    {
+      "term": "Transfer of digit to replace absent thumb, same hand",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52614004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transfer of digit to replace absent thumb, same hand (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transfer of digit to replace absent thumb, same hand",
+          "lang": "en"
+        },
+        "id": "52614004"
+      }
+    },
+    {
+      "term": "Follows same drug-related routine every day (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228428007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Follows same drug-related routine every day (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Follows same drug-related routine every day",
+          "lang": "en"
+        },
+        "id": "228428007"
+      }
+    },
+    {
+      "term": "Fall on same level from impact against object (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "269699007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level from impact against object (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level from impact against object",
+          "lang": "en"
+        },
+        "id": "269699007"
+      }
+    },
+    {
+      "term": "Caution - same name - check patient (record artifact)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "717001000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Caution - same name - check patient (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Caution - same name - check patient",
+          "lang": "en"
+        },
+        "id": "717001000000102"
+      }
+    },
+    {
+      "term": "Fall on same level from slipping, tripping or stumbling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217154006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level from slipping, tripping or stumbling (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level from slipping, tripping or stumbling",
+          "lang": "en"
+        },
+        "id": "217154006"
+      }
+    },
+    {
+      "term": "Fall on same level due to impact against another person",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274919008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fall on same level due to impact against another person (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fall on same level due to impact against another person",
+          "lang": "en"
+        },
+        "id": "274919008"
+      }
+    }
+  ]
+}

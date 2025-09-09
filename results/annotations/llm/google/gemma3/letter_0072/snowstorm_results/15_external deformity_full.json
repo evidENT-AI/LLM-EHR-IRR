@@ -1,0 +1,521 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 11
+    },
+    "semanticTags": {
+      "disorder": 4,
+      "procedure": 3,
+      "finding": 2
+    },
+    "language": {
+      "en": 15
+    },
+    "membership": {
+      "1322291000000109": 9,
+      "1127601000000107": 6,
+      "999002451000000109": 1,
+      "1382531000000102": 3,
+      "900000000000497000": 7,
+      "733073007": 9,
+      "999002271000000101": 7,
+      "900000000000489007": 2,
+      "1382401000000109": 15
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 15,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 15,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "External rotational deformity of leg",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278291005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "External rotation of lower limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "External rotation of lower limb",
+          "lang": "en"
+        },
+        "id": "278291005"
+      }
+    },
+    {
+      "term": "Hip joint deformity in external rotation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299237008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hip joint deformity in external rotation (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hip joint deformity in external rotation",
+          "lang": "en"
+        },
+        "id": "299237008"
+      }
+    },
+    {
+      "term": "Acquired deformity of external auditory canal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "721292002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acquired deformity of external auditory canal (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acquired deformity of external auditory canal",
+          "lang": "en"
+        },
+        "id": "721292002"
+      }
+    },
+    {
+      "term": "Hip joint deformity in external rotation (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299237008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hip joint deformity in external rotation (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hip joint deformity in external rotation",
+          "lang": "en"
+        },
+        "id": "299237008"
+      }
+    },
+    {
+      "term": "Acquired deformity of external auditory canal (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "721292002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acquired deformity of external auditory canal (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acquired deformity of external auditory canal",
+          "lang": "en"
+        },
+        "id": "721292002"
+      }
+    },
+    {
+      "term": "Implantation of externally adjustable spinal deformity correction system",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "963391000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Implantation of externally adjustable spinal deformity correction system (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Implantation of externally adjustable spinal deformity correction system",
+          "lang": "en"
+        },
+        "id": "963391000000105"
+      }
+    },
+    {
+      "term": "External adjustment of externally adjustable spinal deformity correction system",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "963401000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "External adjustment of externally adjustable spinal deformity correction system (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "External adjustment of externally adjustable spinal deformity correction system",
+          "lang": "en"
+        },
+        "id": "963401000000108"
+      }
+    },
+    {
+      "term": "Surgical distraction of externally adjustable spinal deformity correction system",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773133007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surgical distraction of externally adjustable spinal deformity correction system (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surgical distraction of externally adjustable spinal deformity correction system",
+          "lang": "en"
+        },
+        "id": "773133007"
+      }
+    },
+    {
+      "term": "Implantation of externally adjustable spinal deformity correction system (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "963391000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Implantation of externally adjustable spinal deformity correction system (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Implantation of externally adjustable spinal deformity correction system",
+          "lang": "en"
+        },
+        "id": "963391000000105"
+      }
+    },
+    {
+      "term": "External adjustment of externally adjustable spinal deformity correction system (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "963401000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "External adjustment of externally adjustable spinal deformity correction system (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "External adjustment of externally adjustable spinal deformity correction system",
+          "lang": "en"
+        },
+        "id": "963401000000108"
+      }
+    },
+    {
+      "term": "Surgical distraction of externally adjustable spinal deformity correction system (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773133007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surgical distraction of externally adjustable spinal deformity correction system (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surgical distraction of externally adjustable spinal deformity correction system",
+          "lang": "en"
+        },
+        "id": "773133007"
+      }
+    },
+    {
+      "term": "A very rare variant of acrofacial dysostosis with characteristics of mandibulofacial dysostosis and limb anomalies. It has been described in less than ten patients. The mandibulofacial dysostosis consists of retrognathism, complete or occult posterior cleft palate and anomalies of the external ears. Limb anomalies consist of split-foot deformity with syndactyly of some toes. The condition is transmitted as an autosomal dominant trait with variable penetrance and expressivity.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "724069009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Patterson Stevenson Fontaine syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Patterson Stevenson Fontaine syndrome",
+          "lang": "en"
+        },
+        "id": "724069009"
+      }
+    },
+    {
+      "term": "A rare mitochondrial oxidative phosphorylation disorder due to nuclear deoxyribonucleic acid anomalies. The disease is characterised by progressive external ophthalmoplegia without diplopia, cerebellar atrophy, proximal skeletal muscle weakness with generalised muscle wasting, profound emaciation, respiratory failure, spinal deformity and facial muscle weakness (manifesting with ptosis, dysphonia, dysphagia and nasal speech). Intellectual disability, gastrointestinal symptoms (nausea, abdominal fullness, and loss of appetite), dilated cardiomyopathy and renal colic have also been reported.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "764733009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Progressive external ophthalmoplegia, myopathy, emaciation syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Progressive external ophthalmoplegia, myopathy, emaciation syndrome",
+          "lang": "en"
+        },
+        "id": "764733009"
+      }
+    },
+    {
+      "term": "A rare mitochondrial oxidative phosphorylation disorder due to nuclear deoxyribonucleic acid anomalies. The disease is characterized by progressive external ophthalmoplegia without diplopia, cerebellar atrophy, proximal skeletal muscle weakness with generalized muscle wasting, profound emaciation, respiratory failure, spinal deformity and facial muscle weakness (manifesting with ptosis, dysphonia, dysphagia and nasal speech). Intellectual disability, gastrointestinal symptoms (nausea, abdominal fullness, and loss of appetite), dilated cardiomyopathy and renal colic have also been reported.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "764733009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Progressive external ophthalmoplegia, myopathy, emaciation syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Progressive external ophthalmoplegia, myopathy, emaciation syndrome",
+          "lang": "en"
+        },
+        "id": "764733009"
+      }
+    },
+    {
+      "term": "A rare developmental defect during embryogenesis syndrome with characteristics of congenital manifestations of both oculo-auriculo-vertebral spectrum and caudal regression sequence. Phenotype is highly variable but patients typically present facial dysmorphism (including asymmetry, hypertelorism), auricular abnormalities (for example preauricular tags, microtia, absence of middle ear ossicles), skeletal malformations (hemivertebrae, hip dislocation, sacral agenesis/dysplasia, talipes equinovarus, flexion deformity of lower limbs), cardiac defects (dextrocardia, septal defects), renal and genitourinary anomalies (such as renal agenesis/dysplasia, abnormal external genitalia) along with anal anomalies such as anal atresia and rectovesical fistula.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "765755006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Axial mesodermal dysplasia spectrum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Axial mesodermal dysplasia spectrum",
+          "lang": "en"
+        },
+        "id": "765755006"
+      }
+    }
+  ]
+}

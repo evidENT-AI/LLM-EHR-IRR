@@ -1,0 +1,1571 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000012004": 2,
+      "999000011000001104": 80,
+      "999000011000000103": 23,
+      "999000041000000102": 3,
+      "900000000000207008": 203
+    },
+    "semanticTags": {
+      "occupation": 1,
+      "organism": 97,
+      "assessment scale": 4,
+      "medicinal product": 1,
+      "substance": 11,
+      "observable entity": 4,
+      "procedure": 9,
+      "finding": 15,
+      "qualifier value": 2,
+      "disorder": 15,
+      "disposition": 1,
+      "physical object": 42,
+      "attribute": 1,
+      "event": 9
+    },
+    "language": {
+      "en": 311
+    },
+    "membership": {
+      "1322291000000109": 103,
+      "999004331000000102": 13,
+      "999000551000001106": 22,
+      "999002271000000101": 70,
+      "991471000000104": 2,
+      "1129311000000109": 1,
+      "1382451000000105": 9,
+      "900000000000497000": 156,
+      "1382401000000109": 6,
+      "1382471000000101": 1,
+      "991411000000109": 1,
+      "1127601000000107": 30,
+      "999000031000001105": 38,
+      "1382531000000102": 12,
+      "999000541000001108": 16,
+      "1128991000000109": 1,
+      "1129291000000108": 1,
+      "999001571000000109": 1,
+      "900000000000489007": 12,
+      "999000401000000107": 42,
+      "1129301000000107": 9,
+      "1024501000000108": 1,
+      "733073007": 172,
+      "2222181000000106": 1,
+      "30931000001101": 12
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000012004": {
+      "conceptId": "900000000000012004",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT model component module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT model component",
+        "lang": "en"
+      },
+      "id": "900000000000012004"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "991471000000104": {
+      "conceptId": "991471000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental health assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental health assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "991471000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1129311000000109": {
+      "conceptId": "1129311000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Frailty assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Frailty assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "1129311000000109"
+    },
+    "1382451000000105": {
+      "conceptId": "1382451000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care coded findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care coded findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1382451000000105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "1382471000000101": {
+      "conceptId": "1382471000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care assessment tool observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care assessment tool observables simple reference set",
+        "lang": "en"
+      },
+      "id": "1382471000000101"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "1129291000000108": {
+      "conceptId": "1129291000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Frailty assessment procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Frailty assessment procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "1129291000000108"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "1129301000000107": {
+      "conceptId": "1129301000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Frailty assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Frailty assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1129301000000107"
+    },
+    "1024501000000108": {
+      "conceptId": "1024501000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care injury activity type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care injury activity type simple reference set",
+        "lang": "en"
+      },
+      "id": "1024501000000108"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "2222181000000106": {
+      "conceptId": "2222181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric infectious disease disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric infectious disease disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222181000000106"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 311,
+  "totalPages": 7,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Rock oil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11699009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Petroleum (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Petroleum",
+          "lang": "en"
+        },
+        "id": "11699009"
+      }
+    },
+    {
+      "term": "Rockhead",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "85928005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bothragonus swani (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bothragonus swani",
+          "lang": "en"
+        },
+        "id": "85928005"
+      }
+    },
+    {
+      "term": "Rockfall",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1287965001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rockfall (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rockfall",
+          "lang": "en"
+        },
+        "id": "1287965001"
+      }
+    },
+    {
+      "term": "Rock sole",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20709000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lepidopsetta bilineata (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lepidopsetta bilineata",
+          "lang": "en"
+        },
+        "id": "20709000"
+      }
+    },
+    {
+      "term": "Rock bass",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "85797000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ambloplites rupestris (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ambloplites rupestris",
+          "lang": "en"
+        },
+        "id": "85797000"
+      }
+    },
+    {
+      "term": "Rock hind",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "112570007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Epinephelus adscensionis (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Epinephelus adscensionis",
+          "lang": "en"
+        },
+        "id": "112570007"
+      }
+    },
+    {
+      "term": "Rock fern",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64107002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cheilanthes sieberi (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cheilanthes sieberi",
+          "lang": "en"
+        },
+        "id": "64107002"
+      }
+    },
+    {
+      "term": "Rock wren",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "69393001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rock wren (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rock wren",
+          "lang": "en"
+        },
+        "id": "69393001"
+      }
+    },
+    {
+      "term": "Rock cake",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "226661000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rock cake (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rock cake",
+          "lang": "en"
+        },
+        "id": "226661000"
+      }
+    },
+    {
+      "term": "Rock dove",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409912008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Columba livia (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rock dove",
+          "lang": "en"
+        },
+        "id": "409912008"
+      }
+    },
+    {
+      "term": "Rock fever",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "75702008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Brucellosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Brucellosis",
+          "lang": "en"
+        },
+        "id": "75702008"
+      }
+    },
+    {
+      "term": "Rock hyrax",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "406674001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Procavia capensis (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rock hyrax",
+          "lang": "en"
+        },
+        "id": "406674001"
+      }
+    },
+    {
+      "term": "Rock wrasse",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11969003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Halichoeres semicinctus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Halichoeres semicinctus",
+          "lang": "en"
+        },
+        "id": "11969003"
+      }
+    },
+    {
+      "term": "Rock gunnel",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "12702004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pholis gunnellus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pholis gunnellus",
+          "lang": "en"
+        },
+        "id": "12702004"
+      }
+    },
+    {
+      "term": "Rock python",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "24114004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Genus Liasis (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Genus Liasis",
+          "lang": "en"
+        },
+        "id": "24114004"
+      }
+    },
+    {
+      "term": "Rock darter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30868006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Etheostoma rupestre (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Etheostoma rupestre",
+          "lang": "en"
+        },
+        "id": "30868006"
+      }
+    },
+    {
+      "term": "Rock beauty",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "32676004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Holacanthus tricolor (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Holacanthus tricolor",
+          "lang": "en"
+        },
+        "id": "32676004"
+      }
+    },
+    {
+      "term": "Rocket fuel",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77132009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rocket fuel (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rocket fuel",
+          "lang": "en"
+        },
+        "id": "77132009"
+      }
+    },
+    {
+      "term": "Rock salmon",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "227097000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rock salmon (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rock salmon",
+          "lang": "en"
+        },
+        "id": "227097000"
+      }
+    },
+    {
+      "term": "Rock parrot",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "425387000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neophema petrophila (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neophema petrophila",
+          "lang": "en"
+        },
+        "id": "425387000"
+      }
+    },
+    {
+      "term": "Rock pigeon",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409912008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Columba livia (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rock dove",
+          "lang": "en"
+        },
+        "id": "409912008"
+      }
+    },
+    {
+      "term": "Rockcut goby",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "18467002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gobiosoma grosvenori (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gobiosoma grosvenori",
+          "lang": "en"
+        },
+        "id": "18467002"
+      }
+    },
+    {
+      "term": "Body rocking",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30189004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Repetitive rocking movements (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Repetitive rocking movements",
+          "lang": "en"
+        },
+        "id": "30189004"
+      }
+    },
+    {
+      "term": "Rock wallaby",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "41023008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Petrogale (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Petrogale",
+          "lang": "en"
+        },
+        "id": "41023008"
+      }
+    },
+    {
+      "term": "Rock sparrow",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449556001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Petronia petronia (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rock sparrow",
+          "lang": "en"
+        },
+        "id": "449556001"
+      }
+    },
+    {
+      "term": "Blue rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5437009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes mystinus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes mystinus",
+          "lang": "en"
+        },
+        "id": "5437009"
+      }
+    },
+    {
+      "term": "Kelp rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11292009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes atrovirens (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes atrovirens",
+          "lang": "en"
+        },
+        "id": "11292009"
+      }
+    },
+    {
+      "term": "Yellow rocket",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16053007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Barbarea vulgaris (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Barbarea vulgaris",
+          "lang": "en"
+        },
+        "id": "16053007"
+      }
+    },
+    {
+      "term": "Rosy rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "112585001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes rosaceus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes rosaceus",
+          "lang": "en"
+        },
+        "id": "112585001"
+      }
+    },
+    {
+      "term": "Rock centaury",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "7609006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Centaurium beyrichii (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Centaurium beyrichii",
+          "lang": "en"
+        },
+        "id": "7609006"
+      }
+    },
+    {
+      "term": "Flag rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35291001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes rubrivinctus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes rubrivinctus",
+          "lang": "en"
+        },
+        "id": "35291001"
+      }
+    },
+    {
+      "term": "Rock sea bass",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "42437009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Centropristis philadelphica (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Centropristis philadelphica",
+          "lang": "en"
+        },
+        "id": "42437009"
+      }
+    },
+    {
+      "term": "Bank rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77174004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes rufus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes rufus",
+          "lang": "en"
+        },
+        "id": "77174004"
+      }
+    },
+    {
+      "term": "Pink rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "67099000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes eos (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes eos",
+          "lang": "en"
+        },
+        "id": "67099000"
+      }
+    },
+    {
+      "term": "Denture rocks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278630001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Denture unstable (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Denture unstable",
+          "lang": "en"
+        },
+        "id": "278630001"
+      }
+    },
+    {
+      "term": "Rockall score",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "450733005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rockall score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rockall score",
+          "lang": "en"
+        },
+        "id": "450733005"
+      }
+    },
+    {
+      "term": "Rockall score",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "450731007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rockall score (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rockall score",
+          "lang": "en"
+        },
+        "id": "450731007"
+      }
+    },
+    {
+      "term": "Brown rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "23621007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes auriculatus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes auriculatus",
+          "lang": "en"
+        },
+        "id": "23621007"
+      }
+    },
+    {
+      "term": "Black rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25120007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes melanops (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes melanops",
+          "lang": "en"
+        },
+        "id": "25120007"
+      }
+    },
+    {
+      "term": "China rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "112584002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes nebulosus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes nebulosus",
+          "lang": "en"
+        },
+        "id": "112584002"
+      }
+    },
+    {
+      "term": "Pygmy rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "112586000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes wilsoni (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes wilsoni",
+          "lang": "en"
+        },
+        "id": "112586000"
+      }
+    },
+    {
+      "term": "Tiger rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31661009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes nigrocinctus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes nigrocinctus",
+          "lang": "en"
+        },
+        "id": "31661009"
+      }
+    },
+    {
+      "term": "Grass rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49170008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes rastrelliger (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes rastrelliger",
+          "lang": "en"
+        },
+        "id": "49170008"
+      }
+    },
+    {
+      "term": "Widow rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34297007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes entomelas (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes entomelas",
+          "lang": "en"
+        },
+        "id": "34297007"
+      }
+    },
+    {
+      "term": "Rock greenling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35450001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hexagrammos lagocephalus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hexagrammos lagocephalus",
+          "lang": "en"
+        },
+        "id": "35450001"
+      }
+    },
+    {
+      "term": "Dusky rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62525002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes ciliatus (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes ciliatus",
+          "lang": "en"
+        },
+        "id": "62525002"
+      }
+    },
+    {
+      "term": "Olive rockfish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "70259005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sebastes serranoides (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sebastes serranoides",
+          "lang": "en"
+        },
+        "id": "70259005"
+      }
+    },
+    {
+      "term": "Rock partridge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "423211008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alectoris graeca (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alectoris graeca",
+          "lang": "en"
+        },
+        "id": "423211008"
+      }
+    },
+    {
+      "term": "Rock sandpiper",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "422884005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Calidris ptilocnemis (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Calidris ptilocnemis",
+          "lang": "en"
+        },
+        "id": "422884005"
+      }
+    },
+    {
+      "term": "Rock ptarmigan",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "425016007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lagopus muta (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lagopus muta",
+          "lang": "en"
+        },
+        "id": "425016007"
+      }
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "999000041000000102": 6
+    },
+    "semanticTags": {
+      "observable entity": 5
+    },
+    "language": {
+      "en": 10
+    },
+    "membership": {
+      "1322291000000109": 5,
+      "733073007": 5,
+      "999002881000000100": 5
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    }
+  },
+  "totalElements": 10,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 10,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Electrolytes level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "996581000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Electrolytes level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Electrolytes level",
+          "lang": "en"
+        },
+        "id": "996581000000109"
+      }
+    },
+    {
+      "term": "Urine electrolytes",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1003221000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Urine electrolytes (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine electrolytes",
+          "lang": "en"
+        },
+        "id": "1003221000000107"
+      }
+    },
+    {
+      "term": "Serum electrolytes level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1000641000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Serum electrolytes level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serum electrolytes level",
+          "lang": "en"
+        },
+        "id": "1000641000000106"
+      }
+    },
+    {
+      "term": "24 hour urine electrolytes",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "993281000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "24 hour urine electrolytes (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "24 hour urine electrolytes",
+          "lang": "en"
+        },
+        "id": "993281000000102"
+      }
+    },
+    {
+      "term": "Urea and electrolytes level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1000971000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Urea and electrolytes level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urea and electrolytes level",
+          "lang": "en"
+        },
+        "id": "1000971000000107"
+      }
+    },
+    {
+      "term": "Urine electrolytes (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1003221000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Urine electrolytes (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine electrolytes",
+          "lang": "en"
+        },
+        "id": "1003221000000107"
+      }
+    },
+    {
+      "term": "Electrolytes level (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "996581000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Electrolytes level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Electrolytes level",
+          "lang": "en"
+        },
+        "id": "996581000000109"
+      }
+    },
+    {
+      "term": "Serum electrolytes level (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "1000641000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Serum electrolytes level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serum electrolytes level",
+          "lang": "en"
+        },
+        "id": "1000641000000106"
+      }
+    },
+    {
+      "term": "24 hour urine electrolytes (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "993281000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "24 hour urine electrolytes (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "24 hour urine electrolytes",
+          "lang": "en"
+        },
+        "id": "993281000000102"
+      }
+    },
+    {
+      "term": "Urea and electrolytes level (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1000971000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Urea and electrolytes level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urea and electrolytes level",
+          "lang": "en"
+        },
+        "id": "1000971000000107"
+      }
+    }
+  ]
+}

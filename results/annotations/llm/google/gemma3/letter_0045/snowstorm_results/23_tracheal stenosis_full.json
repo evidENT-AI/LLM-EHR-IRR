@@ -1,0 +1,509 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 16
+    },
+    "semanticTags": {
+      "disorder": 6,
+      "procedure": 3
+    },
+    "language": {
+      "en": 16
+    },
+    "membership": {
+      "1322291000000109": 9,
+      "1127601000000107": 6,
+      "1382531000000102": 3,
+      "900000000000497000": 9,
+      "2181221000000101": 1,
+      "999002271000000101": 17,
+      "733073007": 9,
+      "1382401000000109": 5
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 16,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 16,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Tracheal stenosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11296007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stenosis of trachea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stenosis of trachea",
+          "lang": "en"
+        },
+        "id": "11296007"
+      }
+    },
+    {
+      "term": "Acquired tracheal stenosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233786002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acquired tracheal stenosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acquired tracheal stenosis",
+          "lang": "en"
+        },
+        "id": "233786002"
+      }
+    },
+    {
+      "term": "Segmental tracheal stenosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56440001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Segmental tracheal stenosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Segmental tracheal stenosis",
+          "lang": "en"
+        },
+        "id": "56440001"
+      }
+    },
+    {
+      "term": "Congenital tracheal stenosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9660004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital stenosis of trachea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital stenosis of trachea",
+          "lang": "en"
+        },
+        "id": "9660004"
+      }
+    },
+    {
+      "term": "Resection of tracheal stenosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232605004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Resection of tracheal stenosis (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Resection of tracheal stenosis",
+          "lang": "en"
+        },
+        "id": "232605004"
+      }
+    },
+    {
+      "term": "Acquired tracheal stenosis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233786002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acquired tracheal stenosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acquired tracheal stenosis",
+          "lang": "en"
+        },
+        "id": "233786002"
+      }
+    },
+    {
+      "term": "Segmental tracheal stenosis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56440001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Segmental tracheal stenosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Segmental tracheal stenosis",
+          "lang": "en"
+        },
+        "id": "56440001"
+      }
+    },
+    {
+      "term": "Tracheal stenosis following tracheostomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10041001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheal stenosis following tracheostomy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheal stenosis following tracheostomy",
+          "lang": "en"
+        },
+        "id": "10041001"
+      }
+    },
+    {
+      "term": "Resection of tracheal stenosis (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232605004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Resection of tracheal stenosis (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Resection of tracheal stenosis",
+          "lang": "en"
+        },
+        "id": "232605004"
+      }
+    },
+    {
+      "term": "Congenital stenosis of trachea due to tracheal web",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "447811005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital stenosis of trachea due to tracheal web (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital stenosis of trachea due to tracheal web",
+          "lang": "en"
+        },
+        "id": "447811005"
+      }
+    },
+    {
+      "term": "Tracheal stenosis following tracheostomy (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10041001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheal stenosis following tracheostomy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheal stenosis following tracheostomy",
+          "lang": "en"
+        },
+        "id": "10041001"
+      }
+    },
+    {
+      "term": "Congenital stenosis of trachea due to tracheal web (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "447811005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital stenosis of trachea due to tracheal web (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital stenosis of trachea due to tracheal web",
+          "lang": "en"
+        },
+        "id": "447811005"
+      }
+    },
+    {
+      "term": "Excision of tracheal stenosis and anastomosis by cervical approach",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54273007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of tracheal stenosis and anastomosis by cervical approach (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of tracheal stenosis and anastomosis by cervical approach",
+          "lang": "en"
+        },
+        "id": "54273007"
+      }
+    },
+    {
+      "term": "Excision of tracheal stenosis and anastomosis by cervicothoracic approach",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "41406006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of tracheal stenosis and anastomosis by cervicothoracic approach (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of tracheal stenosis and anastomosis by cervicothoracic approach",
+          "lang": "en"
+        },
+        "id": "41406006"
+      }
+    },
+    {
+      "term": "Excision of tracheal stenosis and anastomosis by cervical approach (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54273007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of tracheal stenosis and anastomosis by cervical approach (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of tracheal stenosis and anastomosis by cervical approach",
+          "lang": "en"
+        },
+        "id": "54273007"
+      }
+    },
+    {
+      "term": "Excision of tracheal stenosis and anastomosis by cervicothoracic approach (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "41406006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of tracheal stenosis and anastomosis by cervicothoracic approach (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of tracheal stenosis and anastomosis by cervicothoracic approach",
+          "lang": "en"
+        },
+        "id": "41406006"
+      }
+    }
+  ]
+}

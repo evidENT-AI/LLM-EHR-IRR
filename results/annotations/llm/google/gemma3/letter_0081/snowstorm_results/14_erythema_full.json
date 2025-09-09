@@ -1,0 +1,912 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 36
+    },
+    "semanticTags": {
+      "finding": 17
+    },
+    "language": {
+      "en": 36
+    },
+    "membership": {
+      "1322291000000109": 17,
+      "1127601000000107": 16,
+      "999002571000000104": 1,
+      "900000000000497000": 17,
+      "991401000000107": 1,
+      "999002271000000101": 26,
+      "733073007": 17
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "991401000000107": {
+      "conceptId": "991401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care presenting complaints or issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care presenting complaints or issues simple reference set",
+        "lang": "en"
+      },
+      "id": "991401000000107"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 36,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 36,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Erythema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247441003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erythema (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erythema",
+          "lang": "en"
+        },
+        "id": "247441003"
+      }
+    },
+    {
+      "term": "Acute erythema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125115006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute erythema (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute erythema",
+          "lang": "en"
+        },
+        "id": "125115006"
+      }
+    },
+    {
+      "term": "Chronic erythema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125116007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic erythema (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic erythema",
+          "lang": "en"
+        },
+        "id": "125116007"
+      }
+    },
+    {
+      "term": "Erythema of breast",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "290070001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Red breast (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Red breast",
+          "lang": "en"
+        },
+        "id": "290070001"
+      }
+    },
+    {
+      "term": "Erythema of nipple",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "290095000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Red nipple (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Red nipple",
+          "lang": "en"
+        },
+        "id": "290095000"
+      }
+    },
+    {
+      "term": "Erythema (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247441003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erythema (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erythema",
+          "lang": "en"
+        },
+        "id": "247441003"
+      }
+    },
+    {
+      "term": "Idiopathic erythema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125117003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Idiopathic erythema (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Idiopathic erythema",
+          "lang": "en"
+        },
+        "id": "125117003"
+      }
+    },
+    {
+      "term": "Erythema over mastoid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306933004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erythema over mastoid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erythema over mastoid",
+          "lang": "en"
+        },
+        "id": "306933004"
+      }
+    },
+    {
+      "term": "Erythematous ear canal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277172003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erythematous ear canal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erythematous ear canal",
+          "lang": "en"
+        },
+        "id": "277172003"
+      }
+    },
+    {
+      "term": "Erythema - observation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247441003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erythema (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erythema",
+          "lang": "en"
+        },
+        "id": "247441003"
+      }
+    },
+    {
+      "term": "O/E - erythematous rash",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "135888007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination erythematous rash (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - erythematous rash",
+          "lang": "en"
+        },
+        "id": "135888007"
+      }
+    },
+    {
+      "term": "Vocal cords erythematous",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277249005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vocal cords erythematous (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vocal cords erythematous",
+          "lang": "en"
+        },
+        "id": "277249005"
+      }
+    },
+    {
+      "term": "Acute erythema (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125115006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute erythema (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute erythema",
+          "lang": "en"
+        },
+        "id": "125115006"
+      }
+    },
+    {
+      "term": "Chronic erythema (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125116007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic erythema (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic erythema",
+          "lang": "en"
+        },
+        "id": "125116007"
+      }
+    },
+    {
+      "term": "Erythema over frontal sinus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277243006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erythema over frontal sinus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erythema over frontal sinus",
+          "lang": "en"
+        },
+        "id": "277243006"
+      }
+    },
+    {
+      "term": "Erythema over maxillary sinus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277240009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erythema over maxillary sinus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erythema over maxillary sinus",
+          "lang": "en"
+        },
+        "id": "277240009"
+      }
+    },
+    {
+      "term": "Idiopathic erythema (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125117003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Idiopathic erythema (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Idiopathic erythema",
+          "lang": "en"
+        },
+        "id": "125117003"
+      }
+    },
+    {
+      "term": "Erythema over mastoid (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306933004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erythema over mastoid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erythema over mastoid",
+          "lang": "en"
+        },
+        "id": "306933004"
+      }
+    },
+    {
+      "term": "Erythematous ear canal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277172003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erythematous ear canal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erythematous ear canal",
+          "lang": "en"
+        },
+        "id": "277172003"
+      }
+    },
+    {
+      "term": "On examination erythematous rash",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "135888007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination erythematous rash (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - erythematous rash",
+          "lang": "en"
+        },
+        "id": "135888007"
+      }
+    },
+    {
+      "term": "Lupus erythematosus cells present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "165927006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lupus erythematosus cells present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "L.E. cells present",
+          "lang": "en"
+        },
+        "id": "165927006"
+      }
+    },
+    {
+      "term": "Vocal cords erythematous (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277249005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vocal cords erythematous (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vocal cords erythematous",
+          "lang": "en"
+        },
+        "id": "277249005"
+      }
+    },
+    {
+      "term": "On examination - erythematous rash",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "135888007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination erythematous rash (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - erythematous rash",
+          "lang": "en"
+        },
+        "id": "135888007"
+      }
+    },
+    {
+      "term": "Erythema over frontal sinus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277243006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erythema over frontal sinus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erythema over frontal sinus",
+          "lang": "en"
+        },
+        "id": "277243006"
+      }
+    },
+    {
+      "term": "Lupus erythematosus (LE) cells present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "165927006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lupus erythematosus cells present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "L.E. cells present",
+          "lang": "en"
+        },
+        "id": "165927006"
+      }
+    },
+    {
+      "term": "Erythema over maxillary sinus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277240009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erythema over maxillary sinus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erythema over maxillary sinus",
+          "lang": "en"
+        },
+        "id": "277240009"
+      }
+    },
+    {
+      "term": "Finding of Lupus Erythematosus cell level",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "365602000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of Lupus Erythematosus cell level (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "L.E. cell level - finding",
+          "lang": "en"
+        },
+        "id": "365602000"
+      }
+    },
+    {
+      "term": "Synovial fluid: lupus erythematosus cells",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "167901007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Synovial fluid: lupus erythematosus cells (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Synovial fluid: LE cells",
+          "lang": "en"
+        },
+        "id": "167901007"
+      }
+    },
+    {
+      "term": "On examination erythematous rash (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "135888007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination erythematous rash (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - erythematous rash",
+          "lang": "en"
+        },
+        "id": "135888007"
+      }
+    },
+    {
+      "term": "Lupus erythematosus cells present (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "165927006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lupus erythematosus cells present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "L.E. cells present",
+          "lang": "en"
+        },
+        "id": "165927006"
+      }
+    },
+    {
+      "term": "Finding of Lupus Erythematosus cell level (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "365602000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of Lupus Erythematosus cell level (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "L.E. cell level - finding",
+          "lang": "en"
+        },
+        "id": "365602000"
+      }
+    },
+    {
+      "term": "Synovial fluid: lupus erythematosus cells (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "167901007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Synovial fluid: lupus erythematosus cells (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Synovial fluid: LE cells",
+          "lang": "en"
+        },
+        "id": "167901007"
+      }
+    },
+    {
+      "term": "Subcutaneous nodule associated with lupus erythematosus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403504002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subcutaneous nodule associated with lupus erythematosus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subcutaneous nodule associated with lupus erythematosus",
+          "lang": "en"
+        },
+        "id": "403504002"
+      }
+    },
+    {
+      "term": "Subcutaneous nodule associated with lupus erythematosus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403504002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subcutaneous nodule associated with lupus erythematosus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subcutaneous nodule associated with lupus erythematosus",
+          "lang": "en"
+        },
+        "id": "403504002"
+      }
+    },
+    {
+      "term": "Impairment or altered function of related components of the body framework system that is characterized in early stages by one or more of the following: pain, erythema, a palpable sense of relative warmth, moisture and bogginess, vasodilation, edema, tenderness, and tissue contraction.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405266003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute somatic dysfunction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute somatic dysfunction",
+          "lang": "en"
+        },
+        "id": "405266003"
+      }
+    },
+    {
+      "term": "Impairment or altered function of related components of the body framework system that is characterised in early stages by one or more of the following: pain, erythema, a palpable sense of relative warmth, moisture and bogginess, vasodilation, oedema, tenderness, and tissue contraction.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405266003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute somatic dysfunction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute somatic dysfunction",
+          "lang": "en"
+        },
+        "id": "405266003"
+      }
+    }
+  ]
+}

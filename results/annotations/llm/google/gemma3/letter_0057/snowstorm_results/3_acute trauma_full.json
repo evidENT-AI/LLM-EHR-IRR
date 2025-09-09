@@ -1,0 +1,878 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 25
+    },
+    "semanticTags": {
+      "disorder": 13,
+      "procedure": 1
+    },
+    "language": {
+      "en": 29
+    },
+    "membership": {
+      "1322291000000109": 14,
+      "999004331000000102": 2,
+      "991411000000109": 1,
+      "1127601000000107": 13,
+      "1382531000000102": 11,
+      "2181181000000106": 2,
+      "999002271000000101": 19,
+      "999001061000000106": 2,
+      "900000000000489007": 1,
+      "900000000000497000": 12,
+      "1127821000000102": 2,
+      "733073007": 14,
+      "1382401000000109": 6
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1127821000000102": {
+      "conceptId": "1127821000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Acute kidney injury findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Acute kidney injury findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127821000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 29,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 29,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Traumatic acute pancreatitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235950005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic acute pancreatitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic acute pancreatitis",
+          "lang": "en"
+        },
+        "id": "235950005"
+      }
+    },
+    {
+      "term": "Acute post-trauma stress state",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "192042008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute post-trauma stress state (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute post-trauma stress state",
+          "lang": "en"
+        },
+        "id": "192042008"
+      }
+    },
+    {
+      "term": "Acute traumatic otitis externa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232235004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute traumatic otitis externa (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute traumatic otitis externa",
+          "lang": "en"
+        },
+        "id": "232235004"
+      }
+    },
+    {
+      "term": "Acute kidney injury due to trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "726541005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute kidney injury due to trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute kidney injury due to trauma",
+          "lang": "en"
+        },
+        "id": "726541005"
+      }
+    },
+    {
+      "term": "Acute non-traumatic subdural hygroma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16916541000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute non-traumatic subdural hygroma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute non-traumatic subdural hygroma",
+          "lang": "en"
+        },
+        "id": "16916541000119107"
+      }
+    },
+    {
+      "term": "Post-traumatic acute tubular necrosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236427002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-traumatic acute tubular necrosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-traumatic acute tubular necrosis",
+          "lang": "en"
+        },
+        "id": "236427002"
+      }
+    },
+    {
+      "term": "Acute confusional state, post-traumatic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "191501001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute confusional state, post-traumatic (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute confusional state, post-traumatic",
+          "lang": "en"
+        },
+        "id": "191501001"
+      }
+    },
+    {
+      "term": "Traumatic acute pancreatitis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235950005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic acute pancreatitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic acute pancreatitis",
+          "lang": "en"
+        },
+        "id": "235950005"
+      }
+    },
+    {
+      "term": "AKI (acute kidney injury) due to trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "726541005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute kidney injury due to trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute kidney injury due to trauma",
+          "lang": "en"
+        },
+        "id": "726541005"
+      }
+    },
+    {
+      "term": "Acute post-trauma stress state (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "192042008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute post-trauma stress state (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute post-trauma stress state",
+          "lang": "en"
+        },
+        "id": "192042008"
+      }
+    },
+    {
+      "term": "Acute traumatic otitis externa (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232235004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute traumatic otitis externa (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute traumatic otitis externa",
+          "lang": "en"
+        },
+        "id": "232235004"
+      }
+    },
+    {
+      "term": "Acute kidney injury due to trauma (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "726541005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute kidney injury due to trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute kidney injury due to trauma",
+          "lang": "en"
+        },
+        "id": "726541005"
+      }
+    },
+    {
+      "term": "Acute headache due to traumatic injury of head",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "762353009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute headache due to traumatic injury of head (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute headache due to traumatic injury of head",
+          "lang": "en"
+        },
+        "id": "762353009"
+      }
+    },
+    {
+      "term": "Repair of traumatic diaphragmatic hernia, acute",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78824001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Repair of traumatic diaphragmatic hernia, acute (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Repair of traumatic diaphragmatic hernia, acute",
+          "lang": "en"
+        },
+        "id": "78824001"
+      }
+    },
+    {
+      "term": "Acute non-traumatic subdural hygroma (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16916541000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute non-traumatic subdural hygroma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute non-traumatic subdural hygroma",
+          "lang": "en"
+        },
+        "id": "16916541000119107"
+      }
+    },
+    {
+      "term": "Post-traumatic acute tubular necrosis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236427002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-traumatic acute tubular necrosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-traumatic acute tubular necrosis",
+          "lang": "en"
+        },
+        "id": "236427002"
+      }
+    },
+    {
+      "term": "Acute confusional state, post-traumatic (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "191501001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute confusional state, post-traumatic (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute confusional state, post-traumatic",
+          "lang": "en"
+        },
+        "id": "191501001"
+      }
+    },
+    {
+      "term": "Non-traumatic acute slipped upper femoral epiphysis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "203374004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-traumatic acute slipped upper femoral epiphysis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-traumatic acute slipped upper femoral epiphysis",
+          "lang": "en"
+        },
+        "id": "203374004"
+      }
+    },
+    {
+      "term": "Acute renal failure due to traumatic rhabdomyolysis",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "847851000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Acute renal failure due to traumatic rhabdomyolysis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute renal failure due to traumatic rhabdomyolysis",
+          "lang": "en"
+        },
+        "id": "847851000000101"
+      }
+    },
+    {
+      "term": "Acute renal failure due to non-traumatic rhabdomyolysis",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "841961000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Acute renal failure due to non-traumatic rhabdomyolysis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute renal failure due to non-traumatic rhabdomyolysis",
+          "lang": "en"
+        },
+        "id": "841961000000100"
+      }
+    },
+    {
+      "term": "Acute headache due to traumatic injury of head (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "762353009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute headache due to traumatic injury of head (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute headache due to traumatic injury of head",
+          "lang": "en"
+        },
+        "id": "762353009"
+      }
+    },
+    {
+      "term": "Repair of traumatic diaphragmatic hernia, acute (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78824001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Repair of traumatic diaphragmatic hernia, acute (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Repair of traumatic diaphragmatic hernia, acute",
+          "lang": "en"
+        },
+        "id": "78824001"
+      }
+    },
+    {
+      "term": "Non-traumatic acute-on-chronic slipped upper femoral epiphysis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "203375003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-traumatic acute-on-chronic slipped upper femoral epiphysis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-traumatic acute-on-chronic slipped upper femoral epiphysis",
+          "lang": "en"
+        },
+        "id": "203375003"
+      }
+    },
+    {
+      "term": "Non-traumatic acute slipped upper femoral epiphysis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "203374004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-traumatic acute slipped upper femoral epiphysis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-traumatic acute slipped upper femoral epiphysis",
+          "lang": "en"
+        },
+        "id": "203374004"
+      }
+    },
+    {
+      "term": "Acute renal failure due to traumatic rhabdomyolysis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "847851000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Acute renal failure due to traumatic rhabdomyolysis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute renal failure due to traumatic rhabdomyolysis",
+          "lang": "en"
+        },
+        "id": "847851000000101"
+      }
+    },
+    {
+      "term": "Acute renal failure due to non-traumatic rhabdomyolysis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "841961000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Acute renal failure due to non-traumatic rhabdomyolysis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute renal failure due to non-traumatic rhabdomyolysis",
+          "lang": "en"
+        },
+        "id": "841961000000100"
+      }
+    },
+    {
+      "term": "Non-traumatic acute-on-chronic slipped upper femoral epiphysis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "203375003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-traumatic acute-on-chronic slipped upper femoral epiphysis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-traumatic acute-on-chronic slipped upper femoral epiphysis",
+          "lang": "en"
+        },
+        "id": "203375003"
+      }
+    },
+    {
+      "term": "A rare but severe condition caused by a sudden defective production of adrenal steroids (cortisol and aldosterone). It represents an emergency and may occur at any age. Steroid withdrawal is the most common cause in patients with chronic adrenal insufficiency. A precipitating illness, surgery without adrenal support, pregnancy, any acute or chronic disease, or acute trauma are other potential causes of an acute adrenal crisis. The disorder may result from an acute exacerbation of chronic primary adrenal insufficiency. Laboratory exams show signs of adrenal insufficiency (hypoglycemia, hyponatremia and elevated natriuresis, hyperkaliemia, hemoconcentration, hypochloremic metabolic acidosis and functional renal failure) confirmed by hypocortisolemia, increased adrenocorticotropic hormone (ACTH) and an insufficient response to rapid ACTH stimulation testing.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "766986002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute adrenal insufficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute adrenal insufficiency",
+          "lang": "en"
+        },
+        "id": "766986002"
+      }
+    },
+    {
+      "term": "A rare but severe condition caused by a sudden defective production of adrenal steroids (cortisol and aldosterone). It represents an emergency and may occur at any age. Steroid withdrawal is the most common cause in patients with chronic adrenal insufficiency. A precipitating illness, surgery without adrenal support, pregnancy, any acute or chronic disease, or acute trauma are other potential causes of an acute adrenal crisis. The disorder may result from an acute exacerbation of chronic primary adrenal insufficiency. Laboratory exams show signs of adrenal insufficiency (hypoglycaemia, hyponatraemia and elevated natriuresis, hyperkaliaemia, haemoconcentration, hypochloraemic metabolic acidosis and functional renal failure) confirmed by hypocortisolaemia, increased adrenocorticotropic hormone (ACTH) and an insufficient response to rapid ACTH stimulation testing.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "766986002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute adrenal insufficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute adrenal insufficiency",
+          "lang": "en"
+        },
+        "id": "766986002"
+      }
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "labels": {
+    "Sample normal ear, nose, mouth, and throat exam": {
+      "context": "Sample normal ear, nose, mouth, and throat exam.   (Medical Transcription Sample Report)",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "auricles": {
+      "context": "The auricles are normal to palpation and inspection without any surrounding lymphadenitis.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "lymphadenitis": {
+      "context": "The auricles are normal to palpation and inspection without any surrounding lymphadenitis.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "acute trauma": {
+      "context": "There are no signs of acute trauma.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "nose": {
+      "context": "The nose is normal to palpation and inspection externally without evidence of acute trauma.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "auditory canals": {
+      "context": "Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "tympanic membranes": {
+      "context": "Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling. The tympanic membranes are without disruption or infection.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "mass lesion": {
+      "context": "Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling. The tympanic membranes are without disruption or infection.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "inflammation": {
+      "context": "Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling. The tympanic membranes are without disruption or infection.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "swelling": {
+      "context": "Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling. The tympanic membranes are without disruption or infection.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "disruption": {
+      "context": "Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling. The tympanic membranes are without disruption or infection.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "infection": {
+      "context": "Otoscopic examination of the auditory canals and tympanic membranes reveals the auditory canals without signs of mass lesion, inflammation or swelling. The tympanic membranes are without disruption or infection.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "hearing intact": {
+      "context": "Hearing intact bilaterally to normal level speech.",
+      "qualifier": "Test Results",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "nasal mucosa": {
+      "context": "Nasal mucosa, septum and turbinate examination reveals normal mucous membranes without disruption or inflammation.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "septum": {
+      "context": "Nasal mucosa, septum and turbinate examination reveals normal mucous membranes without disruption or inflammation. The septum is without acute traumatic lesions or disruption.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "turbinate": {
+      "context": "Nasal mucosa, septum and turbinate examination reveals normal mucous membranes without disruption or inflammation. The septum is without acute traumatic lesions or disruption. The turbinates are without abnormal swelling.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "unusual rhinorrhea": {
+      "context": "There is no unusual rhinorrhea or bleeding.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "bleeding": {
+      "context": "There is no unusual rhinorrhea or bleeding.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "lips": {
+      "context": "The lips are without infection, mass lesion or traumatic lesions.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "teeth": {
+      "context": "The teeth are intact without obvious signs of infection.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "gingivae": {
+      "context": "The gingivae are normal to palpation and inspection.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "oral mucosa": {
+      "context": "The oral mucosa is normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "salivary glands": {
+      "context": "The salivary glands are without swelling.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "hard palate": {
+      "context": "The hard and soft palates are intact.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "soft palate": {
+      "context": "The hard and soft palates are intact.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "tongue": {
+      "context": "The tongue is without masses or swelling with normal movement.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "tonsils": {
+      "context": "The tonsils are without inflammation.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "posterior pharynx": {
+      "context": "The posterior pharynx is without mass lesion with good patent oropharyngeal airway.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    }
+  }
+}

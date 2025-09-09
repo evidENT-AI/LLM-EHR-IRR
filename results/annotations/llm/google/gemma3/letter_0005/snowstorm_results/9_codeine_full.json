@@ -1,0 +1,1678 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 822,
+      "999000011000000103": 20,
+      "999000041000000102": 23,
+      "900000000000207008": 326
+    },
+    "semanticTags": {
+      "product": 418,
+      "disorder": 8,
+      "clinical drug": 44,
+      "medicinal product": 42,
+      "substance": 7,
+      "medicinal product form": 30,
+      "observable entity": 7,
+      "procedure": 5,
+      "finding": 1
+    },
+    "language": {
+      "en": 1191
+    },
+    "membership": {
+      "1322291000000109": 555,
+      "999001041000001109": 142,
+      "999000551000001106": 195,
+      "999000421000001104": 4,
+      "999002271000000101": 70,
+      "991421000000103": 1,
+      "999001071000001100": 1,
+      "999000401000001106": 10,
+      "154181000001101": 5,
+      "999000771000001105": 6,
+      "1853561000000109": 1,
+      "999000431000001102": 1,
+      "900000000000497000": 135,
+      "999000581000001102": 7,
+      "900000000000526001": 20,
+      "1127601000000107": 9,
+      "999000601000001109": 4,
+      "999000031000001105": 411,
+      "1382531000000102": 8,
+      "999000561000001109": 35,
+      "999000541000001108": 115,
+      "900000000000489007": 29,
+      "999000331000001107": 1,
+      "154171000001103": 158,
+      "999000271000001101": 1,
+      "1853551000000106": 3,
+      "999000791000001109": 2,
+      "733073007": 144,
+      "999000441000001109": 9,
+      "226631000001102": 6,
+      "999000571000001104": 66,
+      "999002881000000100": 3,
+      "30931000001101": 534
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999001041000001109": {
+      "conceptId": "999001041000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Quality and Outcomes Framework general practice extraction - weaker opioids for use in pain management prescribable within general practice simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Quality and Outcomes Framework general practice extraction - weaker opioids for use in pain management prescribable within general practice simple reference set",
+        "lang": "en"
+      },
+      "id": "999001041000001109"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "999000421000001104": {
+      "conceptId": "999000421000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing oral solids type 1 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing oral solids type 1 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000421000001104"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "991421000000103": {
+      "conceptId": "991421000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care drug or alcohol use related to injury simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care drug or alcohol use related to injury simple reference set",
+        "lang": "en"
+      },
+      "id": "991421000000103"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999001071000001100": {
+      "conceptId": "999001071000001100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000001104",
+      "fsn": {
+        "term": "NHS dictionary of medicines and devices Virtual Therapeutic Moiety update association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS dictionary of medicines and devices Virtual Therapeutic Moiety update association reference set",
+        "lang": "en"
+      },
+      "id": "999001071000001100"
+    },
+    "154181000001101": {
+      "conceptId": "154181000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Network Contract Directed Enhanced Service - oral non-steroidal anti-inflammatory drugs (NSAIDs) simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Network Contract Directed Enhanced Service - oral non-steroidal anti-inflammatory drugs (NSAIDs) simple reference set",
+        "lang": "en"
+      },
+      "id": "154181000001101"
+    },
+    "999000401000001106": {
+      "conceptId": "999000401000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing oral liquids type 2a1 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing oral liquids type 2a1 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000001106"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1853561000000109": {
+      "conceptId": "1853561000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine procedure simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine procedure simple reference set",
+        "lang": "en"
+      },
+      "id": "1853561000000109"
+    },
+    "999000771000001105": {
+      "conceptId": "999000771000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices combination drug virtual therapeutic moiety simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices combination drug virtual therapeutic moiety simple reference set",
+        "lang": "en"
+      },
+      "id": "999000771000001105"
+    },
+    "999000431000001102": {
+      "conceptId": "999000431000001102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing controlled drugs schedule 1 to 3 rule 6 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing controlled drugs schedule 1 to 3 rule 6 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000431000001102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999000581000001102": {
+      "conceptId": "999000581000001102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual therapeutic moiety simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual therapeutic moiety simple reference set",
+        "lang": "en"
+      },
+      "id": "999000581000001102"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "900000000000526001": {
+      "conceptId": "900000000000526001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "REPLACED BY association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "REPLACED BY association reference set",
+        "lang": "en"
+      },
+      "id": "900000000000526001"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999000601000001109": {
+      "conceptId": "999000601000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices sugar free simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices sugar free simple reference set",
+        "lang": "en"
+      },
+      "id": "999000601000001109"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000561000001109": {
+      "conceptId": "999000561000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000561000001109"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999000331000001107": {
+      "conceptId": "999000331000001107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing multi-ingredient rule 1 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing multi-ingredient rule 1 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000331000001107"
+    },
+    "154171000001103": {
+      "conceptId": "154171000001103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Network Contract Directed Enhanced Service - opioid medications excluding opioids for treating opioid dependence simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Network Contract Directed Enhanced Service - opioid medications excluding opioids for treating opioid dependence simple reference set",
+        "lang": "en"
+      },
+      "id": "154171000001103"
+    },
+    "999000271000001101": {
+      "conceptId": "999000271000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing injections type 20 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing injections type 20 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000271000001101"
+    },
+    "1853551000000106": {
+      "conceptId": "1853551000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set",
+        "lang": "en"
+      },
+      "id": "1853551000000106"
+    },
+    "999000791000001109": {
+      "conceptId": "999000791000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices ingredient simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS dm+d (dictionary of medicines and devices) ingredient simple reference set",
+        "lang": "en"
+      },
+      "id": "999000791000001109"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "226631000001102": {
+      "conceptId": "226631000001102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Coronavirus disease 2019 (COVID-19) general practice extraction - non-steroidal anti-inflammatory drugs (NSAIDs) simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Coronavirus disease 2019 (COVID-19) general practice extraction - non-steroidal anti-inflammatory drugs (NSAIDs) simple reference set",
+        "lang": "en"
+      },
+      "id": "226631000001102"
+    },
+    "999000441000001109": {
+      "conceptId": "999000441000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "ePrescribing suppositories and pessaries type 10 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "ePrescribing suppositories and pessaries type 10 simple reference set",
+        "lang": "en"
+      },
+      "id": "999000441000001109"
+    },
+    "999000571000001104": {
+      "conceptId": "999000571000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000571000001104"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "last": false,
+  "totalElements": 1191,
+  "totalPages": 24,
+  "first": true,
+  "numberOfElements": 50,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Codeine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387494007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Codeine (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine",
+          "lang": "en"
+        },
+        "id": "387494007"
+      }
+    },
+    {
+      "term": "Codeine",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "775354007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only codeine (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine only product",
+          "lang": "en"
+        },
+        "id": "775354007"
+      }
+    },
+    {
+      "term": "Codeine level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "105142004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Codeine measurement (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine measurement",
+          "lang": "en"
+        },
+        "id": "105142004"
+      }
+    },
+    {
+      "term": "Codeine sulfate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1476002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Codeine sulfate (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine sulfate",
+          "lang": "en"
+        },
+        "id": "1476002"
+      }
+    },
+    {
+      "term": "Codeine allergy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "293597001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergy to codeine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergy to codeine",
+          "lang": "en"
+        },
+        "id": "293597001"
+      }
+    },
+    {
+      "term": "Codeine sulphate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1476002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Codeine sulfate (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine sulfate",
+          "lang": "en"
+        },
+        "id": "1476002"
+      }
+    },
+    {
+      "term": "Codeine + Kaolin",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "775359002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only codeine and kaolin (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine and kaolin only product",
+          "lang": "en"
+        },
+        "id": "775359002"
+      }
+    },
+    {
+      "term": "Terpin + Codeine",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "775363009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only codeine and terpin (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine and terpin only product",
+          "lang": "en"
+        },
+        "id": "775363009"
+      }
+    },
+    {
+      "term": "Codeine phosphate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "261000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Codeine phosphate (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine phosphate",
+          "lang": "en"
+        },
+        "id": "261000"
+      }
+    },
+    {
+      "term": "Aspirin + Codeine",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "774667005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only aspirin and codeine (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspirin and codeine only product",
+          "lang": "en"
+        },
+        "id": "774667005"
+      }
+    },
+    {
+      "term": "Codeine (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "775354007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only codeine (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine only product",
+          "lang": "en"
+        },
+        "id": "775354007"
+      }
+    },
+    {
+      "term": "Allergy to codeine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "293597001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergy to codeine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergy to codeine",
+          "lang": "en"
+        },
+        "id": "293597001"
+      }
+    },
+    {
+      "term": "Guaiacol + Codeine",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "775355008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only codeine and guaiacol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine and guaiacol only product",
+          "lang": "en"
+        },
+        "id": "775355008"
+      }
+    },
+    {
+      "term": "Codeine measurement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "105142004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Codeine measurement (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine measurement",
+          "lang": "en"
+        },
+        "id": "105142004"
+      }
+    },
+    {
+      "term": "Urine codeine level",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312464001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urine codeine measurement (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine codeine measurement",
+          "lang": "en"
+        },
+        "id": "312464001"
+      }
+    },
+    {
+      "term": "Overdose of codeine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "295170002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Overdose of codeine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Overdose of codeine",
+          "lang": "en"
+        },
+        "id": "295170002"
+      }
+    },
+    {
+      "term": "Codeine (substance)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387494007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Codeine (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine",
+          "lang": "en"
+        },
+        "id": "387494007"
+      }
+    },
+    {
+      "term": "Urine codeine level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1019991000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Urine codeine level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine codeine level",
+          "lang": "en"
+        },
+        "id": "1019991000000103"
+      }
+    },
+    {
+      "term": "Ibuprofen + Codeine",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "775358005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only codeine and ibuprofen (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine and ibuprofen only product",
+          "lang": "en"
+        },
+        "id": "775358005"
+      }
+    },
+    {
+      "term": "Poisoning by codeine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68099003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Poisoning caused by codeine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Poisoning by codeine",
+          "lang": "en"
+        },
+        "id": "68099003"
+      }
+    },
+    {
+      "term": "Codeine only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "775354007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only codeine (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine only product",
+          "lang": "en"
+        },
+        "id": "775354007"
+      }
+    },
+    {
+      "term": "Codeine 60mg tablets",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42010511000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 60mg tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 60mg tablets",
+          "lang": "en"
+        },
+        "id": "42010511000001109"
+      }
+    },
+    {
+      "term": "Codeine 15mg tablets",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42010311000001103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 15mg tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 15mg tablets",
+          "lang": "en"
+        },
+        "id": "42010311000001103"
+      }
+    },
+    {
+      "term": "Codeine 30mg tablets",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "42010411000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 30mg tablets (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 30mg tablets",
+          "lang": "en"
+        },
+        "id": "42010411000001105"
+      }
+    },
+    {
+      "term": "Codeine hydrochloride",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "766880009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Codeine hydrochloride (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine hydrochloride",
+          "lang": "en"
+        },
+        "id": "766880009"
+      }
+    },
+    {
+      "term": "Urine codeine screening",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "167493007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urine codeine screening (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine codeine screening",
+          "lang": "en"
+        },
+        "id": "167493007"
+      }
+    },
+    {
+      "term": "Codeine adverse reaction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "292055008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Codeine adverse reaction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine adverse reaction",
+          "lang": "en"
+        },
+        "id": "292055008"
+      }
+    },
+    {
+      "term": "Oral fluid codeine level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "377741000000108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Oral fluid codeine measurement (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral fluid codeine measurement",
+          "lang": "en"
+        },
+        "id": "377741000000108"
+      }
+    },
+    {
+      "term": "Oral fluid codeine level",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "998011000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Oral fluid codeine level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oral fluid codeine level",
+          "lang": "en"
+        },
+        "id": "998011000000106"
+      }
+    },
+    {
+      "term": "Codeine 15mg/5ml linctus",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "15065911000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 15mg/5ml linctus (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 15mg/5ml linctus",
+          "lang": "en"
+        },
+        "id": "15065911000001106"
+      }
+    },
+    {
+      "term": "Codeine phosphate powder",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "36090211000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine phosphate powder (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine phosphate powder",
+          "lang": "en"
+        },
+        "id": "36090211000001109"
+      }
+    },
+    {
+      "term": "Urine codeine measurement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312464001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urine codeine measurement (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine codeine measurement",
+          "lang": "en"
+        },
+        "id": "312464001"
+      }
+    },
+    {
+      "term": "Codeine 2mg suppositories",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "22478011000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 2mg suppositories (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 2mg suppositories",
+          "lang": "en"
+        },
+        "id": "22478011000001104"
+      }
+    },
+    {
+      "term": "Codeine 3mg suppositories",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "22478811000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 3mg suppositories (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 3mg suppositories",
+          "lang": "en"
+        },
+        "id": "22478811000001105"
+      }
+    },
+    {
+      "term": "Codeine 1mg suppositories",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "21148111000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 1mg suppositories (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 1mg suppositories",
+          "lang": "en"
+        },
+        "id": "21148111000001100"
+      }
+    },
+    {
+      "term": "Codeine 5mg suppositories",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "21148211000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 5mg suppositories (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 5mg suppositories",
+          "lang": "en"
+        },
+        "id": "21148211000001106"
+      }
+    },
+    {
+      "term": "Codeine 6mg suppositories",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "21148311000001103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 6mg suppositories (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 6mg suppositories",
+          "lang": "en"
+        },
+        "id": "21148311000001103"
+      }
+    },
+    {
+      "term": "Codeine-containing product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "85990009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing codeine (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine-containing product",
+          "lang": "en"
+        },
+        "id": "85990009"
+      }
+    },
+    {
+      "term": "Codeine + Kaolin (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "775359002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only codeine and kaolin (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine and kaolin only product",
+          "lang": "en"
+        },
+        "id": "775359002"
+      }
+    },
+    {
+      "term": "Terpin + Codeine (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "775363009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only codeine and terpin (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine and terpin only product",
+          "lang": "en"
+        },
+        "id": "775363009"
+      }
+    },
+    {
+      "term": "Codeine 10mg suppositories",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "18519311000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 10mg suppositories (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 10mg suppositories",
+          "lang": "en"
+        },
+        "id": "18519311000001102"
+      }
+    },
+    {
+      "term": "Codeine 30mg suppositories",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "20454511000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 30mg suppositories (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 30mg suppositories",
+          "lang": "en"
+        },
+        "id": "20454511000001107"
+      }
+    },
+    {
+      "term": "Codeine 15mg suppositories",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "21290211000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 15mg suppositories (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 15mg suppositories",
+          "lang": "en"
+        },
+        "id": "21290211000001100"
+      }
+    },
+    {
+      "term": "Codeine 20mg suppositories",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "20122011000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Codeine 20mg suppositories (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine 20mg suppositories",
+          "lang": "en"
+        },
+        "id": "20122011000001107"
+      }
+    },
+    {
+      "term": "Codeine sulfate (substance)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1476002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Codeine sulfate (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine sulfate",
+          "lang": "en"
+        },
+        "id": "1476002"
+      }
+    },
+    {
+      "term": "Poisoning caused by codeine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68099003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Poisoning caused by codeine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Poisoning by codeine",
+          "lang": "en"
+        },
+        "id": "68099003"
+      }
+    },
+    {
+      "term": "Adverse reaction to codeine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "292055008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Codeine adverse reaction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine adverse reaction",
+          "lang": "en"
+        },
+        "id": "292055008"
+      }
+    },
+    {
+      "term": "Codeine phosphate anhydrous",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1268991009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Codeine phosphate anhydrous (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Codeine phosphate anhydrous",
+          "lang": "en"
+        },
+        "id": "1268991009"
+      }
+    },
+    {
+      "term": "Aspirin + Codeine (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "774667005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only aspirin and codeine (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aspirin and codeine only product",
+          "lang": "en"
+        },
+        "id": "774667005"
+      }
+    },
+    {
+      "term": "Urine codeine screening test",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "167493007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urine codeine screening (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urine codeine screening",
+          "lang": "en"
+        },
+        "id": "167493007"
+      }
+    }
+  ]
+}

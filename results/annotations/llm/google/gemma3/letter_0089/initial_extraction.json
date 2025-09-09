@@ -1,0 +1,304 @@
+{
+  "labels": {
+    "51-year-old": {
+      "context": "This is a 51-year-old gentleman here with his wife.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "loud snoring": {
+      "context": "She confirms the history of loud snoring at night with witnessed apnea.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Family",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "witnessed apnea": {
+      "context": "She confirms the history of loud snoring at night with witnessed apnea.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Family",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "moderate sleep apnea": {
+      "context": "The result of the sleep study was reviewed. This showed moderate sleep apnea with significant desaturation.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "190386001"
+    },
+    "significant desaturation": {
+      "context": "The result of the sleep study was reviewed. This showed moderate sleep apnea with significant desaturation.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "CPAP": {
+      "context": "The patient was unable to tolerate treatment with CPAP.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "78387004"
+    },
+    "large tonsils": {
+      "context": "At the office, we observed large tonsils and elongation and thickening of the uvula as well as redundant soft tissue of the palate.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "elongation and thickening of the uvula": {
+      "context": "At the office, we observed large tonsils and elongation and thickening of the uvula as well as redundant soft tissue of the palate.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "redundant soft tissue of the palate": {
+      "context": "At the office, we observed large tonsils and elongation and thickening of the uvula as well as redundant soft tissue of the palate.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "tortuous appearance of the septum": {
+      "context": "At the office, we observed large tonsils and elongation and thickening of the uvula as well as redundant soft tissue of the palate. A tortuous appearance of the septum also was observed.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "sinus infections": {
+      "context": "He has no history of sinus infections and does not recall a history of nasal trauma.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "nasal trauma": {
+      "context": "He has no history of sinus infections and does not recall a history of nasal trauma.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "tonsillectomy": {
+      "context": "Tonsillectomy, uvulopalatopharyngoplasty, and septoplasty for obstructive sleep apnea syndrome with hypertrophy of tonsils and of uvula and soft palate with deviation of nasal septum",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "386556002"
+    },
+    "uvulopalatopharyngoplasty": {
+      "context": "Tonsillectomy, uvulopalatopharyngoplasty, and septoplasty for obstructive sleep apnea syndrome with hypertrophy of tonsils and of uvula and soft palate with deviation of nasal septum",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "septoplasty": {
+      "context": "Tonsillectomy, uvulopalatopharyngoplasty, and septoplasty for obstructive sleep apnea syndrome with hypertrophy of tonsils and of uvula and soft palate with deviation of nasal septum",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "386556002"
+    },
+    "General anesthetics": {
+      "context": "Anesthesia: General anesthetics.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Afrin drops": {
+      "context": "Afrin drops were placed in both nostrils and a cottonoid soaked with Afrin was placed in each side of the nose.",
+      "qualifier": "Treatments",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Crowe-Davis mouth gag": {
+      "context": "A Crowe-Davis mouth gag was placed.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Marcaine": {
+      "context": "The tonsil fossae were injected with 0.25% Marcaine with 1:200,000 epinephrine.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "epinephrine": {
+      "context": "The tonsil fossae were injected with 0.25% Marcaine with 1:200,000 epinephrine.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Alice clamp": {
+      "context": "The uvula was grasped with the Alice clamp.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Bayonet cautery": {
+      "context": "We switched over from the Bayonet cautery to the blunt needle tip electrocautery.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "blunt needle tip electrocautery": {
+      "context": "We switched over from the Bayonet cautery to the blunt needle tip electrocautery.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "chromic catgut sutures": {
+      "context": "The posterior soft palate mucosa was advanced forward and brought up to the anterior soft palate incision and closure of the soft palate wound was then accomplished with interrupted 3-0 chromic catgut sutures.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Freer elevator": {
+      "context": "Mucoperichondrium and mucoperiosteum were elevated with the Cottle elevator. When we reached the deflected portion of the vomer, this was separated from the septal cartilage with a Freer elevator.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Cottle elevator": {
+      "context": "Mucoperichondrium and mucoperiosteum were elevated with the Cottle elevator. When we reached the deflected portion of the vomer, this was separated from the septal cartilage with a Freer elevator.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "4 mm osteotome": {
+      "context": "When we reached the deflected portion of the vomer, this was separated from the septal cartilage with a Freer elevator. The right-sided mucoperiosteum was elevated with the Freer elevator and then with Takahashi forceps and with the 4 mm osteotome, the deflected portion of the septal bone from the vomer was resected.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Takahashi forceps": {
+      "context": "When we reached the deflected portion of the vomer, this was separated from the septal cartilage with a Freer elevator. The right-sided mucoperiosteum was elevated with the Freer elevator and then with Takahashi forceps and with the 4 mm osteotome, the deflected portion of the septal bone from the vomer was resected.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "knife handle": {
+      "context": "The inferior turbinates were then both outfractured using a knife handle",
+      "qualifier": "Procedures",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Polysporin ointment": {
+      "context": "Polysporin ointment was introduced into both nostrils.",
+      "qualifier": "Treatments",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    }
+  }
+}
