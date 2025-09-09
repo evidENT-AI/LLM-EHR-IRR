@@ -1,0 +1,967 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 37
+    },
+    "semanticTags": {
+      "disorder": 7,
+      "procedure": 10,
+      "finding": 2
+    },
+    "language": {
+      "en": 37
+    },
+    "membership": {
+      "1322291000000109": 19,
+      "1127601000000107": 8,
+      "999002451000000109": 1,
+      "1382531000000102": 4,
+      "999002571000000104": 1,
+      "900000000000497000": 19,
+      "733073007": 19,
+      "999002271000000101": 18,
+      "1382401000000109": 20
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 37,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 37,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Acquired nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "18283000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acquired deformity of nose (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acquired deformity of nose",
+          "lang": "en"
+        },
+        "id": "18283000"
+      }
+    },
+    {
+      "term": "Cleft lip nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249341006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cleft lip with nasal deformity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "249341006"
+      }
+    },
+    {
+      "term": "Pollybeak nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277220002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Parrot beak nasal deformity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Parrot beak nasal deformity",
+          "lang": "en"
+        },
+        "id": "277220002"
+      }
+    },
+    {
+      "term": "Finding of nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301189006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of nasal deformity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of nasal deformity",
+          "lang": "en"
+        },
+        "id": "301189006"
+      }
+    },
+    {
+      "term": "Congenital nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "72089000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital deformity of nose (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital deformity of nose",
+          "lang": "en"
+        },
+        "id": "72089000"
+      }
+    },
+    {
+      "term": "Parrot beak nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277220002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Parrot beak nasal deformity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Parrot beak nasal deformity",
+          "lang": "en"
+        },
+        "id": "277220002"
+      }
+    },
+    {
+      "term": "Deformity of nasal sinus wall",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "204522009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of nasal sinus wall (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of nasal sinus wall",
+          "lang": "en"
+        },
+        "id": "204522009"
+      }
+    },
+    {
+      "term": "Correction of nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415302008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rhinoplasty of nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rhinoplasty of nasal deformity",
+          "lang": "en"
+        },
+        "id": "415302008"
+      }
+    },
+    {
+      "term": "Observation of nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301189006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of nasal deformity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of nasal deformity",
+          "lang": "en"
+        },
+        "id": "301189006"
+      }
+    },
+    {
+      "term": "Rhinoplasty of nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415302008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rhinoplasty of nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rhinoplasty of nasal deformity",
+          "lang": "en"
+        },
+        "id": "415302008"
+      }
+    },
+    {
+      "term": "Cleft lip with nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249341006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cleft lip with nasal deformity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "249341006"
+      }
+    },
+    {
+      "term": "Correction of nasal tip deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82862002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary rhinoplasty with elevation of nasal tip (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary rhinoplasty with elevation of nasal tip",
+          "lang": "en"
+        },
+        "id": "82862002"
+      }
+    },
+    {
+      "term": "Finding of nasal deformity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301189006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of nasal deformity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of nasal deformity",
+          "lang": "en"
+        },
+        "id": "301189006"
+      }
+    },
+    {
+      "term": "Parrot beak nasal deformity (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277220002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Parrot beak nasal deformity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Parrot beak nasal deformity",
+          "lang": "en"
+        },
+        "id": "277220002"
+      }
+    },
+    {
+      "term": "Correction of cleft lip nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172842002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Correction of cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Correction of cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "172842002"
+      }
+    },
+    {
+      "term": "Deformity of nasal sinus wall (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "204522009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of nasal sinus wall (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of nasal sinus wall",
+          "lang": "en"
+        },
+        "id": "204522009"
+      }
+    },
+    {
+      "term": "Rhinoplasty for cleft lip nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172848003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rhinoplasty for cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rhinoplasty for cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "172848003"
+      }
+    },
+    {
+      "term": "Septoplasty for cleft lip nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172850006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Septoplasty for cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Septoplasty for cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "172850006"
+      }
+    },
+    {
+      "term": "Cleft lip with nasal deformity (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249341006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cleft lip with nasal deformity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "249341006"
+      }
+    },
+    {
+      "term": "Rhinoplasty of nasal deformity (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415302008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rhinoplasty of nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rhinoplasty of nasal deformity",
+          "lang": "en"
+        },
+        "id": "415302008"
+      }
+    },
+    {
+      "term": "Congenital deformity of wall of nasal sinus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37767008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital deformity of wall of nasal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital deformity of wall of nasal sinus",
+          "lang": "en"
+        },
+        "id": "37767008"
+      }
+    },
+    {
+      "term": "Correction of cleft lip nasal tip deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "265021008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Correction of cleft lip nasal tip deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Correction of cleft lip nasal tip deformity",
+          "lang": "en"
+        },
+        "id": "265021008"
+      }
+    },
+    {
+      "term": "Septorhinoplasty for cleft lip nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172849006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Septorhinoplasty for cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Septorhinoplasty for cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "172849006"
+      }
+    },
+    {
+      "term": "Primary correction of cleft lip nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "53356001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary rhinoplasty of alar cartilages (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary rhinoplasty of alar cartilages",
+          "lang": "en"
+        },
+        "id": "53356001"
+      }
+    },
+    {
+      "term": "Secondary correction of cleft lip nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "360762005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Secondary correction of cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Secondary correction of cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "360762005"
+      }
+    },
+    {
+      "term": "Correction of cleft lip nasal deformity (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172842002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Correction of cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Correction of cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "172842002"
+      }
+    },
+    {
+      "term": "Rhinoplasty for cleft lip nasal deformity (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172848003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rhinoplasty for cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rhinoplasty for cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "172848003"
+      }
+    },
+    {
+      "term": "Septoplasty for cleft lip nasal deformity (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172850006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Septoplasty for cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Septoplasty for cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "172850006"
+      }
+    },
+    {
+      "term": "Congenital deformity of wall of nasal sinus (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37767008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital deformity of wall of nasal sinus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital deformity of wall of nasal sinus",
+          "lang": "en"
+        },
+        "id": "37767008"
+      }
+    },
+    {
+      "term": "Correction of cleft lip nasal tip deformity (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "265021008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Correction of cleft lip nasal tip deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Correction of cleft lip nasal tip deformity",
+          "lang": "en"
+        },
+        "id": "265021008"
+      }
+    },
+    {
+      "term": "Septorhinoplasty for cleft lip nasal deformity (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172849006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Septorhinoplasty for cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Septorhinoplasty for cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "172849006"
+      }
+    },
+    {
+      "term": "Correction of nostril stenosis in cleft lip nasal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "265023006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Correction of nostril stenosis in cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Correction of nostril stenosis in cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "265023006"
+      }
+    },
+    {
+      "term": "Secondary correction of cleft lip nasal deformity (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "360762005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Secondary correction of cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Secondary correction of cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "360762005"
+      }
+    },
+    {
+      "term": "Correction of nostril stenosis in cleft lip nasal deformity (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "265023006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Correction of nostril stenosis in cleft lip nasal deformity (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Correction of nostril stenosis in cleft lip nasal deformity",
+          "lang": "en"
+        },
+        "id": "265023006"
+      }
+    },
+    {
+      "term": "A rare mitochondrial oxidative phosphorylation disorder due to nuclear deoxyribonucleic acid anomalies. The disease is characterised by progressive external ophthalmoplegia without diplopia, cerebellar atrophy, proximal skeletal muscle weakness with generalised muscle wasting, profound emaciation, respiratory failure, spinal deformity and facial muscle weakness (manifesting with ptosis, dysphonia, dysphagia and nasal speech). Intellectual disability, gastrointestinal symptoms (nausea, abdominal fullness, and loss of appetite), dilated cardiomyopathy and renal colic have also been reported.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "764733009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Progressive external ophthalmoplegia, myopathy, emaciation syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Progressive external ophthalmoplegia, myopathy, emaciation syndrome",
+          "lang": "en"
+        },
+        "id": "764733009"
+      }
+    },
+    {
+      "term": "A rare mitochondrial oxidative phosphorylation disorder due to nuclear deoxyribonucleic acid anomalies. The disease is characterized by progressive external ophthalmoplegia without diplopia, cerebellar atrophy, proximal skeletal muscle weakness with generalized muscle wasting, profound emaciation, respiratory failure, spinal deformity and facial muscle weakness (manifesting with ptosis, dysphonia, dysphagia and nasal speech). Intellectual disability, gastrointestinal symptoms (nausea, abdominal fullness, and loss of appetite), dilated cardiomyopathy and renal colic have also been reported.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "764733009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Progressive external ophthalmoplegia, myopathy, emaciation syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Progressive external ophthalmoplegia, myopathy, emaciation syndrome",
+          "lang": "en"
+        },
+        "id": "764733009"
+      }
+    },
+    {
+      "term": "A rare syndromic frontonasal dysplasia with characteristics of distinctive facial dysmorphic features including hypertelorism, almond-shaped palpebral fissures, nasal deformity with creased ridge, depressed or absent tip and asymmetry and partial absence of nasal bones and downturned corners of the mouth. Additional reported manifestations are limb anomalies (e. g. Poland anomaly, transverse limb agenesis and anomalies of the hands and feet such as camptodactyly, oligodactyly, clinodactyly and syndactyly), frontonasal encephalocele, choanal atresia, congenital renal/cardiac malformations, and corpus callosum agenesis.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1177166006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frontonasal dysplasia, bifid nose, upper limb anomalies syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Frontonasal dysplasia, bifid nose, upper limb anomalies syndrome",
+          "lang": "en"
+        },
+        "id": "1177166006"
+      }
+    }
+  ]
+}

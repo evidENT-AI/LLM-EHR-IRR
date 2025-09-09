@@ -1,0 +1,1209 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 68
+    },
+    "semanticTags": {
+      "disorder": 21,
+      "product": 1,
+      "finding": 2,
+      "situation": 7
+    },
+    "language": {
+      "en": 68
+    },
+    "membership": {
+      "1322291000000109": 31,
+      "1127601000000107": 30,
+      "1382531000000102": 7,
+      "900000000000497000": 31,
+      "999002271000000101": 39,
+      "733073007": 31,
+      "30931000001101": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 68,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "13644009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "13644009"
+      }
+    },
+    {
+      "term": "FH: Hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160314003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Hypercholesterolemia (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "160314003"
+      }
+    },
+    {
+      "term": "Pure hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267432004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pure hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pure hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "267432004"
+      }
+    },
+    {
+      "term": "Hypercholesterolemia food",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "328566006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypercholesterolemia food (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypercholesterolemia food",
+          "lang": "en"
+        },
+        "id": "328566006"
+      }
+    },
+    {
+      "term": "Primary hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238076009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "238076009"
+      }
+    },
+    {
+      "term": "Sporadic hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238077000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Polygenic hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Polygenic hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "238077000"
+      }
+    },
+    {
+      "term": "Familial hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398036000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "398036000"
+      }
+    },
+    {
+      "term": "Polygenic hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238077000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Polygenic hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Polygenic hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "238077000"
+      }
+    },
+    {
+      "term": "Secondary hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238082007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Secondary hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Secondary hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "238082007"
+      }
+    },
+    {
+      "term": "Hypercholesterolemia (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "13644009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "13644009"
+      }
+    },
+    {
+      "term": "History of hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414416008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of hypercholesterolemia (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "History of hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "414416008"
+      }
+    },
+    {
+      "term": "Hypercholesterolemia food (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "328566006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypercholesterolemia food (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypercholesterolemia food",
+          "lang": "en"
+        },
+        "id": "328566006"
+      }
+    },
+    {
+      "term": "Pure hypercholesterolemia (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267432004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pure hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pure hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "267432004"
+      }
+    },
+    {
+      "term": "Hypercholesterolemia well controlled",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "444059002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypercholesterolemia well controlled (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypercholesterolemia well controlled",
+          "lang": "en"
+        },
+        "id": "444059002"
+      }
+    },
+    {
+      "term": "Family history: Hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160314003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Hypercholesterolemia (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "160314003"
+      }
+    },
+    {
+      "term": "Possible familial hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473145005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Possible familial hypercholesterolemia (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Possible familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "473145005"
+      }
+    },
+    {
+      "term": "Primary hypercholesterolemia (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238076009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "238076009"
+      }
+    },
+    {
+      "term": "Essential familial hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398036000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "398036000"
+      }
+    },
+    {
+      "term": "Familial hypercholesterolemia (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398036000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "398036000"
+      }
+    },
+    {
+      "term": "Familial homozygous hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238078005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hypercholesterolemia - homozygous (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial hypercholesterolemia - homozygous",
+          "lang": "en"
+        },
+        "id": "238078005"
+      }
+    },
+    {
+      "term": "Carrier of familial hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66481000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carrier of familial hypercholesterolemia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carrier of familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "66481000119109"
+      }
+    },
+    {
+      "term": "Polygenic hypercholesterolemia (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238077000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Polygenic hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Polygenic hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "238077000"
+      }
+    },
+    {
+      "term": "Secondary hypercholesterolemia (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238082007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Secondary hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Secondary hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "238082007"
+      }
+    },
+    {
+      "term": "Familial hypercholesterolemia - homozygous",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238078005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hypercholesterolemia - homozygous (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial hypercholesterolemia - homozygous",
+          "lang": "en"
+        },
+        "id": "238078005"
+      }
+    },
+    {
+      "term": "History of hypercholesterolemia (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414416008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of hypercholesterolemia (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "History of hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "414416008"
+      }
+    },
+    {
+      "term": "Familial hypercholesterolemia - heterozygous",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238079002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hypercholesterolemia - heterozygous (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial hypercholesterolemia - heterozygous",
+          "lang": "en"
+        },
+        "id": "238079002"
+      }
+    },
+    {
+      "term": "Xanthoma due to primary hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1256075004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Xanthoma due to primary hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Xanthoma due to primary hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "1256075004"
+      }
+    },
+    {
+      "term": "Hypercholesterolemia well controlled (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "444059002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypercholesterolemia well controlled (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypercholesterolemia well controlled",
+          "lang": "en"
+        },
+        "id": "444059002"
+      }
+    },
+    {
+      "term": "Family history of familial hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443454007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of familial hypercholesterolemia (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "443454007"
+      }
+    },
+    {
+      "term": "Familial hypercholesterolemia with hyperlipemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398796005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial type 3 hyperlipoproteinemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial type 3 hyperlipoproteinemia",
+          "lang": "en"
+        },
+        "id": "398796005"
+      }
+    },
+    {
+      "term": "Family history: Hypercholesterolemia (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160314003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Hypercholesterolemia (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "160314003"
+      }
+    },
+    {
+      "term": "FH: Hypercholesterolemia in first degree relative",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417072001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of hypercholesterolemia in first degree relative (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Hypercholesterolemia in first degree relative",
+          "lang": "en"
+        },
+        "id": "417072001"
+      }
+    },
+    {
+      "term": "Double heterozygous familial hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "767133009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hypercholesterolemia co-occurrent and due to combined heterozygous low density lipoprotein receptor and low density lipoprotein receptor adaptor protein 1 mutations (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Double heterozygous familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "767133009"
+      }
+    },
+    {
+      "term": "Possible familial hypercholesterolemia (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473145005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Possible familial hypercholesterolemia (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Possible familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "473145005"
+      }
+    },
+    {
+      "term": "Carrier of familial hypercholesterolemia (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66481000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carrier of familial hypercholesterolemia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carrier of familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "66481000119109"
+      }
+    },
+    {
+      "term": "Mixed hypercholesterolemia and hypertriglyceridemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129591001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mixed hypercholesterolemia and hypertriglyceridemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mixed hypercholesterolemia and hypertriglyceridemia",
+          "lang": "en"
+        },
+        "id": "129591001"
+      }
+    },
+    {
+      "term": "Compound heterozygous familial hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "767133009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hypercholesterolemia co-occurrent and due to combined heterozygous low density lipoprotein receptor and low density lipoprotein receptor adaptor protein 1 mutations (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Double heterozygous familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "767133009"
+      }
+    },
+    {
+      "term": "Suspected heterozygous familial hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "698600006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Suspected heterozygous familial hypercholesterolemia (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Suspected heterozygous familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "698600006"
+      }
+    },
+    {
+      "term": "Familial hypercholesterolemia - homozygous (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238078005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hypercholesterolemia - homozygous (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial hypercholesterolemia - homozygous",
+          "lang": "en"
+        },
+        "id": "238078005"
+      }
+    },
+    {
+      "term": "Familial hypercholesterolemia - heterozygous (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238079002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hypercholesterolemia - heterozygous (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial hypercholesterolemia - heterozygous",
+          "lang": "en"
+        },
+        "id": "238079002"
+      }
+    },
+    {
+      "term": "Xanthoma due to primary hypercholesterolemia (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1256075004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Xanthoma due to primary hypercholesterolemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Xanthoma due to primary hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "1256075004"
+      }
+    },
+    {
+      "term": "Hypercholesterolemia due to apolipoprotein B gene defect",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403831006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hypercholesterolemia due to genetic defect of apolipoprotein B (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial hypercholesterolemia due to genetic defect of apolipoprotein B",
+          "lang": "en"
+        },
+        "id": "403831006"
+      }
+    },
+    {
+      "term": "Family history of familial hypercholesterolemia (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443454007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of familial hypercholesterolemia (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "443454007"
+      }
+    },
+    {
+      "term": "Family history: Hypercholesterolemia in first degree relative",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417072001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of hypercholesterolemia in first degree relative (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Hypercholesterolemia in first degree relative",
+          "lang": "en"
+        },
+        "id": "417072001"
+      }
+    },
+    {
+      "term": "Mixed hypercholesterolemia and hypertriglyceridemia (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129591001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mixed hypercholesterolemia and hypertriglyceridemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mixed hypercholesterolemia and hypertriglyceridemia",
+          "lang": "en"
+        },
+        "id": "129591001"
+      }
+    },
+    {
+      "term": "Family history of hypercholesterolemia in first degree relative",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417072001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of hypercholesterolemia in first degree relative (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Hypercholesterolemia in first degree relative",
+          "lang": "en"
+        },
+        "id": "417072001"
+      }
+    },
+    {
+      "term": "Suspected heterozygous familial hypercholesterolemia (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "698600006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Suspected heterozygous familial hypercholesterolemia (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Suspected heterozygous familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "698600006"
+      }
+    },
+    {
+      "term": "Family history of double heterozygous familial hypercholesterolemia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "109271000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of double heterozygous familial hypercholesterolemia (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of double heterozygous familial hypercholesterolemia",
+          "lang": "en"
+        },
+        "id": "109271000119105"
+      }
+    },
+    {
+      "term": "Familial hypercholesterolemia due to homozygous LDL receptor mutation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403830007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hypercholesterolemia due to homozygous low density lipoprotein receptor mutation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial hypercholesterolemia due to homozygous LDL receptor mutation",
+          "lang": "en"
+        },
+        "id": "403830007"
+      }
+    },
+    {
+      "term": "Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773726000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency",
+          "lang": "en"
+        },
+        "id": "773726000"
+      }
+    }
+  ]
+}

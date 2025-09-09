@@ -1,0 +1,592 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 1,
+      "999000041000000102": 15,
+      "900000000000207008": 4
+    },
+    "semanticTags": {
+      "procedure": 18
+    },
+    "language": {
+      "en": 20
+    },
+    "membership": {
+      "1322291000000109": 18,
+      "900000000000497000": 17,
+      "733073007": 18,
+      "999001111000000105": 16,
+      "900000000000489007": 1,
+      "1382401000000109": 158
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999001111000000105": {
+      "conceptId": "999001111000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "United Kingdom diagnostic imaging procedure simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "United Kingdom diagnostic imaging procedure simple reference set",
+        "lang": "en"
+      },
+      "id": "999001111000000105"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 20,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 20,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Spiral CT scan",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "116152004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Spiral computed tomography scan (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Spiral computed tomography scan",
+          "lang": "en"
+        },
+        "id": "116152004"
+      }
+    },
+    {
+      "term": "CT scan - whole body",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "169072007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography scan - whole body (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CAT scan - whole body",
+          "lang": "en"
+        },
+        "id": "169072007"
+      }
+    },
+    {
+      "term": "MUGA cardiac CT scan",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "431190000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Respiratory and electrocardiography gated cardiac computed tomography of heart (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Respiratory and electrocardiography gated cardiac computed tomography of heart",
+          "lang": "en"
+        },
+        "id": "431190000"
+      }
+    },
+    {
+      "term": "CT scanogram of spine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714150002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography scanogram of spine (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Computed tomography scanogram of spine",
+          "lang": "en"
+        },
+        "id": "714150002"
+      }
+    },
+    {
+      "term": "SPECT CT white cell Fab scan",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "443701005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Single photon emission computed tomography with computed tomography using technetium (99m-Tc) sulesomab (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Single photon emission computed tomography with computed tomography using technetium (99m-Tc) sulesomab",
+          "lang": "en"
+        },
+        "id": "443701005"
+      }
+    },
+    {
+      "term": "Radiotherapy planning CT scan",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "24689001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography guidance for treatment planning, external beam radiation therapy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CT guidance for treatment planning, external beam radiation therapy",
+          "lang": "en"
+        },
+        "id": "24689001"
+      }
+    },
+    {
+      "term": "CT radiotherapy planning scan",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "430447002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography for radiotherapy planning (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Computed tomography for radiotherapy planning",
+          "lang": "en"
+        },
+        "id": "430447002"
+      }
+    },
+    {
+      "term": "CT radiotherapy planning scan of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "429877003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography of neck for radiotherapy planning (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CT of neck for radiotherapy planning",
+          "lang": "en"
+        },
+        "id": "429877003"
+      }
+    },
+    {
+      "term": "CT radiotherapy planning scan of head",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "429867000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography of head for radiotherapy planning (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CT of head for radiotherapy planning",
+          "lang": "en"
+        },
+        "id": "429867000"
+      }
+    },
+    {
+      "term": "CT radiotherapy planning scan of orbit",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "430440000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography of orbit for radiotherapy planning (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CT of orbit for radiotherapy planning",
+          "lang": "en"
+        },
+        "id": "430440000"
+      }
+    },
+    {
+      "term": "CT radiotherapy planning scan of spine",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "430438005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography of spine for radiotherapy planning (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CT of spine for radiotherapy planning",
+          "lang": "en"
+        },
+        "id": "430438005"
+      }
+    },
+    {
+      "term": "CT radiotherapy planning scan of thorax",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "429851006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography of thorax for radiotherapy planning (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CT of thorax for radiotherapy planning",
+          "lang": "en"
+        },
+        "id": "429851006"
+      }
+    },
+    {
+      "term": "CT radiotherapy planning scan of breast",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "429866009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography of breast for radiotherapy planning (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CT of breast for radiotherapy planning",
+          "lang": "en"
+        },
+        "id": "429866009"
+      }
+    },
+    {
+      "term": "CT radiotherapy planning scan of pelvis",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "430194000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography of pelvis for radiotherapy planning (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CT of pelvis for radiotherapy planning",
+          "lang": "en"
+        },
+        "id": "430194000"
+      }
+    },
+    {
+      "term": "Respiratory and ECG gated cardiac CT scan",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "431190000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Respiratory and electrocardiography gated cardiac computed tomography of heart (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Respiratory and electrocardiography gated cardiac computed tomography of heart",
+          "lang": "en"
+        },
+        "id": "431190000"
+      }
+    },
+    {
+      "term": "CT radiotherapy planning scan of prostate",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "429856001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography of prostate for radiotherapy planning (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CT of prostate for radiotherapy planning",
+          "lang": "en"
+        },
+        "id": "429856001"
+      }
+    },
+    {
+      "term": "CT four phase scan of liver with contrast",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1110571000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Computed tomography four phase scan of liver with contrast (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CT four phase scan of liver with contrast",
+          "lang": "en"
+        },
+        "id": "1110571000000107"
+      }
+    },
+    {
+      "term": "Multiple gated acquisition cardiac CT scan",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "431190000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Respiratory and electrocardiography gated cardiac computed tomography of heart (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Respiratory and electrocardiography gated cardiac computed tomography of heart",
+          "lang": "en"
+        },
+        "id": "431190000"
+      }
+    },
+    {
+      "term": "CT radiotherapy planning scan of urinary bladder",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "429923003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Computed tomography of urinary bladder for radiotherapy planning (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CT of urinary bladder for radiotherapy planning",
+          "lang": "en"
+        },
+        "id": "429923003"
+      }
+    },
+    {
+      "term": "SPECT CT technetium-99m hexamethylpropyleneamine oxime leucocyte scan",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "443276000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Single photon emission computed tomography with computed tomography technetium-99m hexamethylpropyleneamine oxime leukocyte scan (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Single photon emission computed tomography with computed tomography technetium-99m hexamethylpropyleneamine oxime leukocyte scan",
+          "lang": "en"
+        },
+        "id": "443276000"
+      }
+    }
+  ]
+}

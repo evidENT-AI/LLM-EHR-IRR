@@ -1,0 +1,704 @@
+{
+  "labels": {
+    "53-year-old": {
+      "context": "The patient is a 53-year-old male who was seen for evaluation at the request of Dr. X regarding recurrent jaw pain.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "male": {
+      "context": "The patient is a 53-year-old male who was seen for evaluation at the request of Dr. X regarding recurrent jaw pain.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "recurrent jaw pain": {
+      "context": "The patient is a 53-year-old male who was seen for evaluation at the request of Dr. X regarding recurrent jaw pain.",
+      "qualifier": "symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "284471004"
+    },
+    "numbness": {
+      "context": "Numbness seems to be limited just to the left lateral tongue and the jaw region and extends from the angle of the jaw to the lip.",
+      "qualifier": "symptoms",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "22253000"
+    },
+    "tingling": {
+      "context": "This patient has been having what he described as numbness and tingling along the jaw, teeth, and tongue.",
+      "qualifier": "symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "43996006"
+    },
+    "throat infection": {
+      "context": "He had been diagnosed with a throat infection about a week ago and is finishing a course of Avelox at this time.",
+      "qualifier": "diagnoses",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "Post-treatment",
+      "snomed_ct": "115149008"
+    },
+    "Avelox": {
+      "context": "He had been diagnosed with a throat infection about a week ago and is finishing a course of Avelox at this time.",
+      "qualifier": "treatment",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "cough drops": {
+      "context": "He has been taking cough drops and trying to increase his fluids.",
+      "qualifier": "treatment",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "increase his fluids": {
+      "context": "He has been taking cough drops and trying to increase his fluids.",
+      "qualifier": "treatment",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "stopped tobacco": {
+      "context": "He has recently stopped tobacco. He has been chewing tobacco for about 30 years.",
+      "qualifier": "risk factors",
+      "laterality": "NA",
+      "presence": "Resolved",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "chewing tobacco": {
+      "context": "He has recently stopped tobacco. He has been chewing tobacco for about 30 years.",
+      "qualifier": "risk factors",
+      "laterality": "NA",
+      "presence": "Resolved",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "371743009"
+    },
+    "loss of sensation of taste": {
+      "context": "He has had a loss of sensation of taste as well.",
+      "qualifier": "symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "44054006"
+    },
+    "20-pound of weight gain": {
+      "context": "He does report he has had about a 20-pound of weight gain over the winter, but notes he has had this in the past just simply from decreased activity.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "headaches": {
+      "context": "He does note a history of headaches. These are occasional and he gets these within the neck area when they do flare up.",
+      "qualifier": "symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "25064002"
+    },
+    "anxiety disorder": {
+      "context": "The patient does note he has a history of anxiety disorder as well.",
+      "qualifier": "diagnoses",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "197480006"
+    },
+    "Nicorette gum": {
+      "context": "He has tried to eliminate his amount of tobacco and he is actually taking Nicorette gum at this time.",
+      "qualifier": "treatment",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "fever": {
+      "context": "He denies any fever or chills.",
+      "qualifier": "symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "386661006"
+    },
+    "chills": {
+      "context": "He denies any fever or chills.",
+      "qualifier": "symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "267036007"
+    },
+    "dental pain with biting down": {
+      "context": "He is not having any dental pain with biting down.",
+      "qualifier": "symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "jaw popping": {
+      "context": "He has had no jaw popping and no trismus noted.",
+      "qualifier": "symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "235069009"
+    },
+    "trismus": {
+      "context": "He has had no jaw popping and no trismus noted.",
+      "qualifier": "symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "75240003"
+    },
+    "hernia repair": {
+      "context": "Pertinent for hernia repair.",
+      "qualifier": "procedures",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "Post-treatment",
+      "snomed_ct": "129080004"
+    },
+    "hypertension": {
+      "context": "Family History:\nPertinent for hypertension.",
+      "qualifier": "risk factors",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "38341003"
+    },
+    "Tylenol": {
+      "context": "Current Medications:\nTylenol. He is on Nicorette gum.",
+      "qualifier": "treatment",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "387518007"
+    },
+    "allergic to codeine": {
+      "context": "He is allergic to codeine, unknown reaction.",
+      "qualifier": "risk factors",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "single": {
+      "context": "The patient is single, self-employed carpenter.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "self-employed carpenter": {
+      "context": "The patient is single, self-employed carpenter.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "chews tobacco": {
+      "context": "He chews tobacco or having chewing tobacco for 30 years, about half a can per day, but notes he has been recently off, and he does note occasional moderate alcohol use.",
+      "qualifier": "risk factors",
+      "laterality": "NA",
+      "presence": "Resolved",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "371743009"
+    },
+    "occasional moderate alcohol use": {
+      "context": "He chews tobacco or having chewing tobacco for 30 years, about half a can per day, but notes he has been recently off, and he does note occasional moderate alcohol use.",
+      "qualifier": "risk factors",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Blood pressure is 138/82": {
+      "context": "VITAL SIGNS: Blood pressure is 138/82, pulse 64 and regular, temperature 98.3, and weight is 191 pounds.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "pulse 64 and regular": {
+      "context": "VITAL SIGNS: Blood pressure is 138/82, pulse 64 and regular, temperature 98.3, and weight is 191 pounds.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "temperature 98.3": {
+      "context": "VITAL SIGNS: Blood pressure is 138/82, pulse 64 and regular, temperature 98.3, and weight is 191 pounds.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "weight is 191 pounds": {
+      "context": "VITAL SIGNS: Blood pressure is 138/82, pulse 64 and regular, temperature 98.3, and weight is 191 pounds.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "alert": {
+      "context": "GENERAL: The patient is an alert, cooperative, obese, 53-year-old male with a normal-sounding voice and good memory.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "cooperative": {
+      "context": "GENERAL: The patient is an alert, cooperative, obese, 53-year-old male with a normal-sounding voice and good memory.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "obese": {
+      "context": "GENERAL: The patient is an alert, cooperative, obese, 53-year-old male with a normal-sounding voice and good memory.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal-sounding voice": {
+      "context": "GENERAL: The patient is an alert, cooperative, obese, 53-year-old male with a normal-sounding voice and good memory.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "good memory": {
+      "context": "GENERAL: The patient is an alert, cooperative, obese, 53-year-old male with a normal-sounding voice and good memory.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no scars, lesions or masses": {
+      "context": "HEAD & FACE: Inspected with no scars, lesions or masses noted.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Sinuses palpated and are normal": {
+      "context": "Sinuses palpated and are normal. Salivary glands also palpated and are normal with no masses noted.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Salivary glands also palpated and are normal with no masses noted": {
+      "context": "Salivary glands also palpated and are normal with no masses noted.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "full facial function": {
+      "context": "The patient also has full facial function.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Heart regular rate and rhythm without murmur": {
+      "context": "CARDIOVASCULAR: Heart regular rate and rhythm without murmur.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Lungs auscultated and noted to be clear to auscultation bilaterally with no wheezing or rubs and normal respiratory effort": {
+      "context": "RESPIRATORY: Lungs auscultated and noted to be clear to auscultation bilaterally with no wheezing or rubs and normal respiratory effort.",
+      "qualifier": "signs",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Extraocular muscles were tested and within normal limits": {
+      "context": "EYES: Extraocular muscles were tested and within normal limits.",
+      "qualifier": "test results",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "external ears are normal": {
+      "context": "EARS: Both ears, external ears are normal. The ear canals are clean and dry. The drums are intact and mobile.",
+      "qualifier": "signs",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "ear canals are clean and dry": {
+      "context": "EARS: Both ears, external ears are normal. The ear canals are clean and dry. The drums are intact and mobile.",
+      "qualifier": "signs",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "drums are intact and mobile": {
+      "context": "EARS: Both ears, external ears are normal. The ear canals are clean and dry. The drums are intact and mobile.",
+      "qualifier": "signs",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "moderate tympanosclerosis": {
+      "context": "He does have moderate tympanosclerosis noted, no erythema.",
+      "qualifier": "signs",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "19534007"
+    },
+    "no erythema": {
+      "context": "NASAL: Reveals a deviated nasal septum to the left, moderate, clear drainage, and no erythema.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "23333000"
+    },
+    "Weber exam is midline": {
+      "context": "Weber exam is midline. Hearing is grossly intact and normal.",
+      "qualifier": "test results",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Hearing is grossly intact and normal": {
+      "context": "Weber exam is midline. Hearing is grossly intact and normal.",
+      "qualifier": "signs",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "deviated nasal septum to the left": {
+      "context": "NASAL: Reveals a deviated nasal septum to the left, moderate, clear drainage, and no erythema.",
+      "qualifier": "signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "75279002"
+    },
+    "clear drainage": {
+      "context": "NASAL: Reveals a deviated nasal septum to the left, moderate, clear drainage, and no erythema.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Oral cavity is normal with good moisture": {
+      "context": "ORAL: Oral cavity is normal with good moisture. Lips, teeth and gums are normal.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Lips, teeth and gums are normal": {
+      "context": "ORAL: Oral cavity is normal with good moisture. Lips, teeth and gums are normal. Evaluation of the oropharynx reveals normal mucosa, normal palates, and posterior oropharynx.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal mucosa, normal palates, and posterior oropharynx": {
+      "context": "Evaluation of the oropharynx reveals normal mucosa, normal palates, and posterior oropharynx. Examination of the larynx with a mirror reveals normal epiglottis, false and true vocal cords with good mobility of the cords.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal epiglottis, false and true vocal cords with good mobility of the cords": {
+      "context": "Examination of the larynx with a mirror reveals normal epiglottis, false and true vocal cords with good mobility of the cords. The nasopharynx was briefly examined by mirror with normal appearing mucosa, posterior choanae and eustachian tubes.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal appearing mucosa, posterior choanae and eustachian tubes": {
+      "context": "The nasopharynx was briefly examined by mirror with normal appearing mucosa, posterior choanae and eustachian tubes.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "neck was examined with normal appearance": {
+      "context": "NECK: The neck was examined with normal appearance. Trachea in the midline. The thyroid was normal, nontender, with no palpable masses or adenopathy noted.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Trachea in the midline": {
+      "context": "NECK: The neck was examined with normal appearance. Trachea in the midline. The thyroid was normal, nontender, with no palpable masses or adenopathy noted.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "thyroid was normal, nontender, with no palpable masses or adenopathy noted": {
+      "context": "The thyroid was normal, nontender, with no palpable masses or adenopathy noted.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "slightly decreased sensation to the left jaw": {
+      "context": "NEUROLOGIC: He does have slightly decreased sensation to the left jaw. He is able to feel pressure on touch. This extends also on to the left lateral tongue and the left intrabuccal mucosa.",
+      "qualifier": "signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "decreased sensation to the left lateral tongue": {
+      "context": "This extends also on to the left lateral tongue and the left intrabuccal mucosa.",
+      "qualifier": "signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "decreased sensation to the left intrabuccal mucosa": {
+      "context": "This extends also on to the left lateral tongue and the left intrabuccal mucosa.",
+      "qualifier": "signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no masses or lesions": {
+      "context": "DERMATOLOGIC: Evaluation reveals no masses or lesions. Skin turgor is normal.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Skin turgor is normal": {
+      "context": "DERMATOLOGIC: Evaluation reveals no masses or lesions. Skin turgor is normal.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "fiberoptic nasopharyngoscopy": {
+      "context": "A fiberoptic nasopharyngoscopy was also performed. See separate operative report in chart.",
+      "qualifier": "procedures",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "424040007"
+    },
+    "moderately deviated nasal septum to the left": {
+      "context": "This does reveal a moderately deviated nasal septum to the left, large inferior turbinates, no mass or neoplasm noted.",
+      "qualifier": "signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "75279002"
+    },
+    "large inferior turbinates": {
+      "context": "This does reveal a moderately deviated nasal septum to the left, large inferior turbinates, no mass or neoplasm noted.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    }
+  }
+}

@@ -1,0 +1,1334 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 48,
+      "900000000000207008": 115
+    },
+    "semanticTags": {
+      "finding": 73
+    },
+    "language": {
+      "en": 163
+    },
+    "membership": {
+      "1322291000000109": 73,
+      "991171000000107": 1,
+      "1127601000000107": 73,
+      "1382531000000102": 5,
+      "999002271000000101": 69,
+      "2222191000000108": 1,
+      "900000000000489007": 20,
+      "900000000000497000": 49,
+      "999002051000000100": 2,
+      "999002111000000103": 3,
+      "733073007": 73,
+      "999002871000000102": 15,
+      "2170881000000102": 1,
+      "999002751000000103": 12
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991171000000107": {
+      "conceptId": "991171000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy goals simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy goals simple reference set",
+        "lang": "en"
+      },
+      "id": "991171000000107"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "999002111000000103": {
+      "conceptId": "999002111000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy goals simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy goals simple reference set",
+        "lang": "en"
+      },
+      "id": "999002111000000103"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "2170881000000102": {
+      "conceptId": "2170881000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric allergy and immunology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric allergy and immunology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2170881000000102"
+    },
+    "999002871000000102": {
+      "conceptId": "999002871000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002871000000102"
+    },
+    "999002751000000103": {
+      "conceptId": "999002751000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Activity of daily living related to physical function findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Activity of daily living related to physical function findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002751000000103"
+    }
+  },
+  "totalElements": 163,
+  "totalPages": 4,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Tooth symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162004006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tooth symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tooth symptoms",
+          "lang": "en"
+        },
+        "id": "162004006"
+      }
+    },
+    {
+      "term": "Mouth symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162009001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mouth symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mouth symptoms",
+          "lang": "en"
+        },
+        "id": "162009001"
+      }
+    },
+    {
+      "term": "Rectal symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309572008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rectal symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rectal symptoms",
+          "lang": "en"
+        },
+        "id": "309572008"
+      }
+    },
+    {
+      "term": "Visual symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162274004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Visual symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Visual symptoms",
+          "lang": "en"
+        },
+        "id": "162274004"
+      }
+    },
+    {
+      "term": "Urinary symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249274008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urinary symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urinary symptoms",
+          "lang": "en"
+        },
+        "id": "249274008"
+      }
+    },
+    {
+      "term": "Sensory symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162246009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sensory symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sensory symptoms",
+          "lang": "en"
+        },
+        "id": "162246009"
+      }
+    },
+    {
+      "term": "Hearing symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162338005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing symptoms",
+          "lang": "en"
+        },
+        "id": "162338005"
+      }
+    },
+    {
+      "term": "Multiple symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38276004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Multiple symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Multiple symptoms",
+          "lang": "en"
+        },
+        "id": "38276004"
+      }
+    },
+    {
+      "term": "Symptoms of stress",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102497008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Symptoms of stress (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Symptoms of stress",
+          "lang": "en"
+        },
+        "id": "102497008"
+      }
+    },
+    {
+      "term": "Swallowing symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267048005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swallowing symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swallowing symptoms",
+          "lang": "en"
+        },
+        "id": "267048005"
+      }
+    },
+    {
+      "term": "Depressive symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "394924000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Symptoms of depression (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Symptoms of depression",
+          "lang": "en"
+        },
+        "id": "394924000"
+      }
+    },
+    {
+      "term": "Feigning of symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "735641000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Feigning of symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Feigning of symptoms",
+          "lang": "en"
+        },
+        "id": "735641000"
+      }
+    },
+    {
+      "term": "Ear discharge symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162362000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ear discharge symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ear discharge symptoms",
+          "lang": "en"
+        },
+        "id": "162362000"
+      }
+    },
+    {
+      "term": "Symptoms of depression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "394924000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Symptoms of depression (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Symptoms of depression",
+          "lang": "en"
+        },
+        "id": "394924000"
+      }
+    },
+    {
+      "term": "Symptoms due to cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "243591000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Symptoms due to cancer (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Symptoms due to cancer",
+          "lang": "en"
+        },
+        "id": "243591000000107"
+      }
+    },
+    {
+      "term": "Asthma daytime symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373899003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Asthma daytime symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Asthma daytime symptoms",
+          "lang": "en"
+        },
+        "id": "373899003"
+      }
+    },
+    {
+      "term": "Urinary system symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249274008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urinary symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urinary symptoms",
+          "lang": "en"
+        },
+        "id": "249274008"
+      }
+    },
+    {
+      "term": "Tooth symptoms (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162004006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tooth symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tooth symptoms",
+          "lang": "en"
+        },
+        "id": "162004006"
+      }
+    },
+    {
+      "term": "Mouth symptoms (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162009001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mouth symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mouth symptoms",
+          "lang": "en"
+        },
+        "id": "162009001"
+      }
+    },
+    {
+      "term": "Does manage own symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1073801000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Does manage own symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does manage own symptoms",
+          "lang": "en"
+        },
+        "id": "1073801000000109"
+      }
+    },
+    {
+      "term": "Breast signs and symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "198116001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Breast signs and symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Breast signs and symptoms",
+          "lang": "en"
+        },
+        "id": "198116001"
+      }
+    },
+    {
+      "term": "Psychotic symptoms absent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "280428001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Psychotic symptoms absent (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Psychotic symptoms absent",
+          "lang": "en"
+        },
+        "id": "280428001"
+      }
+    },
+    {
+      "term": "Rectal symptoms (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309572008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rectal symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rectal symptoms",
+          "lang": "en"
+        },
+        "id": "309572008"
+      }
+    },
+    {
+      "term": "Visual symptoms (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162274004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Visual symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Visual symptoms",
+          "lang": "en"
+        },
+        "id": "162274004"
+      }
+    },
+    {
+      "term": "Neuropsychiatric symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10171000132106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Behavioral and psychological symptoms of dementia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Behavioral and psychological symptoms of dementia",
+          "lang": "en"
+        },
+        "id": "10171000132106"
+      }
+    },
+    {
+      "term": "Urinary symptoms (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249274008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urinary symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urinary symptoms",
+          "lang": "en"
+        },
+        "id": "249274008"
+      }
+    },
+    {
+      "term": "Sensory symptoms (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162246009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sensory symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sensory symptoms",
+          "lang": "en"
+        },
+        "id": "162246009"
+      }
+    },
+    {
+      "term": "Hearing symptoms (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162338005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hearing symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hearing symptoms",
+          "lang": "en"
+        },
+        "id": "162338005"
+      }
+    },
+    {
+      "term": "Asthma night-time symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "395022009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Asthma night-time symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Asthma night-time symptoms",
+          "lang": "en"
+        },
+        "id": "395022009"
+      }
+    },
+    {
+      "term": "Multiple symptoms (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38276004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Multiple symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Multiple symptoms",
+          "lang": "en"
+        },
+        "id": "38276004"
+      }
+    },
+    {
+      "term": "Able to manage own symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "944261000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Able to manage own symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to manage own symptoms",
+          "lang": "en"
+        },
+        "id": "944261000000102"
+      }
+    },
+    {
+      "term": "Does recognise own symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1074021000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Does recognise own symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does recognise own symptoms",
+          "lang": "en"
+        },
+        "id": "1074021000000107"
+      }
+    },
+    {
+      "term": "Lower urinary tract symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307541003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lower urinary tract symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lower urinary tract symptoms",
+          "lang": "en"
+        },
+        "id": "307541003"
+      }
+    },
+    {
+      "term": "Symptoms of stress (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102497008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Symptoms of stress (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Symptoms of stress",
+          "lang": "en"
+        },
+        "id": "102497008"
+      }
+    },
+    {
+      "term": "Symptoms due to chemotherapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "243571000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Symptoms due to chemotherapy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Symptoms due to chemotherapy",
+          "lang": "en"
+        },
+        "id": "243571000000108"
+      }
+    },
+    {
+      "term": "Symptoms due to radiotherapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "243581000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Symptoms due to radiotherapy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Symptoms due to radiotherapy",
+          "lang": "en"
+        },
+        "id": "243581000000105"
+      }
+    },
+    {
+      "term": "Managing to control symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1149243003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Managing to control symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Managing to control symptoms",
+          "lang": "en"
+        },
+        "id": "1149243003"
+      }
+    },
+    {
+      "term": "Does not manage own symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1072141000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Does not manage own symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not manage own symptoms",
+          "lang": "en"
+        },
+        "id": "1072141000000106"
+      }
+    },
+    {
+      "term": "Does respond to own symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1074181000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Does respond to own symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does respond to own symptoms",
+          "lang": "en"
+        },
+        "id": "1074181000000107"
+      }
+    },
+    {
+      "term": "Female genital organ symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "198401009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Female genital organ symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Female genital organ symptoms",
+          "lang": "en"
+        },
+        "id": "198401009"
+      }
+    },
+    {
+      "term": "Unexplained symptoms continue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161904006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unexplained symptoms continue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unexplained symptoms continue",
+          "lang": "en"
+        },
+        "id": "161904006"
+      }
+    },
+    {
+      "term": "Swallowing symptoms (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267048005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swallowing symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swallowing symptoms",
+          "lang": "en"
+        },
+        "id": "267048005"
+      }
+    },
+    {
+      "term": "Experiential sensory symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449162004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Experiential sensory symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Experiential sensory symptoms",
+          "lang": "en"
+        },
+        "id": "449162004"
+      }
+    },
+    {
+      "term": "Unable to manage own symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1075311000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Unable to manage own symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unable to manage own symptoms",
+          "lang": "en"
+        },
+        "id": "1075311000000104"
+      }
+    },
+    {
+      "term": "Able to recognize own symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719732004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to recognize own symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to recognize own symptoms",
+          "lang": "en"
+        },
+        "id": "719732004"
+      }
+    },
+    {
+      "term": "Able to recognise own symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719732004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to recognize own symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to recognize own symptoms",
+          "lang": "en"
+        },
+        "id": "719732004"
+      }
+    },
+    {
+      "term": "Feigning of symptoms (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "735641000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Feigning of symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Feigning of symptoms",
+          "lang": "en"
+        },
+        "id": "735641000"
+      }
+    },
+    {
+      "term": "Does report signs and symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "843511000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Does report signs and symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does report signs and symptoms",
+          "lang": "en"
+        },
+        "id": "843511000000105"
+      }
+    },
+    {
+      "term": "Transient neurological symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162335008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transient neurological symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transient neurological symptoms",
+          "lang": "en"
+        },
+        "id": "162335008"
+      }
+    },
+    {
+      "term": "Able to respond to own symptoms",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "944251000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Able to respond to own symptoms (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to respond to own symptoms",
+          "lang": "en"
+        },
+        "id": "944251000000100"
+      }
+    }
+  ]
+}

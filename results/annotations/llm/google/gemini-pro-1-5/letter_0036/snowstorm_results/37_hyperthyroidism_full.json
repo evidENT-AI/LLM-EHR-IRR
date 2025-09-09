@@ -1,0 +1,1273 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 3,
+      "900000000000207008": 77
+    },
+    "semanticTags": {
+      "disorder": 29,
+      "procedure": 1,
+      "finding": 2,
+      "situation": 2
+    },
+    "language": {
+      "en": 80
+    },
+    "membership": {
+      "1322291000000109": 34,
+      "1127601000000107": 33,
+      "1382531000000102": 25,
+      "999003161000000108": 1,
+      "900000000000497000": 33,
+      "2181151000000100": 1,
+      "999002271000000101": 114,
+      "733073007": 34,
+      "1382401000000109": 2,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "2181151000000100": {
+      "conceptId": "2181151000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181151000000100"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 80,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34486009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "34486009"
+      }
+    },
+    {
+      "term": "H/O: hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161442007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of hyperthyroidism (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "161442007"
+      }
+    },
+    {
+      "term": "Familial hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722942005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "722942005"
+      }
+    },
+    {
+      "term": "Hyperthyroidism resolved",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416477006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism resolved (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism resolved",
+          "lang": "en"
+        },
+        "id": "416477006"
+      }
+    },
+    {
+      "term": "Secondary hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722941003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Secondary hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Secondary hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "722941003"
+      }
+    },
+    {
+      "term": "Factitious hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4997005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thyrotoxicosis factitia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thyrotoxicosis factitia",
+          "lang": "en"
+        },
+        "id": "4997005"
+      }
+    },
+    {
+      "term": "Hyperthyroidism (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34486009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "34486009"
+      }
+    },
+    {
+      "term": "History of hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161442007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of hyperthyroidism (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "161442007"
+      }
+    },
+    {
+      "term": "Iatrogenic hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237508001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Iatrogenic thyrotoxicosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Iatrogenic thyrotoxicosis",
+          "lang": "en"
+        },
+        "id": "237508001"
+      }
+    },
+    {
+      "term": "Postpartum hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10754961000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postpartum hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postpartum hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "10754961000119101"
+      }
+    },
+    {
+      "term": "Subclinical hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427970008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subclinical hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subclinical hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "427970008"
+      }
+    },
+    {
+      "term": "Hyperthyroidism in pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "72271000119100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism in pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism in pregnancy",
+          "lang": "en"
+        },
+        "id": "72271000119100"
+      }
+    },
+    {
+      "term": "Hyperthyroidism in childbirth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10754921000119106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism in childbirth (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism in childbirth",
+          "lang": "en"
+        },
+        "id": "10754921000119106"
+      }
+    },
+    {
+      "term": "Iodine-induced hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237510004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Iodine-induced thyrotoxicosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Iodine-induced hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "237510004"
+      }
+    },
+    {
+      "term": "Iodide-induced hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237510004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Iodine-induced thyrotoxicosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Iodine-induced hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "237510004"
+      }
+    },
+    {
+      "term": "Family history of hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430089002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of hyperthyroidism (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "430089002"
+      }
+    },
+    {
+      "term": "Hypertrichosis in hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403314007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrichosis in hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrichosis in hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "403314007"
+      }
+    },
+    {
+      "term": "Neonatal transient hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5604000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal transient hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal transient hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "5604000"
+      }
+    },
+    {
+      "term": "Transient neonatal hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5604000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal transient hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal transient hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "5604000"
+      }
+    },
+    {
+      "term": "Hyperthyroidism resolved (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416477006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism resolved (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism resolved",
+          "lang": "en"
+        },
+        "id": "416477006"
+      }
+    },
+    {
+      "term": "Familial non-immune hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "716743006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hyperthyroidism due to mutation in thyroid stimulating hormone receptor (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial non-autoimmune autosomal dominant hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "716743006"
+      }
+    },
+    {
+      "term": "Familial hyperthyroidism (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722942005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "722942005"
+      }
+    },
+    {
+      "term": "Hyperthyroidism due to struma ovarii",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25008002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism due to struma ovarii (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism due to struma ovarii",
+          "lang": "en"
+        },
+        "id": "25008002"
+      }
+    },
+    {
+      "term": "Hypercalcemia due to hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2243000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypercalcemia due to hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypercalcemia due to hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "2243000"
+      }
+    },
+    {
+      "term": "Familial gestational hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "703309000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial gestational hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial gestational hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "703309000"
+      }
+    },
+    {
+      "term": "Secondary hyperthyroidism (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722941003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Secondary hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Secondary hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "722941003"
+      }
+    },
+    {
+      "term": "Hyperthyroidism caused by amiodarone",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62052002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism caused by amiodarone (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism secondary to amiodarone",
+          "lang": "en"
+        },
+        "id": "62052002"
+      }
+    },
+    {
+      "term": "Hypercalcaemia due to hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2243000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypercalcemia due to hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypercalcemia due to hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "2243000"
+      }
+    },
+    {
+      "term": "Hypermelanosis due to hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403255008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypermelanosis due to hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypermelanosis due to hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "403255008"
+      }
+    },
+    {
+      "term": "Did not attend hyperthyroidism clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "88591000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Did not attend hyperthyroidism clinic (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Did not attend hyperthyroidism clinic",
+          "lang": "en"
+        },
+        "id": "88591000000101"
+      }
+    },
+    {
+      "term": "Postpartum hyperthyroidism (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10754961000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postpartum hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postpartum hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "10754961000119101"
+      }
+    },
+    {
+      "term": "Hyperthyroidism with Hashimoto disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27538003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism with Hashimoto disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism with Hashimoto disease",
+          "lang": "en"
+        },
+        "id": "27538003"
+      }
+    },
+    {
+      "term": "Subclinical hyperthyroidism (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427970008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subclinical hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subclinical hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "427970008"
+      }
+    },
+    {
+      "term": "History of hyperthyroidism (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161442007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of hyperthyroidism (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "161442007"
+      }
+    },
+    {
+      "term": "Hyperthyroidism secondary to amiodarone",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62052002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism caused by amiodarone (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism secondary to amiodarone",
+          "lang": "en"
+        },
+        "id": "62052002"
+      }
+    },
+    {
+      "term": "Hyperthyroidism in pregnancy (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "72271000119100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism in pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism in pregnancy",
+          "lang": "en"
+        },
+        "id": "72271000119100"
+      }
+    },
+    {
+      "term": "Hyperthyroidism due to molar thyrotropin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "44744000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism due to molar thyrotropin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism due to molar thyrotropin",
+          "lang": "en"
+        },
+        "id": "44744000"
+      }
+    },
+    {
+      "term": "Hyperthyroidism due to hydatidiform mole",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "44744000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism due to molar thyrotropin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism due to molar thyrotropin",
+          "lang": "en"
+        },
+        "id": "44744000"
+      }
+    },
+    {
+      "term": "Radionuclide therapy for hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64978007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radionuclide therapy for hyperthyroidism (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radionuclide therapy for hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "64978007"
+      }
+    },
+    {
+      "term": "Hyperthyroidism in childbirth (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10754921000119106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism in childbirth (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism in childbirth",
+          "lang": "en"
+        },
+        "id": "10754921000119106"
+      }
+    },
+    {
+      "term": "Hyperthyroidism caused by potassium iodide",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5834008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism caused by potassium iodide (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism secondary to potassium iodide",
+          "lang": "en"
+        },
+        "id": "5834008"
+      }
+    },
+    {
+      "term": "Jod Basedow iodine induced hyperthyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237510004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Iodine-induced thyrotoxicosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Iodine-induced hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "237510004"
+      }
+    },
+    {
+      "term": "DNA (did not attend) hyperthyroidism clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "88591000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Did not attend hyperthyroidism clinic (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Did not attend hyperthyroidism clinic",
+          "lang": "en"
+        },
+        "id": "88591000000101"
+      }
+    },
+    {
+      "term": "Hypertrichosis in hyperthyroidism (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403314007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrichosis in hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrichosis in hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "403314007"
+      }
+    },
+    {
+      "term": "Hyperthyroidism caused by radio contrast dye",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "67723002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism caused by radio contrast dye (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism secondary to radio contrast dye",
+          "lang": "en"
+        },
+        "id": "67723002"
+      }
+    },
+    {
+      "term": "Hyperthyroidism due to ectopic thyroid nodule",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87232008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism due to ectopic thyroid nodule (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism due to ectopic thyroid nodule",
+          "lang": "en"
+        },
+        "id": "87232008"
+      }
+    },
+    {
+      "term": "Hyperthyroidism secondary to potassium iodide",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5834008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism caused by potassium iodide (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism secondary to potassium iodide",
+          "lang": "en"
+        },
+        "id": "5834008"
+      }
+    },
+    {
+      "term": "Neonatal transient hyperthyroidism (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5604000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal transient hyperthyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal transient hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "5604000"
+      }
+    },
+    {
+      "term": "Family history of hyperthyroidism (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430089002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of hyperthyroidism (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of hyperthyroidism",
+          "lang": "en"
+        },
+        "id": "430089002"
+      }
+    },
+    {
+      "term": "Hyperthyroidism due to struma ovarii (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25008002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperthyroidism due to struma ovarii (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperthyroidism due to struma ovarii",
+          "lang": "en"
+        },
+        "id": "25008002"
+      }
+    }
+  ]
+}

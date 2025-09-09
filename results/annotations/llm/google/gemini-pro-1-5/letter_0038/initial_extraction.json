@@ -1,0 +1,304 @@
+{
+  "labels": {
+    "Fiberoptic nasolaryngoscopy": {
+      "context": "Procedure Performed:\nFiberoptic nasolaryngoscopy.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "424229002"
+    },
+    "Dysphagia": {
+      "context": "Postoperative Diagnoses:\n1. Dysphagia with no signs of piriform sinus pooling or aspiration.   2. No parapharyngeal hemorrhagic lesion noted.   3. Right parapharyngeal lesion, likely thyroid cartilage, nonhemorrhagic.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "40718000"
+    },
+    "piriform sinus pooling": {
+      "context": "Postoperative Diagnoses:\n1. Dysphagia with no signs of piriform sinus pooling or aspiration.   2. No parapharyngeal hemorrhagic lesion noted.   3. Right parapharyngeal lesion, likely thyroid cartilage, nonhemorrhagic.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "aspiration": {
+      "context": "The patient with excellent phonation with good glottic closure upon phonation and no signs of any aspiration or pooling of secretions.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "162576003"
+    },
+    "Right parapharyngeal lesion": {
+      "context": "Postoperative Diagnoses:\n1. Dysphagia with no signs of piriform sinus pooling or aspiration.   2. No parapharyngeal hemorrhagic lesion noted.   3. Right parapharyngeal lesion, likely thyroid cartilage, nonhemorrhagic.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "thyroid cartilage": {
+      "context": "Postoperative Diagnoses:\n1. Dysphagia with no signs of piriform sinus pooling or aspiration.   2. No parapharyngeal hemorrhagic lesion noted.   3. Right parapharyngeal lesion, likely thyroid cartilage, nonhemorrhagic.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "nonhemorrhagic": {
+      "context": "Postoperative Diagnoses:\n1. Dysphagia with no signs of piriform sinus pooling or aspiration.   2. No parapharyngeal hemorrhagic lesion noted.   3. Right parapharyngeal lesion, likely thyroid cartilage, nonhemorrhagic.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "Right parapharyngeal hemorrhagic lesion": {
+      "context": "Preoperative Diagnoses:\n1. Dysphagia.   2. Right parapharyngeal hemorrhagic lesion.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "parapharyngeal hemorrhagic lesion": {
+      "context": "Postoperative Diagnoses:\n1. Dysphagia with no signs of piriform sinus pooling or aspiration.   2. No parapharyngeal hemorrhagic lesion noted.   3. Right parapharyngeal lesion, likely thyroid cartilage, nonhemorrhagic.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "93-year-old": {
+      "context": "The patient is a 93-year-old Caucasian male who was admitted to ABCD General Hospital on 08/07/2003 secondary to ischemic ulcer on the right foot.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Caucasian": {
+      "context": "The patient is a 93-year-old Caucasian male who was admitted to ABCD General Hospital on 08/07/2003 secondary to ischemic ulcer on the right foot.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "ischemic ulcer": {
+      "context": "The patient is a 93-year-old Caucasian male who was admitted to ABCD General Hospital on 08/07/2003 secondary to ischemic ulcer on the right foot.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "420432007"
+    },
+    "right foot": {
+      "context": "The patient is a 93-year-old Caucasian male who was admitted to ABCD General Hospital on 08/07/2003 secondary to ischemic ulcer on the right foot.",
+      "qualifier": "Sociodemographics",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "postop dysphagia": {
+      "context": "ENT was asked to see the patient regarding postop dysphagia with findings at that time of the consultation on 08/17/03 with a fiberoptic nasolaryngoscopy, a right parapharyngeal hemorrhagic lesion possibly secondary to LMA intubation.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "40718000"
+    },
+    "fiberoptic nasolaryngoscopy": {
+      "context": "ENT was asked to see the patient regarding postop dysphagia with findings at that time of the consultation on 08/17/03 with a fiberoptic nasolaryngoscopy, a right parapharyngeal hemorrhagic lesion possibly secondary to LMA intubation.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "424229002"
+    },
+    "right parapharyngeal hemorrhagic lesion": {
+      "context": "This is a reevaluation of the right parapharyngeal hemorrhagic lesion that was noted prior.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "LMA intubation": {
+      "context": "ENT was asked to see the patient regarding postop dysphagia with findings at that time of the consultation on 08/17/03 with a fiberoptic nasolaryngoscopy, a right parapharyngeal hemorrhagic lesion possibly secondary to LMA intubation.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "dysphagia": {
+      "context": "The patient subsequently resolved with his dysphagia and workup of Speech was obtained, which showed no aspiration, no pooling, minimal premature spillage with solids, but good protection of the airway.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "resolved",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "40718000"
+    },
+    "pooling": {
+      "context": "The patient subsequently resolved with his dysphagia and workup of Speech was obtained, which showed no aspiration, no pooling, minimal premature spillage with solids, but good protection of the airway.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "premature spillage with solids": {
+      "context": "The patient subsequently resolved with his dysphagia and workup of Speech was obtained, which showed no aspiration, no pooling, minimal premature spillage with solids, but good protection of the airway.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "good protection of the airway": {
+      "context": "The patient subsequently resolved with his dysphagia and workup of Speech was obtained, which showed no aspiration, no pooling, minimal premature spillage with solids, but good protection of the airway.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "fiberoptic nasal laryngoscope": {
+      "context": "The patient was brought in the semi-Fowler's position, a fiberoptic nasal laryngoscope was then passed into the patient's right nasal passage, all the way to the nasopharynx.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "fullness": {
+      "context": "Within the hypopharynx although there was an area of fullness and on the right side around the level of the thyroid cartilage cornu that seemed to be prominent and within the lumen of the hypopharynx.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "thyroid cartilage cornu": {
+      "context": "Within the hypopharynx although there was an area of fullness and on the right side around the level of the thyroid cartilage cornu that seemed to be prominent and within the lumen of the hypopharynx.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "obstruction": {
+      "context": "There were no signs of any obstruction.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "78319006"
+    },
+    "excellent phonation": {
+      "context": "The patient with excellent phonation with good glottic closure upon phonation and no signs of any aspiration or pooling of secretions.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "good glottic closure": {
+      "context": "The patient with excellent phonation with good glottic closure upon phonation and no signs of any aspiration or pooling of secretions.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "pooling of secretions": {
+      "context": "The patient with excellent phonation with good glottic closure upon phonation and no signs of any aspiration or pooling of secretions.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "microscopic suspension direct laryngoscopy": {
+      "context": "At this time, we will follow up as an outpatient and possibly there is a need for a microscopic suspension direct laryngoscopy for evaluation of this right parapharyngeal lesion.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "right parapharyngeal lesion": {
+      "context": "At this time, we will follow up as an outpatient and possibly there is a need for a microscopic suspension direct laryngoscopy for evaluation of this right parapharyngeal lesion.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    }
+  }
+}

@@ -1,0 +1,855 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 8,
+      "900000000000207008": 23
+    },
+    "semanticTags": {
+      "finding": 13
+    },
+    "language": {
+      "en": 31
+    },
+    "membership": {
+      "1322291000000109": 13,
+      "1127601000000107": 13,
+      "999002061000000102": 5,
+      "999002451000000109": 1,
+      "900000000000497000": 9,
+      "1035411000000105": 2,
+      "733073007": 13,
+      "999002271000000101": 10,
+      "900000000000489007": 4
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "1035411000000105": {
+      "conceptId": "1035411000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional dietary assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional dietary assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1035411000000105"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 31,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 31,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Eye muscle imbalance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103266004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Eye muscle imbalance (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eye muscle imbalance",
+          "lang": "en"
+        },
+        "id": "103266004"
+      }
+    },
+    {
+      "term": "Nutritional imbalance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "190671002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Imbalance of constituents of food intake (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalance of constituents of food intake",
+          "lang": "en"
+        },
+        "id": "190671002"
+      }
+    },
+    {
+      "term": "Imbalance of nutrients",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "445381000124106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nutrition impaired due to imbalance of nutrients (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nutrition impaired due to imbalance of nutrients",
+          "lang": "en"
+        },
+        "id": "445381000124106"
+      }
+    },
+    {
+      "term": "Imbalanced intake of fibre",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "905231000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Imbalanced dietary intake of fibre (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalanced intake of fibre",
+          "lang": "en"
+        },
+        "id": "905231000000103"
+      }
+    },
+    {
+      "term": "Imbalance of nutrient intake",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "707847004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Imbalance of nutrient intake (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalance of nutrient intake",
+          "lang": "en"
+        },
+        "id": "707847004"
+      }
+    },
+    {
+      "term": "Eye muscle imbalance (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103266004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Eye muscle imbalance (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eye muscle imbalance",
+          "lang": "en"
+        },
+        "id": "103266004"
+      }
+    },
+    {
+      "term": "At risk of electrolyte imbalance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "715238005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of electrolyte imbalance (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of electrolyte imbalance",
+          "lang": "en"
+        },
+        "id": "715238005"
+      }
+    },
+    {
+      "term": "Imbalanced dietary intake of fat",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "896531000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Imbalanced dietary intake of fat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalanced dietary intake of fat",
+          "lang": "en"
+        },
+        "id": "896531000000104"
+      }
+    },
+    {
+      "term": "At risk for fluid volume imbalance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129693008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for imbalanced fluid volume (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for imbalanced fluid volume",
+          "lang": "en"
+        },
+        "id": "129693008"
+      }
+    },
+    {
+      "term": "At risk for imbalanced fluid volume",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129693008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for imbalanced fluid volume (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for imbalanced fluid volume",
+          "lang": "en"
+        },
+        "id": "129693008"
+      }
+    },
+    {
+      "term": "Imbalanced dietary intake of protein",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "896551000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Imbalanced dietary intake of protein (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalanced dietary intake of protein",
+          "lang": "en"
+        },
+        "id": "896551000000106"
+      }
+    },
+    {
+      "term": "Imbalance of nutrient intake (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "707847004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Imbalance of nutrient intake (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalance of nutrient intake",
+          "lang": "en"
+        },
+        "id": "707847004"
+      }
+    },
+    {
+      "term": "Imbalance of constituents of food intake",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "190671002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Imbalance of constituents of food intake (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalance of constituents of food intake",
+          "lang": "en"
+        },
+        "id": "190671002"
+      }
+    },
+    {
+      "term": "Imbalanced dietary intake of carbohydrate",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "905211000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Imbalanced dietary intake of carbohydrate (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalanced dietary intake of carbohydrate",
+          "lang": "en"
+        },
+        "id": "905211000000106"
+      }
+    },
+    {
+      "term": "At increased risk of electrolyte imbalance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "715238005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of electrolyte imbalance (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of electrolyte imbalance",
+          "lang": "en"
+        },
+        "id": "715238005"
+      }
+    },
+    {
+      "term": "Imbalanced dietary intake of fat (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "896531000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Imbalanced dietary intake of fat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalanced dietary intake of fat",
+          "lang": "en"
+        },
+        "id": "896531000000104"
+      }
+    },
+    {
+      "term": "Imbalanced dietary intake of fibre (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "905231000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Imbalanced dietary intake of fibre (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalanced intake of fibre",
+          "lang": "en"
+        },
+        "id": "905231000000103"
+      }
+    },
+    {
+      "term": "At increased risk for imbalanced fluid volume",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129693008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for imbalanced fluid volume (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for imbalanced fluid volume",
+          "lang": "en"
+        },
+        "id": "129693008"
+      }
+    },
+    {
+      "term": "Imbalanced dietary intake of protein (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "896551000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Imbalanced dietary intake of protein (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalanced dietary intake of protein",
+          "lang": "en"
+        },
+        "id": "896551000000106"
+      }
+    },
+    {
+      "term": "Nutrition impaired due to imbalance of nutrients",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "445381000124106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nutrition impaired due to imbalance of nutrients (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nutrition impaired due to imbalance of nutrients",
+          "lang": "en"
+        },
+        "id": "445381000124106"
+      }
+    },
+    {
+      "term": "Imbalanced nutrition: more than body requirements",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45346005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alteration in nutrition: more than body requirements (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alteration in nutrition: more than body requirements",
+          "lang": "en"
+        },
+        "id": "45346005"
+      }
+    },
+    {
+      "term": "Imbalanced nutrition: Less than body requirements",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "88202002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Alteration in nutrition: less than body requirements (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Alteration in nutrition: less than body requirements",
+          "lang": "en"
+        },
+        "id": "88202002"
+      }
+    },
+    {
+      "term": "Imbalance of constituents of food intake (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "190671002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Imbalance of constituents of food intake (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalance of constituents of food intake",
+          "lang": "en"
+        },
+        "id": "190671002"
+      }
+    },
+    {
+      "term": "Imbalanced dietary intake of carbohydrate (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "905211000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Imbalanced dietary intake of carbohydrate (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Imbalanced dietary intake of carbohydrate",
+          "lang": "en"
+        },
+        "id": "905211000000106"
+      }
+    },
+    {
+      "term": "At increased risk of electrolyte imbalance (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "715238005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of electrolyte imbalance (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of electrolyte imbalance",
+          "lang": "en"
+        },
+        "id": "715238005"
+      }
+    },
+    {
+      "term": "At increased risk for imbalanced fluid volume (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129693008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for imbalanced fluid volume (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for imbalanced fluid volume",
+          "lang": "en"
+        },
+        "id": "129693008"
+      }
+    },
+    {
+      "term": "Nutrition impaired due to imbalance of nutrients (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "445381000124106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nutrition impaired due to imbalance of nutrients (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nutrition impaired due to imbalance of nutrients",
+          "lang": "en"
+        },
+        "id": "445381000124106"
+      }
+    },
+    {
+      "term": "At risk for imbalanced nutrition, less than body requirements",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129845004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for imbalanced nutrition, less than body requirements (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for imbalanced nutrition, less than body requirements",
+          "lang": "en"
+        },
+        "id": "129845004"
+      }
+    },
+    {
+      "term": "At risk for imbalanced nutrition: less than body requirements",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129845004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for imbalanced nutrition, less than body requirements (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for imbalanced nutrition, less than body requirements",
+          "lang": "en"
+        },
+        "id": "129845004"
+      }
+    },
+    {
+      "term": "At increased risk for imbalanced nutrition, less than body requirements",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129845004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for imbalanced nutrition, less than body requirements (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for imbalanced nutrition, less than body requirements",
+          "lang": "en"
+        },
+        "id": "129845004"
+      }
+    },
+    {
+      "term": "At increased risk for imbalanced nutrition, less than body requirements (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129845004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for imbalanced nutrition, less than body requirements (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for imbalanced nutrition, less than body requirements",
+          "lang": "en"
+        },
+        "id": "129845004"
+      }
+    }
+  ]
+}

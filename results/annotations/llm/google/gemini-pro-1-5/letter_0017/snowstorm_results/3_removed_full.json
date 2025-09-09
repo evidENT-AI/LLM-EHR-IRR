@@ -1,0 +1,255 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 7
+    },
+    "semanticTags": {
+      "procedure": 7
+    },
+    "language": {
+      "en": 7
+    },
+    "membership": {
+      "1322291000000109": 7,
+      "900000000000497000": 7,
+      "733073007": 7,
+      "1382401000000109": 11
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 7,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 7,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "All drains removed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "406155005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of all drains (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of all drains",
+          "lang": "en"
+        },
+        "id": "406155005"
+      }
+    },
+    {
+      "term": "FB removed from eye",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "53570002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of foreign body from eye (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of foreign body from eye",
+          "lang": "en"
+        },
+        "id": "53570002"
+      }
+    },
+    {
+      "term": "Drain sutures removed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "406143004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of drain suture (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of drain suture",
+          "lang": "en"
+        },
+        "id": "406143004"
+      }
+    },
+    {
+      "term": "Hand tendon foreign body removed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1859008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of foreign body from tendon of hand (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of foreign body from tendon of hand",
+          "lang": "en"
+        },
+        "id": "1859008"
+      }
+    },
+    {
+      "term": "Hand fascia foreign body removed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "24633005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Removal of foreign body from fascia of hand (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Removal of foreign body from fascia of hand",
+          "lang": "en"
+        },
+        "id": "24633005"
+      }
+    },
+    {
+      "term": "Following a vaginal mesh operation an area of tape/mesh can become exposed and is oversewn with vaginal epithelium rather than removed.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1260205001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oversewing of exposed vaginal mesh (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oversewing of exposed vaginal mesh",
+          "lang": "en"
+        },
+        "id": "1260205001"
+      }
+    },
+    {
+      "term": "Radiation treatment that irradiates a treatment volume with temporarily placed radiation sources delivering low dose rates (typically less than or equal to 2 Gy/hour). All sources of radiation are removed at the completion of treatment.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1156708005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Low dose rate brachytherapy using temporary radioactive source (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Low dose rate brachytherapy using temporary radioactive source",
+          "lang": "en"
+        },
+        "id": "1156708005"
+      }
+    }
+  ]
+}

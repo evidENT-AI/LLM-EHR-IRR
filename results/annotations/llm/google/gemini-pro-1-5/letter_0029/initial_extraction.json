@@ -1,0 +1,424 @@
+{
+  "labels": {
+    "Right ear pain": {
+      "context": "Right ear pain with drainage.",
+      "qualifier": "Symptoms",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "25064002"
+    },
+    "drainage": {
+      "context": "Right ear pain with drainage.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "271747001"
+    },
+    "otitis media": {
+      "context": "Right ear pain with drainage - otitis media and otorrhea.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "65363002"
+    },
+    "otorrhea": {
+      "context": "Right ear pain with drainage - otitis media and otorrhea.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "38971003"
+    },
+    "12-year-old": {
+      "context": "This is a 12-year-old white male here with his mother for complaints of his right ear hurting.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "right ear hurting": {
+      "context": "This is a 12-year-old white male here with his mother for complaints of his right ear hurting.",
+      "qualifier": "Symptoms",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "25064002"
+    },
+    "several days": {
+      "context": "Mother states he has been complaining for several days.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "drainage from the right ear": {
+      "context": "A couple of days ago she noticed drainage from the right ear.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "271747001"
+    },
+    "draining": {
+      "context": "The patient states it has been draining for several days and it has a foul smell to it.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "271747001"
+    },
+    "foul smell": {
+      "context": "The patient states it has been draining for several days and it has a foul smell to it.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "low-grade fever": {
+      "context": "He has had some low-grade fever.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "386661006"
+    },
+    "sore throat": {
+      "context": "The patient was seen in the office about a week ago with complaints of a sore throat, headache and fever.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "22471007"
+    },
+    "headache": {
+      "context": "The patient was seen in the office about a week ago with complaints of a sore throat, headache and fever.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "25064002"
+    },
+    "fever": {
+      "context": "The patient was seen in the office about a week ago with complaints of a sore throat, headache and fever.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "386661006"
+    },
+    "Strep throat": {
+      "context": "The patient was evaluated for Strep throat which was negative and just had been doing supportive care.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "108001006"
+    },
+    "supportive care": {
+      "context": "The patient was evaluated for Strep throat which was negative and just had been doing supportive care.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "airplane ride": {
+      "context": "He did have a recent airplane ride a couple of weeks ago also.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "cough": {
+      "context": "There has been no cough, shortness of breath or wheezing.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "49727002"
+    },
+    "shortness of breath": {
+      "context": "There has been no cough, shortness of breath or wheezing.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "267036007"
+    },
+    "wheezing": {
+      "context": "There has been no cough, shortness of breath or wheezing.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "109569008"
+    },
+    "vomiting": {
+      "context": "No vomiting or diarrhea.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "422400008"
+    },
+    "diarrhea": {
+      "context": "No vomiting or diarrhea.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "62315008"
+    },
+    "alert": {
+      "context": "He is alert in no distress.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no distress": {
+      "context": "He is alert in no distress.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "99.1 degrees": {
+      "context": "Temperature: 99.1 degrees.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Normocephalic": {
+      "context": "Normocephalic, atraumatic.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "atraumatic": {
+      "context": "Normocephalic, atraumatic.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Pupils equal, round and react to light": {
+      "context": "Pupils equal, round and react to light.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "left TM is clear": {
+      "context": "The left TM is clear.",
+      "qualifier": "Signs",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "right TM is poorly visualized": {
+      "context": "The right TM is poorly visualized secondary to purulent secretions in the right ear canal.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "purulent secretions": {
+      "context": "The right TM is poorly visualized secondary to purulent secretions in the right ear canal.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "271747001"
+    },
+    "no erythema of the ear canals": {
+      "context": "There is no erythema of the ear canals.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "23333003"
+    },
+    "Nares is patent": {
+      "context": "Nares is patent.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Oropharynx is clear": {
+      "context": "Oropharynx is clear.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "braces": {
+      "context": "The patient does wear braces.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Supple": {
+      "context": "Neck: Supple.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Lungs: Clear to auscultation": {
+      "context": "Lungs: Clear to auscultation.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Heart: Regular. No murmur": {
+      "context": "Heart: Regular. No murmur.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Right otitis media": {
+      "context": "1. Right otitis media.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "65363002"
+    },
+    "Right otorrhea": {
+      "context": "2. Right otorrhea.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "38971003"
+    },
+    "Ceftin": {
+      "context": "Ceftin 250 mg by mouth twice a day for 10 days.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Ciprodex": {
+      "context": "Ciprodex four drops to the right ear twice a day.",
+      "qualifier": "Treatments",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    }
+  }
+}

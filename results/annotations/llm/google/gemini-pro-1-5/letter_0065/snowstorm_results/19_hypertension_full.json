@@ -1,0 +1,1712 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 82,
+      "999000041000000102": 3,
+      "900000000000207008": 1195
+    },
+    "semanticTags": {
+      "regime/therapy": 9,
+      "disorder": 413,
+      "environment": 1,
+      "physical object": 1,
+      "assessment scale": 5,
+      "observable entity": 5,
+      "procedure": 47,
+      "finding": 22,
+      "situation": 15,
+      "record artifact": 4,
+      "qualifier value": 1
+    },
+    "language": {
+      "en": 1280
+    },
+    "membership": {
+      "1322291000000109": 523,
+      "999004331000000102": 4,
+      "1127531000000102": 1,
+      "2222171000000109": 1,
+      "2181181000000106": 8,
+      "999003161000000108": 4,
+      "1323331000000106": 3,
+      "999003201000000100": 2,
+      "1127551000000109": 4,
+      "999002271000000101": 1063,
+      "2222191000000108": 1,
+      "2181141000000103": 3,
+      "999003181000000104": 4,
+      "999002451000000109": 2,
+      "999002571000000104": 14,
+      "900000000000497000": 484,
+      "1127821000000102": 1,
+      "999001761000000108": 1,
+      "999001471000000108": 1,
+      "1382401000000109": 7,
+      "991411000000109": 5,
+      "1127601000000107": 445,
+      "1382531000000102": 268,
+      "999001871000000106": 3,
+      "999001741000000107": 1,
+      "2181151000000100": 2,
+      "1382511000000105": 2,
+      "999001061000000106": 35,
+      "900000000000489007": 10,
+      "991311000000100": 1,
+      "999000401000000107": 1,
+      "999002061000000102": 1,
+      "733073007": 523,
+      "999003191000000102": 1,
+      "999004381000000103": 1,
+      "991381000000107": 2
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127531000000102": {
+      "conceptId": "1127531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Services simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Services simple reference set",
+        "lang": "en"
+      },
+      "id": "1127531000000102"
+    },
+    "2222171000000109": {
+      "conceptId": "2222171000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric hepatology disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric hepatology disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222171000000109"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "2181141000000103": {
+      "conceptId": "2181141000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric cardiovascular disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric cardiovascular disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181141000000103"
+    },
+    "999003181000000104": {
+      "conceptId": "999003181000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003181000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "1127821000000102": {
+      "conceptId": "1127821000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Acute kidney injury findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Acute kidney injury findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127821000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "999001471000000108": {
+      "conceptId": "999001471000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Care plan type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Care plan type simple reference set",
+        "lang": "en"
+      },
+      "id": "999001471000000108"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999001871000000106": {
+      "conceptId": "999001871000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Respiratory medicine diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Respiratory medicine diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001871000000106"
+    },
+    "999001741000000107": {
+      "conceptId": "999001741000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001741000000107"
+    },
+    "2181151000000100": {
+      "conceptId": "2181151000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181151000000100"
+    },
+    "1382511000000105": {
+      "conceptId": "1382511000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Dietary requirement regimes simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Dietary requirement regimes simple reference set",
+        "lang": "en"
+      },
+      "id": "1382511000000105"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "991311000000100": {
+      "conceptId": "991311000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Early intervention in psychosis procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Early intervention in psychosis procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991311000000100"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999003191000000102": {
+      "conceptId": "999003191000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1D Central nervous system neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1D CNS (central nervous system) neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003191000000102"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "991381000000107": {
+      "conceptId": "991381000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Comorbid conditions for selection simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Comorbid conditions for selection simple reference set",
+        "lang": "en"
+      },
+      "id": "991381000000107"
+    }
+  },
+  "totalElements": 1280,
+  "totalPages": 26,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38341003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertensive disorder, systemic arterial (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertensive disorder",
+          "lang": "en"
+        },
+        "id": "38341003"
+      }
+    },
+    {
+      "term": "FH: Hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160357008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Hypertension (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Hypertension",
+          "lang": "en"
+        },
+        "id": "160357008"
+      }
+    },
+    {
+      "term": "Hypertension risk",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "268607006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertension risk level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension risk level",
+          "lang": "en"
+        },
+        "id": "268607006"
+      }
+    },
+    {
+      "term": "H/O: hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161501007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of hypertension (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: hypertension",
+          "lang": "en"
+        },
+        "id": "161501007"
+      }
+    },
+    {
+      "term": "HT - Hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38341003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertensive disorder, systemic arterial (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertensive disorder",
+          "lang": "en"
+        },
+        "id": "38341003"
+      }
+    },
+    {
+      "term": "Renal hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28119000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Renal hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Renal hypertension",
+          "lang": "en"
+        },
+        "id": "28119000"
+      }
+    },
+    {
+      "term": "BP+ - Hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38341003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertensive disorder, systemic arterial (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertensive disorder",
+          "lang": "en"
+        },
+        "id": "38341003"
+      }
+    },
+    {
+      "term": "HTN - Hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38341003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertensive disorder, systemic arterial (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertensive disorder",
+          "lang": "en"
+        },
+        "id": "38341003"
+      }
+    },
+    {
+      "term": "Ocular hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4210003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ocular hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ocular hypertension",
+          "lang": "en"
+        },
+        "id": "4210003"
+      }
+    },
+    {
+      "term": "Benign hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10725009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benign hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Benign hypertension",
+          "lang": "en"
+        },
+        "id": "10725009"
+      }
+    },
+    {
+      "term": "Portal hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34742003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Portal hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Portal hypertension",
+          "lang": "en"
+        },
+        "id": "34742003"
+      }
+    },
+    {
+      "term": "Venous hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234072000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Venous hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Venous hypertension",
+          "lang": "en"
+        },
+        "id": "234072000"
+      }
+    },
+    {
+      "term": "No FH: Hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160273004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No family history: Hypertension (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No FH: Hypertension",
+          "lang": "en"
+        },
+        "id": "160273004"
+      }
+    },
+    {
+      "term": "Hypertension clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702867002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertension clinic (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension clinic",
+          "lang": "en"
+        },
+        "id": "702867002"
+      }
+    },
+    {
+      "term": "Supine hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "712832005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Supine hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Supine hypertension",
+          "lang": "en"
+        },
+        "id": "712832005"
+      }
+    },
+    {
+      "term": "Severe hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "843841000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Severe hypertension (National Institute for Health and Clinical Excellence 2011) (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011)",
+          "lang": "en"
+        },
+        "id": "843841000000109"
+      }
+    },
+    {
+      "term": "Rebound hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "84094009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rebound hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rebound hypertension",
+          "lang": "en"
+        },
+        "id": "84094009"
+      }
+    },
+    {
+      "term": "Fear of hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102932008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fear of hypertension (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fear of hypertension",
+          "lang": "en"
+        },
+        "id": "102932008"
+      }
+    },
+    {
+      "term": "Primary hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "59621000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Essential hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Essential hypertension",
+          "lang": "en"
+        },
+        "id": "59621000"
+      }
+    },
+    {
+      "term": "Hypertension stage 2",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "827068008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stage 2 hypertension (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension stage 2",
+          "lang": "en"
+        },
+        "id": "827068008"
+      }
+    },
+    {
+      "term": "Stage 2 hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "827068008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stage 2 hypertension (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension stage 2",
+          "lang": "en"
+        },
+        "id": "827068008"
+      }
+    },
+    {
+      "term": "Hypertension stage 1",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "827069000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stage 1 hypertension (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension stage 1",
+          "lang": "en"
+        },
+        "id": "827069000"
+      }
+    },
+    {
+      "term": "Stage 1 hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "827069000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stage 1 hypertension (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension stage 1",
+          "lang": "en"
+        },
+        "id": "827069000"
+      }
+    },
+    {
+      "term": "Stage 1 hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "843821000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)",
+          "lang": "en"
+        },
+        "id": "843821000000102"
+      }
+    },
+    {
+      "term": "Stage 2 hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "846371000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Stage 2 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)",
+          "lang": "en"
+        },
+        "id": "846371000000103"
+      }
+    },
+    {
+      "term": "Hypertension service",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1874591000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Hypertension service (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension service",
+          "lang": "en"
+        },
+        "id": "1874591000000103"
+      }
+    },
+    {
+      "term": "Systolic hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56218007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Systolic hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Systolic hypertension",
+          "lang": "en"
+        },
+        "id": "56218007"
+      }
+    },
+    {
+      "term": "Neonatal hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "206596003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal hypertension",
+          "lang": "en"
+        },
+        "id": "206596003"
+      }
+    },
+    {
+      "term": "Maternal hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "288250001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maternal hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maternal hypertension",
+          "lang": "en"
+        },
+        "id": "288250001"
+      }
+    },
+    {
+      "term": "Hypertension resolved",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162659009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertension resolved (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension resolved",
+          "lang": "en"
+        },
+        "id": "162659009"
+      }
+    },
+    {
+      "term": "Episodic hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "23130000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Paroxysmal hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Paroxysmal hypertension",
+          "lang": "en"
+        },
+        "id": "23130000"
+      }
+    },
+    {
+      "term": "Secondary hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "31992008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Secondary hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Secondary hypertension",
+          "lang": "en"
+        },
+        "id": "31992008"
+      }
+    },
+    {
+      "term": "Hypertension education",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39155009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertension education (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension education",
+          "lang": "en"
+        },
+        "id": "39155009"
+      }
+    },
+    {
+      "term": "Diastolic hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48146000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diastolic hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diastolic hypertension",
+          "lang": "en"
+        },
+        "id": "48146000"
+      }
+    },
+    {
+      "term": "Transient hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52698002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transient hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transient hypertension",
+          "lang": "en"
+        },
+        "id": "52698002"
+      }
+    },
+    {
+      "term": "Essential hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "59621000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Essential hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Essential hypertension",
+          "lang": "en"
+        },
+        "id": "59621000"
+      }
+    },
+    {
+      "term": "Malignant hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "70272006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Malignant hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Malignant hypertension",
+          "lang": "en"
+        },
+        "id": "70272006"
+      }
+    },
+    {
+      "term": "Pulmonary hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "70995007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary hypertension",
+          "lang": "en"
+        },
+        "id": "70995007"
+      }
+    },
+    {
+      "term": "Goldblatt hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "123800009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Goldblatt hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Goldblatt hypertension",
+          "lang": "en"
+        },
+        "id": "123800009"
+      }
+    },
+    {
+      "term": "Hypertension monitored",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "270440008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertension monitoring check done (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension monitoring check done",
+          "lang": "en"
+        },
+        "id": "270440008"
+      }
+    },
+    {
+      "term": "Hypertension screening",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "171222001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertension screening (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension screening",
+          "lang": "en"
+        },
+        "id": "171222001"
+      }
+    },
+    {
+      "term": "Suspected hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417312002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Suspected hypertension (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Suspected hypertension",
+          "lang": "en"
+        },
+        "id": "417312002"
+      }
+    },
+    {
+      "term": "Endocrine hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "194788005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertension secondary to endocrine disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension secondary to endocrine disorder",
+          "lang": "en"
+        },
+        "id": "194788005"
+      }
+    },
+    {
+      "term": "Resistant hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "845891000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Hypertension resistant to drug therapy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension resistant to drug therapy",
+          "lang": "en"
+        },
+        "id": "845891000000103"
+      }
+    },
+    {
+      "term": "Nocturnal hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "863191000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Nocturnal hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nocturnal hypertension",
+          "lang": "en"
+        },
+        "id": "863191000000102"
+      }
+    },
+    {
+      "term": "Paroxysmal hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "23130000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Paroxysmal hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Paroxysmal hypertension",
+          "lang": "en"
+        },
+        "id": "23130000"
+      }
+    },
+    {
+      "term": "Idiopathic hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "59621000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Essential hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Essential hypertension",
+          "lang": "en"
+        },
+        "id": "59621000"
+      }
+    },
+    {
+      "term": "Hypertension monitoring",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275944005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertension monitoring (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension monitoring",
+          "lang": "en"
+        },
+        "id": "275944005"
+      }
+    },
+    {
+      "term": "Hypertension risk level",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "268607006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertension risk level (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertension risk level",
+          "lang": "en"
+        },
+        "id": "268607006"
+      }
+    },
+    {
+      "term": "Exertional hypertension",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429198000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Exertional hypertension (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Exertional hypertension",
+          "lang": "en"
+        },
+        "id": "429198000"
+      }
+    }
+  ]
+}

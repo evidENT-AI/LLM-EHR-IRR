@@ -1,0 +1,534 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 14
+    },
+    "semanticTags": {
+      "procedure": 18
+    },
+    "language": {
+      "en": 18
+    },
+    "membership": {
+      "1322291000000109": 18,
+      "999002571000000104": 2,
+      "900000000000497000": 14,
+      "733073007": 18,
+      "900000000000489007": 2,
+      "1382401000000109": 77
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 18,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 18,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Laser excision of organ NOC (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "640431000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Laser excision of organ NOC (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laser excision of organ NOC",
+          "lang": "en"
+        },
+        "id": "640431000000101"
+      }
+    },
+    {
+      "term": "Laser excision of septum of vagina (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "176675005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laser excision of septum of vagina (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laser excision of septum of vagina",
+          "lang": "en"
+        },
+        "id": "176675005"
+      }
+    },
+    {
+      "term": "Laser excision of lesion of cervix (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236875004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laser excision of lesion of cervix (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laser excision of lesion of cervix",
+          "lang": "en"
+        },
+        "id": "236875004"
+      }
+    },
+    {
+      "term": "Laser excision of bilateral tonsils (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "173426007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laser excision of bilateral tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laser excision of bilateral tonsils",
+          "lang": "en"
+        },
+        "id": "173426007"
+      }
+    },
+    {
+      "term": "Laser excision of lesion of organ NOC (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "640441000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Laser excision of lesion of organ NOC (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laser excision of lesion of organ NOC",
+          "lang": "en"
+        },
+        "id": "640441000000105"
+      }
+    },
+    {
+      "term": "Excision of Reinke's edema using laser (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449432003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of Reinke's edema using laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of Reinke's edema using laser",
+          "lang": "en"
+        },
+        "id": "449432003"
+      }
+    },
+    {
+      "term": "Excision of polyp of larynx using laser (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448035001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of polyp of larynx using laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of polyp of larynx using laser",
+          "lang": "en"
+        },
+        "id": "448035001"
+      }
+    },
+    {
+      "term": "Excision of lesion of larynx using laser (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "447985005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of lesion of larynx using laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of lesion of larynx using laser",
+          "lang": "en"
+        },
+        "id": "447985005"
+      }
+    },
+    {
+      "term": "Excision of nodule of larynx using laser (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449449005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of nodule of larynx using laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of nodule of larynx using laser",
+          "lang": "en"
+        },
+        "id": "449449005"
+      }
+    },
+    {
+      "term": "Excision of nodule of vocal cord using laser (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448034002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of nodule of vocal cord using laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of nodule of vocal cord using laser",
+          "lang": "en"
+        },
+        "id": "448034002"
+      }
+    },
+    {
+      "term": "Endoscopic excision of prostate using holmium laser (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "446445003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopic excision of prostate using holmium laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopic excision of prostate using holmium laser",
+          "lang": "en"
+        },
+        "id": "446445003"
+      }
+    },
+    {
+      "term": "Primary laser excision of lumbar intervertebral disc (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307720007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary laser excision of lumbar intervertebral disc (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary laser excision of lumbar intervertebral disc",
+          "lang": "en"
+        },
+        "id": "307720007"
+      }
+    },
+    {
+      "term": "Primary laser excision of cervical intervertebral disc (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307721006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary laser excision of cervical intervertebral disc (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary laser excision of cervical intervertebral disc",
+          "lang": "en"
+        },
+        "id": "307721006"
+      }
+    },
+    {
+      "term": "Primary laser excision of thoracic intervertebral disc (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "308025006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary laser excision of thoracic intervertebral disc (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary laser excision of thoracic intervertebral disc",
+          "lang": "en"
+        },
+        "id": "308025006"
+      }
+    },
+    {
+      "term": "Excision of cyst of vallecula of epiglottis using laser (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "447984009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of cyst of vallecula of epiglottis using laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of cyst of vallecula of epiglottis using laser",
+          "lang": "en"
+        },
+        "id": "447984009"
+      }
+    },
+    {
+      "term": "Percutaneous endoscopic laser excision of thoracic intervertebral disc (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "822481000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Percutaneous endoscopic laser excision of thoracic intervertebral disc (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Percutaneous endoscopic laser thoracic discectomy",
+          "lang": "en"
+        },
+        "id": "822481000000105"
+      }
+    },
+    {
+      "term": "Percutaneous endoscopic laser excision of cervical intervertebral disc (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "840571000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Percutaneous endoscopic laser excision of cervical intervertebral disc (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Percutaneous endoscopic laser cervical discectomy",
+          "lang": "en"
+        },
+        "id": "840571000000107"
+      }
+    },
+    {
+      "term": "Percutaneous endoscopic excision of lumbar intervertebral disc using laser (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "700212000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Percutaneous endoscopic excision of lumbar intervertebral disc using laser (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Percutaneous endoscopic excision of lumbar intervertebral disc using laser",
+          "lang": "en"
+        },
+        "id": "700212000"
+      }
+    }
+  ]
+}

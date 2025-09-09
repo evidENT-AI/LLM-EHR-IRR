@@ -1,0 +1,1394 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 16,
+      "900000000000207008": 295
+    },
+    "semanticTags": {
+      "product": 1,
+      "occupation": 10,
+      "organism": 13,
+      "substance": 8,
+      "observable entity": 29,
+      "procedure": 12,
+      "finding": 42,
+      "qualifier value": 2,
+      "disorder": 20,
+      "environment": 1,
+      "physical object": 1,
+      "event": 2,
+      "situation": 6
+    },
+    "language": {
+      "en": 311
+    },
+    "membership": {
+      "1322291000000109": 122,
+      "1127601000000107": 63,
+      "1033041000000104": 1,
+      "1382531000000102": 7,
+      "999002271000000101": 79,
+      "999001571000000109": 9,
+      "900000000000489007": 3,
+      "991471000000104": 1,
+      "999000401000000107": 1,
+      "1853551000000106": 1,
+      "999002451000000109": 1,
+      "999002571000000104": 6,
+      "900000000000497000": 139,
+      "733073007": 147,
+      "30931000001101": 9,
+      "999000891000000102": 2,
+      "1382401000000109": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1033041000000104": {
+      "conceptId": "1033041000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Smoking status of household members findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Smoking status of household members findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1033041000000104"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "991471000000104": {
+      "conceptId": "991471000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental health assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental health assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "991471000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "1853551000000106": {
+      "conceptId": "1853551000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set",
+        "lang": "en"
+      },
+      "id": "1853551000000106"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999000891000000102": {
+      "conceptId": "999000891000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Smoking simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Smoking simple reference set",
+        "lang": "en"
+      },
+      "id": "999000891000000102"
+    }
+  },
+  "totalElements": 311,
+  "totalPages": 7,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39953003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco",
+          "lang": "en"
+        },
+        "id": "39953003"
+      }
+    },
+    {
+      "term": "Tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "57264008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nicotiana tabacum (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nicotiana tabacum",
+          "lang": "en"
+        },
+        "id": "57264008"
+      }
+    },
+    {
+      "term": "Tobaccofish",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68587000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Serranus tabacarius (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serranus tabacarius",
+          "lang": "en"
+        },
+        "id": "68587000"
+      }
+    },
+    {
+      "term": "Tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110483000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco user (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco user",
+          "lang": "en"
+        },
+        "id": "110483000"
+      }
+    },
+    {
+      "term": "Tobacco user",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110483000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco user (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco user",
+          "lang": "en"
+        },
+        "id": "110483000"
+      }
+    },
+    {
+      "term": "Tree tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30795006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nicotiana glauca (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nicotiana glauca",
+          "lang": "en"
+        },
+        "id": "30795006"
+      }
+    },
+    {
+      "term": "Tobacconists",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284750009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacconists (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacconists",
+          "lang": "en"
+        },
+        "id": "284750009"
+      }
+    },
+    {
+      "term": "Tobacco dust",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "421693007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vitreous pigment cells (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vitreous pigment cells",
+          "lang": "en"
+        },
+        "id": "421693007"
+      }
+    },
+    {
+      "term": "Tobacco abuse",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "89765005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco dependence syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco dependence syndrome",
+          "lang": "en"
+        },
+        "id": "89765005"
+      }
+    },
+    {
+      "term": "Tobacco smoke",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102407002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco smoke (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco smoke",
+          "lang": "en"
+        },
+        "id": "102407002"
+      }
+    },
+    {
+      "term": "Aztec tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37921004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nicotiana rustica (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nicotiana rustica",
+          "lang": "en"
+        },
+        "id": "37921004"
+      }
+    },
+    {
+      "term": "Snuff tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39789004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Snuff tobacco (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Snuff tobacco",
+          "lang": "en"
+        },
+        "id": "39789004"
+      }
+    },
+    {
+      "term": "Tobacco plant",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "57264008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nicotiana tabacum (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nicotiana tabacum",
+          "lang": "en"
+        },
+        "id": "57264008"
+      }
+    },
+    {
+      "term": "Chews tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "81703003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chews tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chews tobacco",
+          "lang": "en"
+        },
+        "id": "81703003"
+      }
+    },
+    {
+      "term": "Desert tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27743007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nicotiana trigonella (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nicotiana trigonella",
+          "lang": "en"
+        },
+        "id": "27743007"
+      }
+    },
+    {
+      "term": "Tobacco grader",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46805000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco grader (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco grader",
+          "lang": "en"
+        },
+        "id": "46805000"
+      }
+    },
+    {
+      "term": "Indian tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45349003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lobelia inflata (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lobelia inflata",
+          "lang": "en"
+        },
+        "id": "45349003"
+      }
+    },
+    {
+      "term": "Tobacco blender",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38402001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco blender (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco blender",
+          "lang": "en"
+        },
+        "id": "38402001"
+      }
+    },
+    {
+      "term": "Chewing tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "81911001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chewing tobacco (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chewing tobacco",
+          "lang": "en"
+        },
+        "id": "81911001"
+      }
+    },
+    {
+      "term": "Tobacco chewing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228509002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding relating to tobacco chewing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding relating to tobacco chewing",
+          "lang": "en"
+        },
+        "id": "228509002"
+      }
+    },
+    {
+      "term": "Ex-tobacco user",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702975009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-tobacco user (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-tobacco user",
+          "lang": "en"
+        },
+        "id": "702975009"
+      }
+    },
+    {
+      "term": "Tobacco preparer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "106447007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco preparer (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco preparer",
+          "lang": "en"
+        },
+        "id": "106447007"
+      }
+    },
+    {
+      "term": "Mountain tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "75856009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Arnica montana (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Arnica montana",
+          "lang": "en"
+        },
+        "id": "75856009"
+      }
+    },
+    {
+      "term": "No tobacco abuse",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1149350001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No tobacco abuse (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No tobacco abuse",
+          "lang": "en"
+        },
+        "id": "1149350001"
+      }
+    },
+    {
+      "term": "Tobacco industry",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "721131000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Tobacco industry (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco industry",
+          "lang": "en"
+        },
+        "id": "721131000000108"
+      }
+    },
+    {
+      "term": "Tobacco amblyopia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30483005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco amblyopia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco amblyopia",
+          "lang": "en"
+        },
+        "id": "30483005"
+      }
+    },
+    {
+      "term": "Tobacco poisoning",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45571007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nicotiana tabacum poisoning (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nicotiana tabacum poisoning",
+          "lang": "en"
+        },
+        "id": "45571007"
+      }
+    },
+    {
+      "term": "Ex-tobacco chewer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228513009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ex-tobacco chewer (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ex-tobacco chewer",
+          "lang": "en"
+        },
+        "id": "228513009"
+      }
+    },
+    {
+      "term": "Tobacco processor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "159882006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco processor (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco processor",
+          "lang": "en"
+        },
+        "id": "159882006"
+      }
+    },
+    {
+      "term": "Moist tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228499007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding relating to moist tobacco use (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding relating to moist tobacco use",
+          "lang": "en"
+        },
+        "id": "228499007"
+      }
+    },
+    {
+      "term": "Chews plug tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228514003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chews plug tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chews plug tobacco",
+          "lang": "en"
+        },
+        "id": "228514003"
+      }
+    },
+    {
+      "term": "Never used tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702979003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Never used tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Never used tobacco",
+          "lang": "en"
+        },
+        "id": "702979003"
+      }
+    },
+    {
+      "term": "Tobacco dependence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "89765005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco dependence syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco dependence syndrome",
+          "lang": "en"
+        },
+        "id": "89765005"
+      }
+    },
+    {
+      "term": "Chews twist tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228515002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chews twist tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chews twist tobacco",
+          "lang": "en"
+        },
+        "id": "228515002"
+      }
+    },
+    {
+      "term": "Tobacco (substance)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39953003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco",
+          "lang": "en"
+        },
+        "id": "39953003"
+      }
+    },
+    {
+      "term": "Tobacco - substance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39953003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco",
+          "lang": "en"
+        },
+        "id": "39953003"
+      }
+    },
+    {
+      "term": "No abuse of tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1149350001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No tobacco abuse (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No tobacco abuse",
+          "lang": "en"
+        },
+        "id": "1149350001"
+      }
+    },
+    {
+      "term": "Pipe smoking tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "84498003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pipe smoking tobacco (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pipe smoking tobacco",
+          "lang": "en"
+        },
+        "id": "84498003"
+      }
+    },
+    {
+      "term": "Never chewed tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228512004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Never chewed tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Never chewed tobacco",
+          "lang": "en"
+        },
+        "id": "228512004"
+      }
+    },
+    {
+      "term": "Never smoked tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "266919005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Never smoked tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Never smoked tobacco",
+          "lang": "en"
+        },
+        "id": "266919005"
+      }
+    },
+    {
+      "term": "Maternal tobacco use",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427189007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maternal tobacco use (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maternal tobacco use",
+          "lang": "en"
+        },
+        "id": "427189007"
+      }
+    },
+    {
+      "term": "Smokes tobacco daily",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449868002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smokes tobacco daily (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smokes tobacco daily",
+          "lang": "en"
+        },
+        "id": "449868002"
+      }
+    },
+    {
+      "term": "Type of tobacco used",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "53661000146106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Type of tobacco used (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Type of tobacco used",
+          "lang": "en"
+        },
+        "id": "53661000146106"
+      }
+    },
+    {
+      "term": "Cigar smoking tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "26663004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cigar smoking tobacco (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cigar smoking tobacco",
+          "lang": "en"
+        },
+        "id": "26663004"
+      }
+    },
+    {
+      "term": "Does not chew tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228511006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not chew tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not chew tobacco",
+          "lang": "en"
+        },
+        "id": "228511006"
+      }
+    },
+    {
+      "term": "Tobacco abuse control",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "408937009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco abuse prevention (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco abuse prevention",
+          "lang": "en"
+        },
+        "id": "408937009"
+      }
+    },
+    {
+      "term": "Tree tobacco poisoning",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "83086008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nicotiana glauca poisoning (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nicotiana glauca poisoning",
+          "lang": "en"
+        },
+        "id": "83086008"
+      }
+    },
+    {
+      "term": "Chews fine cut tobacco",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228517005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chews fine cut tobacco (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chews fine cut tobacco",
+          "lang": "en"
+        },
+        "id": "228517005"
+      }
+    },
+    {
+      "term": "Maternal tobacco abuse",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "169940006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maternal tobacco abuse (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maternal tobacco abuse",
+          "lang": "en"
+        },
+        "id": "169940006"
+      }
+    },
+    {
+      "term": "Tobacco user (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "110483000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tobacco user (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tobacco user",
+          "lang": "en"
+        },
+        "id": "110483000"
+      }
+    }
+  ]
+}

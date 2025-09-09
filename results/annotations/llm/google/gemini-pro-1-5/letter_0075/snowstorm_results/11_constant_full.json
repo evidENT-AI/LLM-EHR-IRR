@@ -1,0 +1,724 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 20
+    },
+    "semanticTags": {
+      "finding": 13
+    },
+    "language": {
+      "en": 24
+    },
+    "membership": {
+      "1322291000000109": 13,
+      "1127601000000107": 13,
+      "999002451000000109": 1,
+      "900000000000497000": 11,
+      "999002051000000100": 1,
+      "1128991000000109": 1,
+      "733073007": 13,
+      "999002271000000101": 12,
+      "900000000000489007": 2,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 24,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 24,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Constant pain",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "426206001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constant pain (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constant pain",
+          "lang": "en"
+        },
+        "id": "426206001"
+      }
+    },
+    {
+      "term": "Constant vertigo",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103292006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constant vertigo (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constant vertigo",
+          "lang": "en"
+        },
+        "id": "103292006"
+      }
+    },
+    {
+      "term": "Mood is constant",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225658008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mood stable (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mood stable",
+          "lang": "en"
+        },
+        "id": "225658008"
+      }
+    },
+    {
+      "term": "Constantly eating",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "212572003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Always eating (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Always eating",
+          "lang": "en"
+        },
+        "id": "212572003"
+      }
+    },
+    {
+      "term": "Constantly crying",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225460000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constantly crying (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constantly crying",
+          "lang": "en"
+        },
+        "id": "225460000"
+      }
+    },
+    {
+      "term": "Constant movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247911008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constant movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constant movement",
+          "lang": "en"
+        },
+        "id": "247911008"
+      }
+    },
+    {
+      "term": "Constant appetite",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102608004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excessive appetite (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excessive appetite",
+          "lang": "en"
+        },
+        "id": "102608004"
+      }
+    },
+    {
+      "term": "Constant wheezing",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "867311000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Constant wheezing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constant wheezing",
+          "lang": "en"
+        },
+        "id": "867311000000104"
+      }
+    },
+    {
+      "term": "Constant pain (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "426206001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constant pain (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constant pain",
+          "lang": "en"
+        },
+        "id": "426206001"
+      }
+    },
+    {
+      "term": "Constantly crying infant",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "766877008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constantly crying infant (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constantly crying infant",
+          "lang": "en"
+        },
+        "id": "766877008"
+      }
+    },
+    {
+      "term": "Constant desire to swallow",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249495000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constant desire to swallow (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constant desire to swallow",
+          "lang": "en"
+        },
+        "id": "249495000"
+      }
+    },
+    {
+      "term": "Constant vertigo (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103292006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constant vertigo (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constant vertigo",
+          "lang": "en"
+        },
+        "id": "103292006"
+      }
+    },
+    {
+      "term": "Constant movement of tongue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249879009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constant movement of tongue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constant movement of tongue",
+          "lang": "en"
+        },
+        "id": "249879009"
+      }
+    },
+    {
+      "term": "Constant movement (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247911008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constant movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constant movement",
+          "lang": "en"
+        },
+        "id": "247911008"
+      }
+    },
+    {
+      "term": "Constantly crying (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225460000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constantly crying (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constantly crying",
+          "lang": "en"
+        },
+        "id": "225460000"
+      }
+    },
+    {
+      "term": "Constant wheezing (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "867311000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Constant wheezing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constant wheezing",
+          "lang": "en"
+        },
+        "id": "867311000000104"
+      }
+    },
+    {
+      "term": "Requires constant supervision",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "240451000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Requires constant supervision (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Requires constant supervision",
+          "lang": "en"
+        },
+        "id": "240451000000106"
+      }
+    },
+    {
+      "term": "Constantly crying infant (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "766877008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constantly crying infant (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constantly crying infant",
+          "lang": "en"
+        },
+        "id": "766877008"
+      }
+    },
+    {
+      "term": "Constant desire to swallow (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249495000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constant desire to swallow (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constant desire to swallow",
+          "lang": "en"
+        },
+        "id": "249495000"
+      }
+    },
+    {
+      "term": "Constant movement of tongue (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249879009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constant movement of tongue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constant movement of tongue",
+          "lang": "en"
+        },
+        "id": "249879009"
+      }
+    },
+    {
+      "term": "Requires constant supervision (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "240451000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Requires constant supervision (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Requires constant supervision",
+          "lang": "en"
+        },
+        "id": "240451000000106"
+      }
+    },
+    {
+      "term": "Convergence in manifest squint,anomalous with constant angle",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "246714003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Convergence in manifest squint,anomalous with constant angle (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Convergence in manifest squint,anomalous with constant angle",
+          "lang": "en"
+        },
+        "id": "246714003"
+      }
+    },
+    {
+      "term": "Convergence in manifest squint, anomalous with constant angle",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "246714003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Convergence in manifest squint,anomalous with constant angle (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Convergence in manifest squint,anomalous with constant angle",
+          "lang": "en"
+        },
+        "id": "246714003"
+      }
+    },
+    {
+      "term": "Convergence in manifest squint,anomalous with constant angle (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "246714003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Convergence in manifest squint,anomalous with constant angle (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Convergence in manifest squint,anomalous with constant angle",
+          "lang": "en"
+        },
+        "id": "246714003"
+      }
+    }
+  ]
+}

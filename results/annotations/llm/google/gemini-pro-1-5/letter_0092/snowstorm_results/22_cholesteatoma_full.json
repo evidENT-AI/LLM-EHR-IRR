@@ -1,0 +1,1256 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 82
+    },
+    "semanticTags": {
+      "disorder": 28,
+      "morphologic abnormality": 1,
+      "procedure": 4
+    },
+    "language": {
+      "en": 82
+    },
+    "membership": {
+      "1322291000000109": 33,
+      "991411000000109": 1,
+      "1127601000000107": 28,
+      "1382531000000102": 19,
+      "900000000000497000": 33,
+      "999002271000000101": 34,
+      "733073007": 33,
+      "2222161000000102": 1,
+      "1382401000000109": 5,
+      "999003141000000107": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 82,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "575006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma",
+          "lang": "en"
+        },
+        "id": "575006"
+      }
+    },
+    {
+      "term": "Cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "363668000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma",
+          "lang": "en"
+        },
+        "id": "363668000"
+      }
+    },
+    {
+      "term": "Cholesteatoma pearl",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232276008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma pearl (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma pearl",
+          "lang": "en"
+        },
+        "id": "232276008"
+      }
+    },
+    {
+      "term": "Nasal cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232344001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rhinitis caseosa (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rhinitis caseosa",
+          "lang": "en"
+        },
+        "id": "232344001"
+      }
+    },
+    {
+      "term": "Mastoid cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232260004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mastoid cholesteatoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mastoid cholesteatoma",
+          "lang": "en"
+        },
+        "id": "232260004"
+      }
+    },
+    {
+      "term": "Eardrum cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1086621000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma tympanum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma tympanum",
+          "lang": "en"
+        },
+        "id": "1086621000119109"
+      }
+    },
+    {
+      "term": "Cholesteatoma of attic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38708003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of attic (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of attic",
+          "lang": "en"
+        },
+        "id": "38708003"
+      }
+    },
+    {
+      "term": "Cholesteatoma tympanum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1086621000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma tympanum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma tympanum",
+          "lang": "en"
+        },
+        "id": "1086621000119109"
+      }
+    },
+    {
+      "term": "Cholesteatoma of orbit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1217644004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of orbit (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of orbit",
+          "lang": "en"
+        },
+        "id": "1217644004"
+      }
+    },
+    {
+      "term": "Epidermoid cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "575006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma",
+          "lang": "en"
+        },
+        "id": "575006"
+      }
+    },
+    {
+      "term": "Cholesteatoma of mastoid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232260004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mastoid cholesteatoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mastoid cholesteatoma",
+          "lang": "en"
+        },
+        "id": "232260004"
+      }
+    },
+    {
+      "term": "Congenital cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232262007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital cholesteatoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital cholesteatoma",
+          "lang": "en"
+        },
+        "id": "232262007"
+      }
+    },
+    {
+      "term": "Cholesteatoma (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "363668000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma",
+          "lang": "en"
+        },
+        "id": "363668000"
+      }
+    },
+    {
+      "term": "Excision of cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172748005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of cholesteatoma (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of cholesteatoma",
+          "lang": "en"
+        },
+        "id": "172748005"
+      }
+    },
+    {
+      "term": "Left mastoid cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1089051000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of left mastoid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of left mastoid process",
+          "lang": "en"
+        },
+        "id": "1089051000119100"
+      }
+    },
+    {
+      "term": "Cholesteatoma of middle ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87688009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of middle ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of middle ear",
+          "lang": "en"
+        },
+        "id": "87688009"
+      }
+    },
+    {
+      "term": "Cholesteatoma of left attic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1088281000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of recessus epitympanicus of left middle ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of recessus epitympanicus of left middle ear",
+          "lang": "en"
+        },
+        "id": "1088281000119107"
+      }
+    },
+    {
+      "term": "Right mastoid cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1091661000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of right mastoid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of right mastoid",
+          "lang": "en"
+        },
+        "id": "1091661000119108"
+      }
+    },
+    {
+      "term": "Cholesteatoma of right attic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1090891000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of recessus epitympanicus of right middle ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of recessus epitympanicus of right middle ear",
+          "lang": "en"
+        },
+        "id": "1090891000119107"
+      }
+    },
+    {
+      "term": "Cholesteatoma of external ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35247001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of external ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of external ear",
+          "lang": "en"
+        },
+        "id": "35247001"
+      }
+    },
+    {
+      "term": "Cholesteatoma and aural polyp",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267674000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma and aural polyp (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma and aural polyp",
+          "lang": "en"
+        },
+        "id": "267674000"
+      }
+    },
+    {
+      "term": "Cholesteatoma of left eardrum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1088701000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of left tympanic membrane (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of left tympanic membrane",
+          "lang": "en"
+        },
+        "id": "1088701000119107"
+      }
+    },
+    {
+      "term": "Left middle ear cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1089101000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of left middle ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of left middle ear",
+          "lang": "en"
+        },
+        "id": "1089101000119100"
+      }
+    },
+    {
+      "term": "Cholesteatoma of left mastoid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1089051000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of left mastoid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of left mastoid process",
+          "lang": "en"
+        },
+        "id": "1089051000119100"
+      }
+    },
+    {
+      "term": "Cholesteatoma pearl (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232276008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma pearl (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma pearl",
+          "lang": "en"
+        },
+        "id": "232276008"
+      }
+    },
+    {
+      "term": "Cholesteatoma of right eardrum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1091311000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of right tympanic membrane (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of right tympanic membrane",
+          "lang": "en"
+        },
+        "id": "1091311000119104"
+      }
+    },
+    {
+      "term": "Cholesteatoma of right mastoid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1091661000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of right mastoid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of right mastoid",
+          "lang": "en"
+        },
+        "id": "1091661000119108"
+      }
+    },
+    {
+      "term": "Right middle ear cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1091711000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of right middle ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of right middle ear",
+          "lang": "en"
+        },
+        "id": "1091711000119103"
+      }
+    },
+    {
+      "term": "Left external ear cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1088831000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of left external ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of left external ear",
+          "lang": "en"
+        },
+        "id": "1088831000119107"
+      }
+    },
+    {
+      "term": "Mastoid cholesteatoma (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232260004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mastoid cholesteatoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mastoid cholesteatoma",
+          "lang": "en"
+        },
+        "id": "232260004"
+      }
+    },
+    {
+      "term": "Right external ear cholesteatoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1091441000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of right external ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of right external ear",
+          "lang": "en"
+        },
+        "id": "1091441000119107"
+      }
+    },
+    {
+      "term": "Cholesteatoma of left middle ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1089101000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of left middle ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of left middle ear",
+          "lang": "en"
+        },
+        "id": "1089101000119100"
+      }
+    },
+    {
+      "term": "Cholesteatoma of attic (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38708003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of attic (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of attic",
+          "lang": "en"
+        },
+        "id": "38708003"
+      }
+    },
+    {
+      "term": "Cholesteatoma tympanum (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1086621000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma tympanum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma tympanum",
+          "lang": "en"
+        },
+        "id": "1086621000119109"
+      }
+    },
+    {
+      "term": "Cholesteatoma of orbit (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1217644004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of orbit (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of orbit",
+          "lang": "en"
+        },
+        "id": "1217644004"
+      }
+    },
+    {
+      "term": "Cholesteatoma of right middle ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1091711000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of right middle ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of right middle ear",
+          "lang": "en"
+        },
+        "id": "1091711000119103"
+      }
+    },
+    {
+      "term": "Cholesteatoma of left external ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1088831000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of left external ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of left external ear",
+          "lang": "en"
+        },
+        "id": "1088831000119107"
+      }
+    },
+    {
+      "term": "Congenital cholesteatoma (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232262007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital cholesteatoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital cholesteatoma",
+          "lang": "en"
+        },
+        "id": "232262007"
+      }
+    },
+    {
+      "term": "Cholesteatoma of right external ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1091441000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of right external ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of right external ear",
+          "lang": "en"
+        },
+        "id": "1091441000119107"
+      }
+    },
+    {
+      "term": "Excision of cholesteatoma of mastoid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "308022009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of cholesteatoma of mastoid (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of cholesteatoma of mastoid",
+          "lang": "en"
+        },
+        "id": "308022009"
+      }
+    },
+    {
+      "term": "Acquired cholesteatoma of middle ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1010651009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acquired cholesteatoma of middle ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acquired cholesteatoma of middle ear",
+          "lang": "en"
+        },
+        "id": "1010651009"
+      }
+    },
+    {
+      "term": "Excision of cholesteatoma (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "172748005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of cholesteatoma (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of cholesteatoma",
+          "lang": "en"
+        },
+        "id": "172748005"
+      }
+    },
+    {
+      "term": "Cholesteatoma of left mastoid process",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1089051000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of left mastoid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of left mastoid process",
+          "lang": "en"
+        },
+        "id": "1089051000119100"
+      }
+    },
+    {
+      "term": "Cholesteatoma of middle ear (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87688009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of middle ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of middle ear",
+          "lang": "en"
+        },
+        "id": "87688009"
+      }
+    },
+    {
+      "term": "Cholesteatoma of middle ear and mastoid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "194339007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of middle ear and mastoid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of middle ear and mastoid",
+          "lang": "en"
+        },
+        "id": "194339007"
+      }
+    },
+    {
+      "term": "Excision of cholesteatoma of middle ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "308024005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of cholesteatoma of middle ear (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of cholesteatoma of middle ear",
+          "lang": "en"
+        },
+        "id": "308024005"
+      }
+    },
+    {
+      "term": "Cholesteatoma (morphologic abnormality)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "575006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma",
+          "lang": "en"
+        },
+        "id": "575006"
+      }
+    },
+    {
+      "term": "Cholesteatoma of left tympanic membrane",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1088701000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of left tympanic membrane (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of left tympanic membrane",
+          "lang": "en"
+        },
+        "id": "1088701000119107"
+      }
+    },
+    {
+      "term": "Cholesteatoma of external ear (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35247001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma of external ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma of external ear",
+          "lang": "en"
+        },
+        "id": "35247001"
+      }
+    },
+    {
+      "term": "Cholesteatoma and aural polyp (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267674000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cholesteatoma and aural polyp (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cholesteatoma and aural polyp",
+          "lang": "en"
+        },
+        "id": "267674000"
+      }
+    }
+  ]
+}

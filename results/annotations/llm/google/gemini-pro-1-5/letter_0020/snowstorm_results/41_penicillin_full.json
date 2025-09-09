@@ -1,0 +1,1472 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 2,
+      "999000011000000103": 10,
+      "999000041000000102": 4,
+      "900000000000207008": 169
+    },
+    "semanticTags": {
+      "regime/therapy": 1,
+      "disorder": 19,
+      "product": 7,
+      "clinical drug": 20,
+      "organism": 4,
+      "medicinal product": 12,
+      "substance": 24,
+      "medicinal product form": 14,
+      "observable entity": 4,
+      "procedure": 7,
+      "finding": 4
+    },
+    "language": {
+      "en": 185
+    },
+    "membership": {
+      "1322291000000109": 106,
+      "1127601000000107": 23,
+      "1382531000000102": 19,
+      "999002271000000101": 85,
+      "900000000000489007": 2,
+      "999001071000001100": 2,
+      "999000801000001108": 2,
+      "10991000001109": 2,
+      "1853551000000106": 1,
+      "900000000000497000": 106,
+      "999000791000001109": 7,
+      "154091000001103": 5,
+      "733073007": 111,
+      "999000581000001102": 4,
+      "999004381000000103": 1,
+      "2170881000000102": 2,
+      "900000000000526001": 7,
+      "999002881000000100": 3,
+      "30931000001101": 73,
+      "1382401000000109": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999001071000001100": {
+      "conceptId": "999001071000001100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000001104",
+      "fsn": {
+        "term": "NHS dictionary of medicines and devices Virtual Therapeutic Moiety update association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS dictionary of medicines and devices Virtual Therapeutic Moiety update association reference set",
+        "lang": "en"
+      },
+      "id": "999001071000001100"
+    },
+    "999000801000001108": {
+      "conceptId": "999000801000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy Archetypes Drug Groups simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy Archetypes Drug Groups simple reference set",
+        "lang": "en"
+      },
+      "id": "999000801000001108"
+    },
+    "10991000001109": {
+      "conceptId": "10991000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000001104",
+      "fsn": {
+        "term": "NHS dictionary of medicines and devices association type reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS dictionary of medicines and devices association type reference set",
+        "lang": "en"
+      },
+      "id": "10991000001109"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1853551000000106": {
+      "conceptId": "1853551000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set",
+        "lang": "en"
+      },
+      "id": "1853551000000106"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999000791000001109": {
+      "conceptId": "999000791000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices ingredient simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS dm+d (dictionary of medicines and devices) ingredient simple reference set",
+        "lang": "en"
+      },
+      "id": "999000791000001109"
+    },
+    "154091000001103": {
+      "conceptId": "154091000001103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Network Contract Directed Enhanced Service - systemic antimicrobials simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Network Contract Directed Enhanced Service - systemic antimicrobials simple reference set",
+        "lang": "en"
+      },
+      "id": "154091000001103"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000581000001102": {
+      "conceptId": "999000581000001102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual therapeutic moiety simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual therapeutic moiety simple reference set",
+        "lang": "en"
+      },
+      "id": "999000581000001102"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "2170881000000102": {
+      "conceptId": "2170881000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric allergy and immunology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric allergy and immunology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2170881000000102"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "900000000000526001": {
+      "conceptId": "900000000000526001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "REPLACED BY association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "REPLACED BY association reference set",
+        "lang": "en"
+      },
+      "id": "900000000000526001"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 185,
+  "totalPages": 4,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Penicillin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "764146007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Substance with penicillin structure (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin",
+          "lang": "en"
+        },
+        "id": "764146007"
+      }
+    },
+    {
+      "term": "Penicillin V",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "372725003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phenoxymethylpenicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin V",
+          "lang": "en"
+        },
+        "id": "372725003"
+      }
+    },
+    {
+      "term": "Penicillin G",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "323389000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benzylpenicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G",
+          "lang": "en"
+        },
+        "id": "323389000"
+      }
+    },
+    {
+      "term": "Penicillinase",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79744009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Beta-lactamase (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Beta-lactamase",
+          "lang": "en"
+        },
+        "id": "79744009"
+      }
+    },
+    {
+      "term": "Penicillin amidase",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "86848007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Penicillin amidase (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin amidase",
+          "lang": "en"
+        },
+        "id": "86848007"
+      }
+    },
+    {
+      "term": "Penicillin allergy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91936005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergy to penicillin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergy to penicillin",
+          "lang": "en"
+        },
+        "id": "91936005"
+      }
+    },
+    {
+      "term": "Natural penicillin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373291007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Natural penicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Natural penicillin",
+          "lang": "en"
+        },
+        "id": "373291007"
+      }
+    },
+    {
+      "term": "Penicillin G sodium",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "89055006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benzylpenicillin sodium (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G sodium",
+          "lang": "en"
+        },
+        "id": "89055006"
+      }
+    },
+    {
+      "term": "Penicillin overdose",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "296650002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Penicillin overdose (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin overdose",
+          "lang": "en"
+        },
+        "id": "296650002"
+      }
+    },
+    {
+      "term": "Penicillin poisoning",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66413004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Poisoning caused by penicillin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Poisoning caused by penicillin",
+          "lang": "en"
+        },
+        "id": "66413004"
+      }
+    },
+    {
+      "term": "Penicillin V calcium",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1156165003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phenoxymethylpenicillin calcium (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin V calcium",
+          "lang": "en"
+        },
+        "id": "1156165003"
+      }
+    },
+    {
+      "term": "Penicillin RAST test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "397649007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Penicillin specific immunoglobulin E antibody measurement (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin specific IgE antibody measurement",
+          "lang": "en"
+        },
+        "id": "397649007"
+      }
+    },
+    {
+      "term": "Penicillin RAST test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1008981000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Penicillin RAST test (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin RAST test",
+          "lang": "en"
+        },
+        "id": "1008981000000107"
+      }
+    },
+    {
+      "term": "Allergy to penicillin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91936005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergy to penicillin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergy to penicillin",
+          "lang": "en"
+        },
+        "id": "91936005"
+      }
+    },
+    {
+      "term": "Procaine penicillin G",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387246005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Procaine benzylpenicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G procaine",
+          "lang": "en"
+        },
+        "id": "387246005"
+      }
+    },
+    {
+      "term": "Penicillin G procaine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387246005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Procaine benzylpenicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G procaine",
+          "lang": "en"
+        },
+        "id": "387246005"
+      }
+    },
+    {
+      "term": "Penicillin G potassium",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11986009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benzylpenicillin potassium (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G potassium",
+          "lang": "en"
+        },
+        "id": "11986009"
+      }
+    },
+    {
+      "term": "Crystalline penicillin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11986009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benzylpenicillin potassium (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G potassium",
+          "lang": "en"
+        },
+        "id": "11986009"
+      }
+    },
+    {
+      "term": "Penicillin measurement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9330003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Penicillin measurement (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin measurement",
+          "lang": "en"
+        },
+        "id": "9330003"
+      }
+    },
+    {
+      "term": "Penicillin prophylaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300041008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Administration of prophylactic penicillin (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Administration of prophylactic penicillin",
+          "lang": "en"
+        },
+        "id": "300041008"
+      }
+    },
+    {
+      "term": "Penicillin G poisoning",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54531000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Poisoning caused by penicillin G (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Poisoning by penicillin G",
+          "lang": "en"
+        },
+        "id": "54531000"
+      }
+    },
+    {
+      "term": "Benethamine penicillin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "391818008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benethamine penicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Benethamine penicillin",
+          "lang": "en"
+        },
+        "id": "391818008"
+      }
+    },
+    {
+      "term": "Penicillin V potassium",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56723006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phenoxymethylpenicillin potassium (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin V potassium",
+          "lang": "en"
+        },
+        "id": "56723006"
+      }
+    },
+    {
+      "term": "Penicillin V RAST test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "388477007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Penicilloyl V specific immunoglobulin E antibody measurement (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicilloyl V specific IgE antibody measurement",
+          "lang": "en"
+        },
+        "id": "388477007"
+      }
+    },
+    {
+      "term": "Penicillin G RAST test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "388476003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Penicilloyl G specific immunoglobulin E antibody measurement (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicilloyl G specific IgE antibody measurement",
+          "lang": "en"
+        },
+        "id": "388476003"
+      }
+    },
+    {
+      "term": "Penicillin G RAST test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1007631000000101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Penicillin G RAST test (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G RAST test",
+          "lang": "en"
+        },
+        "id": "1007631000000101"
+      }
+    },
+    {
+      "term": "Penicillin V RAST test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1007321000000108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Penicillin V RAST test (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin V RAST test",
+          "lang": "en"
+        },
+        "id": "1007321000000108"
+      }
+    },
+    {
+      "term": "Poisoning by penicillin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66413004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Poisoning caused by penicillin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Poisoning caused by penicillin",
+          "lang": "en"
+        },
+        "id": "66413004"
+      }
+    },
+    {
+      "term": "Benzathine penicillin G",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "75247008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benzathine benzylpenicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G benzathine",
+          "lang": "en"
+        },
+        "id": "75247008"
+      }
+    },
+    {
+      "term": "Penicillinase poisoning",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82674000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Poisoning caused by penicillinase (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Poisoning by penicillinase",
+          "lang": "en"
+        },
+        "id": "82674000"
+      }
+    },
+    {
+      "term": "Penicillin G benzathine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "75247008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Benzathine benzylpenicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G benzathine",
+          "lang": "en"
+        },
+        "id": "75247008"
+      }
+    },
+    {
+      "term": "Allergy to penicillin V",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "294497009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergy to phenoxymethylpenicillin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergy to penicillin V",
+          "lang": "en"
+        },
+        "id": "294497009"
+      }
+    },
+    {
+      "term": "Allergy to penicillin G",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "294499007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergy to benzylpenicillin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergy to penicillin G",
+          "lang": "en"
+        },
+        "id": "294499007"
+      }
+    },
+    {
+      "term": "Penicillinase measurement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52627000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Penicillinase measurement (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillinase measurement",
+          "lang": "en"
+        },
+        "id": "52627000"
+      }
+    },
+    {
+      "term": "Poisoning by penicillin G",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54531000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Poisoning caused by penicillin G (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Poisoning by penicillin G",
+          "lang": "en"
+        },
+        "id": "54531000"
+      }
+    },
+    {
+      "term": "Penicillin G only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774826003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only benzylpenicillin (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G only product",
+          "lang": "en"
+        },
+        "id": "774826003"
+      }
+    },
+    {
+      "term": "Broad spectrum penicillin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373217005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Broad spectrum penicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Broad spectrum penicillin",
+          "lang": "en"
+        },
+        "id": "373217005"
+      }
+    },
+    {
+      "term": "Penicillin V only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "777175009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only phenoxymethylpenicillin (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin V only product",
+          "lang": "en"
+        },
+        "id": "777175009"
+      }
+    },
+    {
+      "term": "Poisoning by penicillinase",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82674000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Poisoning caused by penicillinase (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Poisoning by penicillinase",
+          "lang": "en"
+        },
+        "id": "82674000"
+      }
+    },
+    {
+      "term": "Antipseudomonal penicillin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373218000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Antipseudomonal penicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Antipseudomonal penicillin",
+          "lang": "en"
+        },
+        "id": "373218000"
+      }
+    },
+    {
+      "term": "Penicillin adverse reaction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "292954005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Penicillin adverse reaction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin adverse reaction",
+          "lang": "en"
+        },
+        "id": "292954005"
+      }
+    },
+    {
+      "term": "Extended spectrum penicillin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373284009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Extended spectrum penicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Extended spectrum penicillin",
+          "lang": "en"
+        },
+        "id": "373284009"
+      }
+    },
+    {
+      "term": "Aqueous procaine penicillin G",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "387246005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Procaine benzylpenicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G procaine",
+          "lang": "en"
+        },
+        "id": "387246005"
+      }
+    },
+    {
+      "term": "Penicillin-containing product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "890458001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing penicillin (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin-containing product",
+          "lang": "en"
+        },
+        "id": "890458001"
+      }
+    },
+    {
+      "term": "Penicillin-induced anaphylaxis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "241938005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Penicillin-induced anaphylaxis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin-induced anaphylaxis",
+          "lang": "en"
+        },
+        "id": "241938005"
+      }
+    },
+    {
+      "term": "Benethamine penicillin allergy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "294494002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergy to benethamine penicillin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergy to benethamine penicillin",
+          "lang": "en"
+        },
+        "id": "294494002"
+      }
+    },
+    {
+      "term": "Penicillin overdose (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "296650002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Penicillin overdose (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin overdose",
+          "lang": "en"
+        },
+        "id": "296650002"
+      }
+    },
+    {
+      "term": "Penicillin amidase (substance)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "86848007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Penicillin amidase (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin amidase",
+          "lang": "en"
+        },
+        "id": "86848007"
+      }
+    },
+    {
+      "term": "Natural penicillin (substance)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373291007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Natural penicillin (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Natural penicillin",
+          "lang": "en"
+        },
+        "id": "373291007"
+      }
+    },
+    {
+      "term": "Poisoning caused by penicillin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66413004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Poisoning caused by penicillin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Poisoning caused by penicillin",
+          "lang": "en"
+        },
+        "id": "66413004"
+      }
+    }
+  ]
+}

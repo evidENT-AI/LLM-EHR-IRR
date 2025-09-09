@@ -1,0 +1,2023 @@
+{
+  "buckets": {
+    "module": {
+      "999000021000000109": 2,
+      "999000011000000103": 124,
+      "999000041000000102": 7,
+      "900000000000207008": 5269
+    },
+    "semanticTags": {
+      "regime/therapy": 5,
+      "navigational concept": 2,
+      "product": 1,
+      "occupation": 1,
+      "assessment scale": 14,
+      "observable entity": 16,
+      "procedure": 54,
+      "finding": 34,
+      "physical force": 1,
+      "qualifier value": 9,
+      "foundation metadata concept": 1,
+      "disorder": 2049,
+      "environment": 2,
+      "physical object": 3,
+      "morphologic abnormality": 5,
+      "event": 2,
+      "situation": 12,
+      "record artifact": 3
+    },
+    "language": {
+      "en": 5402
+    },
+    "membership": {
+      "999003201000000100": 4,
+      "1382541000000106": 1,
+      "2181161000000102": 1,
+      "999003161000000108": 1,
+      "1127551000000109": 3,
+      "999002271000000101": 2829,
+      "2222191000000108": 4,
+      "2181201000000105": 2,
+      "2222231000000104": 1,
+      "999002571000000104": 5,
+      "1129631000000105": 1,
+      "991451000000108": 1,
+      "900000000000497000": 2157,
+      "1127821000000102": 3,
+      "2181121000000105": 1,
+      "999001761000000108": 25,
+      "999001471000000108": 3,
+      "1323831000000101": 1,
+      "1382401000000109": 111,
+      "991411000000109": 49,
+      "1127601000000107": 2090,
+      "1127541000000106": 1,
+      "966251000000103": 1,
+      "1955841000000104": 1,
+      "1128991000000109": 2,
+      "2222221000000101": 1,
+      "999000401000000107": 3,
+      "999002051000000100": 4,
+      "1323341000000102": 3,
+      "733073007": 2218,
+      "900000000000456007": 1,
+      "999003141000000107": 5,
+      "999001751000000105": 4,
+      "1322291000000109": 2202,
+      "999004331000000102": 8,
+      "1127531000000102": 4,
+      "1853461000000105": 1,
+      "2181181000000106": 4,
+      "1323331000000106": 1,
+      "991401000000107": 3,
+      "991471000000104": 1,
+      "991281000000103": 2,
+      "999002451000000109": 9,
+      "1382531000000102": 1070,
+      "999001741000000107": 1,
+      "999003091000000101": 4,
+      "999001061000000106": 7,
+      "999001571000000109": 1,
+      "900000000000489007": 39,
+      "1323321000000109": 3,
+      "999002001000000101": 1,
+      "446608001": 1,
+      "966261000000100": 1,
+      "30931000001101": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1382541000000106": {
+      "conceptId": "1382541000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care sickness absence category simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care sickness absence category simple reference set",
+        "lang": "en"
+      },
+      "id": "1382541000000106"
+    },
+    "2181161000000102": {
+      "conceptId": "2181161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric eyes and vision disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric eyes and vision disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181161000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2181201000000105": {
+      "conceptId": "2181201000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric musculoskeletal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric musculoskeletal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181201000000105"
+    },
+    "2222231000000104": {
+      "conceptId": "2222231000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric safeguarding issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric safeguarding issues simple reference set",
+        "lang": "en"
+      },
+      "id": "2222231000000104"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "1129631000000105": {
+      "conceptId": "1129631000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1129631000000105"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "991451000000108": {
+      "conceptId": "991451000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care referral procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care referral procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991451000000108"
+    },
+    "1127821000000102": {
+      "conceptId": "1127821000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Acute kidney injury findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Acute kidney injury findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127821000000102"
+    },
+    "2181121000000105": {
+      "conceptId": "2181121000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181121000000105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999000021000000109": {
+      "conceptId": "999000021000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension reference set module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension reference set module",
+        "lang": "en"
+      },
+      "id": "999000021000000109"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "999001471000000108": {
+      "conceptId": "999001471000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Care plan type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Care plan type simple reference set",
+        "lang": "en"
+      },
+      "id": "999001471000000108"
+    },
+    "1323831000000101": {
+      "conceptId": "1323831000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Improving Access to Psychological Therapies assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "IAPT (Improving Access to Psychological Therapies) assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "1323831000000101"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1127541000000106": {
+      "conceptId": "1127541000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Specialities simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Specialities simple reference set",
+        "lang": "en"
+      },
+      "id": "1127541000000106"
+    },
+    "966251000000103": {
+      "conceptId": "966251000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy diagnostic procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy diagnostic procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "966251000000103"
+    },
+    "1955841000000104": {
+      "conceptId": "1955841000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Health Service secondary use data exclusions due to Human Fertilisation and Embryology Act 2008 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS secondary use data exclusions due to Human Fertilisation and Embryology Act 2008 simple reference set",
+        "lang": "en"
+      },
+      "id": "1955841000000104"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "2222221000000101": {
+      "conceptId": "2222221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric perinatal and neonatal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric perinatal and neonatal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222221000000101"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "1323341000000102": {
+      "conceptId": "1323341000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Treatment Function services for England simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Treatment Function services for England simple reference set",
+        "lang": "en"
+      },
+      "id": "1323341000000102"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "900000000000456007": {
+      "conceptId": "900000000000456007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Reference set descriptor reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Reference set descriptor",
+        "lang": "en"
+      },
+      "id": "900000000000456007"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    },
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127531000000102": {
+      "conceptId": "1127531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Services simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Services simple reference set",
+        "lang": "en"
+      },
+      "id": "1127531000000102"
+    },
+    "1853461000000105": {
+      "conceptId": "1853461000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental Health Services Data Set psychological therapies simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental Health Services Data Set psychological therapies simple reference set",
+        "lang": "en"
+      },
+      "id": "1853461000000105"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "991401000000107": {
+      "conceptId": "991401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care presenting complaints or issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care presenting complaints or issues simple reference set",
+        "lang": "en"
+      },
+      "id": "991401000000107"
+    },
+    "991471000000104": {
+      "conceptId": "991471000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental health assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental health assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "991471000000104"
+    },
+    "991281000000103": {
+      "conceptId": "991281000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care mechanism of injury simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care mechanism of injury simple reference set",
+        "lang": "en"
+      },
+      "id": "991281000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999001741000000107": {
+      "conceptId": "999001741000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001741000000107"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1323321000000109": {
+      "conceptId": "1323321000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323321000000109"
+    },
+    "999002001000000101": {
+      "conceptId": "999002001000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Current care provider findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Current care provider findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002001000000101"
+    },
+    "446608001": {
+      "conceptId": "446608001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT to ICD-O simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT to ICD-O simple map",
+        "lang": "en"
+      },
+      "id": "446608001"
+    },
+    "966261000000100": {
+      "conceptId": "966261000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "966261000000100"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 5402,
+  "totalPages": 109,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417746004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic injury (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic injury",
+          "lang": "en"
+        },
+        "id": "417746004"
+      }
+    },
+    {
+      "term": "Traumatic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "263904004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic",
+          "lang": "en"
+        },
+        "id": "263904004"
+      }
+    },
+    {
+      "term": "Trauma risk",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "81763001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk for traumatic injury (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk for traumatic injury",
+          "lang": "en"
+        },
+        "id": "81763001"
+      }
+    },
+    {
+      "term": "Skin trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "125592002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Injury of integument (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injury of integument",
+          "lang": "en"
+        },
+        "id": "125592002"
+      }
+    },
+    {
+      "term": "Birth trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56110009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Birth trauma of fetus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Birth trauma",
+          "lang": "en"
+        },
+        "id": "56110009"
+      }
+    },
+    {
+      "term": "Fetal trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277489001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal trauma",
+          "lang": "en"
+        },
+        "id": "277489001"
+      }
+    },
+    {
+      "term": "Trauma index",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "273883005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Trauma index (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Trauma index",
+          "lang": "en"
+        },
+        "id": "273883005"
+      }
+    },
+    {
+      "term": "Trauma score",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "273884004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Trauma score (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Trauma score",
+          "lang": "en"
+        },
+        "id": "273884004"
+      }
+    },
+    {
+      "term": "Blunt trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "425359009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blunt injury (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blunt injury",
+          "lang": "en"
+        },
+        "id": "425359009"
+      }
+    },
+    {
+      "term": "Trauma center",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36125001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Trauma center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Trauma center",
+          "lang": "en"
+        },
+        "id": "36125001"
+      }
+    },
+    {
+      "term": "Direct trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "258136009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Direct trauma (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Direct trauma",
+          "lang": "en"
+        },
+        "id": "258136009"
+      }
+    },
+    {
+      "term": "Trauma centre",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36125001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Trauma center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Trauma center",
+          "lang": "en"
+        },
+        "id": "36125001"
+      }
+    },
+    {
+      "term": "Foetal trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277489001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal trauma",
+          "lang": "en"
+        },
+        "id": "277489001"
+      }
+    },
+    {
+      "term": "Airway trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "397813008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Airway trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Airway trauma",
+          "lang": "en"
+        },
+        "id": "397813008"
+      }
+    },
+    {
+      "term": "Dental trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "397869004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dental trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dental trauma",
+          "lang": "en"
+        },
+        "id": "397869004"
+      }
+    },
+    {
+      "term": "Hepatic trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39400004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Injury of liver (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injury of liver",
+          "lang": "en"
+        },
+        "id": "39400004"
+      }
+    },
+    {
+      "term": "Orbital trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "262754009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Injury of orbit proper (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injury of orbit",
+          "lang": "en"
+        },
+        "id": "262754009"
+      }
+    },
+    {
+      "term": "Trauma of lens",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "262755005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Injury of lens (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injury of lens",
+          "lang": "en"
+        },
+        "id": "262755005"
+      }
+    },
+    {
+      "term": "Trauma surgeon",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309386006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Trauma surgeon (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Trauma surgeon",
+          "lang": "en"
+        },
+        "id": "309386006"
+      }
+    },
+    {
+      "term": "Buttock trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "42479003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Injury of buttock (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injury of buttock",
+          "lang": "en"
+        },
+        "id": "42479003"
+      }
+    },
+    {
+      "term": "Trauma therapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "406185000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Trauma therapy (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Trauma therapy",
+          "lang": "en"
+        },
+        "id": "406185000"
+      }
+    },
+    {
+      "term": "Traumatic agent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8609009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic agent (physical force)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic agent",
+          "lang": "en"
+        },
+        "id": "8609009"
+      }
+    },
+    {
+      "term": "Occlusal trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "109647001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Occlusal trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Occlusal trauma",
+          "lang": "en"
+        },
+        "id": "109647001"
+      }
+    },
+    {
+      "term": "Traumatic apnea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "57000008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic apnea (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic apnea",
+          "lang": "en"
+        },
+        "id": "57000008"
+      }
+    },
+    {
+      "term": "Traumatic shock",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64169002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic shock (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic shock",
+          "lang": "en"
+        },
+        "id": "64169002"
+      }
+    },
+    {
+      "term": "Cochlear trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232315003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cochlear trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cochlear trauma",
+          "lang": "en"
+        },
+        "id": "232315003"
+      }
+    },
+    {
+      "term": "Traumatic ulcer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238536008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic ulcer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic ulcer",
+          "lang": "en"
+        },
+        "id": "238536008"
+      }
+    },
+    {
+      "term": "Cerebral trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275382005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cerebral trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cerebral trauma",
+          "lang": "en"
+        },
+        "id": "275382005"
+      }
+    },
+    {
+      "term": "Traumatic bulla",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373592004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic blister (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic blister",
+          "lang": "en"
+        },
+        "id": "373592004"
+      }
+    },
+    {
+      "term": "Multiple trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1163387009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Multiple traumatic injuries (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Multiple traumatic injuries",
+          "lang": "en"
+        },
+        "id": "1163387009"
+      }
+    },
+    {
+      "term": "Traumatic event",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773760007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic event (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic event",
+          "lang": "en"
+        },
+        "id": "773760007"
+      }
+    },
+    {
+      "term": "Traumatic wound",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "945771000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Traumatic wound (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic wound",
+          "lang": "en"
+        },
+        "id": "945771000000102"
+      }
+    },
+    {
+      "term": "Victim of trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25809009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Victim of trauma (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Victim of trauma",
+          "lang": "en"
+        },
+        "id": "25809009"
+      }
+    },
+    {
+      "term": "Traumatic anuria",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "32144005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic anuria (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic anuria",
+          "lang": "en"
+        },
+        "id": "32144005"
+      }
+    },
+    {
+      "term": "Traumatic apnoea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "57000008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic apnea (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic apnea",
+          "lang": "en"
+        },
+        "id": "57000008"
+      }
+    },
+    {
+      "term": "Perinatal trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277488009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perinatal trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perinatal trauma",
+          "lang": "en"
+        },
+        "id": "277488009"
+      }
+    },
+    {
+      "term": "Laryngeal trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125588009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Injury of larynx (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injury of larynx",
+          "lang": "en"
+        },
+        "id": "125588009"
+      }
+    },
+    {
+      "term": "Traumatic iritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417020006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic iritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic iritis",
+          "lang": "en"
+        },
+        "id": "417020006"
+      }
+    },
+    {
+      "term": "Traumatic injury",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417746004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic injury (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic injury",
+          "lang": "en"
+        },
+        "id": "417746004"
+      }
+    },
+    {
+      "term": "Industrial trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127347009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Industrial trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Industrial trauma",
+          "lang": "en"
+        },
+        "id": "127347009"
+      }
+    },
+    {
+      "term": "Traumatic anosmia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "41783004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic anosmia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic anosmia",
+          "lang": "en"
+        },
+        "id": "41783004"
+      }
+    },
+    {
+      "term": "Traumatic neuroma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63561003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic neuroma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic neuroma",
+          "lang": "en"
+        },
+        "id": "63561003"
+      }
+    },
+    {
+      "term": "Traumatic neuroma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "230650009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic neuroma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic neuroma",
+          "lang": "en"
+        },
+        "id": "230650009"
+      }
+    },
+    {
+      "term": "Traumatic hyphema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "231954005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic hyphema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic hyphema",
+          "lang": "en"
+        },
+        "id": "231954005"
+      }
+    },
+    {
+      "term": "Vestibular trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232294002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vestibular trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vestibular trauma",
+          "lang": "en"
+        },
+        "id": "232294002"
+      }
+    },
+    {
+      "term": "TS - Trauma score",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "273884004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Trauma score (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Trauma score",
+          "lang": "en"
+        },
+        "id": "273884004"
+      }
+    },
+    {
+      "term": "Trauma of eardrum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "282781004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Injury of tympanic membrane (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injury of tympanic membrane",
+          "lang": "en"
+        },
+        "id": "282781004"
+      }
+    },
+    {
+      "term": "H/O: birth trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161580006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of birth trauma (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: birth trauma",
+          "lang": "en"
+        },
+        "id": "161580006"
+      }
+    },
+    {
+      "term": "Traumatic onychia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371048003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic onychia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic onychia",
+          "lang": "en"
+        },
+        "id": "371048003"
+      }
+    },
+    {
+      "term": "Traumatic blister",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373592004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic blister (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic blister",
+          "lang": "en"
+        },
+        "id": "373592004"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1599 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 78,
+      "999000041000000102": 1,
+      "900000000000207008": 381
+    },
+    "semanticTags": {
+      "regime/therapy": 9,
+      "disorder": 114,
+      "physical object": 1,
+      "assessment scale": 2,
+      "observable entity": 12,
+      "procedure": 23,
+      "finding": 18,
+      "situation": 10,
+      "record artifact": 2,
+      "qualifier value": 1
+    },
+    "language": {
+      "en": 460
+    },
+    "membership": {
+      "1322291000000109": 192,
+      "999004331000000102": 15,
+      "1127531000000102": 1,
+      "999002671000000103": 2,
+      "1127551000000109": 2,
+      "999002271000000101": 228,
+      "999002651000000107": 2,
+      "999002641000000109": 2,
+      "999002451000000109": 1,
+      "999002571000000104": 2,
+      "900000000000497000": 155,
+      "999001761000000108": 2,
+      "999002631000000100": 2,
+      "1382401000000109": 8,
+      "1127601000000107": 140,
+      "1382531000000102": 67,
+      "999002661000000105": 2,
+      "2181151000000100": 3,
+      "2181171000000109": 1,
+      "900000000000489007": 7,
+      "1128731000000105": 1,
+      "999000401000000107": 1,
+      "999002061000000102": 8,
+      "1128781000000109": 1,
+      "999002051000000100": 1,
+      "733073007": 192,
+      "991381000000107": 2,
+      "966261000000100": 10,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127531000000102": {
+      "conceptId": "1127531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Services simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Services simple reference set",
+        "lang": "en"
+      },
+      "id": "1127531000000102"
+    },
+    "999002671000000103": {
+      "conceptId": "999002671000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure wellbeing scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure wellbeing scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002671000000103"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999002651000000107": {
+      "conceptId": "999002651000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure impairment scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure impairment scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002651000000107"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002641000000109": {
+      "conceptId": "999002641000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure carer wellbeing scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure carer wellbeing scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002641000000109"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "999002631000000100": {
+      "conceptId": "999002631000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure activity scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure activity scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002631000000100"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999002661000000105": {
+      "conceptId": "999002661000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure participation scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure participation scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002661000000105"
+    },
+    "2181151000000100": {
+      "conceptId": "2181151000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181151000000100"
+    },
+    "2181171000000109": {
+      "conceptId": "2181171000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181171000000109"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1128731000000105": {
+      "conceptId": "1128731000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional assessment scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional assessment scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "1128731000000105"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "1128781000000109": {
+      "conceptId": "1128781000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional assessment scale procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional assessment scale procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "1128781000000109"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "991381000000107": {
+      "conceptId": "991381000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Comorbid conditions for selection simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Comorbid conditions for selection simple reference set",
+        "lang": "en"
+      },
+      "id": "991381000000107"
+    },
+    "966261000000100": {
+      "conceptId": "966261000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "966261000000100"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 460,
+  "totalPages": 10,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414916001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity",
+          "lang": "en"
+        },
+        "id": "414916001"
+      }
+    },
+    {
+      "term": "FH: Obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160311006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Obesity (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Obesity",
+          "lang": "en"
+        },
+        "id": "160311006"
+      }
+    },
+    {
+      "term": "H/O: obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161453001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of obesity (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: obesity",
+          "lang": "en"
+        },
+        "id": "161453001"
+      }
+    },
+    {
+      "term": "Obesity care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "763643007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity care",
+          "lang": "en"
+        },
+        "id": "763643007"
+      }
+    },
+    {
+      "term": "Morbid obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238136002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Morbid obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Morbid obesity",
+          "lang": "en"
+        },
+        "id": "238136002"
+      }
+    },
+    {
+      "term": "Severe obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "83911000119104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severe obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe obesity",
+          "lang": "en"
+        },
+        "id": "83911000119104"
+      }
+    },
+    {
+      "term": "Simple obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415530009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Simple obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Simple obesity",
+          "lang": "en"
+        },
+        "id": "415530009"
+      }
+    },
+    {
+      "term": "Truncal obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248311001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Central obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Central obesity",
+          "lang": "en"
+        },
+        "id": "248311001"
+      }
+    },
+    {
+      "term": "Central obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248311001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Central obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Central obesity",
+          "lang": "en"
+        },
+        "id": "248311001"
+      }
+    },
+    {
+      "term": "Fear of obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247824007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fear of becoming fat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fear of becoming fat",
+          "lang": "en"
+        },
+        "id": "247824007"
+      }
+    },
+    {
+      "term": "Android obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238132000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Android obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Android obesity",
+          "lang": "en"
+        },
+        "id": "238132000"
+      }
+    },
+    {
+      "term": "Buffalo obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "360566006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Buffalo obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Buffalo obesity",
+          "lang": "en"
+        },
+        "id": "360566006"
+      }
+    },
+    {
+      "term": "Gynecoid obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238133005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gynecoid obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gynecoid obesity",
+          "lang": "en"
+        },
+        "id": "238133005"
+      }
+    },
+    {
+      "term": "Familial obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "290439001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial obesity",
+          "lang": "en"
+        },
+        "id": "290439001"
+      }
+    },
+    {
+      "term": "Lifelong obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "294493008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lifelong obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lifelong obesity",
+          "lang": "en"
+        },
+        "id": "294493008"
+      }
+    },
+    {
+      "term": "Obesity resolved",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "198181000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Obesity resolved (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity resolved",
+          "lang": "en"
+        },
+        "id": "198181000000102"
+      }
+    },
+    {
+      "term": "Gynaecoid obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238133005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gynecoid obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gynecoid obesity",
+          "lang": "en"
+        },
+        "id": "238133005"
+      }
+    },
+    {
+      "term": "Obesity screening",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "268551005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity screening (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity screening",
+          "lang": "en"
+        },
+        "id": "268551005"
+      }
+    },
+    {
+      "term": "Localized obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "270486005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Localized obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Localized adiposity",
+          "lang": "en"
+        },
+        "id": "270486005"
+      }
+    },
+    {
+      "term": "Localised obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "270486005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Localized obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Localized adiposity",
+          "lang": "en"
+        },
+        "id": "270486005"
+      }
+    },
+    {
+      "term": "Childhood obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "444862003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Childhood obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Childhood obesity",
+          "lang": "en"
+        },
+        "id": "444862003"
+      }
+    },
+    {
+      "term": "Exogenous obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415530009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Simple obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Simple obesity",
+          "lang": "en"
+        },
+        "id": "415530009"
+      }
+    },
+    {
+      "term": "BMI 30+ - obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162864005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Body mass index 30+ - obesity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Body mass index 30+ - obesity",
+          "lang": "en"
+        },
+        "id": "162864005"
+      }
+    },
+    {
+      "term": "Obesity treatment",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "763643007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity care",
+          "lang": "en"
+        },
+        "id": "763643007"
+      }
+    },
+    {
+      "term": "Abdominal obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238132000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Android obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Android obesity",
+          "lang": "en"
+        },
+        "id": "238132000"
+      }
+    },
+    {
+      "term": "Peripheral obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248312008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Peripheral obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Peripheral obesity",
+          "lang": "en"
+        },
+        "id": "248312008"
+      }
+    },
+    {
+      "term": "Obesity monitoring",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "268522006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity monitoring (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity monitoring",
+          "lang": "en"
+        },
+        "id": "268522006"
+      }
+    },
+    {
+      "term": "Endogenous obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297500005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endogenous obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endogenous obesity",
+          "lang": "en"
+        },
+        "id": "297500005"
+      }
+    },
+    {
+      "term": "Obesity (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414916001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity",
+          "lang": "en"
+        },
+        "id": "414916001"
+      }
+    },
+    {
+      "term": "History of obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161453001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of obesity (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: obesity",
+          "lang": "en"
+        },
+        "id": "161453001"
+      }
+    },
+    {
+      "term": "Alimentary obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415530009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Simple obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Simple obesity",
+          "lang": "en"
+        },
+        "id": "415530009"
+      }
+    },
+    {
+      "term": "Upper body obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238132000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Android obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Android obesity",
+          "lang": "en"
+        },
+        "id": "238132000"
+      }
+    },
+    {
+      "term": "Adolescent obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "788996008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity in adolescence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity in adolescence",
+          "lang": "en"
+        },
+        "id": "788996008"
+      }
+    },
+    {
+      "term": "Hypogonadal obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5036006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypogonadal obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypogonadal obesity",
+          "lang": "en"
+        },
+        "id": "5036006"
+      }
+    },
+    {
+      "term": "Hypothyroid obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "53146006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroid obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroid obesity",
+          "lang": "en"
+        },
+        "id": "53146006"
+      }
+    },
+    {
+      "term": "Centripetal obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248311001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Central obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Central obesity",
+          "lang": "en"
+        },
+        "id": "248311001"
+      }
+    },
+    {
+      "term": "Generalized obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238134004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Generalized obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Generalized obesity",
+          "lang": "en"
+        },
+        "id": "238134004"
+      }
+    },
+    {
+      "term": "Generalised obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238134004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Generalized obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Generalized obesity",
+          "lang": "en"
+        },
+        "id": "238134004"
+      }
+    },
+    {
+      "term": "Adult-onset obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "296526005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adult-onset obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adult-onset obesity",
+          "lang": "en"
+        },
+        "id": "296526005"
+      }
+    },
+    {
+      "term": "Hypothalamic obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82793005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothalamic obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothalamic obesity",
+          "lang": "en"
+        },
+        "id": "82793005"
+      }
+    },
+    {
+      "term": "Drug-induced obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "190965006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Drug-induced obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Drug-induced obesity",
+          "lang": "en"
+        },
+        "id": "190965006"
+      }
+    },
+    {
+      "term": "Hypertrophic obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "295509007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrophic obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrophic obesity",
+          "lang": "en"
+        },
+        "id": "295509007"
+      }
+    },
+    {
+      "term": "Hyperplastic obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414438005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperplastic obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperplastic obesity",
+          "lang": "en"
+        },
+        "id": "414438005"
+      }
+    },
+    {
+      "term": "Anxiety about obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277831002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anxiety about becoming fat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anxiety about becoming fat",
+          "lang": "en"
+        },
+        "id": "277831002"
+      }
+    },
+    {
+      "term": "Hyperinsulinar obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111036000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperinsulinar obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperinsulinar obesity",
+          "lang": "en"
+        },
+        "id": "111036000"
+      }
+    },
+    {
+      "term": "Constitutional obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "292464007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constitutional obesity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constitutional obesity",
+          "lang": "en"
+        },
+        "id": "292464007"
+      }
+    },
+    {
+      "term": "Obesity diet education",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284352003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity diet education (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity diet education",
+          "lang": "en"
+        },
+        "id": "284352003"
+      }
+    },
+    {
+      "term": "Obesity in adolescence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "788996008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity in adolescence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity in adolescence",
+          "lang": "en"
+        },
+        "id": "788996008"
+      }
+    },
+    {
+      "term": "Obesity monitoring call",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "308504001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obesity monitoring call (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obesity monitoring call",
+          "lang": "en"
+        },
+        "id": "308504001"
+      }
+    },
+    {
+      "term": "Family history: Obesity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160311006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Obesity (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Obesity",
+          "lang": "en"
+        },
+        "id": "160311006"
+      }
+    }
+  ]
+}

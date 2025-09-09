@@ -1,0 +1,1501 @@
+{
+  "buckets": {
+    "module": {
+      "999000021000001108": 3,
+      "999000011000000103": 67,
+      "900000000000207008": 325
+    },
+    "semanticTags": {
+      "regime/therapy": 2,
+      "foundation metadata concept": 1,
+      "disorder": 131,
+      "observable entity": 1,
+      "procedure": 7,
+      "finding": 23,
+      "situation": 10,
+      "record artifact": 2
+    },
+    "language": {
+      "en": 395
+    },
+    "membership": {
+      "1322291000000109": 176,
+      "999004331000000102": 4,
+      "991411000000109": 1,
+      "1127601000000107": 163,
+      "1382531000000102": 124,
+      "966281000000109": 6,
+      "1127551000000109": 2,
+      "2181151000000100": 4,
+      "999002271000000101": 304,
+      "2222191000000108": 1,
+      "966291000000106": 23,
+      "1323321000000109": 1,
+      "966301000000105": 1,
+      "1853561000000109": 1,
+      "999002061000000102": 1,
+      "999002571000000104": 1,
+      "900000000000497000": 144,
+      "999002051000000100": 2,
+      "733073007": 177,
+      "999001471000000108": 1,
+      "900000000000456007": 1,
+      "999002881000000100": 1,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "966281000000109": {
+      "conceptId": "966281000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Newborn blood spot screening result status simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Newborn blood spot screening result status simple reference set",
+        "lang": "en"
+      },
+      "id": "966281000000109"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "966301000000105": {
+      "conceptId": "966301000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Newborn blood spot screening test procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Newborn blood spot screening test procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "966301000000105"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1853561000000109": {
+      "conceptId": "1853561000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine procedure simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine procedure simple reference set",
+        "lang": "en"
+      },
+      "id": "1853561000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999001471000000108": {
+      "conceptId": "999001471000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Care plan type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Care plan type simple reference set",
+        "lang": "en"
+      },
+      "id": "999001471000000108"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2181151000000100": {
+      "conceptId": "2181151000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181151000000100"
+    },
+    "966291000000106": {
+      "conceptId": "966291000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Newborn blood spot screening result sub-status simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Newborn blood spot screening result sub-status simple reference set",
+        "lang": "en"
+      },
+      "id": "966291000000106"
+    },
+    "1323321000000109": {
+      "conceptId": "1323321000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323321000000109"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000021000001108": {
+      "conceptId": "999000021000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension reference set module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension reference set module",
+        "lang": "en"
+      },
+      "id": "999000021000001108"
+    },
+    "900000000000456007": {
+      "conceptId": "900000000000456007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Reference set descriptor reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Reference set descriptor",
+        "lang": "en"
+      },
+      "id": "900000000000456007"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 395,
+  "totalPages": 8,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40930008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism",
+          "lang": "en"
+        },
+        "id": "40930008"
+      }
+    },
+    {
+      "term": "FH: Hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300934004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Hypothyroidism (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Hypothyroidism",
+          "lang": "en"
+        },
+        "id": "300934004"
+      }
+    },
+    {
+      "term": "H/O: hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161443002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of hypothyroidism (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: hypothyroidism",
+          "lang": "en"
+        },
+        "id": "161443002"
+      }
+    },
+    {
+      "term": "Severe hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "83986005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severe hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe hypothyroidism",
+          "lang": "en"
+        },
+        "id": "83986005"
+      }
+    },
+    {
+      "term": "Iodine hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "190279008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Iodine hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Iodine hypothyroidism",
+          "lang": "en"
+        },
+        "id": "190279008"
+      }
+    },
+    {
+      "term": "Infant hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405629002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infant hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infant hypothyroidism",
+          "lang": "en"
+        },
+        "id": "405629002"
+      }
+    },
+    {
+      "term": "Hypothyroidism review",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "205101000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Hypothyroidism review (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism review",
+          "lang": "en"
+        },
+        "id": "205101000000104"
+      }
+    },
+    {
+      "term": "Central hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "26692000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Central hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Central hypothyroidism",
+          "lang": "en"
+        },
+        "id": "26692000"
+      }
+    },
+    {
+      "term": "Primary hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "57185003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Primary hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Primary hypothyroidism",
+          "lang": "en"
+        },
+        "id": "57185003"
+      }
+    },
+    {
+      "term": "Acquired hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111566002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acquired hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acquired hypothyroidism",
+          "lang": "en"
+        },
+        "id": "111566002"
+      }
+    },
+    {
+      "term": "Hypothyroidism sequence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "55838005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Athyrotic hypothyroidism sequence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Athyrotic hypothyroidism sequence",
+          "lang": "en"
+        },
+        "id": "55838005"
+      }
+    },
+    {
+      "term": "Tertiary hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37429009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothalamic hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothalamic hypothyroidism",
+          "lang": "en"
+        },
+        "id": "37429009"
+      }
+    },
+    {
+      "term": "Transient hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2917005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Transient hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Transient hypothyroidism",
+          "lang": "en"
+        },
+        "id": "2917005"
+      }
+    },
+    {
+      "term": "Secondary hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82598004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Secondary hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Secondary hypothyroidism",
+          "lang": "en"
+        },
+        "id": "82598004"
+      }
+    },
+    {
+      "term": "Infantile hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217710005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital iodine deficiency syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital iodine deficiency syndrome",
+          "lang": "en"
+        },
+        "id": "217710005"
+      }
+    },
+    {
+      "term": "Pituitary hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82598004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Secondary hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Secondary hypothyroidism",
+          "lang": "en"
+        },
+        "id": "82598004"
+      }
+    },
+    {
+      "term": "Suspected hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473124003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Suspected hypothyroidism (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Suspected hypothyroidism",
+          "lang": "en"
+        },
+        "id": "473124003"
+      }
+    },
+    {
+      "term": "Iatrogenic hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "88273006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Iatrogenic hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Iatrogenic hypothyroidism",
+          "lang": "en"
+        },
+        "id": "88273006"
+      }
+    },
+    {
+      "term": "Congenital hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "190268003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital hypothyroidism",
+          "lang": "en"
+        },
+        "id": "190268003"
+      }
+    },
+    {
+      "term": "Autoimmune hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237519003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Autoimmune hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Autoimmune hypothyroidism",
+          "lang": "en"
+        },
+        "id": "237519003"
+      }
+    },
+    {
+      "term": "Hypothyroidism (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40930008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism",
+          "lang": "en"
+        },
+        "id": "40930008"
+      }
+    },
+    {
+      "term": "History of hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161443002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of hypothyroidism (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: hypothyroidism",
+          "lang": "en"
+        },
+        "id": "161443002"
+      }
+    },
+    {
+      "term": "Borderline hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54823002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subclinical hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subclinical hypothyroidism",
+          "lang": "en"
+        },
+        "id": "54823002"
+      }
+    },
+    {
+      "term": "Postpartum hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10753681000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postpartum hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postpartum hypothyroidism",
+          "lang": "en"
+        },
+        "id": "10753681000119101"
+      }
+    },
+    {
+      "term": "Subclinical hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "54823002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subclinical hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subclinical hypothyroidism",
+          "lang": "en"
+        },
+        "id": "54823002"
+      }
+    },
+    {
+      "term": "Irradiation hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "190277005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroidism caused by radiation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism caused by radiation",
+          "lang": "en"
+        },
+        "id": "190277005"
+      }
+    },
+    {
+      "term": "Hypothalamic hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37429009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothalamic hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothalamic hypothyroidism",
+          "lang": "en"
+        },
+        "id": "37429009"
+      }
+    },
+    {
+      "term": "Postablative hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237527007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postablative hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postablative hypothyroidism",
+          "lang": "en"
+        },
+        "id": "237527007"
+      }
+    },
+    {
+      "term": "Hypothyroidism in pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428165003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroidism in pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism in pregnancy",
+          "lang": "en"
+        },
+        "id": "428165003"
+      }
+    },
+    {
+      "term": "Drug-induced hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "367631000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroidism caused by drug (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism caused by drug",
+          "lang": "en"
+        },
+        "id": "367631000119105"
+      }
+    },
+    {
+      "term": "Postsurgical hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27059002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postoperative hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postoperative hypothyroidism",
+          "lang": "en"
+        },
+        "id": "27059002"
+      }
+    },
+    {
+      "term": "Postoperative hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27059002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postoperative hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postoperative hypothyroidism",
+          "lang": "en"
+        },
+        "id": "27059002"
+      }
+    },
+    {
+      "term": "Hypothyroidism in childbirth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10809101000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroidism in childbirth (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism in childbirth",
+          "lang": "en"
+        },
+        "id": "10809101000119109"
+      }
+    },
+    {
+      "term": "Hypothyroidism after surgery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27059002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postoperative hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postoperative hypothyroidism",
+          "lang": "en"
+        },
+        "id": "27059002"
+      }
+    },
+    {
+      "term": "Hypothyroidism annual review",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "341861000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Hypothyroidism annual review (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism annual review",
+          "lang": "en"
+        },
+        "id": "341861000000109"
+      }
+    },
+    {
+      "term": "Hypothyroidism caused by drug",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "367631000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroidism caused by drug (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism caused by drug",
+          "lang": "en"
+        },
+        "id": "367631000119105"
+      }
+    },
+    {
+      "term": "Post-radiation hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137378008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroidism due to and following radiotherapy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism due to and following radiotherapy",
+          "lang": "en"
+        },
+        "id": "1137378008"
+      }
+    },
+    {
+      "term": "Post-infectious hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237528002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-infectious hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-infectious hypothyroidism",
+          "lang": "en"
+        },
+        "id": "237528002"
+      }
+    },
+    {
+      "term": "Hypothyrotropic hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82598004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Secondary hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Secondary hypothyroidism",
+          "lang": "en"
+        },
+        "id": "82598004"
+      }
+    },
+    {
+      "term": "Family history: Hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300934004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Hypothyroidism (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Hypothyroidism",
+          "lang": "en"
+        },
+        "id": "300934004"
+      }
+    },
+    {
+      "term": "Acquired central hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722940002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acquired central hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acquired central hypothyroidism",
+          "lang": "en"
+        },
+        "id": "722940002"
+      }
+    },
+    {
+      "term": "Hypothyroidism due to cystinosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "42785009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroidism due to cystinosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism due to cystinosis",
+          "lang": "en"
+        },
+        "id": "42785009"
+      }
+    },
+    {
+      "term": "Iodine hypothyroidism (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "190279008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Iodine hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Iodine hypothyroidism",
+          "lang": "en"
+        },
+        "id": "190279008"
+      }
+    },
+    {
+      "term": "Severe hypothyroidism (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "83986005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Severe hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Severe hypothyroidism",
+          "lang": "en"
+        },
+        "id": "83986005"
+      }
+    },
+    {
+      "term": "Infant hypothyroidism (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405629002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infant hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infant hypothyroidism",
+          "lang": "en"
+        },
+        "id": "405629002"
+      }
+    },
+    {
+      "term": "Hypertrichosis in hypothyroidism",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403315008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertrichosis in hypothyroidism (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertrichosis in hypothyroidism",
+          "lang": "en"
+        },
+        "id": "403315008"
+      }
+    },
+    {
+      "term": "Hypothyroidism due to sarcoidosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78574007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroidism due to sarcoidosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism due to sarcoidosis",
+          "lang": "en"
+        },
+        "id": "78574007"
+      }
+    },
+    {
+      "term": "Athyrotic hypothyroidism sequence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "55838005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Athyrotic hypothyroidism sequence (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Athyrotic hypothyroidism sequence",
+          "lang": "en"
+        },
+        "id": "55838005"
+      }
+    },
+    {
+      "term": "Hypothyroidism due to scleroderma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63115005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroidism due to scleroderma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism due to scleroderma",
+          "lang": "en"
+        },
+        "id": "63115005"
+      }
+    },
+    {
+      "term": "Hypothyroidism due to amyloidosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60733007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypothyroidism due to amyloidosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypothyroidism due to amyloidosis",
+          "lang": "en"
+        },
+        "id": "60733007"
+      }
+    }
+  ]
+}

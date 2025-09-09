@@ -1,0 +1,614 @@
+{
+  "labels": {
+    "13 years old": {
+      "context": "Patient, 13 years old, comes to your office with his mother complaining about severe ear pain.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "severe ear pain": {
+      "context": "He awoke during the night with severe ear pain, and mom states that this is the third time this year he has had earaches.",
+      "qualifier": "Symptoms",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "21422001"
+    },
+    "earaches": {
+      "context": "He awoke during the night with severe ear pain, and mom states that this is the third time this year he has had earaches.",
+      "qualifier": "Symptoms",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "25352003"
+    },
+    "antibiotics": {
+      "context": "Patient reports that he felt good after taking antibiotics with each earache episode and has recently started on the wrestling team.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "afebrile": {
+      "context": "Mom reports that patient has been afebrile with each of the earache episodes, and he has not had upper respiratory symptoms.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "upper respiratory symptoms": {
+      "context": "Mom reports that patient has been afebrile with each of the earache episodes, and he has not had upper respiratory symptoms.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "head trauma": {
+      "context": "Patient denies any head trauma associated with wrestling practice.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "7281005"
+    },
+    "normal pregnancy": {
+      "context": "Patient's mother reports a normal pregnancy with no complications, having received prenatal care from 12 weeks.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "complications": {
+      "context": "Patient's mother reports a normal pregnancy with no complications, having received prenatal care from 12 weeks.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "prenatal care": {
+      "context": "Patient's mother reports a normal pregnancy with no complications, having received prenatal care from 12 weeks.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "170603009"
+    },
+    "Vaginal delivery": {
+      "context": "Vaginal delivery was uneventful with a normal perinatal course.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "162468009"
+    },
+    "normal perinatal course": {
+      "context": "Vaginal delivery was uneventful with a normal perinatal course.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "hypertension": {
+      "context": "His Dad has hypertension and has frequent heartburn symptoms that he treats with over-the-counter (OTC) medications.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "38341003"
+    },
+    "frequent heartburn symptoms": {
+      "context": "His Dad has hypertension and has frequent heartburn symptoms that he treats with over-the-counter (OTC) medications.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "30039002"
+    },
+    "OTC medications": {
+      "context": "Patient's Mom states that he takes no prescribed medications or OTC medications, but he admits that he has been taking his dad's OTC Pepcid AE sometimes when he gets heartburn.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "asthma": {
+      "context": "Mom is healthy and has asthma.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "195967001"
+    },
+    "well child exams": {
+      "context": "Patient has been seen in the clinic yearly for well child exams.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "185349003"
+    },
+    "major illnesses": {
+      "context": "He has had no major illnesses or hospitalizations.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "hospitalizations": {
+      "context": "He has had no major illnesses or hospitalizations.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "emergency room visit": {
+      "context": "He had one emergency room visit 2 years ago for a knee laceration.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "knee laceration": {
+      "context": "He had one emergency room visit 2 years ago for a knee laceration.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "28067005"
+    },
+    "otitis media": {
+      "context": "Chronic otitis media due to a penicillin resistant organism would be the obvious diagnosis in this case. It is rare for an adolescent to have otitis media with no precipitating factor (such as being on a swim team or otherwise exposed to unusual organisms or in an unusual environment). It is certainly unusual for him to have three episodes in 1 year.",
+      "qualifier": "Diagnoses",
+      "laterality": "bilateral",
+      "presence": "Suspected",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "38719002"
+    },
+    "respiratory infections": {
+      "context": "Patient has been healthy except for the past year when he had two episodes of otitis media not associated with respiratory infections.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "43878007"
+    },
+    "antibiotic therapy (amoxicillin)": {
+      "context": "He received antibiotic therapy (amoxicillin) for the otitis media and both episodes resolved without problems.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "prescribed medications": {
+      "context": "Patient's Mom states that he takes no prescribed medications or OTC medications, but he admits that he has been taking his dad's OTC Pepcid AE sometimes when he gets heartburn.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Pepcid AE": {
+      "context": "Patient's Mom states that he takes no prescribed medications or OTC medications, but he admits that he has been taking his dad's OTC Pepcid AE sometimes when he gets heartburn.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "heartburn": {
+      "context": "At his follow-up appointment he reported one episode after he ate a whole large pizza after wrestling practice but said it went away pretty quickly after he took his medication.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "30039002"
+    },
+    "Pepcid": {
+      "context": "Upon further examination, he reports taking Pepcid when he eats pizza or Mexican food.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "sore throats": {
+      "context": "He does complain of sore throats sometimes and often feels burning in his throat when he goes to sleep at night after a late evening snack.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "2230005"
+    },
+    "burning in his throat": {
+      "context": "He does complain of sore throats sometimes and often feels burning in his throat when he goes to sleep at night after a late evening snack.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "426996004"
+    },
+    "109 pounds (60th percentile)": {
+      "context": "Height/weight: Patient weighs 109 pounds (60th percentile) and is 69 inches tall (93rd percentile).",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "69 inches tall (93rd percentile)": {
+      "context": "Height/weight: Patient weighs 109 pounds (60th percentile) and is 69 inches tall (93rd percentile).",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "BP 110/60, T 99.2, HR 70, R 16": {
+      "context": "Vital signs: BP 110/60, T 99.2, HR 70, R 16.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Alert, cooperative but a bit shy": {
+      "context": "General: Alert, cooperative but a bit shy.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "DTRs symmetric, 2+, negative Romberg, able to perform simple calculations without difficulty, short-term memory intact. He responds appropriately to verbal and visual cues, and movements are smooth and coordinated.": {
+      "context": "Neuro: DTRs symmetric, 2+, negative Romberg, able to perform simple calculations without difficulty, short-term memory intact. He responds appropriately to verbal and visual cues, and movements are smooth and coordinated.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal.": {
+      "context": "HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal. TMs deep red, dull, landmarks obscured, full bilaterally. Post auricular and submandibular nodes on left are palpable and slightly tender.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "TMs deep red, dull, landmarks obscured, full bilaterally": {
+      "context": "HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal. TMs deep red, dull, landmarks obscured, full bilaterally. Post auricular and submandibular nodes on left are palpable and slightly tender.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Post auricular and submandibular nodes on left are palpable and slightly tender": {
+      "context": "HEENT: Normocephalic, PEERLA, red reflex present, optic disk and ocular vessels normal. TMs deep red, dull, landmarks obscured, full bilaterally. Post auricular and submandibular nodes on left are palpable and slightly tender.",
+      "qualifier": "Signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "CTA, breath sounds equal bilaterally, excursion and chest configuration normal": {
+      "context": "Lungs: CTA, breath sounds equal bilaterally, excursion and chest configuration normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "S1, S2 split, no murmurs, pulses equal bilaterally": {
+      "context": "Cardiac: S1, S2 split, no murmurs, pulses equal bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat. Bowel sounds active in all quadrants. No hepatosplenomegaly or tenderness. No CVA tenderness.": {
+      "context": "Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat. Bowel sounds active in all quadrants. No hepatosplenomegaly or tenderness. No CVA tenderness.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "epigastric tenderness": {
+      "context": "Abdomen: Soft, rounded, reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat. Bowel sounds active in all quadrants. No hepatosplenomegaly or tenderness. No CVA tenderness.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "77849005"
+    },
+    "Full range of motion, all extremities. Spine straight, able to perform jumping jacks and duck walk without difficulty.": {
+      "context": "Musculoskeletal: Full range of motion, all extremities. Spine straight, able to perform jumping jacks and duck walk without difficulty.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Normal male, Tanner stage 4": {
+      "context": "Genital: Normal male, Tanner stage 4. Rectal exam - small amount of soft stool, no fissures or masses.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "small amount of soft stool, no fissures or masses": {
+      "context": "Genital: Normal male, Tanner stage 4. Rectal exam - small amount of soft stool, no fissures or masses.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Stool negative for blood and H. pylori antigen": {
+      "context": "Labs: Stool negative for blood and H. pylori antigen. Normal CBC and urinalysis. A barium swallow and upper GI was scheduled for the following week. It showed marked GE reflux.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Normal CBC and urinalysis": {
+      "context": "Labs: Stool negative for blood and H. pylori antigen. Normal CBC and urinalysis. A barium swallow and upper GI was scheduled for the following week. It showed marked GE reflux.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "barium swallow and upper GI": {
+      "context": "Labs: Stool negative for blood and H. pylori antigen. Normal CBC and urinalysis. A barium swallow and upper GI was scheduled for the following week. It showed marked GE reflux.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "marked GE reflux": {
+      "context": "Labs: Stool negative for blood and H. pylori antigen. Normal CBC and urinalysis. A barium swallow and upper GI was scheduled for the following week. It showed marked GE reflux.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "chronic otitis media/treatment failure": {
+      "context": "The differential diagnoses for patient included (a) chronic otitis media/treatment failure, (b) peptic ulcer disease/gastritis, (c) gastro esophageal reflux disease (GERD) or carbonated beverage syndrome, (d) trauma.",
+      "qualifier": "Diagnoses",
+      "laterality": "bilateral",
+      "presence": "Suspected",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "peptic ulcer disease/gastritis": {
+      "context": "The differential diagnoses for patient included (a) chronic otitis media/treatment failure, (b) peptic ulcer disease/gastritis, (c) gastro esophageal reflux disease (GERD) or carbonated beverage syndrome, (d) trauma.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Suspected",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "gastro esophageal reflux disease (GERD) or carbonated beverage syndrome": {
+      "context": "The differential diagnoses for patient included (a) chronic otitis media/treatment failure, (b) peptic ulcer disease/gastritis, (c) gastro esophageal reflux disease (GERD) or carbonated beverage syndrome, (d) trauma.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Suspected",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "trauma": {
+      "context": "The differential diagnoses for patient included (a) chronic otitis media/treatment failure, (b) peptic ulcer disease/gastritis, (c) gastro esophageal reflux disease (GERD) or carbonated beverage syndrome, (d) trauma.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Suspected",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Chronic otitis media": {
+      "context": "Chronic otitis media due to a penicillin resistant organism would be the obvious diagnosis in this case. It is rare for an adolescent to have otitis media with no precipitating factor (such as being on a swim team or otherwise exposed to unusual organisms or in an unusual environment). It is certainly unusual for him to have three episodes in 1 year.",
+      "qualifier": "Diagnoses",
+      "laterality": "bilateral",
+      "presence": "Suspected",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "peptic ulcer disease": {
+      "context": "There were no symptoms of peptic ulcer disease, a negative H. pylori screen and lack of pain made this diagnosis less likely.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Suspected",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "12724000"
+    },
+    "H. pylori": {
+      "context": "There were no symptoms of peptic ulcer disease, a negative H. pylori screen and lack of pain made this diagnosis less likely. ",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "pain": {
+      "context": "There were no symptoms of peptic ulcer disease, a negative H. pylori screen and lack of pain made this diagnosis less likely. ",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Trauma": {
+      "context": "Trauma was a possibility, particularly since adolescent males frequently minimize symptoms especially if they might limit participation in a sport but patient maintained that he had not had an event where he struck his head or neck and that he always wore his helmet with ear padding.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Suspected",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "GERD": {
+      "context": "The history of \"heartburn\" relieved by his father's medication was striking. The positive study supported the diagnosis of GERD, which was severe and chronic enough to cause irritation of the mucosal surfaces exposed to the gastric juices and edema, inflammation in the inner ears.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "736543005"
+    },
+    "omeprazole 20 mg at bedtime": {
+      "context": "Patient and his Mom agreed to a trial of omeprazole 20 mg at bedtime for 2 weeks.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Augmentin99": {
+      "context": "He was also given a prescription for 10 days of Augmentin99 and a follow-up appointment for 2 weeks.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    }
+  }
+}

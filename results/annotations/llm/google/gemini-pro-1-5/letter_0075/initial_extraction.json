@@ -1,0 +1,604 @@
+{
+  "labels": {
+    "postnasal drainage": {
+      "context": "Symptoms include postnasal drainage, sore throat, facial pain, coughing, headaches and congestion.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "78454009"
+    },
+    "sore throat": {
+      "context": "Symptoms include postnasal drainage, sore throat, facial pain, coughing, headaches and congestion.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "22554002"
+    },
+    "facial pain": {
+      "context": "Symptoms include postnasal drainage, sore throat, facial pain, coughing, headaches and congestion.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "22256000"
+    },
+    "coughing": {
+      "context": "Complaints include coughing.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "49727002"
+    },
+    "headaches": {
+      "context": "Patient complains of headaches.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "25064002"
+    },
+    "congestion": {
+      "context": "Symptoms include postnasal drainage, sore throat, facial pain, coughing, headaches and congestion.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "422400008"
+    },
+    "snoring": {
+      "context": "Additional symptoms include snoring, nasal burning and teeth pain.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "233265009"
+    },
+    "nasal burning": {
+      "context": "Additional symptoms include snoring, nasal burning and teeth pain.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "teeth pain": {
+      "context": "Additional symptoms include snoring, nasal burning and teeth pain.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "27349002"
+    },
+    "Sinus problems": {
+      "context": "Sinus problems.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "2 weeks ago": {
+      "context": "The problem began 2 weeks ago and is constant.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "constant": {
+      "context": "The problem began 2 weeks ago and is constant.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "moderate to severe": {
+      "context": "The symptoms are characterized as moderate to severe.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "worse in the evening and morning": {
+      "context": "Symptoms are worse in the evening and morning.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "General health is good": {
+      "context": "General health is good.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "As noted in history of present Illness listed above": {
+      "context": "As noted in history of present Illness listed above.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "cough": {
+      "context": "Patient denies any respiratory complaints, such as cough, shortness of breath, chest pain, wheezing, hemoptysis, etc.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "11901004"
+    },
+    "shortness of breath": {
+      "context": "Patient denies any respiratory complaints, such as cough, shortness of breath, chest pain, wheezing, hemoptysis, etc.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "267036007"
+    },
+    "chest pain": {
+      "context": "Patient denies any respiratory complaints, such as cough, shortness of breath, chest pain, wheezing, hemoptysis, etc.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "29857009"
+    },
+    "wheezing": {
+      "context": "Patient denies any respiratory complaints, such as cough, shortness of breath, chest pain, wheezing, hemoptysis, etc.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "1015000"
+    },
+    "hemoptysis": {
+      "context": "Patient denies any respiratory complaints, such as cough, shortness of breath, chest pain, wheezing, hemoptysis, etc.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "74254003"
+    },
+    "nausea": {
+      "context": "Patient denies any nausea, vomiting, abdominal pain, dysphagia or any altered bowel movements.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "422587007"
+    },
+    "vomiting": {
+      "context": "Patient denies any nausea, vomiting, abdominal pain, dysphagia or any altered bowel movements.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "422430005"
+    },
+    "abdominal pain": {
+      "context": "Patient denies any nausea, vomiting, abdominal pain, dysphagia or any altered bowel movements.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "21522001"
+    },
+    "dysphagia": {
+      "context": "Patient denies any nausea, vomiting, abdominal pain, dysphagia or any altered bowel movements.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "40739000"
+    },
+    "altered bowel movements": {
+      "context": "Patient denies any nausea, vomiting, abdominal pain, dysphagia or any altered bowel movements.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Gallbladder": {
+      "context": "Gallbladder 7/82. Hernia 5/79",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "128867006"
+    },
+    "Hernia": {
+      "context": "Gallbladder 7/82. Hernia 5/79",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "266382007"
+    },
+    "Negative": {
+      "context": "Negative.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Married": {
+      "context": "Marital Status: Married.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "alcohol": {
+      "context": "Denies the use of alcohol.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "smoking 1 pack of cigarettes per day": {
+      "context": "Patient has a history of smoking 1 pack of cigarettes per day and for the past 15 years.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "428041000124101"
+    },
+    "past 15 years": {
+      "context": "Patient has a history of smoking 1 pack of cigarettes per day and for the past 15 years.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no animals inside the home": {
+      "context": "There are no animals inside the home.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "allergies": {
+      "context": "Family history of allergies and hypertension.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "419199007"
+    },
+    "hypertension": {
+      "context": "Family history of allergies and hypertension.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "38341003"
+    },
+    "Claritin": {
+      "context": "Claritin. Dilantin.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Dilantin": {
+      "context": "Claritin. Dilantin.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Rhinocort Nasal Spray": {
+      "context": "Rhinocort Nasal Spray.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "no significant abnormalities": {
+      "context": "Auricles/external auditory canals reveal no significant abnormalities bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "TMs intact": {
+      "context": "TMs intact with no middle ear effusion and are mobile to insufflation.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "no middle ear effusion": {
+      "context": "TMs intact with no middle ear effusion and are mobile to insufflation.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "mobile to insufflation": {
+      "context": "TMs intact with no middle ear effusion and are mobile to insufflation.",
+      "qualifier": "Test Results",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "moderate congestion": {
+      "context": "Intranasal exam reveals moderate congestion and purulent mucus.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "422400008"
+    },
+    "purulent mucus": {
+      "context": "Intranasal exam reveals moderate congestion and purulent mucus.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "missing molar(s)": {
+      "context": "Examination of the teeth/alveolar ridges reveals missing molar (s).",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "prominent uvula": {
+      "context": "Examination of the posterior pharynx reveals a prominent uvula and purulent postnasal drainage.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "purulent postnasal drainage": {
+      "context": "Examination of the posterior pharynx reveals a prominent uvula and purulent postnasal drainage.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "78454009"
+    },
+    "palatine tonsils are 2+ and cryptic": {
+      "context": "The palatine tonsils are 2+ and cryptic.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "no tenderness": {
+      "context": "Palpation of anterior neck reveals no tenderness.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "mild tenderness to palpation of the suboccipital muscles": {
+      "context": "Examination of the posterior neck reveals mild tenderness to palpation of the suboccipital muscles.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "bilateral maxillary sinus tenderness": {
+      "context": "There is bilateral maxillary sinus tenderness to palpation.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "bilateral maxillary mucosal thickening": {
+      "context": "Water's view x-ray reveals bilateral maxillary mucosal thickening.",
+      "qualifier": "Test Results",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Acute maxillary sinusitis (461.0)": {
+      "context": "Acute maxillary sinusitis (461.0). Snoring (786.09).",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "4610"
+    },
+    "Snoring (786.09)": {
+      "context": "Acute maxillary sinusitis (461.0). Snoring (786.09).",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "78609"
+    },
+    "Augmentin": {
+      "context": "Augmentin. 875 mg bid. MucoFen 800 mg bid.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "MucoFen": {
+      "context": "Augmentin. 875 mg bid. MucoFen 800 mg bid.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "mini sinus CT": {
+      "context": "Will get mini sinus CT if no improvement.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "no improvement": {
+      "context": "Will get mini sinus CT if no improvement.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "2-3 weeks or sooner if necessary": {
+      "context": "The patient was instructed to return in 2-3 weeks or sooner if necessary.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    }
+  }
+}

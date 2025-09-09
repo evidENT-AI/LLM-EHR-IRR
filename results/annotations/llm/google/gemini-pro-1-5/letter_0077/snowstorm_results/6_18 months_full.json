@@ -1,0 +1,1387 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 112,
+      "999000011000000103": 6,
+      "900000000000207008": 14
+    },
+    "semanticTags": {
+      "regime/therapy": 1,
+      "disorder": 6,
+      "physical object": 56,
+      "procedure": 2,
+      "finding": 1,
+      "situation": 2
+    },
+    "language": {
+      "en": 132
+    },
+    "membership": {
+      "1322291000000109": 68,
+      "1127601000000107": 8,
+      "999000031000001105": 56,
+      "999000551000001106": 18,
+      "1382531000000102": 6,
+      "999003161000000108": 1,
+      "999000561000001109": 10,
+      "999000541000001108": 18,
+      "999002271000000101": 10,
+      "999003181000000104": 1,
+      "999000401000000107": 56,
+      "999002571000000104": 1,
+      "900000000000497000": 9,
+      "733073007": 12,
+      "999003191000000102": 1,
+      "999000571000001104": 10
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999000561000001109": {
+      "conceptId": "999000561000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000561000001109"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999003181000000104": {
+      "conceptId": "999003181000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003181000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999003191000000102": {
+      "conceptId": "999003191000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1D Central nervous system neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1D CNS (central nervous system) neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003191000000102"
+    },
+    "999000571000001104": {
+      "conceptId": "999000571000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000571000001104"
+    }
+  },
+  "totalElements": 132,
+  "totalPages": 3,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Follow-up 18 months",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "199591000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Follow-up 18 months (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Follow-up 18 months",
+          "lang": "en"
+        },
+        "id": "199591000000102"
+      }
+    },
+    {
+      "term": "Silk leggings 18-24 months",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17828311000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk leggings 18-24 months (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk leggings 18-24 months",
+          "lang": "en"
+        },
+        "id": "17828311000001106"
+      }
+    },
+    {
+      "term": "Silk leggings 12-18 months",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11739611000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk leggings 12-18 months (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk leggings 12-18 months",
+          "lang": "en"
+        },
+        "id": "11739611000001107"
+      }
+    },
+    {
+      "term": "Silk body suit 18-24 months",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17827811000001101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk body suit 18-24 months (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk body suit 18-24 months",
+          "lang": "en"
+        },
+        "id": "17827811000001101"
+      }
+    },
+    {
+      "term": "Silk body suit 12-18 months",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11738411000001101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk body suit 12-18 months (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk body suit 12-18 months",
+          "lang": "en"
+        },
+        "id": "11738411000001101"
+      }
+    },
+    {
+      "term": "Follow-up 18 months (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "199591000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Follow-up 18 months (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Follow-up 18 months",
+          "lang": "en"
+        },
+        "id": "199591000000102"
+      }
+    },
+    {
+      "term": "Silk leggings 18-24 months 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17816011000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk leggings 18-24 months 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk leggings 18-24 months 1 device",
+          "lang": "en"
+        },
+        "id": "17816011000001104"
+      }
+    },
+    {
+      "term": "Silk leggings 12-18 months 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11705511000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk leggings 12-18 months 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk leggings 12-18 months 1 device",
+          "lang": "en"
+        },
+        "id": "11705511000001102"
+      }
+    },
+    {
+      "term": "Child health 18-24 months assessment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "197021000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Child health 18-24 months assessment (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child health 18-24 months assessment",
+          "lang": "en"
+        },
+        "id": "197021000000101"
+      }
+    },
+    {
+      "term": "Silk body suit 18-24 months 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17803811000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk body suit 18-24 months 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk body suit 18-24 months 1 device",
+          "lang": "en"
+        },
+        "id": "17803811000001104"
+      }
+    },
+    {
+      "term": "Silk body suit 12-18 months 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11703711000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk body suit 12-18 months 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk body suit 12-18 months 1 device",
+          "lang": "en"
+        },
+        "id": "11703711000001106"
+      }
+    },
+    {
+      "term": "Vaginal vault smear repeat at 18 months",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "755261000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Vaginal vault smear repeat at 18 months (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal vault smear repeat at 18 months",
+          "lang": "en"
+        },
+        "id": "755261000000107"
+      }
+    },
+    {
+      "term": "Silk leggings 18-24 months (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17828311000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk leggings 18-24 months (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk leggings 18-24 months",
+          "lang": "en"
+        },
+        "id": "17828311000001106"
+      }
+    },
+    {
+      "term": "Silk leggings 12-18 months (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11739611000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk leggings 12-18 months (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk leggings 12-18 months",
+          "lang": "en"
+        },
+        "id": "11739611000001107"
+      }
+    },
+    {
+      "term": "Silk body suit 18-24 months (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17827811000001101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk body suit 18-24 months (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk body suit 18-24 months",
+          "lang": "en"
+        },
+        "id": "17827811000001101"
+      }
+    },
+    {
+      "term": "Silk body suit 12-18 months (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11738411000001101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk body suit 12-18 months (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk body suit 12-18 months",
+          "lang": "en"
+        },
+        "id": "11738411000001101"
+      }
+    },
+    {
+      "term": "Education about toddler safety at 13-18 months",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "431048009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Education about toddler safety at 13-18 months (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Education about toddler safety at 13-18 months",
+          "lang": "en"
+        },
+        "id": "431048009"
+      }
+    },
+    {
+      "term": "Education about toddler nutrition at 13-18 months",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430115003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Education about toddler nutrition at 13-18 months (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Education about toddler nutrition at 13-18 months",
+          "lang": "en"
+        },
+        "id": "430115003"
+      }
+    },
+    {
+      "term": "Vaginal vault smear repeat at 18 months (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "755261000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Vaginal vault smear repeat at 18 months (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal vault smear repeat at 18 months",
+          "lang": "en"
+        },
+        "id": "755261000000107"
+      }
+    },
+    {
+      "term": "Child examination at 18 months with explicit context",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "444473004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Child examination at 18 months with explicit context (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child examination at 18 months with explicit context",
+          "lang": "en"
+        },
+        "id": "444473004"
+      }
+    },
+    {
+      "term": "Child health 18-24 months assessment (regime/therapy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "197021000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Child health 18-24 months assessment (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child health 18-24 months assessment",
+          "lang": "en"
+        },
+        "id": "197021000000101"
+      }
+    },
+    {
+      "term": "Silk leggings 18-24 months 1 device (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17816011000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk leggings 18-24 months 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk leggings 18-24 months 1 device",
+          "lang": "en"
+        },
+        "id": "17816011000001104"
+      }
+    },
+    {
+      "term": "Silk leggings 12-18 months 1 device (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11705511000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk leggings 12-18 months 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk leggings 12-18 months 1 device",
+          "lang": "en"
+        },
+        "id": "11705511000001102"
+      }
+    },
+    {
+      "term": "Silk body suit 18-24 months 1 device (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17803811000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk body suit 18-24 months 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk body suit 18-24 months 1 device",
+          "lang": "en"
+        },
+        "id": "17803811000001104"
+      }
+    },
+    {
+      "term": "Silk body suit 12-18 months 1 device (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11703711000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Silk body suit 12-18 months 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Silk body suit 12-18 months 1 device",
+          "lang": "en"
+        },
+        "id": "11703711000001106"
+      }
+    },
+    {
+      "term": "DermaSilk leggings 18-24 months (Espere Healthcare Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17816711000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DermaSilk leggings 18-24 months (Espere Healthcare Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DermaSilk leggings 18-24 months (Espere Healthcare Ltd)",
+          "lang": "en"
+        },
+        "id": "17816711000001102"
+      }
+    },
+    {
+      "term": "DreamSkin body suit 12-18 months (DreamSkin Health Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17002211000001105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DreamSkin Silk body suit 12-18 months (Intelligent Fabric Technologies Plc) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DreamSkin body suit 12-18 months (DreamSkin Health Ltd)",
+          "lang": "en"
+        },
+        "id": "17002211000001105"
+      }
+    },
+    {
+      "term": "DermaSilk leggings 12-18 months (Espere Healthcare Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11705611000001103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DermaSilk leggings 12-18 months (Espere Healthcare Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DermaSilk leggings 12-18 months (Espere Healthcare Ltd)",
+          "lang": "en"
+        },
+        "id": "11705611000001103"
+      }
+    },
+    {
+      "term": "DreamSkin body suit 18-24 months (DreamSkin Health Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "20649011000001103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DreamSkin body suit 18-24 months (DreamSkin Health Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DreamSkin body suit 18-24 months (DreamSkin Health Ltd)",
+          "lang": "en"
+        },
+        "id": "20649011000001103"
+      }
+    },
+    {
+      "term": "DermaSilk body suit 18-24 months (Espere Healthcare Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17804111000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DermaSilk body suit 18-24 months (Espere Healthcare Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DermaSilk body suit 18-24 months (Espere Healthcare Ltd)",
+          "lang": "en"
+        },
+        "id": "17804111000001108"
+      }
+    },
+    {
+      "term": "DermaSilk body suit 12-18 months (Espere Healthcare Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11703811000001103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DermaSilk body suit 12-18 months (Espere Healthcare Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DermaSilk body suit 12-18 months (Espere Healthcare Ltd)",
+          "lang": "en"
+        },
+        "id": "11703811000001103"
+      }
+    },
+    {
+      "term": "skintoskin babygrow 12-18 months Unbleached (Effjey Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "22714511000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "skintoskin babygrow 12-18 months Unbleached (Effjey Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "skintoskin babygrow 12-18 months Unbleached (Effjey Ltd)",
+          "lang": "en"
+        },
+        "id": "22714511000001100"
+      }
+    },
+    {
+      "term": "skintoskin babygrow 18-24 months Unbleached (Effjey Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "22715011000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "skintoskin babygrow 18-24 months Unbleached (Effjey Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "skintoskin babygrow 18-24 months Unbleached (Effjey Ltd)",
+          "lang": "en"
+        },
+        "id": "22715011000001107"
+      }
+    },
+    {
+      "term": "Education about toddler safety at 13-18 months (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "431048009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Education about toddler safety at 13-18 months (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Education about toddler safety at 13-18 months",
+          "lang": "en"
+        },
+        "id": "431048009"
+      }
+    },
+    {
+      "term": "Education about toddler nutrition at 13-18 months (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430115003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Education about toddler nutrition at 13-18 months (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Education about toddler nutrition at 13-18 months",
+          "lang": "en"
+        },
+        "id": "430115003"
+      }
+    },
+    {
+      "term": "Child examination at 18 months with explicit context (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "444473004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Child examination at 18 months with explicit context (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child examination at 18 months with explicit context",
+          "lang": "en"
+        },
+        "id": "444473004"
+      }
+    },
+    {
+      "term": "DreamSkin body suit 12-18 months (DreamSkin Health Ltd) 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17002311000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DreamSkin Silk body suit 12-18 months (Intelligent Fabric Technologies Plc) 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DreamSkin body suit 12-18 months (DreamSkin Health Ltd) 1 device",
+          "lang": "en"
+        },
+        "id": "17002311000001102"
+      }
+    },
+    {
+      "term": "DermaSilk leggings 18-24 months (Espere Healthcare Ltd) 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17816911000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DermaSilk leggings 18-24 months (Espere Healthcare Ltd) 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DermaSilk leggings 18-24 months (Espere Healthcare Ltd) 1 device",
+          "lang": "en"
+        },
+        "id": "17816911000001100"
+      }
+    },
+    {
+      "term": "DermaSilk leggings 12-18 months (Espere Healthcare Ltd) 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11705711000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DermaSilk leggings 12-18 months (Espere Healthcare Ltd) 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DermaSilk leggings 12-18 months (Espere Healthcare Ltd) 1 device",
+          "lang": "en"
+        },
+        "id": "11705711000001107"
+      }
+    },
+    {
+      "term": "skintoskin body suit winter 12-18 months Unbleached (Effjey Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "22717811000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "skintoskin body suit winter 12-18 months Unbleached (Effjey Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "skintoskin body suit winter 12-18 months Unbleached (Effjey Ltd)",
+          "lang": "en"
+        },
+        "id": "22717811000001106"
+      }
+    },
+    {
+      "term": "skintoskin body suit winter 18-24 months Unbleached (Effjey Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "22718211000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "skintoskin body suit winter 18-24 months Unbleached (Effjey Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "skintoskin body suit winter 18-24 months Unbleached (Effjey Ltd)",
+          "lang": "en"
+        },
+        "id": "22718211000001109"
+      }
+    },
+    {
+      "term": "DreamSkin body suit 18-24 months (DreamSkin Health Ltd) 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "20649211000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DreamSkin body suit 18-24 months (DreamSkin Health Ltd) 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DreamSkin body suit 18-24 months (DreamSkin Health Ltd) 1 device",
+          "lang": "en"
+        },
+        "id": "20649211000001108"
+      }
+    },
+    {
+      "term": "DermaSilk body suit 18-24 months (Espere Healthcare Ltd) 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17804411000001103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DermaSilk body suit 18-24 months (Espere Healthcare Ltd) 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DermaSilk body suit 18-24 months (Espere Healthcare Ltd) 1 device",
+          "lang": "en"
+        },
+        "id": "17804411000001103"
+      }
+    },
+    {
+      "term": "DermaSilk body suit 12-18 months (Espere Healthcare Ltd) 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11703911000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DermaSilk body suit 12-18 months (Espere Healthcare Ltd) 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DermaSilk body suit 12-18 months (Espere Healthcare Ltd) 1 device",
+          "lang": "en"
+        },
+        "id": "11703911000001108"
+      }
+    },
+    {
+      "term": "skintoskin babygrow 12-18 months Unbleached (Effjey Ltd) 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "22714611000001101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "skintoskin babygrow 12-18 months Unbleached (Effjey Ltd) 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "skintoskin babygrow 12-18 months Unbleached (Effjey Ltd) 1 device",
+          "lang": "en"
+        },
+        "id": "22714611000001101"
+      }
+    },
+    {
+      "term": "skintoskin babygrow 18-24 months Unbleached (Effjey Ltd) 1 device",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "22715211000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "skintoskin babygrow 18-24 months Unbleached (Effjey Ltd) 1 device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "skintoskin babygrow 18-24 months Unbleached (Effjey Ltd) 1 device",
+          "lang": "en"
+        },
+        "id": "22715211000001102"
+      }
+    },
+    {
+      "term": "skintoskin leggings with feet 12-18 months Unbleached (Effjey Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "22731311000001101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "skintoskin leggings with feet 12-18 months Unbleached (Effjey Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "skintoskin leggings with feet 12-18 months Unbleached (Effjey Ltd)",
+          "lang": "en"
+        },
+        "id": "22731311000001101"
+      }
+    },
+    {
+      "term": "skintoskin leggings with feet 18-24 months Unbleached (Effjey Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "22731711000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "skintoskin leggings with feet 18-24 months Unbleached (Effjey Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "skintoskin leggings with feet 18-24 months Unbleached (Effjey Ltd)",
+          "lang": "en"
+        },
+        "id": "22731711000001102"
+      }
+    },
+    {
+      "term": "DermaSilk leggings 18-24 months (Espere Healthcare Ltd) (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "17816711000001102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DermaSilk leggings 18-24 months (Espere Healthcare Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DermaSilk leggings 18-24 months (Espere Healthcare Ltd)",
+          "lang": "en"
+        },
+        "id": "17816711000001102"
+      }
+    },
+    {
+      "term": "DermaSilk leggings 12-18 months (Espere Healthcare Ltd) (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11705611000001103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "DermaSilk leggings 12-18 months (Espere Healthcare Ltd) (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DermaSilk leggings 12-18 months (Espere Healthcare Ltd)",
+          "lang": "en"
+        },
+        "id": "11705611000001103"
+      }
+    }
+  ]
+}

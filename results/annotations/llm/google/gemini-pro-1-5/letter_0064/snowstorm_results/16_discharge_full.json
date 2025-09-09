@@ -1,0 +1,1751 @@
+{
+  "buckets": {
+    "module": {
+      "999000021000000109": 4,
+      "999000011000001104": 28,
+      "999000011000000103": 408,
+      "900000000000207008": 1419
+    },
+    "semanticTags": {
+      "regime/therapy": 8,
+      "occupation": 1,
+      "assessment scale": 2,
+      "substance": 8,
+      "observable entity": 21,
+      "procedure": 449,
+      "finding": 180,
+      "physical force": 1,
+      "qualifier value": 5,
+      "foundation metadata concept": 2,
+      "disorder": 38,
+      "environment": 1,
+      "physical object": 14,
+      "specimen": 6,
+      "morphologic abnormality": 9,
+      "event": 2,
+      "record artifact": 37,
+      "situation": 23
+    },
+    "language": {
+      "en": 1859
+    },
+    "membership": {
+      "1322291000000109": 792,
+      "999004331000000102": 11,
+      "999003161000000108": 9,
+      "1127551000000109": 37,
+      "991401000000107": 2,
+      "999002271000000101": 197,
+      "2222191000000108": 3,
+      "2222231000000104": 1,
+      "991471000000104": 1,
+      "991281000000103": 1,
+      "999002571000000104": 9,
+      "900000000000497000": 610,
+      "991241000000106": 1,
+      "999003071000000100": 1,
+      "999001471000000108": 1,
+      "1382401000000109": 2,
+      "991411000000109": 1,
+      "1127601000000107": 234,
+      "1382531000000102": 23,
+      "999000031000001105": 14,
+      "999002531000000101": 1,
+      "999000561000001109": 1,
+      "2181171000000109": 1,
+      "999001571000000109": 1,
+      "900000000000489007": 15,
+      "1323321000000109": 1,
+      "999000401000000107": 14,
+      "2222161000000102": 2,
+      "991441000000105": 1,
+      "999002051000000100": 1,
+      "733073007": 793,
+      "999004381000000103": 4,
+      "999003011000000105": 15,
+      "999000571000001104": 13,
+      "900000000000456007": 2,
+      "999003141000000107": 9,
+      "30931000001101": 8
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "991401000000107": {
+      "conceptId": "991401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care presenting complaints or issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care presenting complaints or issues simple reference set",
+        "lang": "en"
+      },
+      "id": "991401000000107"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2222231000000104": {
+      "conceptId": "2222231000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric safeguarding issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric safeguarding issues simple reference set",
+        "lang": "en"
+      },
+      "id": "2222231000000104"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "991471000000104": {
+      "conceptId": "991471000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental health assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental health assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "991471000000104"
+    },
+    "991281000000103": {
+      "conceptId": "991281000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care mechanism of injury simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care mechanism of injury simple reference set",
+        "lang": "en"
+      },
+      "id": "991281000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999000021000000109": {
+      "conceptId": "999000021000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension reference set module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension reference set module",
+        "lang": "en"
+      },
+      "id": "999000021000000109"
+    },
+    "991241000000106": {
+      "conceptId": "991241000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care notification to general practitioner simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care notification to general practitioner simple reference set",
+        "lang": "en"
+      },
+      "id": "991241000000106"
+    },
+    "999003071000000100": {
+      "conceptId": "999003071000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mental Health Act legal status findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mental Health Act legal status findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999003071000000100"
+    },
+    "999001471000000108": {
+      "conceptId": "999001471000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Care plan type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Care plan type simple reference set",
+        "lang": "en"
+      },
+      "id": "999001471000000108"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999002531000000101": {
+      "conceptId": "999002531000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Wound integrity findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Wound integrity findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002531000000101"
+    },
+    "999000561000001109": {
+      "conceptId": "999000561000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000561000001109"
+    },
+    "2181171000000109": {
+      "conceptId": "2181171000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric gastrointestinal and nutrition findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181171000000109"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1323321000000109": {
+      "conceptId": "1323321000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323321000000109"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "991441000000105": {
+      "conceptId": "991441000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care follow-up procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care follow-up procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991441000000105"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "999000571000001104": {
+      "conceptId": "999000571000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000571000001104"
+    },
+    "999003011000000105": {
+      "conceptId": "999003011000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care discharge destination simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care discharge destination simple reference set",
+        "lang": "en"
+      },
+      "id": "999003011000000105"
+    },
+    "900000000000456007": {
+      "conceptId": "900000000000456007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Reference set descriptor reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Reference set descriptor",
+        "lang": "en"
+      },
+      "id": "900000000000456007"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 1859,
+  "totalPages": 38,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "75823008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge",
+          "lang": "en"
+        },
+        "id": "75823008"
+      }
+    },
+    {
+      "term": "Discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "258439008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge specimen (specimen)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge specimen",
+          "lang": "en"
+        },
+        "id": "258439008"
+      }
+    },
+    {
+      "term": "Discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307488001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge - substance (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge - substance",
+          "lang": "en"
+        },
+        "id": "307488001"
+      }
+    },
+    {
+      "term": "Ear discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300132001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ear discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ear discharge",
+          "lang": "en"
+        },
+        "id": "300132001"
+      }
+    },
+    {
+      "term": "Discharge zone",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63624000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge zone, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge zone",
+          "lang": "en"
+        },
+        "id": "63624000"
+      }
+    },
+    {
+      "term": "Anal discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249661007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge from anus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge from anus",
+          "lang": "en"
+        },
+        "id": "249661007"
+      }
+    },
+    {
+      "term": "Dx - Discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "258439008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge specimen (specimen)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge specimen",
+          "lang": "en"
+        },
+        "id": "258439008"
+      }
+    },
+    {
+      "term": "Dx - Discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307488001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge - substance (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge - substance",
+          "lang": "en"
+        },
+        "id": "307488001"
+      }
+    },
+    {
+      "term": "Self-discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306560001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Self-discharge (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Self-discharge",
+          "lang": "en"
+        },
+        "id": "306560001"
+      }
+    },
+    {
+      "term": "Skin discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297970000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Skin discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Skin discharge",
+          "lang": "en"
+        },
+        "id": "297970000"
+      }
+    },
+    {
+      "term": "Nasal discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64531003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nasal discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nasal discharge",
+          "lang": "en"
+        },
+        "id": "64531003"
+      }
+    },
+    {
+      "term": "Mucus discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63129006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mucus discharge (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mucus discharge",
+          "lang": "en"
+        },
+        "id": "63129006"
+      }
+    },
+    {
+      "term": "Wound discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "239164002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wound discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wound discharge",
+          "lang": "en"
+        },
+        "id": "239164002"
+      }
+    },
+    {
+      "term": "Discharge ready",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430567009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ready for discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ready for discharge",
+          "lang": "en"
+        },
+        "id": "430567009"
+      }
+    },
+    {
+      "term": "Wound discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "763285000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wound discharge observable (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wound discharge observable",
+          "lang": "en"
+        },
+        "id": "763285000"
+      }
+    },
+    {
+      "term": "Bloody discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91369002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bloody discharge (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bloody discharge",
+          "lang": "en"
+        },
+        "id": "91369002"
+      }
+    },
+    {
+      "term": "Discharge of ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "65668001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Otorrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Otorrhea",
+          "lang": "en"
+        },
+        "id": "65668001"
+      }
+    },
+    {
+      "term": "Mucoid discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63129006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mucus discharge (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mucus discharge",
+          "lang": "en"
+        },
+        "id": "63129006"
+      }
+    },
+    {
+      "term": "Mucous discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307489009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mucous discharge (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mucous discharge",
+          "lang": "en"
+        },
+        "id": "307489009"
+      }
+    },
+    {
+      "term": "Serous discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307490000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Serous discharge (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Serous discharge",
+          "lang": "en"
+        },
+        "id": "307490000"
+      }
+    },
+    {
+      "term": "Bloody discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307493003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bloody discharge (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bloody discharge",
+          "lang": "en"
+        },
+        "id": "307493003"
+      }
+    },
+    {
+      "term": "Discharge status",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309039003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge status (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge status",
+          "lang": "en"
+        },
+        "id": "309039003"
+      }
+    },
+    {
+      "term": "Rectal discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278851001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rectal discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rectal discharge",
+          "lang": "en"
+        },
+        "id": "278851001"
+      }
+    },
+    {
+      "term": "Discharge by CPN",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306513009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge by community psychiatric nurse (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge by community psychiatric nurse",
+          "lang": "en"
+        },
+        "id": "306513009"
+      }
+    },
+    {
+      "term": "No eye discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301909009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No eye discharge (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No eye discharge",
+          "lang": "en"
+        },
+        "id": "301909009"
+      }
+    },
+    {
+      "term": "No ear discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162363005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No ear discharge (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No ear discharge",
+          "lang": "en"
+        },
+        "id": "162363005"
+      }
+    },
+    {
+      "term": "Mucoid discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "421284002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mucoid discharge (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mucoid discharge",
+          "lang": "en"
+        },
+        "id": "421284002"
+      }
+    },
+    {
+      "term": "Discharge report",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "25571000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Discharge report (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge report",
+          "lang": "en"
+        },
+        "id": "25571000000103"
+      }
+    },
+    {
+      "term": "Breast discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271941007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge from breast (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge from breast",
+          "lang": "en"
+        },
+        "id": "271941007"
+      }
+    },
+    {
+      "term": "Discharge letter",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "823701000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Discharge letter (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge letter",
+          "lang": "en"
+        },
+        "id": "823701000000103"
+      }
+    },
+    {
+      "term": "Patient discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "58000006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Patient discharge (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Patient discharge",
+          "lang": "en"
+        },
+        "id": "58000006"
+      }
+    },
+    {
+      "term": "Vaginal discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271939006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vaginal discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vaginal discharge",
+          "lang": "en"
+        },
+        "id": "271939006"
+      }
+    },
+    {
+      "term": "Has eye discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267092007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Has eye discharge (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has eye discharge",
+          "lang": "en"
+        },
+        "id": "267092007"
+      }
+    },
+    {
+      "term": "Discharge to ward",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306706006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge to ward (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge to ward",
+          "lang": "en"
+        },
+        "id": "306706006"
+      }
+    },
+    {
+      "term": "Discharge summary",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373942005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge summary (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge summary",
+          "lang": "en"
+        },
+        "id": "373942005"
+      }
+    },
+    {
+      "term": "Date of discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442864001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Date of discharge (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Date of discharge",
+          "lang": "en"
+        },
+        "id": "442864001"
+      }
+    },
+    {
+      "term": "Discharge to home",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306689006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge to home (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge to home",
+          "lang": "en"
+        },
+        "id": "306689006"
+      }
+    },
+    {
+      "term": "Discharge details",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "886811000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Discharge details (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge details",
+          "lang": "en"
+        },
+        "id": "886811000000106"
+      }
+    },
+    {
+      "term": "Urethral discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9957009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urethral discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urethral discharge",
+          "lang": "en"
+        },
+        "id": "9957009"
+      }
+    },
+    {
+      "term": "Cervical discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20036005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cervical discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cervical discharge",
+          "lang": "en"
+        },
+        "id": "20036005"
+      }
+    },
+    {
+      "term": "Purulent discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35013009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Purulent discharge (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Purulent discharge",
+          "lang": "en"
+        },
+        "id": "35013009"
+      }
+    },
+    {
+      "term": "Discharge from eye",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "246679005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge from eye (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge from eye",
+          "lang": "en"
+        },
+        "id": "246679005"
+      }
+    },
+    {
+      "term": "Purulent discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307491001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Purulent discharge (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Purulent discharge",
+          "lang": "en"
+        },
+        "id": "307491001"
+      }
+    },
+    {
+      "term": "Discharge by nurse",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306492003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge by nurse (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge by nurse",
+          "lang": "en"
+        },
+        "id": "306492003"
+      }
+    },
+    {
+      "term": "Electric discharge",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "285646004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Electric discharge (physical force)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Electric discharge",
+          "lang": "en"
+        },
+        "id": "285646004"
+      }
+    },
+    {
+      "term": "Discharge from ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162364004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ear discharge present (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ear discharge present",
+          "lang": "en"
+        },
+        "id": "162364004"
+      }
+    },
+    {
+      "term": "Discharge - action",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129274004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge - action (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge - action",
+          "lang": "en"
+        },
+        "id": "129274004"
+      }
+    },
+    {
+      "term": "Discharge planning",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371754007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge planning (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge planning",
+          "lang": "en"
+        },
+        "id": "371754007"
+      }
+    },
+    {
+      "term": "Discharge from ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300132001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ear discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ear discharge",
+          "lang": "en"
+        },
+        "id": "300132001"
+      }
+    },
+    {
+      "term": "Discharge specimen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "258439008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharge specimen (specimen)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge specimen",
+          "lang": "en"
+        },
+        "id": "258439008"
+      }
+    }
+  ]
+}

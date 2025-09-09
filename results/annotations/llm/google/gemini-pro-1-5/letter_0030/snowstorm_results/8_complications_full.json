@@ -1,0 +1,1371 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 6,
+      "900000000000207008": 152
+    },
+    "semanticTags": {
+      "regime/therapy": 4,
+      "disorder": 72,
+      "assessment scale": 1,
+      "observable entity": 2,
+      "procedure": 6,
+      "finding": 2
+    },
+    "language": {
+      "en": 158
+    },
+    "membership": {
+      "1322291000000109": 87,
+      "991411000000109": 2,
+      "1127601000000107": 74,
+      "1382531000000102": 52,
+      "999003201000000100": 2,
+      "2181161000000102": 1,
+      "999003161000000108": 1,
+      "1955841000000104": 1,
+      "999002271000000101": 191,
+      "900000000000489007": 1,
+      "999004371000000100": 1,
+      "900000000000497000": 84,
+      "733073007": 87,
+      "999001761000000108": 1,
+      "999002881000000100": 2,
+      "2222181000000106": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2181161000000102": {
+      "conceptId": "2181161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric eyes and vision disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric eyes and vision disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181161000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "1955841000000104": {
+      "conceptId": "1955841000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Health Service secondary use data exclusions due to Human Fertilisation and Embryology Act 2008 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS secondary use data exclusions due to Human Fertilisation and Embryology Act 2008 simple reference set",
+        "lang": "en"
+      },
+      "id": "1955841000000104"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999004371000000100": {
+      "conceptId": "999004371000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for assisted fertilisation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for assisted fertilisation simple reference set",
+        "lang": "en"
+      },
+      "id": "999004371000000100"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "2222181000000106": {
+      "conceptId": "2222181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric infectious disease disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric infectious disease disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222181000000106"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    }
+  },
+  "totalElements": 158,
+  "totalPages": 4,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Line complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398158001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Complication of intravascular line (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Complication of intravascular line",
+          "lang": "en"
+        },
+        "id": "398158001"
+      }
+    },
+    {
+      "term": "Catheter complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73862001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Complication of catheter (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Complication of catheter",
+          "lang": "en"
+        },
+        "id": "73862001"
+      }
+    },
+    {
+      "term": "Early trauma complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "22564003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early complication of trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early complication of trauma",
+          "lang": "en"
+        },
+        "id": "22564003"
+      }
+    },
+    {
+      "term": "Urinary complications of care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213235004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urinary complications of care (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urinary complications of care",
+          "lang": "en"
+        },
+        "id": "213235004"
+      }
+    },
+    {
+      "term": "Detecting complications early",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225957000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Detecting complications early (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Detecting complications early",
+          "lang": "en"
+        },
+        "id": "225957000"
+      }
+    },
+    {
+      "term": "Cardiac complications of care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40172005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiac complication (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiac complication",
+          "lang": "en"
+        },
+        "id": "40172005"
+      }
+    },
+    {
+      "term": "Lepromatous skin complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "240406000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lepromatous skin complications (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lepromatous skin complications",
+          "lang": "en"
+        },
+        "id": "240406000"
+      }
+    },
+    {
+      "term": "Complications of the puerperium",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80113008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Complication of the puerperium (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Complication of the puerperium",
+          "lang": "en"
+        },
+        "id": "80113008"
+      }
+    },
+    {
+      "term": "Respiratory complications of care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213222008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Respiratory complications of care (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Respiratory complications of care",
+          "lang": "en"
+        },
+        "id": "213222008"
+      }
+    },
+    {
+      "term": "Reattached extremity complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213155008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Reattached extremity complications (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reattached extremity complications",
+          "lang": "en"
+        },
+        "id": "213155008"
+      }
+    },
+    {
+      "term": "Fear of complications of pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "717696001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fear of complications of pregnancy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fear of complications of pregnancy",
+          "lang": "en"
+        },
+        "id": "717696001"
+      }
+    },
+    {
+      "term": "Prosthesis (internal) complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "69260008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Complication of internal prosthetic device (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Complication of internal prosthetic device",
+          "lang": "en"
+        },
+        "id": "69260008"
+      }
+    },
+    {
+      "term": "Education about stoma complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "710892004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Education about stoma complications (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Education about stoma complications",
+          "lang": "en"
+        },
+        "id": "710892004"
+      }
+    },
+    {
+      "term": "Acute mastoiditis with complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111538005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute mastoiditis with complication (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute mastoiditis with complication",
+          "lang": "en"
+        },
+        "id": "111538005"
+      }
+    },
+    {
+      "term": "Measles with intestinal complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "186562009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Disorder of intestine due to measles (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Disorder of intestine due to measles",
+          "lang": "en"
+        },
+        "id": "186562009"
+      }
+    },
+    {
+      "term": "Late effect of complications of trauma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111733004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Late effect of complications of trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Late effect of complications of trauma",
+          "lang": "en"
+        },
+        "id": "111733004"
+      }
+    },
+    {
+      "term": "Gastrointestinal complications of care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213227002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastrointestinal complications of care (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gastrointestinal complications of care",
+          "lang": "en"
+        },
+        "id": "213227002"
+      }
+    },
+    {
+      "term": "Ascariasis with intestinal complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "187171000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ascariasis with intestinal complications (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ascariasis with intestinal complications",
+          "lang": "en"
+        },
+        "id": "187171000"
+      }
+    },
+    {
+      "term": "HD - Acute complications of hemodialysis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236538004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute disorder of hemodialysis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute disorder of hemodialysis",
+          "lang": "en"
+        },
+        "id": "236538004"
+      }
+    },
+    {
+      "term": "Urinary complications of care (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213235004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urinary complications of care (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urinary complications of care",
+          "lang": "en"
+        },
+        "id": "213235004"
+      }
+    },
+    {
+      "term": "HD - Acute complications of haemodialysis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236538004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute disorder of hemodialysis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute disorder of hemodialysis",
+          "lang": "en"
+        },
+        "id": "236538004"
+      }
+    },
+    {
+      "term": "Peripheral vascular complications of care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213217008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Peripheral vascular complications of care (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Peripheral vascular complications of care",
+          "lang": "en"
+        },
+        "id": "213217008"
+      }
+    },
+    {
+      "term": "Detecting complications early (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225957000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Detecting complications early (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Detecting complications early",
+          "lang": "en"
+        },
+        "id": "225957000"
+      }
+    },
+    {
+      "term": "Lepromatous skin complications (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "240406000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lepromatous skin complications (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lepromatous skin complications",
+          "lang": "en"
+        },
+        "id": "240406000"
+      }
+    },
+    {
+      "term": "Simple repair of hypospadias complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49304007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Simple repair of hypospadias complications (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Simple repair of hypospadias complications",
+          "lang": "en"
+        },
+        "id": "49304007"
+      }
+    },
+    {
+      "term": "Herpes zoster with ophthalmic complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87513003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Herpes zoster ophthalmicus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Herpes zoster ophthalmicus",
+          "lang": "en"
+        },
+        "id": "87513003"
+      }
+    },
+    {
+      "term": "Complications specific to multiple gestation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "199305006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Complications specific to multiple gestation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Complications specific to multiple gestation",
+          "lang": "en"
+        },
+        "id": "199305006"
+      }
+    },
+    {
+      "term": "Central nervous system complications of care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213207003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Central nervous system complications of care (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Central nervous system complications of care",
+          "lang": "en"
+        },
+        "id": "213207003"
+      }
+    },
+    {
+      "term": "Respiratory complications of care (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213222008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Respiratory complications of care (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Respiratory complications of care",
+          "lang": "en"
+        },
+        "id": "213222008"
+      }
+    },
+    {
+      "term": "Fear of complications of pregnancy (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "717696001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fear of complications of pregnancy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fear of complications of pregnancy",
+          "lang": "en"
+        },
+        "id": "717696001"
+      }
+    },
+    {
+      "term": "Reattached extremity complications (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213155008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Reattached extremity complications (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reattached extremity complications",
+          "lang": "en"
+        },
+        "id": "213155008"
+      }
+    },
+    {
+      "term": "Education about peristomal skin complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "710682005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Education about peristomal skin complications (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Education about peristomal skin complications",
+          "lang": "en"
+        },
+        "id": "710682005"
+      }
+    },
+    {
+      "term": "Diabetes mellitus with multiple complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "385041000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Diabetes mellitus with multiple complications (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes mellitus with multiple complications",
+          "lang": "en"
+        },
+        "id": "385041000000108"
+      }
+    },
+    {
+      "term": "Obstetric anesthesia with cardiac complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "200054002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstetric anesthesia with cardiac complications (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstetric anesthesia with cardiac complications",
+          "lang": "en"
+        },
+        "id": "200054002"
+      }
+    },
+    {
+      "term": "Education about stoma complications (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "710892004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Education about stoma complications (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Education about stoma complications",
+          "lang": "en"
+        },
+        "id": "710892004"
+      }
+    },
+    {
+      "term": "Obstetric anaesthesia with cardiac complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "200054002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstetric anesthesia with cardiac complications (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstetric anesthesia with cardiac complications",
+          "lang": "en"
+        },
+        "id": "200054002"
+      }
+    },
+    {
+      "term": "Obstetric anesthesia with pulmonary complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267276009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstetric anesthesia with pulmonary complications (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstetric anesthesia with pulmonary complications",
+          "lang": "en"
+        },
+        "id": "267276009"
+      }
+    },
+    {
+      "term": "Late effect of complications of trauma (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111733004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Late effect of complications of trauma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Late effect of complications of trauma",
+          "lang": "en"
+        },
+        "id": "111733004"
+      }
+    },
+    {
+      "term": "Gastrointestinal complications of care (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213227002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gastrointestinal complications of care (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gastrointestinal complications of care",
+          "lang": "en"
+        },
+        "id": "213227002"
+      }
+    },
+    {
+      "term": "Obstetric anaesthesia with pulmonary complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "267276009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstetric anesthesia with pulmonary complications (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstetric anesthesia with pulmonary complications",
+          "lang": "en"
+        },
+        "id": "267276009"
+      }
+    },
+    {
+      "term": "Ascariasis with intestinal complications (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "187171000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ascariasis with intestinal complications (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ascariasis with intestinal complications",
+          "lang": "en"
+        },
+        "id": "187171000"
+      }
+    },
+    {
+      "term": "Peripheral vascular complications of care (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213217008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Peripheral vascular complications of care (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Peripheral vascular complications of care",
+          "lang": "en"
+        },
+        "id": "213217008"
+      }
+    },
+    {
+      "term": "Complications of anesthesia during labor and delivery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "200046004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Complications of anesthesia during labor and delivery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Complications of anesthesia during labor and delivery",
+          "lang": "en"
+        },
+        "id": "200046004"
+      }
+    },
+    {
+      "term": "Simple repair of hypospadias complications (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49304007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Simple repair of hypospadias complications (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Simple repair of hypospadias complications",
+          "lang": "en"
+        },
+        "id": "49304007"
+      }
+    },
+    {
+      "term": "Clavien-Dindo classification of surgical complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "789278003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Clavien-Dindo complication scale (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Clavien-Dindo complication scale",
+          "lang": "en"
+        },
+        "id": "789278003"
+      }
+    },
+    {
+      "term": "Complications of anaesthesia during labour and delivery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "200046004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Complications of anesthesia during labor and delivery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Complications of anesthesia during labor and delivery",
+          "lang": "en"
+        },
+        "id": "200046004"
+      }
+    },
+    {
+      "term": "Physiotherapy for prevention of pulmonary complications",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "182725006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physiotherapy for prevention of pulmonary complications (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physiotherapy for prevention of pulmonary complications",
+          "lang": "en"
+        },
+        "id": "182725006"
+      }
+    },
+    {
+      "term": "Complications specific to multiple gestation (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "199305006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Complications specific to multiple gestation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Complications specific to multiple gestation",
+          "lang": "en"
+        },
+        "id": "199305006"
+      }
+    },
+    {
+      "term": "Central nervous system complications of care (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213207003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Central nervous system complications of care (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Central nervous system complications of care",
+          "lang": "en"
+        },
+        "id": "213207003"
+      }
+    },
+    {
+      "term": "Diabetes mellitus with multiple complications (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "385041000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Diabetes mellitus with multiple complications (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes mellitus with multiple complications",
+          "lang": "en"
+        },
+        "id": "385041000000108"
+      }
+    }
+  ]
+}

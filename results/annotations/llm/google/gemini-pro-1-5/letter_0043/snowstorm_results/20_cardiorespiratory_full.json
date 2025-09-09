@@ -1,0 +1,876 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2,
+      "900000000000207008": 29
+    },
+    "semanticTags": {
+      "disorder": 11,
+      "occupation": 1,
+      "procedure": 1,
+      "finding": 1,
+      "situation": 1,
+      "qualifier value": 1
+    },
+    "language": {
+      "en": 31
+    },
+    "membership": {
+      "1322291000000109": 16,
+      "1127601000000107": 13,
+      "1382531000000102": 9,
+      "900000000000497000": 15,
+      "999002271000000101": 25,
+      "733073007": 16,
+      "2222221000000101": 1,
+      "999001571000000109": 1,
+      "2181141000000103": 1,
+      "900000000000489007": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2222221000000101": {
+      "conceptId": "2222221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric perinatal and neonatal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric perinatal and neonatal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222221000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "2181141000000103": {
+      "conceptId": "2181141000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric cardiovascular disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric cardiovascular disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181141000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 31,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 31,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Cardiorespiratory murmur",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248701005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory murmur (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory murmur",
+          "lang": "en"
+        },
+        "id": "248701005"
+      }
+    },
+    {
+      "term": "Cardiorespiratory arrest",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410430005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory arrest (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory arrest",
+          "lang": "en"
+        },
+        "id": "410430005"
+      }
+    },
+    {
+      "term": "Cardiorespiratory failure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410431009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory failure (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory failure",
+          "lang": "en"
+        },
+        "id": "410431009"
+      }
+    },
+    {
+      "term": "No cardiorespiratory activity",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "810741000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "No cardiorespiratory activity (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No cardiorespiratory activity",
+          "lang": "en"
+        },
+        "id": "810741000000101"
+      }
+    },
+    {
+      "term": "Neonatal cardiorespiratory arrest",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "181869007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal cardiorespiratory arrest (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal cardiorespiratory arrest",
+          "lang": "en"
+        },
+        "id": "181869007"
+      }
+    },
+    {
+      "term": "Cardiorespiratory physiotherapist",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1304209009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory physiotherapist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory physiotherapist",
+          "lang": "en"
+        },
+        "id": "1304209009"
+      }
+    },
+    {
+      "term": "Post-cardiorespiratory arrest coma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275470000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-cardiorespiratory arrest coma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-cardiorespiratory arrest coma",
+          "lang": "en"
+        },
+        "id": "275470000"
+      }
+    },
+    {
+      "term": "Cardiorespiratory murmur (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248701005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory murmur (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory murmur",
+          "lang": "en"
+        },
+        "id": "248701005"
+      }
+    },
+    {
+      "term": "Cardiorespiratory arrest (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410430005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory arrest (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory arrest",
+          "lang": "en"
+        },
+        "id": "410430005"
+      }
+    },
+    {
+      "term": "Cardiorespiratory failure (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "410431009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory failure (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory failure",
+          "lang": "en"
+        },
+        "id": "410431009"
+      }
+    },
+    {
+      "term": "Physiotherapist in cardiorespiratory",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1304209009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory physiotherapist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory physiotherapist",
+          "lang": "en"
+        },
+        "id": "1304209009"
+      }
+    },
+    {
+      "term": "Management of cardiorespiratory arrest",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "386240008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiopulmonary resuscitation management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiopulmonary resuscitation management",
+          "lang": "en"
+        },
+        "id": "386240008"
+      }
+    },
+    {
+      "term": "Intraoperative cardiorespiratory arrest",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "713419002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intraoperative cardiorespiratory arrest (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intraoperative cardiorespiratory arrest",
+          "lang": "en"
+        },
+        "id": "713419002"
+      }
+    },
+    {
+      "term": "No cardiorespiratory activity (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "810741000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "No cardiorespiratory activity (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No cardiorespiratory activity",
+          "lang": "en"
+        },
+        "id": "810741000000101"
+      }
+    },
+    {
+      "term": "Cardiorespiratory physiotherapy speciality",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303860007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory physical therapy specialty (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory physical therapy specialty",
+          "lang": "en"
+        },
+        "id": "1303860007"
+      }
+    },
+    {
+      "term": "Neonatal cardiorespiratory arrest (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "181869007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal cardiorespiratory arrest (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal cardiorespiratory arrest",
+          "lang": "en"
+        },
+        "id": "181869007"
+      }
+    },
+    {
+      "term": "Cardiorespiratory physical therapy specialty",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303860007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory physical therapy specialty (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory physical therapy specialty",
+          "lang": "en"
+        },
+        "id": "1303860007"
+      }
+    },
+    {
+      "term": "Post-cardiorespiratory arrest coma (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275470000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Post-cardiorespiratory arrest coma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-cardiorespiratory arrest coma",
+          "lang": "en"
+        },
+        "id": "275470000"
+      }
+    },
+    {
+      "term": "Cardiorespiratory distress syndrome of newborn",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46775006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Respiratory distress syndrome in the newborn (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Respiratory distress syndrome in the newborn",
+          "lang": "en"
+        },
+        "id": "46775006"
+      }
+    },
+    {
+      "term": "Cardiorespiratory physiotherapist (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1304209009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory physiotherapist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory physiotherapist",
+          "lang": "en"
+        },
+        "id": "1304209009"
+      }
+    },
+    {
+      "term": "Intraoperative cardiorespiratory arrest (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "713419002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intraoperative cardiorespiratory arrest (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intraoperative cardiorespiratory arrest",
+          "lang": "en"
+        },
+        "id": "713419002"
+      }
+    },
+    {
+      "term": "Cardiorespiratory failure as a complication of care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213215000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory failure as a complication of care (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory failure as a complication of care",
+          "lang": "en"
+        },
+        "id": "213215000"
+      }
+    },
+    {
+      "term": "Cardiorespiratory arrest with successful resuscitation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "699748007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory arrest with successful resuscitation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory arrest with successful resuscitation",
+          "lang": "en"
+        },
+        "id": "699748007"
+      }
+    },
+    {
+      "term": "A specialist physiotherapist in cardiorespiratory conditions.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1304209009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory physiotherapist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory physiotherapist",
+          "lang": "en"
+        },
+        "id": "1304209009"
+      }
+    },
+    {
+      "term": "Cardiorespiratory failure as a complication of care (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "213215000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory failure as a complication of care (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory failure as a complication of care",
+          "lang": "en"
+        },
+        "id": "213215000"
+      }
+    },
+    {
+      "term": "Cardiorespiratory physical therapy specialty (qualifier value)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303860007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory physical therapy specialty (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory physical therapy specialty",
+          "lang": "en"
+        },
+        "id": "1303860007"
+      }
+    },
+    {
+      "term": "Cardiorespiratory arrest with successful resuscitation (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "699748007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory arrest with successful resuscitation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory arrest with successful resuscitation",
+          "lang": "en"
+        },
+        "id": "699748007"
+      }
+    },
+    {
+      "term": "Cardiorespiratory failure during AND/OR resulting from a procedure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "24841007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory failure during AND/OR resulting from a procedure (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory failure during AND/OR resulting from a procedure",
+          "lang": "en"
+        },
+        "id": "24841007"
+      }
+    },
+    {
+      "term": "Cardiorespiratory failure during AND/OR resulting from a procedure (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "24841007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiorespiratory failure during AND/OR resulting from a procedure (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiorespiratory failure during AND/OR resulting from a procedure",
+          "lang": "en"
+        },
+        "id": "24841007"
+      }
+    },
+    {
+      "term": "Cardiorespiratory and neurological depression at birth with Apgar score 5 minute Apgar score 4-6",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722936006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Birth asphyxia with Apgar score 5 minute Apgar score 4-6 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Birth asphyxia with Apgar score 5 minute Apgar score 4-6",
+          "lang": "en"
+        },
+        "id": "722936006"
+      }
+    },
+    {
+      "term": "An extremely rare type of short rib polydactyly syndrome with neonatal onset. The disease has characteristics of polydactyly, hydropic appearance, and small thorax with short horizontal ribs causing fatal cardiorespiratory distress. Affected patients also have extreme micromelia (flipper-like extremities), pointed metaphyses and a range of other ossification defects. Extraskeletal manifestations may include polycystic kidneys, transposition of the great vessels and atresia of the gastrointestinal and genitourinary systems.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "726032008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Short rib polydactyly syndrome type I (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Short rib polydactyly syndrome Saldino Noonan type",
+          "lang": "en"
+        },
+        "id": "726032008"
+      }
+    }
+  ]
+}

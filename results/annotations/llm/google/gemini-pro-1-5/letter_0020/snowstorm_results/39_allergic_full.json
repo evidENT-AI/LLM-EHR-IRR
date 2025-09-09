@@ -1,0 +1,1470 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 5,
+      "900000000000207008": 918
+    },
+    "semanticTags": {
+      "regime/therapy": 4,
+      "disorder": 330,
+      "assessment scale": 1,
+      "morphologic abnormality": 1,
+      "observable entity": 3,
+      "procedure": 5,
+      "finding": 47,
+      "situation": 5,
+      "qualifier value": 9
+    },
+    "language": {
+      "en": 923
+    },
+    "membership": {
+      "1322291000000109": 396,
+      "991411000000109": 5,
+      "1127601000000107": 379,
+      "1382531000000102": 196,
+      "2181161000000102": 1,
+      "999001871000000106": 1,
+      "2181241000000108": 3,
+      "2181221000000101": 2,
+      "999003091000000101": 1,
+      "999002271000000101": 576,
+      "999001061000000106": 1,
+      "900000000000489007": 2,
+      "1323321000000109": 1,
+      "2222161000000102": 2,
+      "999002571000000104": 4,
+      "900000000000497000": 402,
+      "733073007": 415,
+      "999001761000000108": 1,
+      "2170881000000102": 15,
+      "1382401000000109": 1,
+      "999001751000000105": 1,
+      "999003141000000107": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2181161000000102": {
+      "conceptId": "2181161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric eyes and vision disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric eyes and vision disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181161000000102"
+    },
+    "999001871000000106": {
+      "conceptId": "999001871000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Respiratory medicine diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Respiratory medicine diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001871000000106"
+    },
+    "2181241000000108": {
+      "conceptId": "2181241000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric skin and dental disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric skin and dental disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181241000000108"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1323321000000109": {
+      "conceptId": "1323321000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323321000000109"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "2170881000000102": {
+      "conceptId": "2170881000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric allergy and immunology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric allergy and immunology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2170881000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 923,
+  "totalPages": 19,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Allergic cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300959008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic cough",
+          "lang": "en"
+        },
+        "id": "300959008"
+      }
+    },
+    {
+      "term": "Allergic facies",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248198001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic facies (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic facies",
+          "lang": "en"
+        },
+        "id": "248198001"
+      }
+    },
+    {
+      "term": "Allergic asthma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "389145006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic asthma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic asthma",
+          "lang": "en"
+        },
+        "id": "389145006"
+      }
+    },
+    {
+      "term": "Allergic colitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30304000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic colitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic colitis",
+          "lang": "en"
+        },
+        "id": "30304000"
+      }
+    },
+    {
+      "term": "Allergic ileitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "32295003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic ileitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic ileitis",
+          "lang": "en"
+        },
+        "id": "32295003"
+      }
+    },
+    {
+      "term": "Allergic process",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "472964009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic process (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic process",
+          "lang": "en"
+        },
+        "id": "472964009"
+      }
+    },
+    {
+      "term": "Allergic headache",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4448006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic headache (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic headache",
+          "lang": "en"
+        },
+        "id": "4448006"
+      }
+    },
+    {
+      "term": "Allergic vulvitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "22775002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic vulvitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic vulvitis",
+          "lang": "en"
+        },
+        "id": "22775002"
+      }
+    },
+    {
+      "term": "Allergic diarrhea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49237006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic diarrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic diarrhea",
+          "lang": "en"
+        },
+        "id": "49237006"
+      }
+    },
+    {
+      "term": "Allergic rhinitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "61582004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic rhinitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic rhinitis",
+          "lang": "en"
+        },
+        "id": "61582004"
+      }
+    },
+    {
+      "term": "Allergic migraine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "145611000119107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic migraine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic migraine",
+          "lang": "en"
+        },
+        "id": "145611000119107"
+      }
+    },
+    {
+      "term": "Allergic reaction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419076005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction",
+          "lang": "en"
+        },
+        "id": "419076005"
+      }
+    },
+    {
+      "term": "Allergic disorder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "781474001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic disorder",
+          "lang": "en"
+        },
+        "id": "781474001"
+      }
+    },
+    {
+      "term": "Allergic arthritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16935003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic arthritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic arthritis",
+          "lang": "en"
+        },
+        "id": "16935003"
+      }
+    },
+    {
+      "term": "Allergic enteritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "22231002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic inflammation of intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic enteritis of intestine",
+          "lang": "en"
+        },
+        "id": "22231002"
+      }
+    },
+    {
+      "term": "Allergic gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1824008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic gastritis",
+          "lang": "en"
+        },
+        "id": "1824008"
+      }
+    },
+    {
+      "term": "Allergic granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111006009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypersensitivity granuloma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypersensitivity granuloma",
+          "lang": "en"
+        },
+        "id": "111006009"
+      }
+    },
+    {
+      "term": "Allergic urticaria",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40178009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic urticaria (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic urticaria",
+          "lang": "en"
+        },
+        "id": "40178009"
+      }
+    },
+    {
+      "term": "Allergic parotitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48269007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic parotitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic parotitis",
+          "lang": "en"
+        },
+        "id": "48269007"
+      }
+    },
+    {
+      "term": "Allergic vaginitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60967006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic vaginitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic vaginitis",
+          "lang": "en"
+        },
+        "id": "60967006"
+      }
+    },
+    {
+      "term": "Allergic jejunitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "72681001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic jejunitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic jejunitis",
+          "lang": "en"
+        },
+        "id": "72681001"
+      }
+    },
+    {
+      "term": "Allergic diarrhoea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49237006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic diarrhea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic diarrhea",
+          "lang": "en"
+        },
+        "id": "49237006"
+      }
+    },
+    {
+      "term": "Allergic skin rash",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "21626009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cutaneous hypersensitivity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cutaneous hypersensitivity",
+          "lang": "en"
+        },
+        "id": "21626009"
+      }
+    },
+    {
+      "term": "Allergic hepatitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "426364002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic hepatitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic hepatitis",
+          "lang": "en"
+        },
+        "id": "426364002"
+      }
+    },
+    {
+      "term": "Allergic condition",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473011001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic condition (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic condition",
+          "lang": "en"
+        },
+        "id": "473011001"
+      }
+    },
+    {
+      "term": "Allergic gingivitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "91924004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic gingivitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic gingivitis",
+          "lang": "en"
+        },
+        "id": "91924004"
+      }
+    },
+    {
+      "term": "Allergic vasculitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60555002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypersensitivity angiitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypersensitivity angiitis",
+          "lang": "en"
+        },
+        "id": "60555002"
+      }
+    },
+    {
+      "term": "Allergic alveolitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37471005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypersensitivity pneumonitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypersensitivity pneumonitis",
+          "lang": "en"
+        },
+        "id": "37471005"
+      }
+    },
+    {
+      "term": "Non-allergic asthma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "266361008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-allergic asthma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intrinsic asthma",
+          "lang": "en"
+        },
+        "id": "266361008"
+      }
+    },
+    {
+      "term": "Allergic angioedema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402387002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic angioedema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic angioedema",
+          "lang": "en"
+        },
+        "id": "402387002"
+      }
+    },
+    {
+      "term": "Allergic duodenitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "717872008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic duodenitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic duodenitis",
+          "lang": "en"
+        },
+        "id": "717872008"
+      }
+    },
+    {
+      "term": "Allergic bronchitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405720007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic bronchitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic bronchitis",
+          "lang": "en"
+        },
+        "id": "405720007"
+      }
+    },
+    {
+      "term": "Allergic sigmoiditis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25887009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic sigmoiditis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic sigmoiditis",
+          "lang": "en"
+        },
+        "id": "25887009"
+      }
+    },
+    {
+      "term": "Allergic pneumonitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37471005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypersensitivity pneumonitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypersensitivity pneumonitis",
+          "lang": "en"
+        },
+        "id": "37471005"
+      }
+    },
+    {
+      "term": "Allergic pharyngitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "195663004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic pharyngitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic pharyngitis",
+          "lang": "en"
+        },
+        "id": "195663004"
+      }
+    },
+    {
+      "term": "Allergic disposition",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "609328004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic disposition (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic disposition",
+          "lang": "en"
+        },
+        "id": "609328004"
+      }
+    },
+    {
+      "term": "Allergic otitis media",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "26169004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic otitis media (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic otitis media",
+          "lang": "en"
+        },
+        "id": "26169004"
+      }
+    },
+    {
+      "term": "Allergic eosinophilia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64249002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic eosinophilia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic eosinophilia",
+          "lang": "en"
+        },
+        "id": "64249002"
+      }
+    },
+    {
+      "term": "Allergic encephalitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "70884002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic encephalitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic encephalitis",
+          "lang": "en"
+        },
+        "id": "70884002"
+      }
+    },
+    {
+      "term": "Allergic angio-oedema",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402387002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic angioedema (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic angioedema",
+          "lang": "en"
+        },
+        "id": "402387002"
+      }
+    },
+    {
+      "term": "Non-allergic rhinitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "311000119101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-allergic rhinitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-allergic rhinitis",
+          "lang": "en"
+        },
+        "id": "311000119101"
+      }
+    },
+    {
+      "term": "Acute allergic asthma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "762521001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Exacerbation of allergic asthma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Exacerbation of allergic asthma",
+          "lang": "en"
+        },
+        "id": "762521001"
+      }
+    },
+    {
+      "term": "Allergic enterocolitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "197024006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic enterocolitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic enterocolitis",
+          "lang": "en"
+        },
+        "id": "197024006"
+      }
+    },
+    {
+      "term": "AR - Allergic rhinitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "61582004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic rhinitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic rhinitis",
+          "lang": "en"
+        },
+        "id": "61582004"
+      }
+    },
+    {
+      "term": "Allergic reaction care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385800000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction management (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction management",
+          "lang": "en"
+        },
+        "id": "385800000"
+      }
+    },
+    {
+      "term": "Allergic sensitisation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "609327009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic sensitization (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic sensitization",
+          "lang": "en"
+        },
+        "id": "609327009"
+      }
+    },
+    {
+      "term": "Allergic sensitization",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "609327009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic sensitization (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic sensitization",
+          "lang": "en"
+        },
+        "id": "609327009"
+      }
+    },
+    {
+      "term": "Allergic drug reaction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416093006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic reaction caused by drug (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic reaction to drug",
+          "lang": "en"
+        },
+        "id": "416093006"
+      }
+    },
+    {
+      "term": "Allergic atopic asthma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "424643009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Immunoglobulin E-mediated allergic asthma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "IgE-mediated allergic asthma",
+          "lang": "en"
+        },
+        "id": "424643009"
+      }
+    },
+    {
+      "term": "Allergic encephalopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "70884002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic encephalitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic encephalitis",
+          "lang": "en"
+        },
+        "id": "70884002"
+      }
+    }
+  ]
+}

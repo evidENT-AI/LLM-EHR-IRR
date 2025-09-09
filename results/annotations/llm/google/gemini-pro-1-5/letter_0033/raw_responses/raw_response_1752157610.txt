@@ -1,0 +1,13 @@
+Response length: 1947 characters
+==================================================
+Yes, I am ready for the next letter.  I have reviewed the gold-standard annotation and noted the following areas for improvement in my own annotations:
+
+* **Qualifier Consistency:** I will pay closer attention to differentiating between signs, symptoms, diagnoses, and treatments/procedures.  The gold standard uses "symptoms" for things the patient experiences and "sign" for what the physician observes. I incorrectly used "Diagnoses" where "Symptoms" should have been used and used "Signs" in some places where "Symptoms" would have been more appropriate.
+* **Presence Accuracy:**  I need to be more precise with "presence," particularly distinguishing between suspected/potential findings and confirmed/negated ones. I will make better use of "NA" when presence can't be determined. The gold-standard was more accurately able to make these judgements and determine the status of "Presence" and also identify a greater amount of information in the letter.
+* **Context Completeness:** I need to make sure context is sufficient for all labels even for negated findings. The gold-standard tended to have larger context sizes, which is something that I will attempt to incorporate in my future annotation. For instance, negated findings must also be annotated and these require context.
+* **SNOMED CT Codes:** I will strive to provide more accurate and specific SNOMED CT codes when available. The gold-standard was superior in its ability to extract relevant medical codes and I will need to improve in my capacity to use and apply these codes, as well as potentially using multiple codes where relevant and applicable.  For example, "reddened bulging drum" should have two SNOMED CT codes
+* **Experiencer Field:** I incorrectly used "experiencer". I should use "experienced" to indicate who the observation pertains to.  I will rectify and ensure this doesn't happen again.
+
+I am prepared to apply these improvements to the next clinical letter.
+
+==================================================

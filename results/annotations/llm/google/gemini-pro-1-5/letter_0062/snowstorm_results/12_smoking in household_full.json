@@ -1,0 +1,150 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2
+    },
+    "semanticTags": {
+      "situation": 1
+    },
+    "language": {
+      "en": 2
+    },
+    "membership": {
+      "1322291000000109": 1,
+      "1033041000000104": 1,
+      "1127601000000107": 1,
+      "733073007": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1033041000000104": {
+      "conceptId": "1033041000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Smoking status of household members findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Smoking status of household members findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1033041000000104"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    }
+  },
+  "totalElements": 2,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 2,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Declined to provide information about smoking status of household members",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1104251000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Declined to provide information about smoking status of household members (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Declined to provide information about smoking status of household members",
+          "lang": "en"
+        },
+        "id": "1104251000000106"
+      }
+    },
+    {
+      "term": "Declined to provide information about smoking status of household members (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1104251000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Declined to provide information about smoking status of household members (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Declined to provide information about smoking status of household members",
+          "lang": "en"
+        },
+        "id": "1104251000000106"
+      }
+    }
+  ]
+}

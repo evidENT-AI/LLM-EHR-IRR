@@ -1,0 +1,192 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 4
+    },
+    "semanticTags": {
+      "procedure": 4
+    },
+    "language": {
+      "en": 4
+    },
+    "membership": {
+      "1322291000000109": 4,
+      "900000000000497000": 4,
+      "733073007": 4,
+      "1382401000000109": 11
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 4,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 4,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Left nephrectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "765472003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of left kidney (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of left kidney",
+          "lang": "en"
+        },
+        "id": "765472003"
+      }
+    },
+    {
+      "term": "Laparoscopic total nephrectomy of left kidney",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1017217001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic total excision of left kidney (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic total excision of left kidney",
+          "lang": "en"
+        },
+        "id": "1017217001"
+      }
+    },
+    {
+      "term": "Laparoscopic partial nephrectomy of left kidney",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119317007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic excision of part of left kidney (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic partial nephrectomy of left kidney",
+          "lang": "en"
+        },
+        "id": "1119317007"
+      }
+    },
+    {
+      "term": "Laparoscopic partial nephrectomy of left kidney via retroperitoneal approach",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119319005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic excision of part of left kidney via retroperitoneal approach (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic partial nephrectomy of left kidney via retroperitoneal approach",
+          "lang": "en"
+        },
+        "id": "1119319005"
+      }
+    }
+  ]
+}

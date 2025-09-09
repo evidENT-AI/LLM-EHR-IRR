@@ -1,0 +1,84 @@
+{
+  "labels": {
+    "tympanoplasty": {
+      "context": "The patient had tympanoplasty surgery for a traumatic perforation of the right ear about six weeks ago.",
+      "qualifier": "Procedures",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "386556002"
+    },
+    "traumatic perforation": {
+      "context": "The patient had tympanoplasty surgery for a traumatic perforation of the right ear about six weeks ago.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "43892002"
+    },
+    "bothering him": {
+      "context": "Mom called because his other ear was bothering him.",
+      "qualifier": "Symptoms",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "ringing": {
+      "context": "Earlier today, he said it was ringing and vibrating.",
+      "qualifier": "Symptoms",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "162352007"
+    },
+    "vibrating": {
+      "context": "Earlier today, he said it was ringing and vibrating.",
+      "qualifier": "Symptoms",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "hurt": {
+      "context": "Now he says it does not hurt.",
+      "qualifier": "Symptoms",
+      "laterality": "left",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "22253000"
+    },
+    "cold": {
+      "context": "He has had a cold but it has not been severe.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "386661006"
+    },
+    "ear discharge": {
+      "context": "There has been no ear discharge.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "302549006"
+    }
+  }
+}

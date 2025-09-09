@@ -1,0 +1,1599 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 82,
+      "999000011000000103": 61,
+      "999000041000000102": 13,
+      "900000000000207008": 2081
+    },
+    "semanticTags": {
+      "disorder": 234,
+      "organism": 150,
+      "medicinal product": 9,
+      "assessment scale": 1,
+      "substance": 207,
+      "observable entity": 29,
+      "procedure": 43,
+      "finding": 15,
+      "event": 1,
+      "situation": 4
+    },
+    "language": {
+      "en": 2237
+    },
+    "membership": {
+      "1322291000000109": 336,
+      "999004331000000102": 3,
+      "1323331000000106": 1,
+      "2181181000000106": 1,
+      "2181221000000101": 8,
+      "999002271000000101": 694,
+      "1853561000000109": 1,
+      "999002571000000104": 9,
+      "900000000000497000": 621,
+      "1127821000000102": 1,
+      "1382401000000109": 11,
+      "991411000000109": 4,
+      "1127601000000107": 245,
+      "1382531000000102": 215,
+      "999001871000000106": 6,
+      "999001741000000107": 1,
+      "999003091000000101": 9,
+      "999001061000000106": 1,
+      "900000000000489007": 27,
+      "1853551000000106": 23,
+      "999002431000000102": 1,
+      "999000791000001109": 41,
+      "999002051000000100": 3,
+      "733073007": 652,
+      "999004381000000103": 9,
+      "999002881000000100": 5,
+      "2222181000000106": 3,
+      "30931000001101": 216
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1853561000000109": {
+      "conceptId": "1853561000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine procedure simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine procedure simple reference set",
+        "lang": "en"
+      },
+      "id": "1853561000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "1127821000000102": {
+      "conceptId": "1127821000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Acute kidney injury findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Acute kidney injury findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127821000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999001871000000106": {
+      "conceptId": "999001871000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Respiratory medicine diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Respiratory medicine diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001871000000106"
+    },
+    "999001741000000107": {
+      "conceptId": "999001741000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001741000000107"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1853551000000106": {
+      "conceptId": "1853551000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set",
+        "lang": "en"
+      },
+      "id": "1853551000000106"
+    },
+    "999002431000000102": {
+      "conceptId": "999002431000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Acquired immune deficiency syndrome defining illness for adults simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "AIDS (acquired immune deficiency syndrome) defining illness for adults simple reference set",
+        "lang": "en"
+      },
+      "id": "999002431000000102"
+    },
+    "999000791000001109": {
+      "conceptId": "999000791000001109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices ingredient simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS dm+d (dictionary of medicines and devices) ingredient simple reference set",
+        "lang": "en"
+      },
+      "id": "999000791000001109"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "2222181000000106": {
+      "conceptId": "2222181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric infectious disease disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric infectious disease disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222181000000106"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 2237,
+  "totalPages": 45,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233604007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pneumonia",
+          "lang": "en"
+        },
+        "id": "233604007"
+      }
+    },
+    {
+      "term": "Viral pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "75570004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Viral pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Viral pneumonia",
+          "lang": "en"
+        },
+        "id": "75570004"
+      }
+    },
+    {
+      "term": "Focal pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "123590007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Focal pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Focal pneumonia",
+          "lang": "en"
+        },
+        "id": "123590007"
+      }
+    },
+    {
+      "term": "Lobar pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278516003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lobar pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lobar pneumonia",
+          "lang": "en"
+        },
+        "id": "278516003"
+      }
+    },
+    {
+      "term": "Basal pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300999006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Basal pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Basal pneumonia",
+          "lang": "en"
+        },
+        "id": "300999006"
+      }
+    },
+    {
+      "term": "Fungal pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233613009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fungal pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fungal pneumonia",
+          "lang": "en"
+        },
+        "id": "233613009"
+      }
+    },
+    {
+      "term": "Passive pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "85469005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypostatic pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypostatic pneumonia",
+          "lang": "en"
+        },
+        "id": "85469005"
+      }
+    },
+    {
+      "term": "Endemic pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46970008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pneumonia caused by Mycoplasma pneumoniae (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pneumonia caused by Mycoplasma pneumoniae",
+          "lang": "en"
+        },
+        "id": "46970008"
+      }
+    },
+    {
+      "term": "Proteus pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "195888009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Proteus pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Proteus pneumonia",
+          "lang": "en"
+        },
+        "id": "195888009"
+      }
+    },
+    {
+      "term": "Measles pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "195900001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pneumonia due to measles (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pneumonia due to measles",
+          "lang": "en"
+        },
+        "id": "195900001"
+      }
+    },
+    {
+      "term": "Anthrax pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "195902009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anthrax pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anthrax pneumonia",
+          "lang": "en"
+        },
+        "id": "195902009"
+      }
+    },
+    {
+      "term": "Q fever pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "32286006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pneumonia in Q fever (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pneumonia in Q fever",
+          "lang": "en"
+        },
+        "id": "32286006"
+      }
+    },
+    {
+      "term": "Typhoid pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45312009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pneumonia in typhoid fever (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pneumonia in typhoid fever",
+          "lang": "en"
+        },
+        "id": "45312009"
+      }
+    },
+    {
+      "term": "Chronic pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102361000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic pneumonia",
+          "lang": "en"
+        },
+        "id": "102361000119104"
+      }
+    },
+    {
+      "term": "Rubella pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1092361000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rubella pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rubella pneumonia",
+          "lang": "en"
+        },
+        "id": "1092361000119109"
+      }
+    },
+    {
+      "term": "Lobular pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "396285007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bronchopneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bronchopneumonia",
+          "lang": "en"
+        },
+        "id": "396285007"
+      }
+    },
+    {
+      "term": "Candidal pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "3487004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Candidiasis of lung (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Candidiasis of lung",
+          "lang": "en"
+        },
+        "id": "3487004"
+      }
+    },
+    {
+      "term": "Necrotic pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "7063008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gangrenous pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gangrenous pneumonia",
+          "lang": "en"
+        },
+        "id": "7063008"
+      }
+    },
+    {
+      "term": "Atypical pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233606009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Atypical pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Atypical pneumonia",
+          "lang": "en"
+        },
+        "id": "233606009"
+      }
+    },
+    {
+      "term": "Neonatal pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233619008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Neonatal pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Neonatal pneumonia",
+          "lang": "en"
+        },
+        "id": "233619008"
+      }
+    },
+    {
+      "term": "Lingular pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "426696003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lingular pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lingular pneumonia",
+          "lang": "en"
+        },
+        "id": "426696003"
+      }
+    },
+    {
+      "term": "Cavitary pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "471272001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cavitary pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cavitary pneumonia",
+          "lang": "en"
+        },
+        "id": "471272001"
+      }
+    },
+    {
+      "term": "COVID-19 pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "882784691000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pneumonia caused by severe acute respiratory syndrome coronavirus 2 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pneumonia caused by SARS-CoV-2",
+          "lang": "en"
+        },
+        "id": "882784691000119100"
+      }
+    },
+    {
+      "term": "Capillary pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5505005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute bronchiolitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute bronchiolitis",
+          "lang": "en"
+        },
+        "id": "5505005"
+      }
+    },
+    {
+      "term": "Bacterial pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "53084003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bacterial pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bacterial pneumonia",
+          "lang": "en"
+        },
+        "id": "53084003"
+      }
+    },
+    {
+      "term": "Organized pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68409003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Organized pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Organized pneumonia",
+          "lang": "en"
+        },
+        "id": "68409003"
+      }
+    },
+    {
+      "term": "Louisiana pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "81164001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ornithosis with pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ornithosis with pneumonia",
+          "lang": "en"
+        },
+        "id": "81164001"
+      }
+    },
+    {
+      "term": "Confluent pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "123591006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Confluent pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Confluent pneumonia",
+          "lang": "en"
+        },
+        "id": "123591006"
+      }
+    },
+    {
+      "term": "Nocardial pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "195909000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nocardial pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nocardial pneumonia",
+          "lang": "en"
+        },
+        "id": "195909000"
+      }
+    },
+    {
+      "term": "Varicella pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "195911009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chickenpox pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chickenpox pneumonia",
+          "lang": "en"
+        },
+        "id": "195911009"
+      }
+    },
+    {
+      "term": "Organised pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68409003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Organized pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Organized pneumonia",
+          "lang": "en"
+        },
+        "id": "68409003"
+      }
+    },
+    {
+      "term": "Tularemia pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45556008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary tularemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary tularemia",
+          "lang": "en"
+        },
+        "id": "45556008"
+      }
+    },
+    {
+      "term": "Nocardia pneumoniae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "431063007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nocardia pneumoniae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nocardia pneumoniae",
+          "lang": "en"
+        },
+        "id": "431063007"
+      }
+    },
+    {
+      "term": "Recurrent pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "699014000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent pneumonia",
+          "lang": "en"
+        },
+        "id": "699014000"
+      }
+    },
+    {
+      "term": "Bilateral pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "407671000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bilateral pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral pneumonia",
+          "lang": "en"
+        },
+        "id": "407671000"
+      }
+    },
+    {
+      "term": "Bronchial pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "396285007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bronchopneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bronchopneumonia",
+          "lang": "en"
+        },
+        "id": "396285007"
+      }
+    },
+    {
+      "term": "Salmonella pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2523007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Salmonella pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Salmonella pneumonia",
+          "lang": "en"
+        },
+        "id": "2523007"
+      }
+    },
+    {
+      "term": "Hypostatic pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "85469005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypostatic pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypostatic pneumonia",
+          "lang": "en"
+        },
+        "id": "85469005"
+      }
+    },
+    {
+      "term": "Chlamydia pneumoniae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103514009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chlamydophila pneumoniae (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chlamydophila pneumoniae",
+          "lang": "en"
+        },
+        "id": "103514009"
+      }
+    },
+    {
+      "term": "Gangrenous pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "7063008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gangrenous pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gangrenous pneumonia",
+          "lang": "en"
+        },
+        "id": "7063008"
+      }
+    },
+    {
+      "term": "Pneumonia in Q fever",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "32286006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pneumonia in Q fever (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pneumonia in Q fever",
+          "lang": "en"
+        },
+        "id": "32286006"
+      }
+    },
+    {
+      "term": "Mycoplasma pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46970008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pneumonia caused by Mycoplasma pneumoniae (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pneumonia caused by Mycoplasma pneumoniae",
+          "lang": "en"
+        },
+        "id": "46970008"
+      }
+    },
+    {
+      "term": "Adenoviral pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "41207000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adenoviral pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adenoviral pneumonia",
+          "lang": "en"
+        },
+        "id": "41207000"
+      }
+    },
+    {
+      "term": "Congenital pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78895009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital pneumonia",
+          "lang": "en"
+        },
+        "id": "78895009"
+      }
+    },
+    {
+      "term": "Unresolved pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "57702005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unresolved pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unresolved pneumonia",
+          "lang": "en"
+        },
+        "id": "57702005"
+      }
+    },
+    {
+      "term": "Pittsburgh pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "76090006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pittsburgh pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pittsburgh pneumonia",
+          "lang": "en"
+        },
+        "id": "76090006"
+      }
+    },
+    {
+      "term": "Legionella pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "195889001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Legionella pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Legionella pneumonia",
+          "lang": "en"
+        },
+        "id": "195889001"
+      }
+    },
+    {
+      "term": "Chickenpox pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "195911009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chickenpox pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chickenpox pneumonia",
+          "lang": "en"
+        },
+        "id": "195911009"
+      }
+    },
+    {
+      "term": "Chlamydial pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233609002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pneumonia caused by Chlamydiaceae (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pneumonia caused by Chlamydiaceae",
+          "lang": "en"
+        },
+        "id": "233609002"
+      }
+    },
+    {
+      "term": "Giant cell pneumonia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233625007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Giant cell pneumonia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Giant cell pneumonia",
+          "lang": "en"
+        },
+        "id": "233625007"
+      }
+    }
+  ]
+}

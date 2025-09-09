@@ -1,0 +1,1366 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 9,
+      "900000000000207008": 183
+    },
+    "semanticTags": {
+      "finding": 79
+    },
+    "language": {
+      "en": 192
+    },
+    "membership": {
+      "1322291000000109": 79,
+      "999004331000000102": 4,
+      "999004341000000106": 1,
+      "1127601000000107": 70,
+      "991181000000109": 1,
+      "999002551000000108": 1,
+      "999002271000000101": 75,
+      "991231000000102": 1,
+      "900000000000489007": 2,
+      "747631000000109": 1,
+      "999002571000000104": 9,
+      "900000000000497000": 74,
+      "733073007": 81,
+      "747621000000107": 1,
+      "999002871000000102": 1,
+      "999002751000000103": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "999004341000000106": {
+      "conceptId": "999004341000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999004341000000106"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "991181000000109": {
+      "conceptId": "991181000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Preferred spoken language findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Preferred spoken language findings simple reference set",
+        "lang": "en"
+      },
+      "id": "991181000000109"
+    },
+    "999002551000000108": {
+      "conceptId": "999002551000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mobility findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mobility findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002551000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "991231000000102": {
+      "conceptId": "991231000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Interpreter type findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Interpreter type findings simple reference set",
+        "lang": "en"
+      },
+      "id": "991231000000102"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "747631000000109": {
+      "conceptId": "747631000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Language read findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Language read findings simple reference set",
+        "lang": "en"
+      },
+      "id": "747631000000109"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "747621000000107": {
+      "conceptId": "747621000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Additional language spoken findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Additional language spoken findings simple reference set",
+        "lang": "en"
+      },
+      "id": "747621000000107"
+    },
+    "999002871000000102": {
+      "conceptId": "999002871000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002871000000102"
+    },
+    "999002751000000103": {
+      "conceptId": "999002751000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Activity of daily living related to physical function findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Activity of daily living related to physical function findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002751000000103"
+    }
+  },
+  "totalElements": 192,
+  "totalPages": 4,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Pushes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303365000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does push (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does push",
+          "lang": "en"
+        },
+        "id": "303365000"
+      }
+    },
+    {
+      "term": "Does push",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303365000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does push (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does push",
+          "lang": "en"
+        },
+        "id": "303365000"
+      }
+    },
+    {
+      "term": "Pus cells",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373668001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pus cells (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus cells",
+          "lang": "en"
+        },
+        "id": "373668001"
+      }
+    },
+    {
+      "term": "Pus in stool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271865009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pus in stool (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus in stool",
+          "lang": "en"
+        },
+        "id": "271865009"
+      }
+    },
+    {
+      "term": "Able to push",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303363007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to push (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to push",
+          "lang": "en"
+        },
+        "id": "303363007"
+      }
+    },
+    {
+      "term": "Pus in feces",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271865009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pus in stool (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus in stool",
+          "lang": "en"
+        },
+        "id": "271865009"
+      }
+    },
+    {
+      "term": "Reads Pushto",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "972051000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Reads Pushto (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reads Pushto",
+          "lang": "en"
+        },
+        "id": "972051000000100"
+      }
+    },
+    {
+      "term": "Pushing drugs",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "228442004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Selling drugs (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Selling drugs",
+          "lang": "en"
+        },
+        "id": "228442004"
+      }
+    },
+    {
+      "term": "Does not push",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303366004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not push (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not push",
+          "lang": "en"
+        },
+        "id": "303366004"
+      }
+    },
+    {
+      "term": "Pus in faeces",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271865009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pus in stool (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus in stool",
+          "lang": "en"
+        },
+        "id": "271865009"
+      }
+    },
+    {
+      "term": "Desire to push",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249162001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Desire to push in labor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Desire to push in labor",
+          "lang": "en"
+        },
+        "id": "249162001"
+      }
+    },
+    {
+      "term": "PC - Pus cells",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "250439007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pus cells present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus cells present",
+          "lang": "en"
+        },
+        "id": "250439007"
+      }
+    },
+    {
+      "term": "Unable to push",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303364001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unable to push (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unable to push",
+          "lang": "en"
+        },
+        "id": "303364001"
+      }
+    },
+    {
+      "term": "Pusher syndrome",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249979008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pusher syndrome (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pusher syndrome",
+          "lang": "en"
+        },
+        "id": "249979008"
+      }
+    },
+    {
+      "term": "Pus in vomit O/E",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275746003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Pus in vomit O/E (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus in vomit O/E",
+          "lang": "en"
+        },
+        "id": "275746003"
+      }
+    },
+    {
+      "term": "Pus cells present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "250439007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pus cells present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus cells present",
+          "lang": "en"
+        },
+        "id": "250439007"
+      }
+    },
+    {
+      "term": "Pus in sputum O/E",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274400006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Pus in sputum O/E (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus in sputum O/E",
+          "lang": "en"
+        },
+        "id": "274400006"
+      }
+    },
+    {
+      "term": "Pus crust on skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "822999003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pus crust on skin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus crust on skin",
+          "lang": "en"
+        },
+        "id": "822999003"
+      }
+    },
+    {
+      "term": "Pus cells in urine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275765006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pus cells in urine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus cells in urine",
+          "lang": "en"
+        },
+        "id": "275765006"
+      }
+    },
+    {
+      "term": "Vomit: pus present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271354006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vomit: pus present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vomit: pus present",
+          "lang": "en"
+        },
+        "id": "271354006"
+      }
+    },
+    {
+      "term": "Difficulty pushing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303367008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Difficulty pushing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Difficulty pushing",
+          "lang": "en"
+        },
+        "id": "303367008"
+      }
+    },
+    {
+      "term": "Does push (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303365000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does push (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does push",
+          "lang": "en"
+        },
+        "id": "303365000"
+      }
+    },
+    {
+      "term": "Pus cells (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373668001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pus cells (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus cells",
+          "lang": "en"
+        },
+        "id": "373668001"
+      }
+    },
+    {
+      "term": "Pushing other person",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284630001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pushing other person (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pushing other person",
+          "lang": "en"
+        },
+        "id": "284630001"
+      }
+    },
+    {
+      "term": "Pushing tumor border",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "369742009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pushing tumor border (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pushing tumor border",
+          "lang": "en"
+        },
+        "id": "369742009"
+      }
+    },
+    {
+      "term": "Pushing well in labor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289226009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pushing effectively in labor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pushing effectively in labor",
+          "lang": "en"
+        },
+        "id": "289226009"
+      }
+    },
+    {
+      "term": "Urge to push in labor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289228005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urge to push in labor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urge to push in labor",
+          "lang": "en"
+        },
+        "id": "289228005"
+      }
+    },
+    {
+      "term": "Pushing tumour border",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "369742009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pushing tumor border (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pushing tumor border",
+          "lang": "en"
+        },
+        "id": "369742009"
+      }
+    },
+    {
+      "term": "Wants to push in labor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249162001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Desire to push in labor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Desire to push in labor",
+          "lang": "en"
+        },
+        "id": "249162001"
+      }
+    },
+    {
+      "term": "Pushing well in labour",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289226009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pushing effectively in labor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pushing effectively in labor",
+          "lang": "en"
+        },
+        "id": "289226009"
+      }
+    },
+    {
+      "term": "Urge to push in labour",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289228005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urge to push in labor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urge to push in labor",
+          "lang": "en"
+        },
+        "id": "289228005"
+      }
+    },
+    {
+      "term": "O/E - skin crust - pus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164410002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - pus crust on skin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - skin crust - pus",
+          "lang": "en"
+        },
+        "id": "164410002"
+      }
+    },
+    {
+      "term": "Pus in stool (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271865009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pus in stool (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus in stool",
+          "lang": "en"
+        },
+        "id": "271865009"
+      }
+    },
+    {
+      "term": "Able to push (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303363007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to push (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to push",
+          "lang": "en"
+        },
+        "id": "303363007"
+      }
+    },
+    {
+      "term": "Pus in large intestine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48111000087107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pus in large intestine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus in large intestine",
+          "lang": "en"
+        },
+        "id": "48111000087107"
+      }
+    },
+    {
+      "term": "Reads Pushto (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "972051000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Reads Pushto (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reads Pushto",
+          "lang": "en"
+        },
+        "id": "972051000000100"
+      }
+    },
+    {
+      "term": "Wants to push in labour",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249162001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Desire to push in labor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Desire to push in labor",
+          "lang": "en"
+        },
+        "id": "249162001"
+      }
+    },
+    {
+      "term": "Not pushing effectively",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289227000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Not pushing well in labor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Not pushing well in labor",
+          "lang": "en"
+        },
+        "id": "289227000"
+      }
+    },
+    {
+      "term": "Does not push (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303366004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not push (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not push",
+          "lang": "en"
+        },
+        "id": "303366004"
+      }
+    },
+    {
+      "term": "Desire to push in labor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249162001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Desire to push in labor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Desire to push in labor",
+          "lang": "en"
+        },
+        "id": "249162001"
+      }
+    },
+    {
+      "term": "Pus at uterine os cervix",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248938003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pus at uterine os cervix (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pus at uterine os cervix",
+          "lang": "en"
+        },
+        "id": "248938003"
+      }
+    },
+    {
+      "term": "Ascitic fluid: pus cells",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "168022001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ascitic fluid: pus cells (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ascitic fluid: pus cells",
+          "lang": "en"
+        },
+        "id": "168022001"
+      }
+    },
+    {
+      "term": "Unable to push (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303364001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unable to push (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unable to push",
+          "lang": "en"
+        },
+        "id": "303364001"
+      }
+    },
+    {
+      "term": "Desire to push in labour",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249162001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Desire to push in labor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Desire to push in labor",
+          "lang": "en"
+        },
+        "id": "249162001"
+      }
+    },
+    {
+      "term": "Push with unaffected side",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249978000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Push with unaffected side (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Push with unaffected side",
+          "lang": "en"
+        },
+        "id": "249978000"
+      }
+    },
+    {
+      "term": "Not pushing well in labor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289227000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Not pushing well in labor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Not pushing well in labor",
+          "lang": "en"
+        },
+        "id": "289227000"
+      }
+    },
+    {
+      "term": "Sputum: pus cells present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "168001007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sputum: pus cells present (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sputum: pus cells present",
+          "lang": "en"
+        },
+        "id": "168001007"
+      }
+    },
+    {
+      "term": "Pusher syndrome (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249979008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pusher syndrome (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pusher syndrome",
+          "lang": "en"
+        },
+        "id": "249979008"
+      }
+    },
+    {
+      "term": "Does push with lower limb",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714989009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does push with lower limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does push with lower limb",
+          "lang": "en"
+        },
+        "id": "714989009"
+      }
+    },
+    {
+      "term": "Pushto interpreter needed",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "203841000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Pashto language interpreter needed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pashto language interpreter needed",
+          "lang": "en"
+        },
+        "id": "203841000000108"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1321 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 6,
+      "900000000000207008": 50
+    },
+    "semanticTags": {
+      "disorder": 35,
+      "procedure": 3,
+      "finding": 1,
+      "situation": 3
+    },
+    "language": {
+      "en": 56
+    },
+    "membership": {
+      "1322291000000109": 42,
+      "991411000000109": 1,
+      "1127601000000107": 39,
+      "1382531000000102": 26,
+      "999003161000000108": 19,
+      "999003201000000100": 1,
+      "999002271000000101": 76,
+      "999003171000000101": 9,
+      "900000000000489007": 1,
+      "999003181000000104": 1,
+      "900000000000497000": 39,
+      "733073007": 42,
+      "991381000000107": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999003171000000101": {
+      "conceptId": "999003171000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1B In situ diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1B In situ diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003171000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999003181000000104": {
+      "conceptId": "999003181000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003181000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "991381000000107": {
+      "conceptId": "991381000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Comorbid conditions for selection simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Comorbid conditions for selection simple reference set",
+        "lang": "en"
+      },
+      "id": "991381000000107"
+    }
+  },
+  "totalElements": 56,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Skin cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "372130007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Malignant neoplasm of skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Malignant neoplasm of skin",
+          "lang": "en"
+        },
+        "id": "372130007"
+      }
+    },
+    {
+      "term": "Cancer of skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "372130007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Malignant neoplasm of skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Malignant neoplasm of skin",
+          "lang": "en"
+        },
+        "id": "372130007"
+      }
+    },
+    {
+      "term": "Cancer of penile skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254908006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Malignant tumor of skin of penis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Malignant tumor of skin of penis",
+          "lang": "en"
+        },
+        "id": "254908006"
+      }
+    },
+    {
+      "term": "Suspected skin cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "315276005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Suspected skin cancer (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Suspected skin cancer",
+          "lang": "en"
+        },
+        "id": "315276005"
+      }
+    },
+    {
+      "term": "Cancer in situ of skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92749008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carcinoma in situ of skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carcinoma in situ of skin",
+          "lang": "en"
+        },
+        "id": "92749008"
+      }
+    },
+    {
+      "term": "Cancer of scrotal skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449309003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Malignant neoplasm of skin of scrotum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Malignant neoplasm of skin of scrotum",
+          "lang": "en"
+        },
+        "id": "449309003"
+      }
+    },
+    {
+      "term": "Secondary cancer of skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "94579000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Metastatic malignant neoplasm to skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Metastatic malignant neoplasm to skin",
+          "lang": "en"
+        },
+        "id": "94579000"
+      }
+    },
+    {
+      "term": "Occupational skin cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722712000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Occupational cancer of skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Occupational cancer of skin",
+          "lang": "en"
+        },
+        "id": "722712000"
+      }
+    },
+    {
+      "term": "Cancer metastatic to skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "94579000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Metastatic malignant neoplasm to skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Metastatic malignant neoplasm to skin",
+          "lang": "en"
+        },
+        "id": "94579000"
+      }
+    },
+    {
+      "term": "Screening for skin cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "444638005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Screening for malignant neoplasm of skin (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Screening for malignant neoplasm of skin",
+          "lang": "en"
+        },
+        "id": "444638005"
+      }
+    },
+    {
+      "term": "Cancer of skin, basal cell",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254701007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Basal cell carcinoma of skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Basal cell carcinoma of skin",
+          "lang": "en"
+        },
+        "id": "254701007"
+      }
+    },
+    {
+      "term": "Cancer in situ skin of lip",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92734000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carcinoma in situ of skin of lip (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carcinoma in situ of skin of lip",
+          "lang": "en"
+        },
+        "id": "92734000"
+      }
+    },
+    {
+      "term": "Phobic fear of skin cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403593004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phobic fear of skin cancer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Phobic fear of skin cancer",
+          "lang": "en"
+        },
+        "id": "403593004"
+      }
+    },
+    {
+      "term": "Occupational cancer of skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722712000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Occupational cancer of skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Occupational cancer of skin",
+          "lang": "en"
+        },
+        "id": "722712000"
+      }
+    },
+    {
+      "term": "Cancer in situ skin of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92736003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carcinoma in situ of skin of neck (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carcinoma in situ of skin of neck",
+          "lang": "en"
+        },
+        "id": "92736003"
+      }
+    },
+    {
+      "term": "Cancer in situ skin of trunk",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92745002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carcinoma in situ of skin of trunk (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carcinoma in situ of skin of trunk",
+          "lang": "en"
+        },
+        "id": "92745002"
+      }
+    },
+    {
+      "term": "Family history of skin cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "429405004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of malignant neoplasm of skin (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of malignant neoplasm of skin",
+          "lang": "en"
+        },
+        "id": "429405004"
+      }
+    },
+    {
+      "term": "Cancer in situ of skin of ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92719006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carcinoma in situ of skin of ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carcinoma in situ of skin of ear",
+          "lang": "en"
+        },
+        "id": "92719006"
+      }
+    },
+    {
+      "term": "Cancer in situ of skin of face",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92724009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carcinoma in situ of skin of face (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carcinoma in situ of skin of face",
+          "lang": "en"
+        },
+        "id": "92724009"
+      }
+    },
+    {
+      "term": "Cancer in situ of skin of scalp",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92740007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carcinoma in situ of skin of scalp (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carcinoma in situ of skin of scalp",
+          "lang": "en"
+        },
+        "id": "92740007"
+      }
+    },
+    {
+      "term": "Cancer in situ of skin of eyelid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92723003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carcinoma in situ of skin of eyelid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carcinoma in situ of skin of eyelid",
+          "lang": "en"
+        },
+        "id": "92723003"
+      }
+    },
+    {
+      "term": "Suspected skin cancer (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "315276005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Suspected skin cancer (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Suspected skin cancer",
+          "lang": "en"
+        },
+        "id": "315276005"
+      }
+    },
+    {
+      "term": "Cancer of skin of ear, basal cell",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402820007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Basal cell carcinoma of ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Basal cell carcinoma of ear",
+          "lang": "en"
+        },
+        "id": "402820007"
+      }
+    },
+    {
+      "term": "Cancer of skin of lip, basal cell",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402819001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Basal cell carcinoma of skin of lip (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Basal cell carcinoma of skin of lip",
+          "lang": "en"
+        },
+        "id": "402819001"
+      }
+    },
+    {
+      "term": "Cancer in situ skin, squamous cell",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254656002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma in situ of skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma in situ of skin",
+          "lang": "en"
+        },
+        "id": "254656002"
+      }
+    },
+    {
+      "term": "Cancer of skin of neck, basal cell",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402509003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Basal cell carcinoma of neck (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Basal cell carcinoma of neck",
+          "lang": "en"
+        },
+        "id": "402509003"
+      }
+    },
+    {
+      "term": "Cancer of skin of face, basal cell",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402519009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Basal cell carcinoma of face (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Basal cell carcinoma of face",
+          "lang": "en"
+        },
+        "id": "402519009"
+      }
+    },
+    {
+      "term": "Squamous cell cancer of skin of ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403894000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of skin of ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of skin of ear",
+          "lang": "en"
+        },
+        "id": "403894000"
+      }
+    },
+    {
+      "term": "Cancer of skin of trunk, basal cell",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402523001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Basal cell carcinoma of truncal skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Basal cell carcinoma of truncal skin",
+          "lang": "en"
+        },
+        "id": "402523001"
+      }
+    },
+    {
+      "term": "Squamous cell cancer of skin of face",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403892001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of skin of face (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of skin of face",
+          "lang": "en"
+        },
+        "id": "403892001"
+      }
+    },
+    {
+      "term": "Cancer in situ of skin of upper limb",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "92747005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carcinoma in situ of skin of upper limb (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carcinoma in situ of skin of upper limb",
+          "lang": "en"
+        },
+        "id": "92747005"
+      }
+    },
+    {
+      "term": "History of cancer metastatic to skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1098941000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of cancer metastatic to skin (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "History of cancer metastatic to skin",
+          "lang": "en"
+        },
+        "id": "1098941000119106"
+      }
+    },
+    {
+      "term": "Phobic fear of skin cancer (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403593004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phobic fear of skin cancer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Phobic fear of skin cancer",
+          "lang": "en"
+        },
+        "id": "403593004"
+      }
+    },
+    {
+      "term": "Cancer of skin of neck, squamous cell",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "423284006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of skin of neck (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of skin of neck",
+          "lang": "en"
+        },
+        "id": "423284006"
+      }
+    },
+    {
+      "term": "Occupational cancer of skin (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722712000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Occupational cancer of skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Occupational cancer of skin",
+          "lang": "en"
+        },
+        "id": "722712000"
+      }
+    },
+    {
+      "term": "Phobic state due to fear of skin cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403593004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phobic fear of skin cancer (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Phobic fear of skin cancer",
+          "lang": "en"
+        },
+        "id": "403593004"
+      }
+    },
+    {
+      "term": "Cancer of skin of upper limb, basal cell",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402521004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Basal cell carcinoma of upper extremity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Basal cell carcinoma of upper extremity",
+          "lang": "en"
+        },
+        "id": "402521004"
+      }
+    },
+    {
+      "term": "Cancer of skin of lower limb, basal cell",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402522006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Basal cell carcinoma of lower extremity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Basal cell carcinoma of lower extremity",
+          "lang": "en"
+        },
+        "id": "402522006"
+      }
+    },
+    {
+      "term": "Squamous cell cancer of skin of lower limb",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403898002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of skin of lower extremity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of skin of lower extremity",
+          "lang": "en"
+        },
+        "id": "403898002"
+      }
+    },
+    {
+      "term": "Fast track referral for suspected skin cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "276281000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Fast track referral for suspected skin cancer (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fast track referral for suspected skin cancer",
+          "lang": "en"
+        },
+        "id": "276281000000104"
+      }
+    },
+    {
+      "term": "Seen in fast track suspected skin cancer clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "382711000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Seen in fast track suspected skin cancer clinic (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Seen in fast track suspected skin cancer clinic",
+          "lang": "en"
+        },
+        "id": "382711000000103"
+      }
+    },
+    {
+      "term": "History of cancer metastatic to skin (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1098941000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of cancer metastatic to skin (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "History of cancer metastatic to skin",
+          "lang": "en"
+        },
+        "id": "1098941000119106"
+      }
+    },
+    {
+      "term": "Provision of written information about skin cancer",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "863691000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Provision of written information about skin cancer (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of written information about skin cancer",
+          "lang": "en"
+        },
+        "id": "863691000000105"
+      }
+    },
+    {
+      "term": "Fast track referral for suspected skin cancer (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "276281000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Fast track referral for suspected skin cancer (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fast track referral for suspected skin cancer",
+          "lang": "en"
+        },
+        "id": "276281000000104"
+      }
+    },
+    {
+      "term": "Seen in fast track suspected skin cancer clinic (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "382711000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Seen in fast track suspected skin cancer clinic (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Seen in fast track suspected skin cancer clinic",
+          "lang": "en"
+        },
+        "id": "382711000000103"
+      }
+    },
+    {
+      "term": "Provision of written information about skin cancer (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "863691000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Provision of written information about skin cancer (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of written information about skin cancer",
+          "lang": "en"
+        },
+        "id": "863691000000105"
+      }
+    },
+    {
+      "term": "A rare severe phenotypic variant of dyskeratosis congenita with onset in early childhood. The syndrome has features of dyskeratosis congenita (for example skin hyper/hypopigmentation, nail dystrophy, high risk of bone marrow failure and cancer, developmental delay sparse and fine hair) in conjunction with bilateral exudative retinopathy and intracranial calcifications.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "723512008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Revesz syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Revesz syndrome",
+          "lang": "en"
+        },
+        "id": "723512008"
+      }
+    },
+    {
+      "term": "A rare inherited skin cancer syndrome with the coexistence of features characteristic of both multiple keratoacanthoma, Ferguson Smith type and generalized eruptive keratoacanthoma, such as multiple small miliary-type lesions, larger self-healing lesions, and nodulo-ulcerative lesions. Lesions do not have a predilection for the mucosal surfaces. Transmission is autosomal dominant.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "716774008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hereditary keratoacanthoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hereditary keratoacanthoma",
+          "lang": "en"
+        },
+        "id": "716774008"
+      }
+    },
+    {
+      "term": "A rare inherited skin cancer syndrome with the coexistence of features characteristic of both multiple keratoacanthoma, Ferguson Smith type and generalised eruptive keratoacanthoma, such as multiple small miliary-type lesions, larger self-healing lesions, and nodulo-ulcerative lesions. Lesions do not have a predilection for the mucosal surfaces. Transmission is autosomal dominant.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "716774008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hereditary keratoacanthoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hereditary keratoacanthoma",
+          "lang": "en"
+        },
+        "id": "716774008"
+      }
+    },
+    {
+      "term": "A rare inherited cancer-predisposing syndrome with characteristics of early development of cutaneous telangiectasia, mild dental and nail anomalies, patchy alopecia over the affected skin areas and increased lifetime risk for oropharyngeal cancer. Other types of cancer have also been reported. There is evidence the disease is caused by heterozygous mutation in the ATR gene on chromosome 3q23.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "782823001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Familial cutaneous telangiectasia and oropharyngeal cancer predisposition syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Familial cutaneous telangiectasia and oropharyngeal cancer predisposition syndrome",
+          "lang": "en"
+        },
+        "id": "782823001"
+      }
+    }
+  ]
+}

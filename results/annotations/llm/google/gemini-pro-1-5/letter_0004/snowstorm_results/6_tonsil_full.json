@@ -1,0 +1,1206 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 7,
+      "900000000000207008": 134
+    },
+    "semanticTags": {
+      "procedure": 55
+    },
+    "language": {
+      "en": 141
+    },
+    "membership": {
+      "1322291000000109": 55,
+      "999002571000000104": 3,
+      "900000000000497000": 52,
+      "733073007": 55,
+      "900000000000489007": 2,
+      "1382401000000109": 129
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 141,
+  "totalPages": 3,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Tonsillotomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73610000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incision of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incision of tonsil",
+          "lang": "en"
+        },
+        "id": "73610000"
+      }
+    },
+    {
+      "term": "Tonsil repair",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "119962009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsil repair (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsil repair",
+          "lang": "en"
+        },
+        "id": "119962009"
+      }
+    },
+    {
+      "term": "Tonsillectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "173422009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsillectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsillectomy",
+          "lang": "en"
+        },
+        "id": "173422009"
+      }
+    },
+    {
+      "term": "Tonsil closure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "119958003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsil closure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsil closure",
+          "lang": "en"
+        },
+        "id": "119958003"
+      }
+    },
+    {
+      "term": "Biopsy of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "90750001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Biopsy of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Biopsy of tonsil",
+          "lang": "en"
+        },
+        "id": "90750001"
+      }
+    },
+    {
+      "term": "Tonsil operation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385450002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Operation on tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Operation on tonsils",
+          "lang": "en"
+        },
+        "id": "385450002"
+      }
+    },
+    {
+      "term": "Drainage of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34309001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Drainage of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Drainage of tonsil",
+          "lang": "en"
+        },
+        "id": "34309001"
+      }
+    },
+    {
+      "term": "Incision of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73610000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incision of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incision of tonsil",
+          "lang": "en"
+        },
+        "id": "73610000"
+      }
+    },
+    {
+      "term": "Excision of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "173422009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsillectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsillectomy",
+          "lang": "en"
+        },
+        "id": "173422009"
+      }
+    },
+    {
+      "term": "Ts - Tonsillectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "173422009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsillectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsillectomy",
+          "lang": "en"
+        },
+        "id": "173422009"
+      }
+    },
+    {
+      "term": "Endoscopy of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "19247000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopy of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopy of tonsil",
+          "lang": "en"
+        },
+        "id": "19247000"
+      }
+    },
+    {
+      "term": "Injection of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39810004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Injection of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injection of tonsil",
+          "lang": "en"
+        },
+        "id": "39810004"
+      }
+    },
+    {
+      "term": "Procedure on tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385449002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Procedure on tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Procedure on tonsils",
+          "lang": "en"
+        },
+        "id": "385449002"
+      }
+    },
+    {
+      "term": "Operation on tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385450002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Operation on tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Operation on tonsils",
+          "lang": "en"
+        },
+        "id": "385450002"
+      }
+    },
+    {
+      "term": "Procedure on tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385449002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Procedure on tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Procedure on tonsils",
+          "lang": "en"
+        },
+        "id": "385449002"
+      }
+    },
+    {
+      "term": "Operation on tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "385450002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Operation on tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Operation on tonsils",
+          "lang": "en"
+        },
+        "id": "385450002"
+      }
+    },
+    {
+      "term": "Tonsil reconstruction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "119960001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsil reconstruction (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsil reconstruction",
+          "lang": "en"
+        },
+        "id": "119960001"
+      }
+    },
+    {
+      "term": "Lingual tonsillectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47823003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of lingual tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of lingual tonsil",
+          "lang": "en"
+        },
+        "id": "47823003"
+      }
+    },
+    {
+      "term": "Destruction of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "119964005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsil destructive procedure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsil destructive procedure",
+          "lang": "en"
+        },
+        "id": "119964005"
+      }
+    },
+    {
+      "term": "Radical tonsillectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1145322008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of tonsil, palatine arch and superior pharyngeal constrictor muscle (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of tonsil, palatine arch and superior pharyngeal constrictor muscle",
+          "lang": "en"
+        },
+        "id": "1145322008"
+      }
+    },
+    {
+      "term": "Remnant tonsillectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2171001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of tonsil tag (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of tonsil tag",
+          "lang": "en"
+        },
+        "id": "2171001"
+      }
+    },
+    {
+      "term": "Manipulation of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52473006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Manipulation of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Manipulation of tonsil",
+          "lang": "en"
+        },
+        "id": "52473006"
+      }
+    },
+    {
+      "term": "Excision of tonsil tag",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2171001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of tonsil tag (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of tonsil tag",
+          "lang": "en"
+        },
+        "id": "2171001"
+      }
+    },
+    {
+      "term": "Coblation tonsillectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "426391000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Plasma mediated ablation tonsillectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Plasma mediated ablation tonsillectomy",
+          "lang": "en"
+        },
+        "id": "426391000"
+      }
+    },
+    {
+      "term": "Dissection tonsillectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "173424005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dissection tonsillectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dissection tonsillectomy",
+          "lang": "en"
+        },
+        "id": "173424005"
+      }
+    },
+    {
+      "term": "Guillotine tonsillectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "173425006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Guillotine tonsillectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Guillotine tonsillectomy",
+          "lang": "en"
+        },
+        "id": "173425006"
+      }
+    },
+    {
+      "term": "Ultrasonic tonsillectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "853831000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Tonsillectomy using ultrasonic scalpel (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ultrasonic tonsillectomy",
+          "lang": "en"
+        },
+        "id": "853831000000102"
+      }
+    },
+    {
+      "term": "Suture of tonsillar fossa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9191009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Suture of tonsillar fossa (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Suture of tonsillar fossa",
+          "lang": "en"
+        },
+        "id": "9191009"
+      }
+    },
+    {
+      "term": "Tonsil repair (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "119962009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsil repair (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsil repair",
+          "lang": "en"
+        },
+        "id": "119962009"
+      }
+    },
+    {
+      "term": "Tonsillectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "173422009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsillectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsillectomy",
+          "lang": "en"
+        },
+        "id": "173422009"
+      }
+    },
+    {
+      "term": "Surgical biopsy of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274346005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surgical biopsy of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surgical biopsy of tonsil",
+          "lang": "en"
+        },
+        "id": "274346005"
+      }
+    },
+    {
+      "term": "Excision of lingual tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47823003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of lingual tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of lingual tonsil",
+          "lang": "en"
+        },
+        "id": "47823003"
+      }
+    },
+    {
+      "term": "Non-surgical tonsil biopsy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "287472000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-surgical tonsil biopsy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-surgical tonsil biopsy",
+          "lang": "en"
+        },
+        "id": "287472000"
+      }
+    },
+    {
+      "term": "Biopsy of lesion of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "173437008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Biopsy of lesion of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Biopsy of lesion of tonsil",
+          "lang": "en"
+        },
+        "id": "173437008"
+      }
+    },
+    {
+      "term": "Tonsil closure (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "119958003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsil closure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsil closure",
+          "lang": "en"
+        },
+        "id": "119958003"
+      }
+    },
+    {
+      "term": "Excision of lesion of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "494004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of lesion of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of lesion of tonsil",
+          "lang": "en"
+        },
+        "id": "494004"
+      }
+    },
+    {
+      "term": "Tonsil destructive procedure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "119964005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsil destructive procedure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsil destructive procedure",
+          "lang": "en"
+        },
+        "id": "119964005"
+      }
+    },
+    {
+      "term": "Biopsy of tonsil (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "90750001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Biopsy of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Biopsy of tonsil",
+          "lang": "en"
+        },
+        "id": "90750001"
+      }
+    },
+    {
+      "term": "Radiofrequency tonsillectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "854041000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Radiofrequency tonsillectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radiofrequency tonsillectomy",
+          "lang": "en"
+        },
+        "id": "854041000000104"
+      }
+    },
+    {
+      "term": "Drainage of abscess of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1691007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Drainage of abscess of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Drainage of abscess of tonsil",
+          "lang": "en"
+        },
+        "id": "1691007"
+      }
+    },
+    {
+      "term": "Bilateral laser tonsillectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "173426007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laser excision of bilateral tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laser excision of bilateral tonsils",
+          "lang": "en"
+        },
+        "id": "173426007"
+      }
+    },
+    {
+      "term": "Excision of remnant of tonsil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2171001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of tonsil tag (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excision of tonsil tag",
+          "lang": "en"
+        },
+        "id": "2171001"
+      }
+    },
+    {
+      "term": "Fulguration of tonsillar fossa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "86809007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fulguration of tonsillar fossa (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fulguration of tonsillar fossa",
+          "lang": "en"
+        },
+        "id": "86809007"
+      }
+    },
+    {
+      "term": "Drainage of tonsil (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34309001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Drainage of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Drainage of tonsil",
+          "lang": "en"
+        },
+        "id": "34309001"
+      }
+    },
+    {
+      "term": "Incision of tonsil (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73610000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incision of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incision of tonsil",
+          "lang": "en"
+        },
+        "id": "73610000"
+      }
+    },
+    {
+      "term": "Laser excision of both tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "173426007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laser excision of bilateral tonsils (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laser excision of bilateral tonsils",
+          "lang": "en"
+        },
+        "id": "173426007"
+      }
+    },
+    {
+      "term": "Tonsillectomy and adenoidectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28913000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsillectomy and adenoidectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsillectomy and adenoidectomy",
+          "lang": "en"
+        },
+        "id": "28913000"
+      }
+    },
+    {
+      "term": "Endoscopy of tonsil (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "19247000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Endoscopy of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Endoscopy of tonsil",
+          "lang": "en"
+        },
+        "id": "19247000"
+      }
+    },
+    {
+      "term": "Injection of tonsil (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39810004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Injection of tonsil (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injection of tonsil",
+          "lang": "en"
+        },
+        "id": "39810004"
+      }
+    },
+    {
+      "term": "Tonsillectomy with adenoidectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28913000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonsillectomy and adenoidectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonsillectomy and adenoidectomy",
+          "lang": "en"
+        },
+        "id": "28913000"
+      }
+    }
+  ]
+}

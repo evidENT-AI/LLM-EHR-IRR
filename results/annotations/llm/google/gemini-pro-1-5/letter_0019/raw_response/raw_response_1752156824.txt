@@ -1,0 +1,200 @@
+Response length: 7068 characters
+==================================================
+```json
+{
+  "labels": {
+    "thyroid was normal, nontender, with no palpable masses or adenopathy noted": {
+      "context": "The thyroid was normal, nontender, with no palpable masses or adenopathy noted.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "slightly decreased sensation to the left jaw": {
+      "context": "NEUROLOGIC: He does have slightly decreased sensation to the left jaw. He is able to feel pressure on touch. This extends also on to the left lateral tongue and the left intrabuccal mucosa.",
+      "qualifier": "signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "decreased sensation to the left lateral tongue": {
+      "context": "This extends also on to the left lateral tongue and the left intrabuccal mucosa.",
+      "qualifier": "signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "decreased sensation to the left intrabuccal mucosa": {
+      "context": "This extends also on to the left lateral tongue and the left intrabuccal mucosa.",
+      "qualifier": "signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no masses or lesions": {
+      "context": "DERMATOLOGIC: Evaluation reveals no masses or lesions. Skin turgor is normal.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Skin turgor is normal": {
+      "context": "DERMATOLOGIC: Evaluation reveals no masses or lesions. Skin turgor is normal.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "fiberoptic nasopharyngoscopy": {
+      "context": "A fiberoptic nasopharyngoscopy was also performed. See separate operative report in chart.",
+      "qualifier": "procedures",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "424040007"
+    },
+    "moderately deviated nasal septum to the left": {
+      "context": "This does reveal a moderately deviated nasal septum to the left, large inferior turbinates, no mass or neoplasm noted.",
+      "qualifier": "signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "75279002"
+    },
+    "large inferior turbinates": {
+      "context": "This does reveal a moderately deviated nasal septum to the left, large inferior turbinates, no mass or neoplasm noted.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no mass or neoplasm": {
+      "context": "This does reveal a moderately deviated nasal septum to the left, large inferior turbinates, no mass or neoplasm noted.",
+      "qualifier": "signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"  // Neoplasm is a broad term; negation needs specific context.
+    },
+    "Persistent paresthesia of the left manual teeth and tongue": {
+      "context": "1. Persistent paresthesia of the left manual teeth and tongue, consider possible neoplasm within the mandible.",
+      "qualifier": "diagnoses",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "67197008"
+    },
+    "possible neoplasm within the mandible": {
+      "context": "1. Persistent paresthesia of the left manual teeth and tongue, consider possible neoplasm within the mandible.",
+      "qualifier": "diagnoses",
+      "laterality": "NA",
+      "presence": "Suspected",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "126956007"
+    },
+    "tobacco use": {
+      "context": "2. History of tobacco use.",
+      "qualifier": "risk factors",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "371743009"
+    },
+    "Hypogeusia with loss of taste": {
+      "context": "3. Hypogeusia with loss of taste.",
+      "qualifier": "diagnoses",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "44054006"
+    },
+    "Headaches": {
+      "context": "4. Headaches.",
+      "qualifier": "symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "25064002"
+    },
+    "Xerostomia": {
+      "context": "5. Xerostomia.",
+      "qualifier": "symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "267036007"
+    },
+    "CT of the head": {
+      "context": "I have ordered a CT of the head. This includes sinuses and mandible. This is primarily to evaluate and make sure there is not a neoplasm as the source of this numbness that he has had.",
+      "qualifier": "procedures",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "increase his fluid intake": {
+      "context": "I did recommend he increase his fluid intake. He is to remain off the tobacco.",
+      "qualifier": "treatment",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "remain off the tobacco": {
+      "context": "He is to remain off the tobacco.",
+      "qualifier": "treatment",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    }
+  }
+}
+```
+
+==================================================

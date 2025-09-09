@@ -1,0 +1,938 @@
+Response length: 26474 characters
+==================================================
+```json
+{
+  "labels": {
+    "48-year-old": {
+      "context": "The patient is a 48-year-old female who was seen in consultation requested from Dr. X on 05/28/2008 regarding chronic headaches and pulsatile tinnitus.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "female": {
+      "context": "The patient is a 48-year-old female who was seen in consultation requested from Dr. X on 05/28/2008 regarding chronic headaches and pulsatile tinnitus.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "chronic headaches": {
+      "context": "The patient is a 48-year-old female who was seen in consultation requested from Dr. X on 05/28/2008 regarding chronic headaches and pulsatile tinnitus.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "25064002"
+    },
+    "pulsatile tinnitus": {
+      "context": "The patient is a 48-year-old female who was seen in consultation requested from Dr. X on 05/28/2008 regarding chronic headaches and pulsatile tinnitus.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "59962005"
+    },
+    "daily headaches": {
+      "context": "The patient reports she has been having daily headaches since 02/25/2008.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "25064002"
+    },
+    "pulsations in the head": {
+      "context": "She has been getting pulsations in the head with heartbeat sounds.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "heartbeat sounds": {
+      "context": "She has been getting pulsations in the head with heartbeat sounds.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "headaches": {
+      "context": "Headaches are now averaging about three times per week.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "25064002"
+    },
+     "headaches": {
+      "context": "Interestingly, she denies any previous significant history of headaches prior to this.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "25064002"
+    },
+    "nausea": {
+      "context": "There has been no nausea associated with the headaches.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "422587007"
+    },
+    "weird sounds": {
+      "context": "The patient does note that when she speaks on the phone, the left ear has \"weird sounds.\"",
+      "qualifier": "Symptoms",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "fullness": {
+      "context": "She feels a general fullness in the left ear.",
+      "qualifier": "Symptoms",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "46252008"
+    },
+    "pulsation sounds": {
+      "context": "She does note pulsation sounds within that left ear only.",
+      "qualifier": "Symptoms",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+    "ear pulsations": {
+      "context": "The patient reports that the ear pulsations began following an air flight to Iowa where she was visiting family.",
+      "qualifier": "Symptoms",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+
+      "pulsations in the ears": {
+        "context": "The patient does admit that the pulsations in the ears seem to be somewhat better over the past few weeks.",
+        "qualifier": "Symptoms",
+        "laterality": "bilateral",
+        "presence": "Confirmed",
+        "primary_secondary": "Primary",
+        "experiencer": "Patient",
+        "treatment_stage": "NA",
+        "snomed_ct": "NA"
+      },
+
+      "drop in hearing": {
+        "context": "Interestingly, there has been no significant drop or change in her hearing.",
+        "qualifier": "Symptoms",
+        "laterality": "NA",
+        "presence": "Negated",
+        "primary_secondary": "Primary",
+        "experiencer": "Patient",
+        "treatment_stage": "NA",
+        "snomed_ct": "NA"
+      },
+
+      "dizzy episodes": {
+        "context": "She does report she has had dizzy episodes in the past with nausea, being off balance at times.",
+        "qualifier": "Symptoms",
+        "laterality": "NA",
+        "presence": "Confirmed",
+        "primary_secondary": "Primary",
+        "experiencer": "Patient",
+        "treatment_stage": "NA",
+        "snomed_ct": "271777001"
+      },
+
+
+
+
+    "nausea": {
+      "context": "She does report she has had dizzy episodes in the past with nausea, being off balance at times.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+       "snomed_ct": "422587007"
+    },
+"off balance": {
+      "context": "She does report she has had dizzy episodes in the past with nausea, being off balance at times.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+"pulsations": {
+      "context": "It is not associated with the pulsations in the ear.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+"pulsations": {
+        "context": "She does admit the pulsations will tend to come and go and there had been periods where the pulsations have completely cleared in the ear.",
+        "qualifier": "Symptoms",
+        "laterality": "NA",
+        "presence": "Confirmed",
+        "primary_secondary": "Primary",
+        "experiencer": "Patient",
+        "treatment_stage": "NA",
+        "snomed_ct": "NA"
+
+},
+
+"vision changes": {
+        "context": "She is denying any vision changes.",
+        "qualifier": "Symptoms",
+        "laterality": "NA",
+        "presence": "Negated",
+        "primary_secondary": "Primary",
+        "experiencer": "Patient",
+        "treatment_stage": "NA",
+        "snomed_ct": "NA"
+},
+
+"headaches": {
+        "context": "The headaches are listed as moderate to severe in intensity on average about three to four times per week.",
+        "qualifier": "Symptoms",
+        "laterality": "NA",
+        "presence": "Confirmed",
+        "primary_secondary": "Primary",
+        "experiencer": "Patient",
+        "treatment_stage": "NA",
+        "snomed_ct": "25064002"
+      },
+"Tylenol": {
+        "context": "She has been taking Tylenol and Excedrin to try to control the headaches and that seems to be helping somewhat.",
+        "qualifier": "Treatments",
+        "laterality": "NA",
+        "presence": "Confirmed",
+        "primary_secondary": "Primary",
+        "experiencer": "Patient",
+        "treatment_stage": "NA",
+        "snomed_ct": "NA"
+      },
+      "Excedrin": {
+        "context": "She has been taking Tylenol and Excedrin to try to control the headaches and that seems to be helping somewhat.",
+        "qualifier": "Treatments",
+        "laterality": "NA",
+        "presence": "Confirmed",
+        "primary_secondary": "Primary",
+        "experiencer": "Patient",
+        "treatment_stage": "NA",
+        "snomed_ct": "NA"
+      },
+          "headaches": {
+        "context": "She has been taking Tylenol and Excedrin to try to control the headaches and that seems to be helping somewhat.",
+        "qualifier": "Symptoms",
+        "laterality": "NA",
+        "presence": "Confirmed",
+        "primary_secondary": "Primary",
+        "experiencer": "Patient",
+        "treatment_stage": "NA",
+        "snomed_ct": "25064002"
+      },
+"symptoms": {
+        "context": "The patient presents today for further workup, evaluation, and treatment of the above-listed symptoms.",
+        "qualifier": "Symptoms",
+        "laterality": "NA",
+        "presence": "Confirmed",
+        "primary_secondary": "Primary",
+        "experiencer": "Patient",
+        "treatment_stage": "NA",
+        "snomed_ct": "NA"
+      },
+
+
+"Hypercholesterolemia": {
+"context": "CARDIOVASCULAR: Hypercholesterolemia.",
+"qualifier": "Diagnoses",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "13644009"
+
+},
+
+
+
+"nausea": {
+"context": "GASTROINTESTINAL: Pertinent for nausea.",
+"qualifier": "Symptoms",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "422587007"
+},
+
+"living kidney donor": {
+"context": "GENITOURINARY: The patient is noted to be a living kidney donor and has only one kidney.",
+"qualifier": "Risk Factors",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+
+},
+
+"dizziness": {
+"context": "NEUROLOGIC: History of dizziness and the headaches as listed above.",
+"qualifier": "Symptoms",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "271777001"
+
+
+},
+
+"headaches": {
+"context": "NEUROLOGIC: History of dizziness and the headaches as listed above.",
+"qualifier": "Symptoms",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "25064002"
+
+},
+
+
+"itching": {
+"context": "DERMATOLOGIC: History of itching. She has also had a previous history of skin cancer on the arm and back.",
+"qualifier": "Symptoms",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "416295008"
+
+
+},
+
+
+"skin cancer": {
+"context": "DERMATOLOGIC: History of itching. She has also had a previous history of skin cancer on the arm and back.",
+"qualifier": "Diagnoses",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "372201006"
+},
+
+
+"increased weight gain": {
+"context": "CONSTITUTIONAL: She has had an increased weight gain and fatigue over the past year.",
+"qualifier": "Signs",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "442268003"
+},
+
+
+"fatigue": {
+"context": "CONSTITUTIONAL: She has had an increased weight gain and fatigue over the past year.",
+"qualifier": "Symptoms",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "84229001"
+
+},
+
+"left nephrectomy": {
+"context": "She has had a left nephrectomy, C-sections, mastoidectomy, laparoscopy, and T&A.",
+"qualifier": "Procedures",
+"laterality": "left",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "Post-treatment",
+"snomed_ct": "128035006"
+},
+
+"C-sections": {
+"context": "She has had a left nephrectomy, C-sections, mastoidectomy, laparoscopy, and T&A.",
+"qualifier": "Procedures",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "Post-treatment",
+"snomed_ct": "112790001"
+},
+
+
+
+"mastoidectomy": {
+      "context": "She has had a left nephrectomy, C-sections, mastoidectomy, laparoscopy, and T&A.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Post-treatment",
+      "snomed_ct": "17321007"
+    },
+
+
+"laparoscopy": {
+"context": "She has had a left nephrectomy, C-sections, mastoidectomy, laparoscopy, and T&A.",
+"qualifier": "Procedures",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "Post-treatment",
+"snomed_ct": "44733003"
+
+
+},
+
+"T&A": {
+"context": "She has had a left nephrectomy, C-sections, mastoidectomy, laparoscopy, and T&A.",
+"qualifier": "Procedures",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "Post-treatment",
+"snomed_ct": "NA"
+
+
+},
+
+"cancer": {
+"context": "Father, history of cancer, hypertension, and heart disease.",
+"qualifier": "Diagnoses",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "NA",
+"experiencer": "Family",
+"treatment_stage": "NA",
+"snomed_ct": "363346000"
+
+},
+
+"hypertension": {
+"context": "Father, history of cancer, hypertension, and heart disease.",
+"qualifier": "Diagnoses",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "NA",
+"experiencer": "Family",
+"treatment_stage": "NA",
+"snomed_ct": "38341003"
+
+},
+
+
+"heart disease": {
+"context": "Father, history of cancer, hypertension, and heart disease.",
+"qualifier": "Diagnoses",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "NA",
+"experiencer": "Family",
+"treatment_stage": "NA",
+"snomed_ct": "56265001"
+
+},
+
+"Tylenol": {
+"context": "Current Medications: Tylenol, Excedrin, and she is on multivitamin and probiotic's.",
+"qualifier": "Treatments",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "NA",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+},
+
+"Excedrin": {
+"context": "Current Medications: Tylenol, Excedrin, and she is on multivitamin and probiotic's.",
+"qualifier": "Treatments",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "NA",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+},
+
+"multivitamin": {
+"context": "Current Medications: Tylenol, Excedrin, and she is on multivitamin and probiotic's.",
+"qualifier": "Treatments",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "NA",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+
+},
+
+
+"probiotic's": {
+"context": "Current Medications: Tylenol, Excedrin, and she is on multivitamin and probiotic's.",
+"qualifier": "Treatments",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "NA",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+
+
+},
+
+"allergic": {
+"context": "She is allergic to codeine and penicillin.",
+"qualifier": "Risk Factors",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "426177001"
+
+},
+
+
+"codeine": {
+"context": "She is allergic to codeine and penicillin.",
+"qualifier": "Risk Factors",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+},
+
+
+
+"penicillin": {
+"context": "She is allergic to codeine and penicillin.",
+"qualifier": "Risk Factors",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+},
+
+"married": {
+"context": "She is married. She works at Eye Center as a receptionist. She denies tobacco at this time though she was a previous smoker, stopped four years ago, and she denies alcohol use.",
+"qualifier": "Sociodemographics",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "NA",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+},
+
+
+
+"receptionist": {
+      "context": "She is married. She works at Eye Center as a receptionist. She denies tobacco at this time though she was a previous smoker, stopped four years ago, and she denies alcohol use.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+
+"tobacco": {
+      "context": "She is married. She works at Eye Center as a receptionist. She denies tobacco at this time though she was a previous smoker, stopped four years ago, and she denies alcohol use.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+
+
+"previous smoker": {
+      "context": "She is married. She works at Eye Center as a receptionist. She denies tobacco at this time though she was a previous smoker, stopped four years ago, and she denies alcohol use.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+
+
+
+    "alcohol use": {
+      "context": "She is married. She works at Eye Center as a receptionist. She denies tobacco at this time though she was a previous smoker, stopped four years ago, and she denies alcohol use.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+
+
+
+"Blood pressure 120/78": {
+"context": "VITAL SIGNS: Blood pressure 120/78, pulse 64 and regular, and the temperature is 97.4.",
+"qualifier": "Test Results",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+
+},
+
+
+
+"pulse 64 and regular": {
+"context": "VITAL SIGNS: Blood pressure 120/78, pulse 64 and regular, and the temperature is 97.4.",
+"qualifier": "Test Results",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+
+},
+
+
+
+"temperature is 97.4": {
+"context": "VITAL SIGNS: Blood pressure 120/78, pulse 64 and regular, and the temperature is 97.4.",
+"qualifier": "Test Results",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+
+
+},
+
+
+
+"alert": {
+      "context": "GENERAL: The patient is an alert, cooperative, well-developed 48-year-old female with a normal-sounding voice and good memory.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "cooperative": {
+      "context": "GENERAL: The patient is an alert, cooperative, well-developed 48-year-old female with a normal-sounding voice and good memory.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+
+
+"well-developed": {
+      "context": "GENERAL: The patient is an alert, cooperative, well-developed 48-year-old female with a normal-sounding voice and good memory.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+
+
+
+"normal-sounding voice": {
+      "context": "GENERAL: The patient is an alert, cooperative, well-developed 48-year-old female with a normal-sounding voice and good memory.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+
+"good memory": {
+      "context": "GENERAL: The patient is an alert, cooperative, well-developed 48-year-old female with a normal-sounding voice and good memory.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+
+
+"no scars": {
+"context": "HEAD & FACE: Inspected with no scars, lesions or masses noted.",
+"qualifier": "Signs",
+"laterality": "NA",
+"presence": "Negated",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+
+},
+
+
+
+"lesions": {
+"context": "HEAD & FACE: Inspected with no scars, lesions or masses noted.",
+"qualifier": "Signs",
+"laterality": "NA",
+"presence": "Negated",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+
+},
+
+
+
+"masses": {
+"context": "HEAD & FACE: Inspected with no scars, lesions or masses noted. Sinuses palpated and are normal. Salivary glands also palpated and are normal with no masses noted.",
+"qualifier": "Signs",
+"laterality": "NA",
+"presence": "Negated",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "48632008"
+
+},
+
+
+"Sinuses palpated and are normal": {
+"context": "Sinuses palpated and are normal. Salivary glands also palpated and are normal with no masses noted.",
+"qualifier": "Test Results",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+
+},
+
+
+
+
+"Salivary glands also palpated and are normal": {
+"context": "Salivary glands also palpated and are normal with no masses noted.",
+"qualifier": "Test Results",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+
+
+},
+
+
+
+
+
+"full facial function": {
+      "context": "The patient also has full facial function.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+
+
+"Heart regular rate and rhythm without murmur": {
+
+"context": "CARDIOVASCULAR: Heart regular rate and rhythm without murmur.",
+"qualifier": "Signs",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+
+},
+
+"murmur": {
+"context": "CARDIOVASCULAR: Heart regular rate and rhythm without murmur.",
+"qualifier": "Signs",
+"laterality": "NA",
+"presence": "Negated",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "18883004"
+},
+
+
+"Lungs auscultated and noted to be clear to auscultation bilaterally with no wheezing or rubs and normal respiratory effort": {
+"context": "RESPIRATORY: Lungs auscultated and noted to be clear to auscultation bilaterally with no wheezing or rubs and normal respiratory effort.",
+"qualifier": "Test Results",
+"laterality": "bilateral",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+},
+
+"wheezing": {
+      "context": "RESPIRATORY: Lungs auscultated and noted to be clear to auscultation bilaterally with no wheezing or rubs and normal respiratory effort.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "232063003"
+    },
+
+
+"rubs": {
+      "context": "RESPIRATORY: Lungs auscultated and noted to be clear to auscultation bilaterally with no wheezing or rubs and normal respiratory effort.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "28716009"
+    },
+
+
+"normal respiratory effort": {
+      "context": "RESPIRATORY: Lungs auscultated and noted to be clear to auscultation bilaterally with no wheezing or rubs and normal respiratory effort.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+
+
+
+
+"Extraocular muscles were tested and within normal limits": {
+"context": "EYES: Extraocular muscles were tested and within normal limits.",
+"qualifier": "Test Results",
+"laterality": "NA",
+"presence": "Confirmed",
+"primary_secondary": "Primary",
+"experiencer": "Patient",
+"treatment_stage": "NA",
+"snomed_ct": "NA"
+
+},
+
+"old mastoidectomy scar": {
+      "context": "EARS: There is an old mastoidectomy scar, left ear.",
+      "qualifier": "Signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary":
+==================================================

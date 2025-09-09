@@ -1,0 +1,1284 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 6,
+      "900000000000207008": 42
+    },
+    "semanticTags": {
+      "environment": 7,
+      "disorder": 5,
+      "occupation": 1,
+      "organism": 1,
+      "physical object": 1,
+      "substance": 1,
+      "event": 5,
+      "finding": 2,
+      "qualifier value": 1
+    },
+    "language": {
+      "en": 48
+    },
+    "membership": {
+      "1322291000000109": 16,
+      "991291000000101": 1,
+      "1127601000000107": 7,
+      "1382531000000102": 2,
+      "999003091000000101": 1,
+      "999002271000000101": 69,
+      "999001571000000109": 1,
+      "999000401000000107": 1,
+      "900000000000497000": 21,
+      "1024501000000108": 2,
+      "733073007": 24,
+      "999002871000000102": 1,
+      "30931000001101": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991291000000101": {
+      "conceptId": "991291000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care place of injury type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care place of injury type simple reference set",
+        "lang": "en"
+      },
+      "id": "991291000000101"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "1024501000000108": {
+      "conceptId": "1024501000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care injury activity type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care injury activity type simple reference set",
+        "lang": "en"
+      },
+      "id": "1024501000000108"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002871000000102": {
+      "conceptId": "999002871000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002871000000102"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 48,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 48,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Swimming",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20461001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swimming (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swimming",
+          "lang": "en"
+        },
+        "id": "20461001"
+      }
+    },
+    {
+      "term": "Swimming pool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "257712001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swimming pool",
+          "lang": "en"
+        },
+        "id": "257712001"
+      }
+    },
+    {
+      "term": "Difficulty swimming",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714997002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Difficulty swimming (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Difficulty swimming",
+          "lang": "en"
+        },
+        "id": "714997002"
+      }
+    },
+    {
+      "term": "Swimming pool water",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "446278008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swimming pool water (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swimming pool water",
+          "lang": "en"
+        },
+        "id": "446278008"
+      }
+    },
+    {
+      "term": "Public swimming pool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15496002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Public swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Public swimming pool",
+          "lang": "en"
+        },
+        "id": "15496002"
+      }
+    },
+    {
+      "term": "Private swimming pool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "257671005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Private swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Private swimming pool",
+          "lang": "en"
+        },
+        "id": "257671005"
+      }
+    },
+    {
+      "term": "Injury whilst swimming",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1067731000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Injury whilst swimming (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injury whilst swimming",
+          "lang": "en"
+        },
+        "id": "1067731000000107"
+      }
+    },
+    {
+      "term": "Swimming pool attendant",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "159764004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swimming pool attendant (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swimming pool attendant",
+          "lang": "en"
+        },
+        "id": "159764004"
+      }
+    },
+    {
+      "term": "Swimming pool granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "240417004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fish tank granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fish tank granuloma",
+          "lang": "en"
+        },
+        "id": "240417004"
+      }
+    },
+    {
+      "term": "Assistive swimming float",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "465469003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Assistive swimming float (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assistive swimming float",
+          "lang": "en"
+        },
+        "id": "465469003"
+      }
+    },
+    {
+      "term": "Swimming pool dermatitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "897040003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irritant contact dermatitis caused by chlorine in swimming pool (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irritant contact dermatitis caused by chlorine in swimming pool",
+          "lang": "en"
+        },
+        "id": "897040003"
+      }
+    },
+    {
+      "term": "Hit wall of swimming pool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217118007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hit wall of swimming pool (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hit wall of swimming pool",
+          "lang": "en"
+        },
+        "id": "217118007"
+      }
+    },
+    {
+      "term": "Hit board of swimming pool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217119004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hit board of swimming pool (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hit board of swimming pool",
+          "lang": "en"
+        },
+        "id": "217119004"
+      }
+    },
+    {
+      "term": "Swimming (qualifier value)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20461001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swimming (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swimming",
+          "lang": "en"
+        },
+        "id": "20461001"
+      }
+    },
+    {
+      "term": "Swimming pool (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "257712001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swimming pool",
+          "lang": "en"
+        },
+        "id": "257712001"
+      }
+    },
+    {
+      "term": "Free-swimming dinoflagellate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20853002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Free-swimming dinoflagellate (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Free-swimming dinoflagellate",
+          "lang": "en"
+        },
+        "id": "20853002"
+      }
+    },
+    {
+      "term": "Swimming pool conjunctivitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56009001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inclusion conjunctivitis of the adult (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inclusion conjunctivitis of the adult",
+          "lang": "en"
+        },
+        "id": "56009001"
+      }
+    },
+    {
+      "term": "Difficulty swimming (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714997002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Difficulty swimming (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Difficulty swimming",
+          "lang": "en"
+        },
+        "id": "714997002"
+      }
+    },
+    {
+      "term": "Swimming pool water (substance)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "446278008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swimming pool water (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swimming pool water",
+          "lang": "en"
+        },
+        "id": "446278008"
+      }
+    },
+    {
+      "term": "Hit wall of swimming pool (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217118007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hit wall of swimming pool (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hit wall of swimming pool",
+          "lang": "en"
+        },
+        "id": "217118007"
+      }
+    },
+    {
+      "term": "Injury whilst swimming (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1067731000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Injury whilst swimming (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injury whilst swimming",
+          "lang": "en"
+        },
+        "id": "1067731000000107"
+      }
+    },
+    {
+      "term": "Public swimming pool (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15496002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Public swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Public swimming pool",
+          "lang": "en"
+        },
+        "id": "15496002"
+      }
+    },
+    {
+      "term": "Hit board of swimming pool (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217119004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hit board of swimming pool (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hit board of swimming pool",
+          "lang": "en"
+        },
+        "id": "217119004"
+      }
+    },
+    {
+      "term": "Residential in ground swimming pool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82898005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Residential in ground swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Residential in ground swimming pool",
+          "lang": "en"
+        },
+        "id": "82898005"
+      }
+    },
+    {
+      "term": "Private swimming pool (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "257671005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Private swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Private swimming pool",
+          "lang": "en"
+        },
+        "id": "257671005"
+      }
+    },
+    {
+      "term": "Injury whilst synchronised swimming",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1068181000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Injury whilst synchronised swimming (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injury whilst synchronised swimming",
+          "lang": "en"
+        },
+        "id": "1068181000000106"
+      }
+    },
+    {
+      "term": "Swimming pool attendant (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "159764004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swimming pool attendant (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swimming pool attendant",
+          "lang": "en"
+        },
+        "id": "159764004"
+      }
+    },
+    {
+      "term": "Above ground residential swimming pool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2664007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Above ground residential swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Above ground residential swimming pool",
+          "lang": "en"
+        },
+        "id": "2664007"
+      }
+    },
+    {
+      "term": "Free-swimming dinoflagellate (organism)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20853002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Free-swimming dinoflagellate (organism)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Free-swimming dinoflagellate",
+          "lang": "en"
+        },
+        "id": "20853002"
+      }
+    },
+    {
+      "term": "Accident caused by fall into swimming pool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217121009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Accident caused by fall into swimming pool (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Accident caused by fall into swimming pool",
+          "lang": "en"
+        },
+        "id": "217121009"
+      }
+    },
+    {
+      "term": "Assistive swimming float (physical object)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "465469003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Assistive swimming float (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assistive swimming float",
+          "lang": "en"
+        },
+        "id": "465469003"
+      }
+    },
+    {
+      "term": "Injury whilst synchronised swimming (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1068181000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Injury whilst synchronised swimming (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Injury whilst synchronised swimming",
+          "lang": "en"
+        },
+        "id": "1068181000000106"
+      }
+    },
+    {
+      "term": "Accidental drowning or immersion while swimming",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "242662001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Accidental drowning or immersion while swimming (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Accidental drowning or immersion while swimming",
+          "lang": "en"
+        },
+        "id": "242662001"
+      }
+    },
+    {
+      "term": "Accidental drowning or immersion whilst swimming",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "242662001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Accidental drowning or immersion while swimming (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Accidental drowning or immersion while swimming",
+          "lang": "en"
+        },
+        "id": "242662001"
+      }
+    },
+    {
+      "term": "Residential in ground swimming pool (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82898005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Residential in ground swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Residential in ground swimming pool",
+          "lang": "en"
+        },
+        "id": "82898005"
+      }
+    },
+    {
+      "term": "Accident caused by fall into swimming pool (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217121009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Accident caused by fall into swimming pool (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Accident caused by fall into swimming pool",
+          "lang": "en"
+        },
+        "id": "217121009"
+      }
+    },
+    {
+      "term": "Accidental drowning and submersion in swimming pool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217776008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Accidental drowning and submersion in swimming pool (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Accidental drowning and submersion in swimming pool",
+          "lang": "en"
+        },
+        "id": "217776008"
+      }
+    },
+    {
+      "term": "Above ground residential swimming pool (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2664007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Above ground residential swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Above ground residential swimming pool",
+          "lang": "en"
+        },
+        "id": "2664007"
+      }
+    },
+    {
+      "term": "Accidental drowning or immersion while swimming (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "242662001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Accidental drowning or immersion while swimming (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Accidental drowning or immersion while swimming",
+          "lang": "en"
+        },
+        "id": "242662001"
+      }
+    },
+    {
+      "term": "Accidental drowning and submersion in swimming pool (event)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "217776008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Accidental drowning and submersion in swimming pool (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Accidental drowning and submersion in swimming pool",
+          "lang": "en"
+        },
+        "id": "217776008"
+      }
+    },
+    {
+      "term": "Irritant contact dermatitis caused by chlorine in swimming pool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "897040003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irritant contact dermatitis caused by chlorine in swimming pool (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irritant contact dermatitis caused by chlorine in swimming pool",
+          "lang": "en"
+        },
+        "id": "897040003"
+      }
+    },
+    {
+      "term": "Place of occurrence of accident or poisoning, public swimming pool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "216382000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Place of occurrence of accident or poisoning, public swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Place of occurrence of accident or poisoning, public swimming pool",
+          "lang": "en"
+        },
+        "id": "216382000"
+      }
+    },
+    {
+      "term": "Place of occurrence of injury is swimming pool in home environment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1065111000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Place of occurrence of injury is swimming pool in home environment (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Place of occurrence of injury is swimming pool in home environment",
+          "lang": "en"
+        },
+        "id": "1065111000000106"
+      }
+    },
+    {
+      "term": "Place of occurrence of accident or poisoning, private swimming pool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "216326000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Place of occurrence of accident or poisoning, private swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Place of occurrence of accident or poisoning, private swimming pool",
+          "lang": "en"
+        },
+        "id": "216326000"
+      }
+    },
+    {
+      "term": "Irritant contact dermatitis caused by chlorine in swimming pool (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "897040003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irritant contact dermatitis caused by chlorine in swimming pool (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irritant contact dermatitis caused by chlorine in swimming pool",
+          "lang": "en"
+        },
+        "id": "897040003"
+      }
+    },
+    {
+      "term": "Place of occurrence of injury is swimming pool in home environment (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1065111000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Place of occurrence of injury is swimming pool in home environment (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Place of occurrence of injury is swimming pool in home environment",
+          "lang": "en"
+        },
+        "id": "1065111000000106"
+      }
+    },
+    {
+      "term": "Place of occurrence of accident or poisoning, public swimming pool (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "216382000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Place of occurrence of accident or poisoning, public swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Place of occurrence of accident or poisoning, public swimming pool",
+          "lang": "en"
+        },
+        "id": "216382000"
+      }
+    },
+    {
+      "term": "Place of occurrence of accident or poisoning, private swimming pool (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "216326000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Place of occurrence of accident or poisoning, private swimming pool (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Place of occurrence of accident or poisoning, private swimming pool",
+          "lang": "en"
+        },
+        "id": "216326000"
+      }
+    }
+  ]
+}

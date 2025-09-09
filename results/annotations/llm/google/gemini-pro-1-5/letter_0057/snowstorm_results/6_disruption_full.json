@@ -1,0 +1,712 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 28
+    },
+    "semanticTags": {
+      "finding": 15
+    },
+    "language": {
+      "en": 28
+    },
+    "membership": {
+      "1322291000000109": 15,
+      "1127601000000107": 15,
+      "900000000000497000": 15,
+      "733073007": 15,
+      "999002271000000101": 15
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 28,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 28,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Family disruption",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28332004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption",
+          "lang": "en"
+        },
+        "id": "28332004"
+      }
+    },
+    {
+      "term": "Family disruption (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28332004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption",
+          "lang": "en"
+        },
+        "id": "28332004"
+      }
+    },
+    {
+      "term": "Family disruption due to divorce",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "76799001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to divorce (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to divorce",
+          "lang": "en"
+        },
+        "id": "76799001"
+      }
+    },
+    {
+      "term": "Family disruption with separation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8228006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption with separation (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption with separation",
+          "lang": "en"
+        },
+        "id": "8228006"
+      }
+    },
+    {
+      "term": "Family disruption without divorce",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "76722000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption without divorce (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption without divorce",
+          "lang": "en"
+        },
+        "id": "76722000"
+      }
+    },
+    {
+      "term": "Temporary disruption in family processes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1149254008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Temporary disruption in family processes (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Temporary disruption in family processes",
+          "lang": "en"
+        },
+        "id": "1149254008"
+      }
+    },
+    {
+      "term": "Disruption of corneal endothelial pattern",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "246971005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Disruption of corneal endothelial pattern (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Disruption of corneal endothelial pattern",
+          "lang": "en"
+        },
+        "id": "246971005"
+      }
+    },
+    {
+      "term": "Family disruption due to legal separation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128391000119101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to legal separation (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to legal separation",
+          "lang": "en"
+        },
+        "id": "128391000119101"
+      }
+    },
+    {
+      "term": "Family disruption due to divorce (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "76799001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to divorce (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to divorce",
+          "lang": "en"
+        },
+        "id": "76799001"
+      }
+    },
+    {
+      "term": "Family disruption without divorce (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "76722000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption without divorce (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption without divorce",
+          "lang": "en"
+        },
+        "id": "76722000"
+      }
+    },
+    {
+      "term": "Family disruption with separation (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8228006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption with separation (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption with separation",
+          "lang": "en"
+        },
+        "id": "8228006"
+      }
+    },
+    {
+      "term": "Family disruption due to death of family member",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "134561000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to death of family member (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to death of family member",
+          "lang": "en"
+        },
+        "id": "134561000119109"
+      }
+    },
+    {
+      "term": "Family disruption due to child in welfare custody",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125191000119105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to child in welfare custody (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to child in welfare custody",
+          "lang": "en"
+        },
+        "id": "125191000119105"
+      }
+    },
+    {
+      "term": "Family disruption due to parent-child estrangement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125181000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to parent-child estrangement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to parent-child estrangement",
+          "lang": "en"
+        },
+        "id": "125181000119107"
+      }
+    },
+    {
+      "term": "Temporary disruption in family processes (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1149254008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Temporary disruption in family processes (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Temporary disruption in family processes",
+          "lang": "en"
+        },
+        "id": "1149254008"
+      }
+    },
+    {
+      "term": "Disruption of corneal endothelial pattern (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "246971005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Disruption of corneal endothelial pattern (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Disruption of corneal endothelial pattern",
+          "lang": "en"
+        },
+        "id": "246971005"
+      }
+    },
+    {
+      "term": "Family disruption due to legal separation (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128391000119101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to legal separation (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to legal separation",
+          "lang": "en"
+        },
+        "id": "128391000119101"
+      }
+    },
+    {
+      "term": "Family disruption due to death of family member (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "134561000119109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to death of family member (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to death of family member",
+          "lang": "en"
+        },
+        "id": "134561000119109"
+      }
+    },
+    {
+      "term": "Family disruption due to extended absence of family member",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "134571000119103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to extended absence of family member (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to extended absence of family member",
+          "lang": "en"
+        },
+        "id": "134571000119103"
+      }
+    },
+    {
+      "term": "Family disruption due to child in welfare custody (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125191000119105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to child in welfare custody (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to child in welfare custody",
+          "lang": "en"
+        },
+        "id": "125191000119105"
+      }
+    },
+    {
+      "term": "Family disruption due to parent-child estrangement (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125181000119107",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to parent-child estrangement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to parent-child estrangement",
+          "lang": "en"
+        },
+        "id": "125181000119107"
+      }
+    },
+    {
+      "term": "Family disruption due to child under care of non-parental relative",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289371000119100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to child under care of non-parental relative (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to child under care of non-parental relative",
+          "lang": "en"
+        },
+        "id": "289371000119100"
+      }
+    },
+    {
+      "term": "Family disruption due to child returning to or placed in foster care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289361000119106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to child returning to or placed in foster care (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to child returning to or placed in foster care",
+          "lang": "en"
+        },
+        "id": "289361000119106"
+      }
+    },
+    {
+      "term": "Family disruption due to extended absence of family member (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "134571000119103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to extended absence of family member (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to extended absence of family member",
+          "lang": "en"
+        },
+        "id": "134571000119103"
+      }
+    },
+    {
+      "term": "Family disruption due to child under care of non-parental relative (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289371000119100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to child under care of non-parental relative (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to child under care of non-parental relative",
+          "lang": "en"
+        },
+        "id": "289371000119100"
+      }
+    },
+    {
+      "term": "Family disruption due to child returning to or placed in foster care (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289361000119106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family disruption due to child returning to or placed in foster care (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family disruption due to child returning to or placed in foster care",
+          "lang": "en"
+        },
+        "id": "289361000119106"
+      }
+    },
+    {
+      "term": "A common symptom in disorders like schizophrenia with disruption of thought processes causing incoherent and fragmented thinking. It includes tangentiality (drifting off-topic), derailment (unrelated topic shifts), circumstantiality (excessive detail), incoherence (incomprehensible speech), loose associations and neologisms (creating new words).",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1343693003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Conceptual disorganization (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Conceptual disorganization",
+          "lang": "en"
+        },
+        "id": "1343693003"
+      }
+    },
+    {
+      "term": "Test carried out to indicate foveal disruption of the distal radioulnar ligaments. The person being examined sits opposite the examiner with elbow on the table. The examiner supports the hand to keep the elbow in 90 to 110 degrees of flexion, the examiner's thumb tip is then pressed distally and deep into the space between the ulnar styloid process, flexor carpi ulnaris tendon, volar surface of the ulnar head and the pisiform. The sign is positive where the test elicits pain.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1231518006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ulnar fovea sign (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ulnar fovea sign",
+          "lang": "en"
+        },
+        "id": "1231518006"
+      }
+    }
+  ]
+}

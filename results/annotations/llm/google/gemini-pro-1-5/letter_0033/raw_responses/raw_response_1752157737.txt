@@ -1,0 +1,169 @@
+Response length: 7648 characters
+==================================================
+```json
+{
+  "labels": {
+    "normal respiratory effort": {
+      "context": "RESPIRATORY: Lungs auscultated and noted to be clear to auscultation bilaterally with no wheezing or rubs and normal respiratory effort.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Extraocular muscles were tested and within normal limits": {
+      "context": "EYES: Extraocular muscles were tested and within normal limits.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "external ear is normal": {
+      "context": "EARS: Right ear, the external ear is normal. The ear canal is clean and dry. The drum is intact. She has got severe tympanosclerosis of the right tympanic membrane and Weber exam does lateralize to the right ear indicative of a conductive loss.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "ear canal is clean and dry": {
+      "context": "EARS: Right ear, the external ear is normal. The ear canal is clean and dry. The drum is intact. She has got severe tympanosclerosis of the right tympanic membrane and Weber exam does lateralize to the right ear indicative of a conductive loss.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "drum is intact": {
+      "context": "EARS: Right ear, the external ear is normal. The ear canal is clean and dry. The drum is intact. She has got severe tympanosclerosis of the right tympanic membrane and Weber exam does lateralize to the right ear indicative of a conductive loss.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"  // Consider a more specific SNOMED CT code if one exists for intact eardrum
+    },
+    "severe tympanosclerosis of the right tympanic membrane": {
+      "context": "EARS: Right ear, the external ear is normal. The ear canal is clean and dry. The drum is intact. She has got severe tympanosclerosis of the right tympanic membrane and Weber exam does lateralize to the right ear indicative of a conductive loss.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "19541004"
+    },
+    "Weber exam does lateralize to the right ear indicative of a conductive loss": {
+      "context": "EARS: Right ear, the external ear is normal. The ear canal is clean and dry. The drum is intact. She has got severe tympanosclerosis of the right tympanic membrane and Weber exam does lateralize to the right ear indicative of a conductive loss.",
+      "qualifier": "Test Results",
+      "laterality": "right",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "conductive loss": {
+      "context": "EARS: Right ear, the external ear is normal. The ear canal is clean and dry. The drum is intact. She has got severe tympanosclerosis of the right tympanic membrane and Weber exam does lateralize to the right ear indicative of a conductive loss.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "44157007"
+    },
+    "external ear is normal": {
+      "context": "Left ear, the external ear is normal. The ear canal is clean and dry. The drum is intact and mobile with grossly normal hearing.",
+      "qualifier": "Signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "ear canal is clean and dry": {
+      "context": "Left ear, the external ear is normal. The ear canal is clean and dry. The drum is intact and mobile with grossly normal hearing.",
+      "qualifier": "Signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "drum is intact and mobile": {
+      "context": "Left ear, the external ear is normal. The ear canal is clean and dry. The drum is intact and mobile with grossly normal hearing.",
+      "qualifier": "Signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA" // Consider a more specific SNOMED CT code if one exists for intact and mobile eardrum.
+    },
+    "grossly normal hearing": {
+      "context": "Left ear, the external ear is normal. The ear canal is clean and dry. The drum is intact and mobile with grossly normal hearing.",
+      "qualifier": "Signs",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal hearing in the left ear": {
+      "context": "The audiogram does reveal normal hearing in the left ear. She has got a mild conductive loss throughout all frequency ranges in the right ear with excellent discrimination scores noted bilaterally.",
+      "qualifier": "Test Results",
+      "laterality": "left",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "mild conductive loss throughout all frequency ranges in the right ear": {
+      "context": "The audiogram does reveal normal hearing in the left ear. She has got a mild conductive loss throughout all frequency ranges in the right ear with excellent discrimination scores noted bilaterally.",
+      "qualifier": "Test Results",
+      "laterality": "right",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "44157007"
+    },
+    "excellent discrimination scores noted bilaterally": {
+      "context": "The audiogram does reveal normal hearing in the left ear. She has got a mild conductive loss throughout all frequency ranges in the right ear with excellent discrimination scores noted bilaterally.",
+      "qualifier": "Test Results",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no adequate seal obtained on the right side": {
+      "context": "Tympanograms, there was no adequate seal obtained on the right side. She has a normal type A tympanogram, left side.",
+      "qualifier": "Test Results",
+      "laterality": "right",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+
+
+
+==================================================

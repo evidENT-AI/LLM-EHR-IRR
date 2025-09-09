@@ -1,0 +1,1578 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 17,
+      "900000000000207008": 403
+    },
+    "semanticTags": {
+      "disorder": 240,
+      "assessment scale": 2,
+      "observable entity": 3,
+      "procedure": 4,
+      "finding": 6
+    },
+    "language": {
+      "en": 420
+    },
+    "membership": {
+      "1322291000000109": 255,
+      "999004331000000102": 8,
+      "999003161000000108": 10,
+      "2181181000000106": 3,
+      "1382541000000106": 1,
+      "999003201000000100": 1,
+      "2222211000000107": 1,
+      "999002271000000101": 280,
+      "2222191000000108": 1,
+      "999002571000000104": 1,
+      "900000000000497000": 248,
+      "1127821000000102": 1,
+      "2181121000000105": 1,
+      "999001761000000108": 1,
+      "1382401000000109": 1,
+      "991411000000109": 1,
+      "1127601000000107": 245,
+      "1382531000000102": 210,
+      "999001741000000107": 2,
+      "1955841000000104": 1,
+      "999003091000000101": 1,
+      "999001061000000106": 3,
+      "900000000000489007": 7,
+      "999002061000000102": 1,
+      "733073007": 255,
+      "999004381000000103": 2,
+      "2170881000000102": 8,
+      "2222181000000106": 1,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1382541000000106": {
+      "conceptId": "1382541000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care sickness absence category simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care sickness absence category simple reference set",
+        "lang": "en"
+      },
+      "id": "1382541000000106"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "2222211000000107": {
+      "conceptId": "2222211000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric general findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric general findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2222211000000107"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "1127821000000102": {
+      "conceptId": "1127821000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Acute kidney injury findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Acute kidney injury findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127821000000102"
+    },
+    "2181121000000105": {
+      "conceptId": "2181121000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181121000000105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999001741000000107": {
+      "conceptId": "999001741000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001741000000107"
+    },
+    "1955841000000104": {
+      "conceptId": "1955841000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Health Service secondary use data exclusions due to Human Fertilisation and Embryology Act 2008 simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS secondary use data exclusions due to Human Fertilisation and Embryology Act 2008 simple reference set",
+        "lang": "en"
+      },
+      "id": "1955841000000104"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "2170881000000102": {
+      "conceptId": "2170881000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric allergy and immunology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric allergy and immunology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2170881000000102"
+    },
+    "2222181000000106": {
+      "conceptId": "2222181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric infectious disease disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric infectious disease disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222181000000106"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 420,
+  "totalPages": 9,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Obstetric breast infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "200364001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstetric breast infections (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstetric breast infections",
+          "lang": "en"
+        },
+        "id": "200364001"
+      }
+    },
+    {
+      "term": "Susceptibility to infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102463001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Susceptibility to infections, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102463001"
+      }
+    },
+    {
+      "term": "Acute respiratory infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "195647007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute respiratory infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute respiratory infections",
+          "lang": "en"
+        },
+        "id": "195647007"
+      }
+    },
+    {
+      "term": "Infections of kidney in pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "199110003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infections of kidney in pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infections of kidney in pregnancy",
+          "lang": "en"
+        },
+        "id": "199110003"
+      }
+    },
+    {
+      "term": "Infections of urethra in pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "199206009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infections of urethra in pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infections of urethra in pregnancy",
+          "lang": "en"
+        },
+        "id": "199206009"
+      }
+    },
+    {
+      "term": "ARI - Acute respiratory infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "195647007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute respiratory infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute respiratory infections",
+          "lang": "en"
+        },
+        "id": "195647007"
+      }
+    },
+    {
+      "term": "Cutaneous mycobacterial infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25626000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cutaneous infectious disease caused by Mycobacteria (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cutaneous infectious disease caused by Mycobacteria",
+          "lang": "en"
+        },
+        "id": "25626000"
+      }
+    },
+    {
+      "term": "Normal susceptibility to infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102464007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal susceptibility to infections (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102464007"
+      }
+    },
+    {
+      "term": "Pediculosis and phthirus infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "266166005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pediculosis and phthirus infections (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pediculosis and phthirus infections",
+          "lang": "en"
+        },
+        "id": "266166005"
+      }
+    },
+    {
+      "term": "Abnormal susceptibility to infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102465008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal susceptibility to infections (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102465008"
+      }
+    },
+    {
+      "term": "Increased susceptibility to infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102466009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Increased susceptibility to infections (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Increased susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102466009"
+      }
+    },
+    {
+      "term": "Decreased susceptibility to infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102467000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Decreased susceptibility to infections (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Decreased susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102467000"
+      }
+    },
+    {
+      "term": "Obstetric breast infections (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "200364001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obstetric breast infections (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obstetric breast infections",
+          "lang": "en"
+        },
+        "id": "200364001"
+      }
+    },
+    {
+      "term": "Susceptibility to infections, function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102463001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Susceptibility to infections, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102463001"
+      }
+    },
+    {
+      "term": "Specific infections by free-living amebae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "266169003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Free-living ameba infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Free-living ameba infection",
+          "lang": "en"
+        },
+        "id": "266169003"
+      }
+    },
+    {
+      "term": "Perinatal skin and subcutaneous infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276676005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perinatal skin and subcutaneous infections of fetus and/or neonate (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perinatal skin and subcutaneous infections of fetus and/or neonate",
+          "lang": "en"
+        },
+        "id": "276676005"
+      }
+    },
+    {
+      "term": "Specific infections by free-living amoebae",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "266169003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Free-living ameba infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Free-living ameba infection",
+          "lang": "en"
+        },
+        "id": "266169003"
+      }
+    },
+    {
+      "term": "Infections of the genital tract in pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "199112006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infections of the genital tract in pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infections of the genital tract in pregnancy",
+          "lang": "en"
+        },
+        "id": "199112006"
+      }
+    },
+    {
+      "term": "Infections of kidney in pregnancy (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "199110003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infections of kidney in pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infections of kidney in pregnancy",
+          "lang": "en"
+        },
+        "id": "199110003"
+      }
+    },
+    {
+      "term": "Therapeutic Index for Local Infections score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1833081000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Therapeutic Index for Local Infections score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Therapeutic Index for Local Infections score",
+          "lang": "en"
+        },
+        "id": "1833081000000108"
+      }
+    },
+    {
+      "term": "Therapeutic Index for Local Infections score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1833091000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Therapeutic Index for Local Infections score (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Therapeutic Index for Local Infections score",
+          "lang": "en"
+        },
+        "id": "1833091000000105"
+      }
+    },
+    {
+      "term": "Infections of urethra in pregnancy (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "199206009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infections of urethra in pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infections of urethra in pregnancy",
+          "lang": "en"
+        },
+        "id": "199206009"
+      }
+    },
+    {
+      "term": "Normal susceptibility to infections (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102464007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal susceptibility to infections (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102464007"
+      }
+    },
+    {
+      "term": "Pediculosis and phthirus infections (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "266166005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pediculosis and phthirus infections (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pediculosis and phthirus infections",
+          "lang": "en"
+        },
+        "id": "266166005"
+      }
+    },
+    {
+      "term": "Abnormal susceptibility to infections (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102465008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abnormal susceptibility to infections (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abnormal susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102465008"
+      }
+    },
+    {
+      "term": "Monocytopenia with susceptibility to infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "778024005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Monocytopenia with susceptibility to infections (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Monocytopenia with susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "778024005"
+      }
+    },
+    {
+      "term": "Increased susceptibility to infections (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102466009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Increased susceptibility to infections (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Increased susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102466009"
+      }
+    },
+    {
+      "term": "Decreased susceptibility to infections (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102467000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Decreased susceptibility to infections (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Decreased susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102467000"
+      }
+    },
+    {
+      "term": "Referral to sexually transmitted infections clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "412712007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Referral to sexually transmitted infections clinic (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referral to sexually transmitted infections clinic",
+          "lang": "en"
+        },
+        "id": "412712007"
+      }
+    },
+    {
+      "term": "TILI (Therapeutic Index for Local Infections) score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1833081000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Therapeutic Index for Local Infections score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Therapeutic Index for Local Infections score",
+          "lang": "en"
+        },
+        "id": "1833081000000108"
+      }
+    },
+    {
+      "term": "TILI (Therapeutic Index for Local Infections) score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1833091000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Therapeutic Index for Local Infections score (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Therapeutic Index for Local Infections score",
+          "lang": "en"
+        },
+        "id": "1833091000000105"
+      }
+    },
+    {
+      "term": "Infections of pregnancy, childbirth and the puerperium",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40609001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infectious disease in mother complicating pregnancy, childbirth AND/OR puerperium (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infectious disease in mother complicating pregnancy, childbirth AND/OR puerperium",
+          "lang": "en"
+        },
+        "id": "40609001"
+      }
+    },
+    {
+      "term": "Infections of the genital tract in pregnancy (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "199112006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infections of the genital tract in pregnancy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infections of the genital tract in pregnancy",
+          "lang": "en"
+        },
+        "id": "199112006"
+      }
+    },
+    {
+      "term": "Susceptibility to infections, function (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102463001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Susceptibility to infections, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "102463001"
+      }
+    },
+    {
+      "term": "Monocytopenia with susceptibility to infections (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "778024005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Monocytopenia with susceptibility to infections (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Monocytopenia with susceptibility to infections",
+          "lang": "en"
+        },
+        "id": "778024005"
+      }
+    },
+    {
+      "term": "Warts, hypogammaglobulinemia, infections, and myelokathexis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234571003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Warts, hypogammaglobulinemia, infections, and myelokathexis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Warts, hypogammaglobulinemia, infections, and myelokathexis",
+          "lang": "en"
+        },
+        "id": "234571003"
+      }
+    },
+    {
+      "term": "Warts, hypogammaglobulinaemia, infections, and myelokathexis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234571003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Warts, hypogammaglobulinemia, infections, and myelokathexis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Warts, hypogammaglobulinemia, infections, and myelokathexis",
+          "lang": "en"
+        },
+        "id": "234571003"
+      }
+    },
+    {
+      "term": "Azoospermia, obstructive and chronic sinopulmonary infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233666007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Young's syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Young's syndrome",
+          "lang": "en"
+        },
+        "id": "233666007"
+      }
+    },
+    {
+      "term": "Assessment using Therapeutic Index for Local Infections score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1833101000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Assessment using Therapeutic Index for Local Infections score (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment using Therapeutic Index for Local Infections score",
+          "lang": "en"
+        },
+        "id": "1833101000000102"
+      }
+    },
+    {
+      "term": "Referral to sexually transmitted infections clinic (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "412712007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Referral to sexually transmitted infections clinic (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referral to sexually transmitted infections clinic",
+          "lang": "en"
+        },
+        "id": "412712007"
+      }
+    },
+    {
+      "term": "Therapeutic Index for Local Infections score (assessment scale)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1833091000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Therapeutic Index for Local Infections score (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Therapeutic Index for Local Infections score",
+          "lang": "en"
+        },
+        "id": "1833091000000105"
+      }
+    },
+    {
+      "term": "Eron severity classification for skin and soft tissue infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "870981000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Eron severity classification for skin and soft tissue infections (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Eron severity classification for skin and soft tissue infections",
+          "lang": "en"
+        },
+        "id": "870981000000103"
+      }
+    },
+    {
+      "term": "Therapeutic Index for Local Infections score (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1833081000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Therapeutic Index for Local Infections score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Therapeutic Index for Local Infections score",
+          "lang": "en"
+        },
+        "id": "1833081000000108"
+      }
+    },
+    {
+      "term": "WHIM - Warts, hypogammaglobulinemia, infections and myelokathexis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234571003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Warts, hypogammaglobulinemia, infections, and myelokathexis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Warts, hypogammaglobulinemia, infections, and myelokathexis",
+          "lang": "en"
+        },
+        "id": "234571003"
+      }
+    },
+    {
+      "term": "WHIM - Warts, hypogammaglobulinaemia, infections and myelokathexis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234571003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Warts, hypogammaglobulinemia, infections, and myelokathexis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Warts, hypogammaglobulinemia, infections, and myelokathexis",
+          "lang": "en"
+        },
+        "id": "234571003"
+      }
+    },
+    {
+      "term": "Hyper-IgM syndrome with susceptibility to opportunistic infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "783248004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperimmunoglobulin M syndrome with susceptibility to opportunistic infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperimmunoglobulin M syndrome with susceptibility to opportunistic infection",
+          "lang": "en"
+        },
+        "id": "783248004"
+      }
+    },
+    {
+      "term": "Perinatal skin and subcutaneous infections of fetus and/or neonate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276676005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perinatal skin and subcutaneous infections of fetus and/or neonate (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perinatal skin and subcutaneous infections of fetus and/or neonate",
+          "lang": "en"
+        },
+        "id": "276676005"
+      }
+    },
+    {
+      "term": "Assessment using TILI (Therapeutic Index for Local Infections) score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1833101000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Assessment using Therapeutic Index for Local Infections score (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment using Therapeutic Index for Local Infections score",
+          "lang": "en"
+        },
+        "id": "1833101000000102"
+      }
+    },
+    {
+      "term": "Hyper-IgM syndrome without susceptibility to opportunistic infections",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "783249007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperimmunoglobulin M syndrome without susceptibility to opportunistic infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperimmunoglobulin M syndrome without susceptibility to opportunistic infection",
+          "lang": "en"
+        },
+        "id": "783249007"
+      }
+    },
+    {
+      "term": "Warts, hypogammaglobulinemia, infections, and myelokathexis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "234571003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Warts, hypogammaglobulinemia, infections, and myelokathexis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Warts, hypogammaglobulinemia, infections, and myelokathexis",
+          "lang": "en"
+        },
+        "id": "234571003"
+      }
+    }
+  ]
+}

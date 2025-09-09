@@ -1,0 +1,761 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 3,
+      "900000000000207008": 22
+    },
+    "semanticTags": {
+      "disorder": 16
+    },
+    "language": {
+      "en": 25
+    },
+    "membership": {
+      "1322291000000109": 16,
+      "999004331000000102": 1,
+      "1127601000000107": 16,
+      "1382531000000102": 12,
+      "900000000000497000": 15,
+      "999002051000000100": 3,
+      "999002271000000101": 19,
+      "733073007": 16,
+      "900000000000489007": 1,
+      "2222161000000102": 1,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 25,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 25,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Profound hearing loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1230412003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Profound hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Profound hearing loss",
+          "lang": "en"
+        },
+        "id": "1230412003"
+      }
+    },
+    {
+      "term": "Profound acquired hearing loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737050003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Profound acquired hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Profound acquired hearing loss",
+          "lang": "en"
+        },
+        "id": "737050003"
+      }
+    },
+    {
+      "term": "Profound hearing loss (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1230412003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Profound hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Profound hearing loss",
+          "lang": "en"
+        },
+        "id": "1230412003"
+      }
+    },
+    {
+      "term": "Profound sensorineural hearing loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "700454004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Profound sensorineural hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Profound sensorineural hearing loss",
+          "lang": "en"
+        },
+        "id": "700454004"
+      }
+    },
+    {
+      "term": "Profound acquired hearing loss (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737050003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Profound acquired hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Profound acquired hearing loss",
+          "lang": "en"
+        },
+        "id": "737050003"
+      }
+    },
+    {
+      "term": "Bilateral profound sensorineural hearing loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "877191000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Bilateral profound sensorineural hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral profound sensorineural hearing loss",
+          "lang": "en"
+        },
+        "id": "877191000000104"
+      }
+    },
+    {
+      "term": "Profound sensorineural hearing loss (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "700454004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Profound sensorineural hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Profound sensorineural hearing loss",
+          "lang": "en"
+        },
+        "id": "700454004"
+      }
+    },
+    {
+      "term": "Postoperative profound sensorineural hearing loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277424008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postoperative profound sensorineural hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postoperative profound sensorineural hearing loss",
+          "lang": "en"
+        },
+        "id": "277424008"
+      }
+    },
+    {
+      "term": "Profound BSNHL (bilateral sensorineural hearing loss)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "877191000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Bilateral profound sensorineural hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral profound sensorineural hearing loss",
+          "lang": "en"
+        },
+        "id": "877191000000104"
+      }
+    },
+    {
+      "term": "Bilateral profound sensorineural hearing loss (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "877191000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Bilateral profound sensorineural hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral profound sensorineural hearing loss",
+          "lang": "en"
+        },
+        "id": "877191000000104"
+      }
+    },
+    {
+      "term": "Postoperative profound sensorineural hearing loss (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "277424008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postoperative profound sensorineural hearing loss (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postoperative profound sensorineural hearing loss",
+          "lang": "en"
+        },
+        "id": "277424008"
+      }
+    },
+    {
+      "term": "A multiple congenital anomalies, intellectual disability syndrome with characteristics of sensorineural hearing loss, onychodystrophy, osteodystrophy, mild to profound intellectual disability and seizures. About 50 cases have been reported to date. Caused by mutations in the TBC1D24 gene (16p13.3) encoding a protein involved in the regulation of membrane trafficking. Inherited autosomal recessively.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719800009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deafness, onychodystrophy, osteodystrophy, intellectual disability syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "DOORS syndrome",
+          "lang": "en"
+        },
+        "id": "719800009"
+      }
+    },
+    {
+      "term": "A rare genetic pigmentation anomaly of the skin syndrome with characteristics of ventral as well as dorsal leukoderma of the trunk and a congenital white forelock in association with cerebellar ataxia, impaired motor coordination, intellectual disability of variable severity and progressive, mild to profound, unilateral or bilateral sensorineural hearing loss. There have been no further descriptions in the literature since 1971.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773984007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Piebald trait with neurologic defects syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Piebald trait with neurologic defects syndrome",
+          "lang": "en"
+        },
+        "id": "773984007"
+      }
+    },
+    {
+      "term": "A rare genetic peripheral sensorimotor neuropathy with an X-linked recessive inheritance pattern and the infancy to childhood-onset of progressive distal muscle weakness and atrophy (first appearing and more prominent in the lower extremities than the upper) which usually manifests with foot drop and gait disturbance, bilateral profound prelingual sensorineural hearing loss and progressive optic neuropathy. Females are asymptomatic and do not display the phenotype.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "763460007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "X-linked Charcot-Marie-Tooth disease type 5 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "X-linked Charcot-Marie-Tooth disease type 5",
+          "lang": "en"
+        },
+        "id": "763460007"
+      }
+    },
+    {
+      "term": "A rare genetic multiple congenital anomalies/dysmorphic syndrome with characteristics of congenital microcephaly, infantile-onset epileptic encephalopathy and profound developmental delay. Additional reported features include cortical visual impairment, sensorineural hearing loss, increased muscle tone, limb contractures, scoliosis and dysmorphic features like midface hypoplasia, narrow forehead, short nose, narrowed nasal bridge and small chin. Brain imaging may show thin corpus callosum and delayed myelination.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1222659003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ring finger protein 13-related severe early-onset epileptic encephalopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "RNF13-related severe early-onset epileptic encephalopathy",
+          "lang": "en"
+        },
+        "id": "1222659003"
+      }
+    },
+    {
+      "term": "A rare otorhinolaryngological malformation with characteristics of varying degrees of malformation of the inner ear associated with severe to profound congenital sensorineural hearing loss in the absence of cochlear nerve anomalies (hypoplasia or aplasia). Categorisation of the malformation is based on the morphology of the cochlea, modiolus, and lamina cribrosa, which can range from normal development of these structures (with the malformation being limited to other structures of the inner ear) to their complete absence.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1234911006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital cochleovestibular malformation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital cochleovestibular malformation",
+          "lang": "en"
+        },
+        "id": "1234911006"
+      }
+    },
+    {
+      "term": "A rare otorhinolaryngological malformation with characteristics of varying degrees of malformation of the inner ear associated with severe to profound congenital sensorineural hearing loss in the absence of cochlear nerve anomalies (hypoplasia or aplasia). Categorization of the malformation is based on the morphology of the cochlea, modiolus, and lamina cribrosa, which can range from normal development of these structures (with the malformation being limited to other structures of the inner ear) to their complete absence.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1234911006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital cochleovestibular malformation (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital cochleovestibular malformation",
+          "lang": "en"
+        },
+        "id": "1234911006"
+      }
+    },
+    {
+      "term": "A rare genetic syndromic deafness with characteristics of severe to profound, bilateral, sensorineural hearing loss (congenital or rapidly progressive in infancy) associated with a complex brain malformation including hydrocephalus, varying degrees of partial corpus callosum agenesis, colpocephaly, cerebral and cerebellar cortical dysplasia (bilateral medial frontal polymicrogyria, bilateral frontal subcortical heterotopia) and in some, arachnoid cysts. Major physical abnormalities or psychomotor delay are usually not associated. Caused by homozygous or compound heterozygous mutation in the GPSM2 gene on chromosome 1p13.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "773610007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chudley McCullough syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chudley McCullough syndrome",
+          "lang": "en"
+        },
+        "id": "773610007"
+      }
+    },
+    {
+      "term": "A rare chromosomal anomaly syndrome with a highly variable phenotype that may range from normal to patients with profound intellectual disability, developmental delay, learning disability (especially speech) and mild dysmorphism (including micro/macrocephaly, prominent forehead, low-set and posteriorly rotated ears, hypertelorism, high nasal bridge, prominent philtrum, retro/micrognathia). Mild hypotonia and autistic-like mannerisms (for example hand opening and closing, head banging) may also be associated. Other anomalies, such as cutis laxa, hearing loss, syndactyly, digital hypoplasia and talipes equinovarus have also been reported.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "765484001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ring chromosome 19 syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ring chromosome 19 syndrome",
+          "lang": "en"
+        },
+        "id": "765484001"
+      }
+    },
+    {
+      "term": "A rare congenital ectodermal disorder characterized by vascularizing keratitis, hyperkeratotic skin lesions and hearing loss. Patients usually present at birth with generalized erythema and ichthyosiform scaling. The skin manifestations are progressive with erythrokeratoderma characterized by well-demarcated erythematous and keratotic plaques with a verrucous appearance predominantly located on the face, scalp, ears, elbows and knees. Hearing loss is congenital, usually sensorineural and is often profound. Caused by mutations involving the N-terminus and first extracellular loop of the GJB2 gene (13q11-q12), encoding connexin-26. Most of the reported cases are sporadic, but familial cases with autosomal dominant inheritance have been reported.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "239059004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Keratitis ichthyosis and deafness syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "KID syndrome",
+          "lang": "en"
+        },
+        "id": "239059004"
+      }
+    },
+    {
+      "term": "A rare congenital ectodermal disorder characterised by vascularising keratitis, hyperkeratotic skin lesions and hearing loss. Patients usually present at birth with generalised erythema and ichthyosiform scaling. The skin manifestations are progressive with erythrokeratoderma characterised by well-demarcated erythematous and keratotic plaques with a verrucous appearance predominantly located on the face, scalp, ears, elbows and knees. Hearing loss is congenital, usually sensorineural and is often profound. Caused by mutations involving the N-terminus and first extracellular loop of the GJB2 gene (13q11-q12), encoding connexin-26. Most of the reported cases are sporadic, but familial cases with autosomal dominant inheritance have been reported.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "239059004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Keratitis ichthyosis and deafness syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "KID syndrome",
+          "lang": "en"
+        },
+        "id": "239059004"
+      }
+    },
+    {
+      "term": "Syndrome with characteristics of moderate to profound hearing loss in both ears and severe nearsightedness (high myopia). The hearing loss may be described as sensorineural or it may be caused by auditory neuropathy. The hearing loss is either present at birth or begins in infancy, before the child learns to speak. This syndrome is caused by mutations in the SLITRK6 gene. The protein produced from this gene is found primarily in the inner ear and the eye. SLITRK6 gene mutations result in an abnormally short SLITRK6 protein that is not anchored properly to the cell membrane meaning the protein is unable to function normally. Impaired SLITRK6 protein function leads to abnormal nerve development in the inner ear and improperly controlled eyeball growth.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "720506002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deafness and myopia syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deafness and myopia syndrome",
+          "lang": "en"
+        },
+        "id": "720506002"
+      }
+    },
+    {
+      "term": "An inherited condition consisting of hypoparathyroidism, sensorineural deafness and renal disease. The exact prevalence is unknown, but the disease is considered to be very rare. Patients may present at any age with hypocalcemia, tetany, or afebrile convulsions. Hearing loss is usually bilateral and may range from mild to profound impairment. Renal disease manifestations include nephrotic syndrome, cystic kidney, renal dysplasia, hypoplasia or aplasia, pelvicalyceal deformity, vesicoureteral reflux, chronic renal failure, hematuria, proteinuria and renal scarring. The defect in the majority of cases was mapped to chromosome 10p (10pter-p13 region or 10p14-p15.1). Haploinsufficiency (deletions) of zinc-finger transcription factor GATA3, or mutations in the GATA3 gene appear to be the underlying cause of this syndrome.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "724282009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypoparathyroidism, deafness, renal disease syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypoparathyroidism, deafness, renal disease syndrome",
+          "lang": "en"
+        },
+        "id": "724282009"
+      }
+    },
+    {
+      "term": "An inherited condition consisting of hypoparathyroidism, sensorineural deafness and renal disease. The exact prevalence is unknown, but the disease is considered to be very rare. Patients may present at any age with hypocalcaemia, tetany, or afebrile convulsions. Hearing loss is usually bilateral and may range from mild to profound impairment. Renal disease manifestations include nephrotic syndrome, cystic kidney, renal dysplasia, hypoplasia or aplasia, pelvicalyceal deformity, vesicoureteral reflux, chronic renal failure, haematuria, proteinuria and renal scarring. The defect in the majority of cases was mapped to chromosome 10p (10pter-p13 region or 10p14-p15.1). Haploinsufficiency (deletions) of zinc-finger transcription factor GATA3, or mutations in the GATA3 gene appear to be the underlying cause of this syndrome.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "724282009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypoparathyroidism, deafness, renal disease syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypoparathyroidism, deafness, renal disease syndrome",
+          "lang": "en"
+        },
+        "id": "724282009"
+      }
+    },
+    {
+      "term": "A rare association of malformations described in only three patients including two siblings. The first patient had profound intellectual deficit and clinical features including short stature, coarse face, deep-set eyes, microphthalmia, large ears, gynoid obesity, imperforate anus, sacral spina bifida, pseudovaginal perineoscrotal hypospadias, persistence of Mullerian structures, and low gonadotrophin levels. His XY sibling was raised as a girl, was slightly mentally impaired and had microphthalmia and large ears and short stature. The third patient had severe hearing loss, ocular colobomata, hypogonadism of central origin, distinct craniofacial features and skeletal anomalies with cervical spina bifida, hyperkyphosis and thoracic deformity. All patients had a normal 46, XY karyotype. Inheritance could be either autosomal recessive or X-linked.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719450007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Disorder of sex development with intellectual disability syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Disorder of sex development with intellectual disability syndrome",
+          "lang": "en"
+        },
+        "id": "719450007"
+      }
+    }
+  ]
+}

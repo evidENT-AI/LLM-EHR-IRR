@@ -1,0 +1,1398 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 9,
+      "999000041000000102": 1,
+      "900000000000207008": 258
+    },
+    "semanticTags": {
+      "finding": 122
+    },
+    "language": {
+      "en": 268
+    },
+    "membership": {
+      "1322291000000109": 122,
+      "999004341000000106": 13,
+      "1127601000000107": 117,
+      "999003161000000108": 13,
+      "1382531000000102": 2,
+      "2181181000000106": 1,
+      "999003091000000101": 1,
+      "999002271000000101": 102,
+      "1128791000000106": 3,
+      "999001061000000106": 2,
+      "900000000000489007": 1,
+      "1323321000000109": 2,
+      "999002451000000109": 1,
+      "999002571000000104": 5,
+      "1129631000000105": 1,
+      "900000000000497000": 117,
+      "733073007": 122
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004341000000106": {
+      "conceptId": "999004341000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999004341000000106"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "1128791000000106": {
+      "conceptId": "1128791000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional biochemistry and haematology interpretation findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional biochemistry and haematology interpretation findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128791000000106"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1323321000000109": {
+      "conceptId": "1323321000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323321000000109"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "1129631000000105": {
+      "conceptId": "1129631000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1129631000000105"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    }
+  },
+  "totalElements": 268,
+  "totalPages": 6,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Small leg",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299221002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small leg (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small leg",
+          "lang": "en"
+        },
+        "id": "299221002"
+      }
+    },
+    {
+      "term": "Small arm",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298743002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small upper limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small upper limb",
+          "lang": "en"
+        },
+        "id": "298743002"
+      }
+    },
+    {
+      "term": "Small nose",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249310005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small nose (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small nose",
+          "lang": "en"
+        },
+        "id": "249310005"
+      }
+    },
+    {
+      "term": "Small head",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271611007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small head (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small head",
+          "lang": "en"
+        },
+        "id": "271611007"
+      }
+    },
+    {
+      "term": "Small foot",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299461003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small foot (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small foot",
+          "lang": "en"
+        },
+        "id": "299461003"
+      }
+    },
+    {
+      "term": "Small neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298388004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small neck (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small neck",
+          "lang": "en"
+        },
+        "id": "298388004"
+      }
+    },
+    {
+      "term": "Small hand",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299032009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small hand (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small hand",
+          "lang": "en"
+        },
+        "id": "299032009"
+      }
+    },
+    {
+      "term": "Small vulva",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248860004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small vulva (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small vulva",
+          "lang": "en"
+        },
+        "id": "248860004"
+      }
+    },
+    {
+      "term": "Small fetus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249051004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small fetus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small fetus",
+          "lang": "en"
+        },
+        "id": "249051004"
+      }
+    },
+    {
+      "term": "Small penis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276333003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small penis (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small penis",
+          "lang": "en"
+        },
+        "id": "276333003"
+      }
+    },
+    {
+      "term": "Small stool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276389007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small stool (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small stool",
+          "lang": "en"
+        },
+        "id": "276389007"
+      }
+    },
+    {
+      "term": "Small skull",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271611007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small head (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small head",
+          "lang": "en"
+        },
+        "id": "271611007"
+      }
+    },
+    {
+      "term": "Small tumor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272418005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small tumor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small tumor",
+          "lang": "en"
+        },
+        "id": "272418005"
+      }
+    },
+    {
+      "term": "Small pinna",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "306914009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small pinna (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small pinna",
+          "lang": "en"
+        },
+        "id": "306914009"
+      }
+    },
+    {
+      "term": "Small ovary",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289837004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small ovary (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small ovary",
+          "lang": "en"
+        },
+        "id": "289837004"
+      }
+    },
+    {
+      "term": "Small liver",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300325003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small liver (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small liver",
+          "lang": "en"
+        },
+        "id": "300325003"
+      }
+    },
+    {
+      "term": "Small pupil",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301939004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constricted pupil (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constricted pupil",
+          "lang": "en"
+        },
+        "id": "301939004"
+      }
+    },
+    {
+      "term": "Small pulse",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64661000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thready pulse (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thready pulse",
+          "lang": "en"
+        },
+        "id": "64661000"
+      }
+    },
+    {
+      "term": "Small kidney",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236448000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small kidney (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small kidney",
+          "lang": "en"
+        },
+        "id": "236448000"
+      }
+    },
+    {
+      "term": "Small breast",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248811009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small breast (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small breast",
+          "lang": "en"
+        },
+        "id": "248811009"
+      }
+    },
+    {
+      "term": "Small nipple",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248827002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small nipple (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small nipple",
+          "lang": "en"
+        },
+        "id": "248827002"
+      }
+    },
+    {
+      "term": "Small vagina",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248874006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small vagina (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small vagina",
+          "lang": "en"
+        },
+        "id": "248874006"
+      }
+    },
+    {
+      "term": "Small tongue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249380003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small tongue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small tongue",
+          "lang": "en"
+        },
+        "id": "249380003"
+      }
+    },
+    {
+      "term": "Small tumour",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272418005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small tumor (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small tumor",
+          "lang": "en"
+        },
+        "id": "272418005"
+      }
+    },
+    {
+      "term": "Small uterus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289624004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small uterus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small uterus",
+          "lang": "en"
+        },
+        "id": "289624004"
+      }
+    },
+    {
+      "term": "Small thorax",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298709006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small thorax (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small thorax",
+          "lang": "en"
+        },
+        "id": "298709006"
+      }
+    },
+    {
+      "term": "Small finger",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299058009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small finger (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small finger",
+          "lang": "en"
+        },
+        "id": "299058009"
+      }
+    },
+    {
+      "term": "Small foetus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249051004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small fetus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small fetus",
+          "lang": "en"
+        },
+        "id": "249051004"
+      }
+    },
+    {
+      "term": "Small scrotum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276332008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small scrotum (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small scrotum",
+          "lang": "en"
+        },
+        "id": "276332008"
+      }
+    },
+    {
+      "term": "Small tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276399002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small tonsils",
+          "lang": "en"
+        },
+        "id": "276399002"
+      }
+    },
+    {
+      "term": "Small bladder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300456007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small urinary bladder (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small urinary bladder",
+          "lang": "en"
+        },
+        "id": "300456007"
+      }
+    },
+    {
+      "term": "Small sternum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298723008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small sternum (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small sternum",
+          "lang": "en"
+        },
+        "id": "298723008"
+      }
+    },
+    {
+      "term": "Small scapula",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298759002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small scapula (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small scapula",
+          "lang": "en"
+        },
+        "id": "298759002"
+      }
+    },
+    {
+      "term": "Small clitoris",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248869003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small clitoris (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small clitoris",
+          "lang": "en"
+        },
+        "id": "248869003"
+      }
+    },
+    {
+      "term": "Small nostrils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249336003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small nostrils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small nostrils",
+          "lang": "en"
+        },
+        "id": "249336003"
+      }
+    },
+    {
+      "term": "Small prostate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249608004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small prostate (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small prostate",
+          "lang": "en"
+        },
+        "id": "249608004"
+      }
+    },
+    {
+      "term": "Small testicle",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276411001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small testicle (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small testicle",
+          "lang": "en"
+        },
+        "id": "276411001"
+      }
+    },
+    {
+      "term": "Small adenoids",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276439000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small adenoids (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small adenoids",
+          "lang": "en"
+        },
+        "id": "276439000"
+      }
+    },
+    {
+      "term": "Small clavicle",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298763009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small clavicle (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small clavicle",
+          "lang": "en"
+        },
+        "id": "298763009"
+      }
+    },
+    {
+      "term": "Small deletion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1336122005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small deletion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small deletion",
+          "lang": "en"
+        },
+        "id": "1336122005"
+      }
+    },
+    {
+      "term": "Small ear canal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300125005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small ear canal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small ear canal",
+          "lang": "en"
+        },
+        "id": "300125005"
+      }
+    },
+    {
+      "term": "Small insertion",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1336123000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small insertion (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small insertion",
+          "lang": "en"
+        },
+        "id": "1336123000"
+      }
+    },
+    {
+      "term": "Small fontanelle",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276710001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small fontanelle (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small fontanelle",
+          "lang": "en"
+        },
+        "id": "276710001"
+      }
+    },
+    {
+      "term": "Small pubic arch",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289452000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small pubic arch (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small pubic arch",
+          "lang": "en"
+        },
+        "id": "289452000"
+      }
+    },
+    {
+      "term": "Small upper limb",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298743002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small upper limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small upper limb",
+          "lang": "en"
+        },
+        "id": "298743002"
+      }
+    },
+    {
+      "term": "O/E - small head",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162826008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - head small (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - head small",
+          "lang": "en"
+        },
+        "id": "162826008"
+      }
+    },
+    {
+      "term": "O/E - head small",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162826008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - head small (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - head small",
+          "lang": "en"
+        },
+        "id": "162826008"
+      }
+    },
+    {
+      "term": "Optic disc small",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "423389004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Optic disc small (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Optic disc small",
+          "lang": "en"
+        },
+        "id": "423389004"
+      }
+    },
+    {
+      "term": "Small pelvic bone",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249734003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Small pelvic bone (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Small pelvic bone",
+          "lang": "en"
+        },
+        "id": "249734003"
+      }
+    },
+    {
+      "term": "Very small uterus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314040008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Very small uterus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Very small uterus",
+          "lang": "en"
+        },
+        "id": "314040008"
+      }
+    }
+  ]
+}

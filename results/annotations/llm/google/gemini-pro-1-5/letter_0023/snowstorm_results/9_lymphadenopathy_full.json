@@ -1,0 +1,1369 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 416
+    },
+    "semanticTags": {
+      "disorder": 193,
+      "morphologic abnormality": 2,
+      "procedure": 3,
+      "situation": 4
+    },
+    "language": {
+      "en": 416
+    },
+    "membership": {
+      "1322291000000109": 202,
+      "1127601000000107": 195,
+      "1382531000000102": 34,
+      "999003161000000108": 10,
+      "2181191000000108": 1,
+      "999003091000000101": 3,
+      "999002271000000101": 235,
+      "999003181000000104": 2,
+      "446608001": 2,
+      "999002571000000104": 2,
+      "900000000000497000": 202,
+      "733073007": 202,
+      "999004381000000103": 3,
+      "2170881000000102": 1,
+      "1382401000000109": 18,
+      "999003141000000107": 2,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "2181191000000108": {
+      "conceptId": "2181191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric haematology disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric haematology disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181191000000108"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999003181000000104": {
+      "conceptId": "999003181000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003181000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "446608001": {
+      "conceptId": "446608001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT to ICD-O simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT to ICD-O simple map",
+        "lang": "en"
+      },
+      "id": "446608001"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "2170881000000102": {
+      "conceptId": "2170881000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric allergy and immunology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric allergy and immunology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2170881000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 416,
+  "totalPages": 9,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30746006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "30746006"
+      }
+    },
+    {
+      "term": "No lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274621000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lymphadenopathy absent (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lymphadenopathy absent",
+          "lang": "en"
+        },
+        "id": "274621000"
+      }
+    },
+    {
+      "term": "Deep lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127075003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127075003"
+      }
+    },
+    {
+      "term": "LA - Lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30746006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "30746006"
+      }
+    },
+    {
+      "term": "LN - Lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30746006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "30746006"
+      }
+    },
+    {
+      "term": "Colic lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127152007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Colic lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Colic lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127152007"
+      }
+    },
+    {
+      "term": "Iliac lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127159003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Iliac lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Iliac lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127159003"
+      }
+    },
+    {
+      "term": "Hilar lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87500009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hilar lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hilar lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "87500009"
+      }
+    },
+    {
+      "term": "Focal lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49991000119104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Focal lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Focal lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "49991000119104"
+      }
+    },
+    {
+      "term": "Groin lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127199000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inguinal lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inguinal lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127199000"
+      }
+    },
+    {
+      "term": "Facial lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127081006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Facial lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Facial lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127081006"
+      }
+    },
+    {
+      "term": "Celiac lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127117004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Celiac lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Celiac lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127117004"
+      }
+    },
+    {
+      "term": "Cystic lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127121006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cystic lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cystic lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127121006"
+      }
+    },
+    {
+      "term": "Aortic lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127140000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aortic lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aortic lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127140000"
+      }
+    },
+    {
+      "term": "Lumbar lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127142008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lumbar lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lumbar lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127142008"
+      }
+    },
+    {
+      "term": "Pelvic lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127158006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pelvic lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pelvic lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127158006"
+      }
+    },
+    {
+      "term": "Sacral lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127177008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sacral lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sacral lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127177008"
+      }
+    },
+    {
+      "term": "Tibial lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127209001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tibial lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tibial lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127209001"
+      }
+    },
+    {
+      "term": "Lymphadenopathy absent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274621000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lymphadenopathy absent (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lymphadenopathy absent",
+          "lang": "en"
+        },
+        "id": "274621000"
+      }
+    },
+    {
+      "term": "Parotid lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127080007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Parotid lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Parotid lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127080007"
+      }
+    },
+    {
+      "term": "Jugular lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127089008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Jugular lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Jugular lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127089008"
+      }
+    },
+    {
+      "term": "Scalene lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127096005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Scalene lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Scalene lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127096005"
+      }
+    },
+    {
+      "term": "Hepatic lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127120007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hepatic lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hepatic lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127120007"
+      }
+    },
+    {
+      "term": "Pyloric lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127128000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pyloric lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pyloric lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127128000"
+      }
+    },
+    {
+      "term": "Splenic lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127133001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Splenic lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Splenic lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127133001"
+      }
+    },
+    {
+      "term": "Sigmoid lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127146006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sigmoid lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sigmoid lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127146006"
+      }
+    },
+    {
+      "term": "Gluteal lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127174001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gluteal lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gluteal lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127174001"
+      }
+    },
+    {
+      "term": "Cubital lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127196007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cubital lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cubital lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127196007"
+      }
+    },
+    {
+      "term": "Fibular lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127212003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fibular lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fibular lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127212003"
+      }
+    },
+    {
+      "term": "Loa loa lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "240844004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Loa loa lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Loa loa lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "240844004"
+      }
+    },
+    {
+      "term": "Coeliac lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127117004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Celiac lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Celiac lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127117004"
+      }
+    },
+    {
+      "term": "Cervical lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127086001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cervical lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cervical lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127086001"
+      }
+    },
+    {
+      "term": "Delphian lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127093002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Delphian lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Delphian lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127093002"
+      }
+    },
+    {
+      "term": "Thoracic lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127097001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thoracic lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thoracic lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127097001"
+      }
+    },
+    {
+      "term": "Tracheal lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127106000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tracheal lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tracheal lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127106000"
+      }
+    },
+    {
+      "term": "Midcolic lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127150004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Midcolic lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Midcolic lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127150004"
+      }
+    },
+    {
+      "term": "Prececal lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127155009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Prececal lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prececal lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127155009"
+      }
+    },
+    {
+      "term": "Axillary lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127189005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Axillary lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Axillary lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127189005"
+      }
+    },
+    {
+      "term": "Inguinal lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127199000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inguinal lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inguinal lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127199000"
+      }
+    },
+    {
+      "term": "Fibrotic lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43766001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fibrotic lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fibrotic lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "43766001"
+      }
+    },
+    {
+      "term": "Brachial lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302061009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Brachial lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Brachial lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "302061009"
+      }
+    },
+    {
+      "term": "Regional lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274744005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Localized enlarged lymph nodes (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Localized enlarged lymph nodes",
+          "lang": "en"
+        },
+        "id": "274744005"
+      }
+    },
+    {
+      "term": "Reactive lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "445718006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Reactive lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reactive lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "445718006"
+      }
+    },
+    {
+      "term": "Occipital lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127076002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Occipital lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Occipital lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127076002"
+      }
+    },
+    {
+      "term": "Submental lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127083009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Submental lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Submental lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127083009"
+      }
+    },
+    {
+      "term": "Pulmonary lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127101005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulmonary lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pulmonary lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127101005"
+      }
+    },
+    {
+      "term": "Ileocolic lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127148007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ileocolic lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ileocolic lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127148007"
+      }
+    },
+    {
+      "term": "Obturator lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127172002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obturator lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obturator lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127172002"
+      }
+    },
+    {
+      "term": "Popliteal lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127206008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Popliteal lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Popliteal lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127206008"
+      }
+    },
+    {
+      "term": "Precaecal lymphadenopathy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127155009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Prececal lymphadenopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prececal lymphadenopathy",
+          "lang": "en"
+        },
+        "id": "127155009"
+      }
+    }
+  ]
+}

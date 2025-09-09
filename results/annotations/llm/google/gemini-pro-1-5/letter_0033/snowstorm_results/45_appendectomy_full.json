@@ -1,0 +1,633 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 25
+    },
+    "semanticTags": {
+      "procedure": 11
+    },
+    "language": {
+      "en": 25
+    },
+    "membership": {
+      "1322291000000109": 11,
+      "900000000000497000": 11,
+      "733073007": 11,
+      "1382401000000109": 69
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 25,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 25,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80146002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excision of appendix (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Appendectomy",
+          "lang": "en"
+        },
+        "id": "80146002"
+      }
+    },
+    {
+      "term": "Interval appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174045003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Interval appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Interval appendectomy",
+          "lang": "en"
+        },
+        "id": "174045003"
+      }
+    },
+    {
+      "term": "Secondary appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82730006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incidental excision of appendix (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incidental appendectomy",
+          "lang": "en"
+        },
+        "id": "82730006"
+      }
+    },
+    {
+      "term": "Emergency appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174036004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Emergency appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Emergency appendectomy",
+          "lang": "en"
+        },
+        "id": "174036004"
+      }
+    },
+    {
+      "term": "Inversion appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235314005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inversion appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inversion appendectomy",
+          "lang": "en"
+        },
+        "id": "235314005"
+      }
+    },
+    {
+      "term": "Incidental appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82730006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incidental excision of appendix (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incidental appendectomy",
+          "lang": "en"
+        },
+        "id": "82730006"
+      }
+    },
+    {
+      "term": "Endoscopic appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6025007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic appendectomy",
+          "lang": "en"
+        },
+        "id": "6025007"
+      }
+    },
+    {
+      "term": "Laparoscopic appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6025007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic appendectomy",
+          "lang": "en"
+        },
+        "id": "6025007"
+      }
+    },
+    {
+      "term": "Appendectomy and drainage",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49438003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Appendectomy with drainage (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Appendectomy with drainage",
+          "lang": "en"
+        },
+        "id": "49438003"
+      }
+    },
+    {
+      "term": "Appendectomy with drainage",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49438003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Appendectomy with drainage (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Appendectomy with drainage",
+          "lang": "en"
+        },
+        "id": "49438003"
+      }
+    },
+    {
+      "term": "Non-emergency appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235313004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-emergency appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-emergency appendectomy",
+          "lang": "en"
+        },
+        "id": "235313004"
+      }
+    },
+    {
+      "term": "Interval appendectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174045003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Interval appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Interval appendectomy",
+          "lang": "en"
+        },
+        "id": "174045003"
+      }
+    },
+    {
+      "term": "Endoscopic emergency appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174041007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic emergency appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic emergency appendectomy",
+          "lang": "en"
+        },
+        "id": "174041007"
+      }
+    },
+    {
+      "term": "Laparoscopic interval appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307581005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic interval appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic interval appendectomy",
+          "lang": "en"
+        },
+        "id": "307581005"
+      }
+    },
+    {
+      "term": "Inversion appendectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235314005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inversion appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inversion appendectomy",
+          "lang": "en"
+        },
+        "id": "235314005"
+      }
+    },
+    {
+      "term": "Emergency appendectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174036004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Emergency appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Emergency appendectomy",
+          "lang": "en"
+        },
+        "id": "174036004"
+      }
+    },
+    {
+      "term": "Laparoscopic emergency appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174041007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic emergency appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic emergency appendectomy",
+          "lang": "en"
+        },
+        "id": "174041007"
+      }
+    },
+    {
+      "term": "Laparoscopic appendectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6025007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic appendectomy",
+          "lang": "en"
+        },
+        "id": "6025007"
+      }
+    },
+    {
+      "term": "Appendectomy with drainage (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49438003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Appendectomy with drainage (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Appendectomy with drainage",
+          "lang": "en"
+        },
+        "id": "49438003"
+      }
+    },
+    {
+      "term": "Non-emergency appendectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235313004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-emergency appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-emergency appendectomy",
+          "lang": "en"
+        },
+        "id": "235313004"
+      }
+    },
+    {
+      "term": "Robot assisted laparoscopic appendectomy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "708876004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic appendectomy using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robot assisted laparoscopic appendectomy",
+          "lang": "en"
+        },
+        "id": "708876004"
+      }
+    },
+    {
+      "term": "Laparoscopic interval appendectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307581005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic interval appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic interval appendectomy",
+          "lang": "en"
+        },
+        "id": "307581005"
+      }
+    },
+    {
+      "term": "Laparoscopic emergency appendectomy (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "174041007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic emergency appendectomy (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laparoscopic emergency appendectomy",
+          "lang": "en"
+        },
+        "id": "174041007"
+      }
+    },
+    {
+      "term": "Laparoscopic appendectomy using robotic assistance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "708876004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic appendectomy using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robot assisted laparoscopic appendectomy",
+          "lang": "en"
+        },
+        "id": "708876004"
+      }
+    },
+    {
+      "term": "Laparoscopic appendectomy using robotic assistance (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "708876004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laparoscopic appendectomy using robotic assistance (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Robot assisted laparoscopic appendectomy",
+          "lang": "en"
+        },
+        "id": "708876004"
+      }
+    }
+  ]
+}

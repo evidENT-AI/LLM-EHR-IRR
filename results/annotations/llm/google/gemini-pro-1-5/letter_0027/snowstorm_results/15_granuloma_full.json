@@ -1,0 +1,1551 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 934
+    },
+    "semanticTags": {
+      "navigational concept": 1,
+      "disorder": 314,
+      "organism": 3,
+      "morphologic abnormality": 43,
+      "observable entity": 1,
+      "procedure": 8,
+      "finding": 3,
+      "event": 1,
+      "situation": 1,
+      "qualifier value": 4
+    },
+    "language": {
+      "en": 934
+    },
+    "membership": {
+      "1322291000000109": 372,
+      "999004331000000102": 1,
+      "999003161000000108": 31,
+      "999003201000000100": 14,
+      "2181181000000106": 6,
+      "1323331000000106": 1,
+      "2181241000000108": 2,
+      "999002271000000101": 449,
+      "999003181000000104": 2,
+      "999002451000000109": 1,
+      "999002571000000104": 1,
+      "900000000000497000": 379,
+      "999001761000000108": 10,
+      "1382401000000109": 14,
+      "991411000000109": 2,
+      "1127601000000107": 317,
+      "1382531000000102": 185,
+      "999002531000000101": 1,
+      "999001741000000107": 2,
+      "999003091000000101": 2,
+      "999001061000000106": 11,
+      "2222221000000101": 1,
+      "2222161000000102": 2,
+      "446608001": 6,
+      "733073007": 382,
+      "999004381000000103": 2,
+      "2170881000000102": 3,
+      "999003141000000107": 43
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "2181241000000108": {
+      "conceptId": "2181241000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric skin and dental disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric skin and dental disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181241000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999003181000000104": {
+      "conceptId": "999003181000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003181000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999002531000000101": {
+      "conceptId": "999002531000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Wound integrity findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Wound integrity findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002531000000101"
+    },
+    "999001741000000107": {
+      "conceptId": "999001741000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001741000000107"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "2222221000000101": {
+      "conceptId": "2222221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric perinatal and neonatal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric perinatal and neonatal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222221000000101"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "446608001": {
+      "conceptId": "446608001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT to ICD-O simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT to ICD-O simple map",
+        "lang": "en"
+      },
+      "id": "446608001"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "2170881000000102": {
+      "conceptId": "2170881000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric allergy and immunology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric allergy and immunology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2170881000000102"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 934,
+  "totalPages": 19,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45647009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granuloma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granuloma",
+          "lang": "en"
+        },
+        "id": "45647009"
+      }
+    },
+    {
+      "term": "BCG granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238431000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bacillus Calmette-Guerin granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "BCG granuloma",
+          "lang": "en"
+        },
+        "id": "238431000"
+      }
+    },
+    {
+      "term": "Oil granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "238892000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oil granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oil granuloma",
+          "lang": "en"
+        },
+        "id": "238892000"
+      }
+    },
+    {
+      "term": "Granulomatous",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "255448004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granulomatous (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granulomatous",
+          "lang": "en"
+        },
+        "id": "255448004"
+      }
+    },
+    {
+      "term": "Granulomatosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "44328006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granulomatosis (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granulomatosis",
+          "lang": "en"
+        },
+        "id": "44328006"
+      }
+    },
+    {
+      "term": "Granulomatosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "443138004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granulomatosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granulomatosis",
+          "lang": "en"
+        },
+        "id": "443138004"
+      }
+    },
+    {
+      "term": "Sperm granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "112651005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Spermatogenic granuloma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Spermatogenic granuloma",
+          "lang": "en"
+        },
+        "id": "112651005"
+      }
+    },
+    {
+      "term": "Lipid granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36279001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lipogranuloma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lipogranuloma",
+          "lang": "en"
+        },
+        "id": "36279001"
+      }
+    },
+    {
+      "term": "Pulse granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "235115003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Giant cell hyaline angiopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Giant cell hyaline angiopathy",
+          "lang": "en"
+        },
+        "id": "235115003"
+      }
+    },
+    {
+      "term": "Wound granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "239165001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wound granuloma (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wound granuloma",
+          "lang": "en"
+        },
+        "id": "239165001"
+      }
+    },
+    {
+      "term": "Sperm granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428775009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Spermatogenic granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Spermatogenic granuloma",
+          "lang": "en"
+        },
+        "id": "428775009"
+      }
+    },
+    {
+      "term": "Fungal granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "29530003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fungal granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fungal granuloma",
+          "lang": "en"
+        },
+        "id": "29530003"
+      }
+    },
+    {
+      "term": "Granuloma of lip",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1826005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granuloma of lip (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granuloma of lip",
+          "lang": "en"
+        },
+        "id": "1826005"
+      }
+    },
+    {
+      "term": "Tattoo granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43213000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tattoo granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tattoo granuloma",
+          "lang": "en"
+        },
+        "id": "43213000"
+      }
+    },
+    {
+      "term": "Lipoid granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36279001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lipogranuloma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lipogranuloma",
+          "lang": "en"
+        },
+        "id": "36279001"
+      }
+    },
+    {
+      "term": "Suture granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66962008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Suture granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Suture granuloma",
+          "lang": "en"
+        },
+        "id": "66962008"
+      }
+    },
+    {
+      "term": "Apical granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "81407003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Apical granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Apical granuloma",
+          "lang": "en"
+        },
+        "id": "81407003"
+      }
+    },
+    {
+      "term": "Dental granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "81407003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Apical granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Apical granuloma",
+          "lang": "en"
+        },
+        "id": "81407003"
+      }
+    },
+    {
+      "term": "Stomal granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "236130000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stomal granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stomal granuloma",
+          "lang": "en"
+        },
+        "id": "236130000"
+      }
+    },
+    {
+      "term": "Miliary granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "42453007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Miliary granuloma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Miliary granuloma",
+          "lang": "en"
+        },
+        "id": "42453007"
+      }
+    },
+    {
+      "term": "Actinic granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79144000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Actinic granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Actinic granuloma",
+          "lang": "en"
+        },
+        "id": "79144000"
+      }
+    },
+    {
+      "term": "Granuloma faciale",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "61137005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granuloma faciale (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granuloma faciale",
+          "lang": "en"
+        },
+        "id": "61137005"
+      }
+    },
+    {
+      "term": "Orbital granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "72776003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Orbital granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Orbital granuloma",
+          "lang": "en"
+        },
+        "id": "72776003"
+      }
+    },
+    {
+      "term": "Candida granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "240718005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic localized mucocutaneous candidiasis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic localized mucocutaneous candidiasis",
+          "lang": "en"
+        },
+        "id": "240718005"
+      }
+    },
+    {
+      "term": "Hepatic granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "714253009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hepatic granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hepatic granuloma",
+          "lang": "en"
+        },
+        "id": "714253009"
+      }
+    },
+    {
+      "term": "Hodgkin granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "118602004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hodgkin's granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hodgkin's granuloma (clinical)",
+          "lang": "en"
+        },
+        "id": "118602004"
+      }
+    },
+    {
+      "term": "Denture granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1137562007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inflammatory fibroepithelial hyperplasia of oral mucous membrane caused by denture (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inflammatory fibroepithelial hyperplasia of oral mucous membrane caused by denture",
+          "lang": "en"
+        },
+        "id": "1137562007"
+      }
+    },
+    {
+      "term": "Hodgkin granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "836277009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hodgkin granuloma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hodgkin granuloma",
+          "lang": "en"
+        },
+        "id": "836277009"
+      }
+    },
+    {
+      "term": "Pyogenic granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "17372009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granuloma pyogenicum (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granuloma pyogenicum",
+          "lang": "en"
+        },
+        "id": "17372009"
+      }
+    },
+    {
+      "term": "Granuloma venereum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28867007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granuloma inguinale (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granuloma inguinale",
+          "lang": "en"
+        },
+        "id": "28867007"
+      }
+    },
+    {
+      "term": "Allergic granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111006009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypersensitivity granuloma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypersensitivity granuloma",
+          "lang": "en"
+        },
+        "id": "111006009"
+      }
+    },
+    {
+      "term": "Urethral granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111412007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urethral granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urethral granuloma",
+          "lang": "en"
+        },
+        "id": "111412007"
+      }
+    },
+    {
+      "term": "Granuloma annulare",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "65508009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granuloma annulare (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granuloma annulare",
+          "lang": "en"
+        },
+        "id": "65508009"
+      }
+    },
+    {
+      "term": "Pyogenic granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "200722003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pyogenic granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pyogenic granuloma",
+          "lang": "en"
+        },
+        "id": "200722003"
+      }
+    },
+    {
+      "term": "Monilial granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "240718005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic localized mucocutaneous candidiasis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic localized mucocutaneous candidiasis",
+          "lang": "en"
+        },
+        "id": "240718005"
+      }
+    },
+    {
+      "term": "Granuloma Donovani",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28867007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granuloma inguinale (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granuloma inguinale",
+          "lang": "en"
+        },
+        "id": "28867007"
+      }
+    },
+    {
+      "term": "Aquarium granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "240417004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fish tank granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fish tank granuloma",
+          "lang": "en"
+        },
+        "id": "240417004"
+      }
+    },
+    {
+      "term": "Doughnut granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409558003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fibrin-ring granuloma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fibrin-ring granuloma",
+          "lang": "en"
+        },
+        "id": "409558003"
+      }
+    },
+    {
+      "term": "Toxocara granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417097002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Toxocara granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Toxocara granuloma",
+          "lang": "en"
+        },
+        "id": "417097002"
+      }
+    },
+    {
+      "term": "Beryllium granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "18121009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic berylliosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic berylliosis",
+          "lang": "en"
+        },
+        "id": "18121009"
+      }
+    },
+    {
+      "term": "Caseating granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27058005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Necrotizing granulomatous inflammation (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Necrotizing granulomatous inflammation",
+          "lang": "en"
+        },
+        "id": "27058005"
+      }
+    },
+    {
+      "term": "Granuloma inguinale",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28867007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granuloma inguinale (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granuloma inguinale",
+          "lang": "en"
+        },
+        "id": "28867007"
+      }
+    },
+    {
+      "term": "Granulomatous polyp",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "118962003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granulomatous polyp, a polyp showing granulomatous inflammation (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granulomatous polyp",
+          "lang": "en"
+        },
+        "id": "118962003"
+      }
+    },
+    {
+      "term": "Calcified granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48391002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Calcified granuloma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Calcified granuloma",
+          "lang": "en"
+        },
+        "id": "48391002"
+      }
+    },
+    {
+      "term": "Granuloma of rectum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "77713007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Granuloma of rectum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Granuloma of rectum",
+          "lang": "en"
+        },
+        "id": "77713007"
+      }
+    },
+    {
+      "term": "Foam cell granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "55266009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Foam cell granuloma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Foam cell granuloma",
+          "lang": "en"
+        },
+        "id": "55266009"
+      }
+    },
+    {
+      "term": "Laryngeal granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "72211003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Laryngeal granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Laryngeal granuloma",
+          "lang": "en"
+        },
+        "id": "72211003"
+      }
+    },
+    {
+      "term": "Infective granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "125336001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infective granuloma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infective granuloma",
+          "lang": "en"
+        },
+        "id": "125336001"
+      }
+    },
+    {
+      "term": "Umbilical granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "200724002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Umbilical granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Umbilical granuloma",
+          "lang": "en"
+        },
+        "id": "200724002"
+      }
+    },
+    {
+      "term": "Fish tank granuloma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "240417004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fish tank granuloma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fish tank granuloma",
+          "lang": "en"
+        },
+        "id": "240417004"
+      }
+    }
+  ]
+}

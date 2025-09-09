@@ -1,0 +1,350 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 10
+    },
+    "semanticTags": {
+      "product": 7
+    },
+    "language": {
+      "en": 10
+    },
+    "membership": {
+      "1322291000000109": 7,
+      "900000000000497000": 7,
+      "733073007": 7,
+      "999000581000001102": 4,
+      "999000801000001108": 2,
+      "30931000001101": 7
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000581000001102": {
+      "conceptId": "999000581000001102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual therapeutic moiety simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual therapeutic moiety simple reference set",
+        "lang": "en"
+      },
+      "id": "999000581000001102"
+    },
+    "999000801000001108": {
+      "conceptId": "999000801000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy Archetypes Drug Groups simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy Archetypes Drug Groups simple reference set",
+        "lang": "en"
+      },
+      "id": "999000801000001108"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 10,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 10,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Penicillin G only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774826003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only benzylpenicillin (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G only product",
+          "lang": "en"
+        },
+        "id": "774826003"
+      }
+    },
+    {
+      "term": "Penicillin V only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "777175009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only phenoxymethylpenicillin (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin V only product",
+          "lang": "en"
+        },
+        "id": "777175009"
+      }
+    },
+    {
+      "term": "Penicillin-containing product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "890458001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing penicillin (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin-containing product",
+          "lang": "en"
+        },
+        "id": "890458001"
+      }
+    },
+    {
+      "term": "Penicillin antibacterial agent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6369005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Medicinal product containing penicillin and acting as antibacterial agent (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin antibacterial agent",
+          "lang": "en"
+        },
+        "id": "6369005"
+      }
+    },
+    {
+      "term": "Penicillin G procaine only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1234762001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only procaine benzylpenicillin (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G procaine only product",
+          "lang": "en"
+        },
+        "id": "1234762001"
+      }
+    },
+    {
+      "term": "Penicillin G benzathine only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1234764000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only benzathine benzylpenicillin (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin G benzathine only product",
+          "lang": "en"
+        },
+        "id": "1234764000"
+      }
+    },
+    {
+      "term": "Product containing penicillin (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "890458001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing penicillin (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin-containing product",
+          "lang": "en"
+        },
+        "id": "890458001"
+      }
+    },
+    {
+      "term": "Broad spectrum penicillin antibacterial agent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "323508007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Medicinal product containing broad spectrum penicillin and acting as antibacterial agent (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Broad spectrum penicillin antibacterial agent",
+          "lang": "en"
+        },
+        "id": "323508007"
+      }
+    },
+    {
+      "term": "Medicinal product containing penicillin and acting as antibacterial agent (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6369005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Medicinal product containing penicillin and acting as antibacterial agent (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Penicillin antibacterial agent",
+          "lang": "en"
+        },
+        "id": "6369005"
+      }
+    },
+    {
+      "term": "Medicinal product containing broad spectrum penicillin and acting as antibacterial agent (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "323508007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Medicinal product containing broad spectrum penicillin and acting as antibacterial agent (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Broad spectrum penicillin antibacterial agent",
+          "lang": "en"
+        },
+        "id": "323508007"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1382 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 8,
+      "999000041000000102": 3,
+      "900000000000207008": 132
+    },
+    "semanticTags": {
+      "finding": 64
+    },
+    "language": {
+      "en": 143
+    },
+    "membership": {
+      "1322291000000109": 64,
+      "999004331000000102": 2,
+      "991171000000107": 1,
+      "1127601000000107": 64,
+      "999002271000000101": 43,
+      "1128791000000106": 1,
+      "900000000000489007": 2,
+      "1127471000000101": 1,
+      "1382501000000108": 1,
+      "1129631000000105": 1,
+      "900000000000497000": 60,
+      "999002051000000100": 1,
+      "733073007": 64,
+      "1127691000000100": 1,
+      "1127511000000105": 1,
+      "999002751000000103": 2
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991171000000107": {
+      "conceptId": "991171000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy goals simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy goals simple reference set",
+        "lang": "en"
+      },
+      "id": "991171000000107"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "1128791000000106": {
+      "conceptId": "1128791000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional biochemistry and haematology interpretation findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional biochemistry and haematology interpretation findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128791000000106"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1127471000000101": {
+      "conceptId": "1127471000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Accommodation environmental findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Accommodation environmental findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127471000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382501000000108": {
+      "conceptId": "1382501000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Dietary requirement findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Dietary requirement findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1382501000000108"
+    },
+    "1129631000000105": {
+      "conceptId": "1129631000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1129631000000105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "1127691000000100": {
+      "conceptId": "1127691000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Fetal heart rate variability findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Fetal heart rate variability findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127691000000100"
+    },
+    "1127511000000105": {
+      "conceptId": "1127511000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Subject has carer findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Subject has carer findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127511000000105"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "999002751000000103": {
+      "conceptId": "999002751000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Activity of daily living related to physical function findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Activity of daily living related to physical function findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002751000000103"
+    }
+  },
+  "totalElements": 143,
+  "totalPages": 3,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Good mood",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "112080002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cheerful mood (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cheerful mood",
+          "lang": "en"
+        },
+        "id": "112080002"
+      }
+    },
+    {
+      "term": "Diet good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "310500000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diet good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diet good",
+          "lang": "en"
+        },
+        "id": "310500000"
+      }
+    },
+    {
+      "term": "Good memory",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247602005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Memory function normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Memory function normal",
+          "lang": "en"
+        },
+        "id": "247602005"
+      }
+    },
+    {
+      "term": "Goodell sign",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9686009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Goodell's sign (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Goodell's sign",
+          "lang": "en"
+        },
+        "id": "9686009"
+      }
+    },
+    {
+      "term": "Good attitude",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225463003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Positive attitude (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Positive attitude",
+          "lang": "en"
+        },
+        "id": "225463003"
+      }
+    },
+    {
+      "term": "Goodell's sign",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9686009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Goodell's sign (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Goodell's sign",
+          "lang": "en"
+        },
+        "id": "9686009"
+      }
+    },
+    {
+      "term": "Good education",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "105423006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good education (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good education",
+          "lang": "en"
+        },
+        "id": "105423006"
+      }
+    },
+    {
+      "term": "Prognosis good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170968001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Prognosis good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prognosis good",
+          "lang": "en"
+        },
+        "id": "170968001"
+      }
+    },
+    {
+      "term": "Good prognosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170968001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Prognosis good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prognosis good",
+          "lang": "en"
+        },
+        "id": "170968001"
+      }
+    },
+    {
+      "term": "Good self-image",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225509003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good self-image (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good self-image",
+          "lang": "en"
+        },
+        "id": "225509003"
+      }
+    },
+    {
+      "term": "In good spirits",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "112080002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cheerful mood (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cheerful mood",
+          "lang": "en"
+        },
+        "id": "112080002"
+      }
+    },
+    {
+      "term": "Skin color good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304228008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Skin color good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Skin color good",
+          "lang": "en"
+        },
+        "id": "304228008"
+      }
+    },
+    {
+      "term": "O/E - care good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162875009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - care good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - care good",
+          "lang": "en"
+        },
+        "id": "162875009"
+      }
+    },
+    {
+      "term": "Good self-esteem",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225504008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "High self-esteem (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "High self-esteem",
+          "lang": "en"
+        },
+        "id": "225504008"
+      }
+    },
+    {
+      "term": "Orientation good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247663003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Orientated (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Orientated",
+          "lang": "en"
+        },
+        "id": "247663003"
+      }
+    },
+    {
+      "term": "Skin colour good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304228008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Skin color good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Skin color good",
+          "lang": "en"
+        },
+        "id": "304228008"
+      }
+    },
+    {
+      "term": "Good oral hygiene",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "278543008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good oral hygiene (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good oral hygiene",
+          "lang": "en"
+        },
+        "id": "278543008"
+      }
+    },
+    {
+      "term": "Good trunk control",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249854006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good trunk control (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good trunk control",
+          "lang": "en"
+        },
+        "id": "249854006"
+      }
+    },
+    {
+      "term": "Good sleep pattern",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314939008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good sleep pattern (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good sleep pattern",
+          "lang": "en"
+        },
+        "id": "314939008"
+      }
+    },
+    {
+      "term": "General health good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "135815002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "General health good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "General health good",
+          "lang": "en"
+        },
+        "id": "135815002"
+      }
+    },
+    {
+      "term": "Diet good (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "310500000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diet good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diet good",
+          "lang": "en"
+        },
+        "id": "310500000"
+      }
+    },
+    {
+      "term": "Good social support",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1145306007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good social support (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good social support",
+          "lang": "en"
+        },
+        "id": "1145306007"
+      }
+    },
+    {
+      "term": "Drug compliance good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "182884001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Drug compliance good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Drug compliance good",
+          "lang": "en"
+        },
+        "id": "182884001"
+      }
+    },
+    {
+      "term": "House in good repair",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224262000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "House in good repair (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "House in good repair",
+          "lang": "en"
+        },
+        "id": "224262000"
+      }
+    },
+    {
+      "term": "Good quality of life",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1156447008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good quality of life (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good quality of life",
+          "lang": "en"
+        },
+        "id": "1156447008"
+      }
+    },
+    {
+      "term": "Quality of life good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1156447008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good quality of life (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good quality of life",
+          "lang": "en"
+        },
+        "id": "1156447008"
+      }
+    },
+    {
+      "term": "Good long-term memory",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247587007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Long-term memory within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Long-term memory within normal limits",
+          "lang": "en"
+        },
+        "id": "247587007"
+      }
+    },
+    {
+      "term": "Epilepsy control good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314827004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Epilepsy control good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Epilepsy control good",
+          "lang": "en"
+        },
+        "id": "314827004"
+      }
+    },
+    {
+      "term": "Angina control - good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170594001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Angina control - good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Angina control - good",
+          "lang": "en"
+        },
+        "id": "170594001"
+      }
+    },
+    {
+      "term": "Tube in good position",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "422701008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Glaucoma drainage tube in good position (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glaucoma drainage tube in good position",
+          "lang": "en"
+        },
+        "id": "422701008"
+      }
+    },
+    {
+      "term": "Good quality of sleep",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11741000202105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good quality of sleep (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good quality of sleep",
+          "lang": "en"
+        },
+        "id": "11741000202105"
+      }
+    },
+    {
+      "term": "Good parenting skills",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "873651000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Good parenting skills (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good parenting skills",
+          "lang": "en"
+        },
+        "id": "873651000000107"
+      }
+    },
+    {
+      "term": "School attendance good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224325004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "School attendance good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "School attendance good",
+          "lang": "en"
+        },
+        "id": "224325004"
+      }
+    },
+    {
+      "term": "Good short-term memory",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247590001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Short-term memory within normal limits (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Short-term memory within normal limits",
+          "lang": "en"
+        },
+        "id": "247590001"
+      }
+    },
+    {
+      "term": "Diabetic - good control",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170763003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetic - good control (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetic - good control",
+          "lang": "en"
+        },
+        "id": "170763003"
+      }
+    },
+    {
+      "term": "Good control of movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276416006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good control of movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good control of movement",
+          "lang": "en"
+        },
+        "id": "276416006"
+      }
+    },
+    {
+      "term": "Inhaler technique - good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170625000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inhaler technique - good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inhaler technique - good",
+          "lang": "en"
+        },
+        "id": "170625000"
+      }
+    },
+    {
+      "term": "Good education (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "105423006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good education (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good education",
+          "lang": "en"
+        },
+        "id": "105423006"
+      }
+    },
+    {
+      "term": "Prognosis good (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170968001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Prognosis good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prognosis good",
+          "lang": "en"
+        },
+        "id": "170968001"
+      }
+    },
+    {
+      "term": "Goodell's sign (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9686009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Goodell's sign (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Goodell's sign",
+          "lang": "en"
+        },
+        "id": "9686009"
+      }
+    },
+    {
+      "term": "Nebuliser technique good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "391106002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nebulizer technique good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nebulizer technique good",
+          "lang": "en"
+        },
+        "id": "391106002"
+      }
+    },
+    {
+      "term": "Nebulizer technique good",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "391106002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nebulizer technique good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nebulizer technique good",
+          "lang": "en"
+        },
+        "id": "391106002"
+      }
+    },
+    {
+      "term": "Good recovery from abuse",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1144534006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good recovery from abuse (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good recovery from abuse",
+          "lang": "en"
+        },
+        "id": "1144534006"
+      }
+    },
+    {
+      "term": "Good upper body strength",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "896171000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Good upper body strength (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good upper body strength",
+          "lang": "en"
+        },
+        "id": "896171000000106"
+      }
+    },
+    {
+      "term": "Good uterine contractions",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289718002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good uterine contractions (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good uterine contractions",
+          "lang": "en"
+        },
+        "id": "289718002"
+      }
+    },
+    {
+      "term": "Good hypertension control",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170577003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good hypertension control (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good hypertension control",
+          "lang": "en"
+        },
+        "id": "170577003"
+      }
+    },
+    {
+      "term": "Skin color good (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304228008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Skin color good (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Skin color good",
+          "lang": "en"
+        },
+        "id": "304228008"
+      }
+    },
+    {
+      "term": "Good self-image (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "225509003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good self-image (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good self-image",
+          "lang": "en"
+        },
+        "id": "225509003"
+      }
+    },
+    {
+      "term": "Wheelchair in good repair",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "473192009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Wheelchair in good repair (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Wheelchair in good repair",
+          "lang": "en"
+        },
+        "id": "473192009"
+      }
+    },
+    {
+      "term": "Good therapeutic response",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "78469002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Good therapeutic response (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Good therapeutic response",
+          "lang": "en"
+        },
+        "id": "78469002"
+      }
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 15
+    },
+    "semanticTags": {
+      "product": 15
+    },
+    "language": {
+      "en": 15
+    },
+    "membership": {
+      "1322291000000109": 15,
+      "999000771000001105": 14,
+      "900000000000497000": 15,
+      "733073007": 15,
+      "999000581000001102": 15,
+      "30931000001101": 15
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999000771000001105": {
+      "conceptId": "999000771000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices combination drug virtual therapeutic moiety simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices combination drug virtual therapeutic moiety simple reference set",
+        "lang": "en"
+      },
+      "id": "999000771000001105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000581000001102": {
+      "conceptId": "999000581000001102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices virtual therapeutic moiety simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices virtual therapeutic moiety simple reference set",
+        "lang": "en"
+      },
+      "id": "999000581000001102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 15,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 15,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Acetaminophen only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "777067000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only paracetamol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen only product",
+          "lang": "en"
+        },
+        "id": "777067000"
+      }
+    },
+    {
+      "term": "Acetaminophen and aspirin only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774679005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only aspirin and paracetamol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and aspirin only product",
+          "lang": "en"
+        },
+        "id": "774679005"
+      }
+    },
+    {
+      "term": "Acetaminophen and caffeine only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774972003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only caffeine and paracetamol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and caffeine only product",
+          "lang": "en"
+        },
+        "id": "774972003"
+      }
+    },
+    {
+      "term": "Acetaminophen and tramadol only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "777074005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only paracetamol and tramadol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and tramadol only product",
+          "lang": "en"
+        },
+        "id": "777074005"
+      }
+    },
+    {
+      "term": "Acetaminophen and ibuprofen only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1172855009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only ibuprofen and paracetamol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and ibuprofen only product",
+          "lang": "en"
+        },
+        "id": "1172855009"
+      }
+    },
+    {
+      "term": "Acetaminophen and domperidone only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "775684006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only domperidone and paracetamol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and domperidone only product",
+          "lang": "en"
+        },
+        "id": "775684006"
+      }
+    },
+    {
+      "term": "Acetaminophen and ascorbic acid only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "774651004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only ascorbic acid and paracetamol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and ascorbic acid only product",
+          "lang": "en"
+        },
+        "id": "774651004"
+      }
+    },
+    {
+      "term": "Acetaminophen and isometheptene only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "776411009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only isometheptene and paracetamol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and isometheptene only product",
+          "lang": "en"
+        },
+        "id": "776411009"
+      }
+    },
+    {
+      "term": "Acetaminophen and phenylephrine only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "777068005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only paracetamol and phenylephrine (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and phenylephrine only product",
+          "lang": "en"
+        },
+        "id": "777068005"
+      }
+    },
+    {
+      "term": "Acetaminophen and dihydrocodeine only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "775593002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only dihydrocodeine and paracetamol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and dihydrocodeine only product",
+          "lang": "en"
+        },
+        "id": "775593002"
+      }
+    },
+    {
+      "term": "Acetaminophen and metoclopramide only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "776767000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only metoclopramide and paracetamol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and metoclopramide only product",
+          "lang": "en"
+        },
+        "id": "776767000"
+      }
+    },
+    {
+      "term": "Acetaminophen and diphenhydramine only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "775629003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only diphenhydramine and paracetamol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and diphenhydramine only product",
+          "lang": "en"
+        },
+        "id": "775629003"
+      }
+    },
+    {
+      "term": "Acetaminophen and pseudoephedrine only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "777071002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only paracetamol and pseudoephedrine (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and pseudoephedrine only product",
+          "lang": "en"
+        },
+        "id": "777071002"
+      }
+    },
+    {
+      "term": "Acetaminophen and sodium salicylate only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "777073004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only paracetamol and sodium salicylate (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and sodium salicylate only product",
+          "lang": "en"
+        },
+        "id": "777073004"
+      }
+    },
+    {
+      "term": "Acetaminophen and buclizine and codeine only product",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1331953007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Product containing only buclizine and codeine and paracetamol (medicinal product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acetaminophen and buclizine and codeine only product",
+          "lang": "en"
+        },
+        "id": "1331953007"
+      }
+    }
+  ]
+}

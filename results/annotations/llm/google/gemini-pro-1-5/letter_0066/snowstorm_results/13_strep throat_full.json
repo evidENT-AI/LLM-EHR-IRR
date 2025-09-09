@@ -1,0 +1,678 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 14,
+      "900000000000207008": 7
+    },
+    "semanticTags": {
+      "product": 7,
+      "disorder": 3
+    },
+    "language": {
+      "en": 21
+    },
+    "membership": {
+      "1322291000000109": 10,
+      "1127601000000107": 3,
+      "999000031000001105": 6,
+      "999000551000001106": 4,
+      "1382531000000102": 2,
+      "999000541000001108": 2,
+      "900000000000497000": 3,
+      "999000631000001100": 1,
+      "999002271000000101": 4,
+      "733073007": 3,
+      "30931000001101": 7
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999000631000001100": {
+      "conceptId": "999000631000001100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices trade family simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices trade family simple reference set",
+        "lang": "en"
+      },
+      "id": "999000631000001100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 21,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 21,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Strep throat",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43878008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Streptococcal sore throat (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Streptococcal sore throat",
+          "lang": "en"
+        },
+        "id": "43878008"
+      }
+    },
+    {
+      "term": "Strept throat",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43878008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Streptococcal sore throat (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Streptococcal sore throat",
+          "lang": "en"
+        },
+        "id": "43878008"
+      }
+    },
+    {
+      "term": "Streptococcal sore throat",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43878008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Streptococcal sore throat (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Streptococcal sore throat",
+          "lang": "en"
+        },
+        "id": "43878008"
+      }
+    },
+    {
+      "term": "Acute streptococcal sore throat",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1296672005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute infective pharyngitis caused by Streptococcus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute streptococcal pharyngitis",
+          "lang": "en"
+        },
+        "id": "1296672005"
+      }
+    },
+    {
+      "term": "Streptococcal sore throat (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43878008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Streptococcal sore throat (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Streptococcal sore throat",
+          "lang": "en"
+        },
+        "id": "43878008"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Blocked Nose",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "9352101000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Blocked Nose (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Blocked Nose",
+          "lang": "en"
+        },
+        "id": "9352101000001104"
+      }
+    },
+    {
+      "term": "Streptococcal sore throat with scarlatina",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "186357007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Streptococcal sore throat with scarlatina (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Streptococcal sore throat with scarlatina",
+          "lang": "en"
+        },
+        "id": "186357007"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Blocked Nose (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "9352101000001104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Blocked Nose (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Blocked Nose",
+          "lang": "en"
+        },
+        "id": "9352101000001104"
+      }
+    },
+    {
+      "term": "Streptococcal sore throat with scarlatina (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "186357007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Streptococcal sore throat with scarlatina (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Streptococcal sore throat with scarlatina",
+          "lang": "en"
+        },
+        "id": "186357007"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Cough lozenges (Reckitt Benckiser Healthcare (UK) Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "21680711000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Cough lozenges (Reckitt Benckiser Healthcare (UK) Ltd) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Cough lozenges (Reckitt Benckiser Healthcare (UK) Ltd)",
+          "lang": "en"
+        },
+        "id": "21680711000001108"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Plc) (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "10682211000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Plc) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Healthcare (UK) Ltd)",
+          "lang": "en"
+        },
+        "id": "10682211000001109"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Healthcare (UK) Ltd)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "10682211000001109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Plc) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Healthcare (UK) Ltd)",
+          "lang": "en"
+        },
+        "id": "10682211000001109"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Cough lozenges (Reckitt Benckiser Healthcare (UK) Ltd) (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "21680711000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Cough lozenges (Reckitt Benckiser Healthcare (UK) Ltd) (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Cough lozenges (Reckitt Benckiser Healthcare (UK) Ltd)",
+          "lang": "en"
+        },
+        "id": "21680711000001108"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Plc) 16 lozenge 2 x 8 lozenges (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "10682311000001101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Plc) 16 lozenge 2 x 8 lozenges (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 16 lozenge 2 x 8 lozenges",
+          "lang": "en"
+        },
+        "id": "10682311000001101"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Cough lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 24 lozenge 2 x 12 lozenges",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "21680811000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Cough lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 24 lozenge 2 x 12 lozenges (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Cough lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 24 lozenge 2 x 12 lozenges",
+          "lang": "en"
+        },
+        "id": "21680811000001100"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Plc) 36 lozenge 3 x 12 lozenges (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "14700311000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Plc) 36 lozenge 3 x 12 lozenges (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 36 lozenge 3 x 12 lozenges",
+          "lang": "en"
+        },
+        "id": "14700311000001106"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Plc) 24 lozenge 2 x 12 lozenges (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11935911000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Plc) 24 lozenge 2 x 12 lozenges (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 24 lozenge 2 x 12 lozenges",
+          "lang": "en"
+        },
+        "id": "11935911000001106"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 16 lozenge 2 x 8 lozenges",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "10682311000001101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Plc) 16 lozenge 2 x 8 lozenges (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 16 lozenge 2 x 8 lozenges",
+          "lang": "en"
+        },
+        "id": "10682311000001101"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 24 lozenge 2 x 12 lozenges",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "11935911000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Plc) 24 lozenge 2 x 12 lozenges (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 24 lozenge 2 x 12 lozenges",
+          "lang": "en"
+        },
+        "id": "11935911000001106"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 36 lozenge 3 x 12 lozenges",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "14700311000001106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Plc) 36 lozenge 3 x 12 lozenges (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Blocked Nose lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 36 lozenge 3 x 12 lozenges",
+          "lang": "en"
+        },
+        "id": "14700311000001106"
+      }
+    },
+    {
+      "term": "Strepsils Sore Throat and Cough lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 24 lozenge 2 x 12 lozenges (product)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "21680811000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Strepsils Sore Throat and Cough lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 24 lozenge 2 x 12 lozenges (product)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Strepsils Sore Throat and Cough lozenges (Reckitt Benckiser Healthcare (UK) Ltd) 24 lozenge 2 x 12 lozenges",
+          "lang": "en"
+        },
+        "id": "21680811000001100"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1382 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2,
+      "999000041000000102": 1,
+      "900000000000207008": 129
+    },
+    "semanticTags": {
+      "finding": 62
+    },
+    "language": {
+      "en": 132
+    },
+    "membership": {
+      "1322291000000109": 62,
+      "999004331000000102": 1,
+      "1127601000000107": 61,
+      "999002541000000105": 17,
+      "1382531000000102": 1,
+      "999002271000000101": 32,
+      "2222191000000108": 1,
+      "900000000000489007": 1,
+      "999002451000000109": 3,
+      "999002571000000104": 1,
+      "900000000000497000": 61,
+      "999002051000000100": 1,
+      "733073007": 62,
+      "999002501000000107": 6,
+      "999002491000000101": 2,
+      "1127711000000103": 2
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999002541000000105": {
+      "conceptId": "999002541000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Joint movement findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Joint movement findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002541000000105"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002501000000107": {
+      "conceptId": "999002501000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Spine movement findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Spine movement findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002501000000107"
+    },
+    "999002491000000101": {
+      "conceptId": "999002491000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Deformity of spine findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Deformity of spine findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002491000000101"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "1127711000000103": {
+      "conceptId": "1127711000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Fetal movement findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Fetal movement findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127711000000103"
+    }
+  },
+  "totalElements": 132,
+  "totalPages": 3,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "No hip movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304318002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No hip movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No hip movement",
+          "lang": "en"
+        },
+        "id": "304318002"
+      }
+    },
+    {
+      "term": "No toe movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304340006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No toe movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No toe movement",
+          "lang": "en"
+        },
+        "id": "304340006"
+      }
+    },
+    {
+      "term": "No limb movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249900008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not move all four limbs (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not move all four limbs",
+          "lang": "en"
+        },
+        "id": "249900008"
+      }
+    },
+    {
+      "term": "No knee movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304322007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No knee movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No knee movement",
+          "lang": "en"
+        },
+        "id": "304322007"
+      }
+    },
+    {
+      "term": "No foot movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304331007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No foot movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No foot movement",
+          "lang": "en"
+        },
+        "id": "304331007"
+      }
+    },
+    {
+      "term": "No elbow movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304302008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No elbow movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No elbow movement",
+          "lang": "en"
+        },
+        "id": "304302008"
+      }
+    },
+    {
+      "term": "No wrist movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304306006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No wrist movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No wrist movement",
+          "lang": "en"
+        },
+        "id": "304306006"
+      }
+    },
+    {
+      "term": "No thumb movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304314000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No thumb movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No thumb movement",
+          "lang": "en"
+        },
+        "id": "304314000"
+      }
+    },
+    {
+      "term": "No ankle movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304327001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No ankle movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No ankle movement",
+          "lang": "en"
+        },
+        "id": "304327001"
+      }
+    },
+    {
+      "term": "No finger movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304310009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No finger movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No finger movement",
+          "lang": "en"
+        },
+        "id": "304310009"
+      }
+    },
+    {
+      "term": "Normal eye movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "103251002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal ocular motility (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal ocular motility",
+          "lang": "en"
+        },
+        "id": "103251002"
+      }
+    },
+    {
+      "term": "No shoulder movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304298000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No shoulder movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No shoulder movement",
+          "lang": "en"
+        },
+        "id": "304298000"
+      }
+    },
+    {
+      "term": "No subtalar movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304335003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No subtalar movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No subtalar movement",
+          "lang": "en"
+        },
+        "id": "304335003"
+      }
+    },
+    {
+      "term": "Chest movement normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298715006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chest movement normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chest movement normal",
+          "lang": "en"
+        },
+        "id": "298715006"
+      }
+    },
+    {
+      "term": "Uvula movement normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "736522000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal movement of uvula (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal movement of uvula",
+          "lang": "en"
+        },
+        "id": "736522000"
+      }
+    },
+    {
+      "term": "Normal movement of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298475003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal movement of neck (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal movement of neck",
+          "lang": "en"
+        },
+        "id": "298475003"
+      }
+    },
+    {
+      "term": "Fetal movements not felt",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249038009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal movements not palpable (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal movements not palpable",
+          "lang": "en"
+        },
+        "id": "249038009"
+      }
+    },
+    {
+      "term": "Fetal movements not seen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289433006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal movements not observed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal movements not observed",
+          "lang": "en"
+        },
+        "id": "289433006"
+      }
+    },
+    {
+      "term": "No lumbar spine movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304353009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No lumbar spine movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No lumbar spine movement",
+          "lang": "en"
+        },
+        "id": "304353009"
+      }
+    },
+    {
+      "term": "Normal movement of uvula",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "736522000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal movement of uvula (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal movement of uvula",
+          "lang": "en"
+        },
+        "id": "736522000"
+      }
+    },
+    {
+      "term": "Limb movement not present",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249900008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not move all four limbs (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not move all four limbs",
+          "lang": "en"
+        },
+        "id": "249900008"
+      }
+    },
+    {
+      "term": "No hip movement (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304318002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No hip movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No hip movement",
+          "lang": "en"
+        },
+        "id": "304318002"
+      }
+    },
+    {
+      "term": "No toe movement (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304340006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No toe movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No toe movement",
+          "lang": "en"
+        },
+        "id": "304340006"
+      }
+    },
+    {
+      "term": "Foetal movements not felt",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249038009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal movements not palpable (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal movements not palpable",
+          "lang": "en"
+        },
+        "id": "249038009"
+      }
+    },
+    {
+      "term": "Foetal movements not seen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289433006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal movements not observed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal movements not observed",
+          "lang": "en"
+        },
+        "id": "289433006"
+      }
+    },
+    {
+      "term": "No cervical spine movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304345001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No cervical spine movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No cervical spine movement",
+          "lang": "en"
+        },
+        "id": "304345001"
+      }
+    },
+    {
+      "term": "No thoracic spine movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304349007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No thoracic spine movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No thoracic spine movement",
+          "lang": "en"
+        },
+        "id": "304349007"
+      }
+    },
+    {
+      "term": "Normal vocal cord movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301221003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal vocal cord movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal vocal cord movement",
+          "lang": "en"
+        },
+        "id": "301221003"
+      }
+    },
+    {
+      "term": "O/E - eye movements normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164045002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - eye movements normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - eye movements normal",
+          "lang": "en"
+        },
+        "id": "164045002"
+      }
+    },
+    {
+      "term": "No knee movement (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304322007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No knee movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No knee movement",
+          "lang": "en"
+        },
+        "id": "304322007"
+      }
+    },
+    {
+      "term": "No foot movement (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304331007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No foot movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No foot movement",
+          "lang": "en"
+        },
+        "id": "304331007"
+      }
+    },
+    {
+      "term": "O/E - uvula movement normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164079001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - uvula movement normal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - uvula movement normal",
+          "lang": "en"
+        },
+        "id": "164079001"
+      }
+    },
+    {
+      "term": "No elbow movement (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304302008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No elbow movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No elbow movement",
+          "lang": "en"
+        },
+        "id": "304302008"
+      }
+    },
+    {
+      "term": "No wrist movement (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304306006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No wrist movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No wrist movement",
+          "lang": "en"
+        },
+        "id": "304306006"
+      }
+    },
+    {
+      "term": "No thumb movement (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304314000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No thumb movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No thumb movement",
+          "lang": "en"
+        },
+        "id": "304314000"
+      }
+    },
+    {
+      "term": "No ankle movement (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304327001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No ankle movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No ankle movement",
+          "lang": "en"
+        },
+        "id": "304327001"
+      }
+    },
+    {
+      "term": "Fetal movements not palpable",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249038009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal movements not palpable (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal movements not palpable",
+          "lang": "en"
+        },
+        "id": "249038009"
+      }
+    },
+    {
+      "term": "Fetal movements not observed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289433006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal movements not observed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal movements not observed",
+          "lang": "en"
+        },
+        "id": "289433006"
+      }
+    },
+    {
+      "term": "Normal range of hip movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304315004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal range of hip movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal range of hip movement",
+          "lang": "en"
+        },
+        "id": "304315004"
+      }
+    },
+    {
+      "term": "Normal range of toe movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304337006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal range of toe movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal range of toe movement",
+          "lang": "en"
+        },
+        "id": "304337006"
+      }
+    },
+    {
+      "term": "No finger movement (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304310009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No finger movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No finger movement",
+          "lang": "en"
+        },
+        "id": "304310009"
+      }
+    },
+    {
+      "term": "Normal diaphragmatic movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "67248003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal diaphragmatic movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal diaphragmatic movement",
+          "lang": "en"
+        },
+        "id": "67248003"
+      }
+    },
+    {
+      "term": "Normal range of knee movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304319005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal range of knee movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal range of knee movement",
+          "lang": "en"
+        },
+        "id": "304319005"
+      }
+    },
+    {
+      "term": "Normal range of foot movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304328006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal range of foot movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal range of foot movement",
+          "lang": "en"
+        },
+        "id": "304328006"
+      }
+    },
+    {
+      "term": "Foetal movements not observed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289433006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal movements not observed (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal movements not observed",
+          "lang": "en"
+        },
+        "id": "289433006"
+      }
+    },
+    {
+      "term": "Foetal movements not palpable",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249038009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fetal movements not palpable (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fetal movements not palpable",
+          "lang": "en"
+        },
+        "id": "249038009"
+      }
+    },
+    {
+      "term": "Normal range of elbow movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304299008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal range of elbow movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal range of elbow movement",
+          "lang": "en"
+        },
+        "id": "304299008"
+      }
+    },
+    {
+      "term": "Normal range of wrist movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304303003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal range of wrist movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal range of wrist movement",
+          "lang": "en"
+        },
+        "id": "304303003"
+      }
+    },
+    {
+      "term": "Normal range of thumb movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304311008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal range of thumb movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal range of thumb movement",
+          "lang": "en"
+        },
+        "id": "304311008"
+      }
+    },
+    {
+      "term": "Normal range of ankle movement",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304323002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal range of ankle movement (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal range of ankle movement",
+          "lang": "en"
+        },
+        "id": "304323002"
+      }
+    }
+  ]
+}

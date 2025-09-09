@@ -1,0 +1,1388 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 3,
+      "999000011000000103": 3,
+      "900000000000207008": 72
+    },
+    "semanticTags": {
+      "disorder": 14,
+      "substance": 2,
+      "morphologic abnormality": 1,
+      "observable entity": 8,
+      "procedure": 5,
+      "finding": 5,
+      "qualifier value": 3
+    },
+    "language": {
+      "en": 78
+    },
+    "membership": {
+      "1322291000000109": 33,
+      "991411000000109": 1,
+      "1127601000000107": 19,
+      "999000531000000100": 1,
+      "1382531000000102": 12,
+      "999003161000000108": 1,
+      "999002271000000101": 17,
+      "999002601000000106": 1,
+      "446608001": 1,
+      "999002451000000109": 1,
+      "1129001000000109": 7,
+      "900000000000497000": 36,
+      "733073007": 37,
+      "1382401000000109": 14,
+      "30931000001101": 2,
+      "999003141000000107": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999000531000000100": {
+      "conceptId": "999000531000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Religious or other belief system affiliation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Religious or other belief system affiliation simple reference set",
+        "lang": "en"
+      },
+      "id": "999000531000000100"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999002601000000106": {
+      "conceptId": "999002601000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Religious or other belief system affiliation groups simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Religious or other belief system affiliation groups simple reference set",
+        "lang": "en"
+      },
+      "id": "999002601000000106"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "446608001": {
+      "conceptId": "446608001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT to ICD-O simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT to ICD-O simple map",
+        "lang": "en"
+      },
+      "id": "446608001"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "1129001000000109": {
+      "conceptId": "1129001000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional dietary assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional dietary assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "1129001000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 78,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "None",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "260413007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "None (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "None",
+          "lang": "en"
+        },
+        "id": "260413007"
+      }
+    },
+    {
+      "term": "None",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "108741000001108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "NHS dm+d (dictionary of medicines and devices) AMP (actual medicinal product) availability restriction none (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "None",
+          "lang": "en"
+        },
+        "id": "108741000001108"
+      }
+    },
+    {
+      "term": "None used",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "262001002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "None used (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "None used",
+          "lang": "en"
+        },
+        "id": "262001002"
+      }
+    },
+    {
+      "term": "Religion, none",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160552003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Not religious (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Not religious",
+          "lang": "en"
+        },
+        "id": "160552003"
+      }
+    },
+    {
+      "term": "TAG score: none",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "205671000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Threshold assessment grid score: none (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Threshold assessment grid score: none",
+          "lang": "en"
+        },
+        "id": "205671000000102"
+      }
+    },
+    {
+      "term": "None (qualifier value)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "260413007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "None (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "None",
+          "lang": "en"
+        },
+        "id": "260413007"
+      }
+    },
+    {
+      "term": "Nonessential amino acid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63330006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonessential amino acid (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonessential amino acid",
+          "lang": "en"
+        },
+        "id": "63330006"
+      }
+    },
+    {
+      "term": "Nonesterified fatty acids",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "259582002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unesterified fatty acid (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unesterified fatty acid",
+          "lang": "en"
+        },
+        "id": "259582002"
+      }
+    },
+    {
+      "term": "None used (qualifier value)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "262001002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "None used (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "None used",
+          "lang": "en"
+        },
+        "id": "262001002"
+      }
+    },
+    {
+      "term": "Pedophilia, nonexclusive type",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48309007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pedophilia, nonexclusive type (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pedophilia, nonexclusive type",
+          "lang": "en"
+        },
+        "id": "48309007"
+      }
+    },
+    {
+      "term": "Paedophilia, nonexclusive type",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48309007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pedophilia, nonexclusive type (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pedophilia, nonexclusive type",
+          "lang": "en"
+        },
+        "id": "48309007"
+      }
+    },
+    {
+      "term": "Nonerosive nonspecific gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50874004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonerosive nonspecific gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonerosive nonspecific gastritis",
+          "lang": "en"
+        },
+        "id": "50874004"
+      }
+    },
+    {
+      "term": "Nonencapsulated sclerosing tumor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62681000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonencapsulated sclerosing carcinoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonencapsulated sclerosing carcinoma",
+          "lang": "en"
+        },
+        "id": "62681000"
+      }
+    },
+    {
+      "term": "Nonexcisional debridement of burn",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34390007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonexcisional debridement of burn (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonexcisional debridement of burn",
+          "lang": "en"
+        },
+        "id": "34390007"
+      }
+    },
+    {
+      "term": "Nonencapsulated sclerosing tumour",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62681000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonencapsulated sclerosing carcinoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonencapsulated sclerosing carcinoma",
+          "lang": "en"
+        },
+        "id": "62681000"
+      }
+    },
+    {
+      "term": "Nonessential amino acid (substance)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63330006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonessential amino acid (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonessential amino acid",
+          "lang": "en"
+        },
+        "id": "63330006"
+      }
+    },
+    {
+      "term": "Motor nerve conduction block - none",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398208003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Motor nerve conduction block - none (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Motor nerve conduction block - none",
+          "lang": "en"
+        },
+        "id": "398208003"
+      }
+    },
+    {
+      "term": "Nonencapsulated sclerosing carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62681000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonencapsulated sclerosing carcinoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonencapsulated sclerosing carcinoma",
+          "lang": "en"
+        },
+        "id": "62681000"
+      }
+    },
+    {
+      "term": "Sensory nerve conduction block - none",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398278002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sensory nerve conduction block - none (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sensory nerve conduction block - none",
+          "lang": "en"
+        },
+        "id": "398278002"
+      }
+    },
+    {
+      "term": "Threshold assessment grid score: none",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "205671000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Threshold assessment grid score: none (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Threshold assessment grid score: none",
+          "lang": "en"
+        },
+        "id": "205671000000102"
+      }
+    },
+    {
+      "term": "Nonerosive lichen planus of oral mucosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "724511006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonerosive lichen planus of oral mucosa (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonerosive lichen planus of oral mucosa",
+          "lang": "en"
+        },
+        "id": "724511006"
+      }
+    },
+    {
+      "term": "Pedophilia, nonexclusive type (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "48309007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pedophilia, nonexclusive type (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pedophilia, nonexclusive type",
+          "lang": "en"
+        },
+        "id": "48309007"
+      }
+    },
+    {
+      "term": "Borg Breathlessness Score: 0 none at all",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "401275008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Borg Breathlessness Score: 0 none at all (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Borg Breathlessness Score: 0 none at all",
+          "lang": "en"
+        },
+        "id": "401275008"
+      }
+    },
+    {
+      "term": "Nonexudative senile macular degeneration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414875008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonexudative age-related macular degeneration (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonexudative age-related macular degeneration",
+          "lang": "en"
+        },
+        "id": "414875008"
+      }
+    },
+    {
+      "term": "Atrophic nonerosive nonspecific gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15445004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Atrophic nonerosive nonspecific gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Atrophic nonerosive nonspecific gastritis",
+          "lang": "en"
+        },
+        "id": "15445004"
+      }
+    },
+    {
+      "term": "Nonencapsulated sclerosing adenocarcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62681000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonencapsulated sclerosing carcinoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonencapsulated sclerosing carcinoma",
+          "lang": "en"
+        },
+        "id": "62681000"
+      }
+    },
+    {
+      "term": "Nonelectrolyte-stimulated sodium absorption",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38187001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonelectrolyte-stimulated sodium absorption, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonelectrolyte-stimulated sodium absorption",
+          "lang": "en"
+        },
+        "id": "38187001"
+      }
+    },
+    {
+      "term": "Nonexcisional destruction of lesion of iris",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73689008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Destruction of lesion of iris (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Destruction of lesion of iris",
+          "lang": "en"
+        },
+        "id": "73689008"
+      }
+    },
+    {
+      "term": "Nonerosive nonspecific gastritis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50874004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonerosive nonspecific gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonerosive nonspecific gastritis",
+          "lang": "en"
+        },
+        "id": "50874004"
+      }
+    },
+    {
+      "term": "Superficial nonerosive nonspecific gastritis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35223008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Superficial nonerosive nonspecific gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Superficial nonerosive nonspecific gastritis",
+          "lang": "en"
+        },
+        "id": "35223008"
+      }
+    },
+    {
+      "term": "Nonexcisional debridement of burn (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34390007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonexcisional debridement of burn (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonexcisional debridement of burn",
+          "lang": "en"
+        },
+        "id": "34390007"
+      }
+    },
+    {
+      "term": "Motor nerve conduction block - none (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398208003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Motor nerve conduction block - none (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Motor nerve conduction block - none",
+          "lang": "en"
+        },
+        "id": "398208003"
+      }
+    },
+    {
+      "term": "Nonexudative age-related macular degeneration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414875008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonexudative age-related macular degeneration (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonexudative age-related macular degeneration",
+          "lang": "en"
+        },
+        "id": "414875008"
+      }
+    },
+    {
+      "term": "Sensory nerve conduction block - none (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398278002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sensory nerve conduction block - none (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sensory nerve conduction block - none",
+          "lang": "en"
+        },
+        "id": "398278002"
+      }
+    },
+    {
+      "term": "Threshold assessment grid score: none (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "205671000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Threshold assessment grid score: none (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Threshold assessment grid score: none",
+          "lang": "en"
+        },
+        "id": "205671000000102"
+      }
+    },
+    {
+      "term": "Nonexudative senile macular retinal degeneration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414875008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonexudative age-related macular degeneration (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonexudative age-related macular degeneration",
+          "lang": "en"
+        },
+        "id": "414875008"
+      }
+    },
+    {
+      "term": "Nonexcisional destruction of cyst of ciliary body",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "295001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonexcisional destruction of cyst of ciliary body (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonexcisional destruction of cyst of ciliary body",
+          "lang": "en"
+        },
+        "id": "295001"
+      }
+    },
+    {
+      "term": "KRT1-related diffuse nonepidermolytic keratoderma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1222645005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Keratin 1-related diffuse nonepidermolytic palmoplantar keratoderma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "KRT1-related diffuse nonepidermolytic keratoderma",
+          "lang": "en"
+        },
+        "id": "1222645005"
+      }
+    },
+    {
+      "term": "Borg Breathlessness Score: 0 none at all (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "401275008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Borg Breathlessness Score: 0 none at all (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Borg Breathlessness Score: 0 none at all",
+          "lang": "en"
+        },
+        "id": "401275008"
+      }
+    },
+    {
+      "term": "Nonerosive lichen planus of oral mucosa (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "724511006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonerosive lichen planus of oral mucosa (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonerosive lichen planus of oral mucosa",
+          "lang": "en"
+        },
+        "id": "724511006"
+      }
+    },
+    {
+      "term": "Nonexcisional destruction of lesion of ciliary body",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "19320007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonexcisional destruction of lesion of ciliary body (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonexcisional destruction of lesion of ciliary body",
+          "lang": "en"
+        },
+        "id": "19320007"
+      }
+    },
+    {
+      "term": "Nonessential amino acid measured intake in 24 hours",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1208609009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Measured quantity of intake of nonessential amino acid in 24 hours (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Measured quantity of intake of nonessential amino acid in 24 hours",
+          "lang": "en"
+        },
+        "id": "1208609009"
+      }
+    },
+    {
+      "term": "Atrophic nonerosive nonspecific gastritis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15445004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Atrophic nonerosive nonspecific gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Atrophic nonerosive nonspecific gastritis",
+          "lang": "en"
+        },
+        "id": "15445004"
+      }
+    },
+    {
+      "term": "Nonessential amino acid estimated intake in 24 hours",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1208608001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Estimated quantity of intake of nonessential amino acids in 24 hours (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estimated quantity of intake of nonessential amino acids in 24 hours",
+          "lang": "en"
+        },
+        "id": "1208608001"
+      }
+    },
+    {
+      "term": "Nonelectrolyte-stimulated sodium absorption, function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38187001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonelectrolyte-stimulated sodium absorption, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonelectrolyte-stimulated sodium absorption",
+          "lang": "en"
+        },
+        "id": "38187001"
+      }
+    },
+    {
+      "term": "Superficial nonerosive nonspecific gastritis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "35223008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Superficial nonerosive nonspecific gastritis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Superficial nonerosive nonspecific gastritis",
+          "lang": "en"
+        },
+        "id": "35223008"
+      }
+    },
+    {
+      "term": "Nonexudative age-related macular degeneration (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414875008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonexudative age-related macular degeneration (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonexudative age-related macular degeneration",
+          "lang": "en"
+        },
+        "id": "414875008"
+      }
+    },
+    {
+      "term": "Nonexudative neovascular age-related macular degeneration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1285507004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonexudative neovascular age-related macular degeneration (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonexudative neovascular age-related macular degeneration",
+          "lang": "en"
+        },
+        "id": "1285507004"
+      }
+    },
+    {
+      "term": "Nonexcisional destruction of cyst of ciliary body (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "295001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonexcisional destruction of cyst of ciliary body (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonexcisional destruction of cyst of ciliary body",
+          "lang": "en"
+        },
+        "id": "295001"
+      }
+    },
+    {
+      "term": "Compression of lymphedema using nonelastic compression device",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "445303008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Compression of lymphedema using nonelastic compression device (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Compression of lymphedema using nonelastic compression device",
+          "lang": "en"
+        },
+        "id": "445303008"
+      }
+    }
+  ]
+}

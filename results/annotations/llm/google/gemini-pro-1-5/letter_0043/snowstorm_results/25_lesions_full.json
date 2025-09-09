@@ -1,0 +1,419 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 6,
+      "900000000000207008": 5
+    },
+    "semanticTags": {
+      "finding": 4
+    },
+    "language": {
+      "en": 11
+    },
+    "membership": {
+      "1322291000000109": 4,
+      "1127601000000107": 3,
+      "999002571000000104": 1,
+      "900000000000497000": 2,
+      "733073007": 4,
+      "999002271000000101": 3,
+      "900000000000489007": 1,
+      "1323321000000109": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1323321000000109": {
+      "conceptId": "1323321000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323321000000109"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 11,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 11,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Finding of number of lesions",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300578003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of number of lesions (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of number of lesions",
+          "lang": "en"
+        },
+        "id": "300578003"
+      }
+    },
+    {
+      "term": "Observation of number of lesions",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300578003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of number of lesions (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of number of lesions",
+          "lang": "en"
+        },
+        "id": "300578003"
+      }
+    },
+    {
+      "term": "Macula - multifocal placoid lesions",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247151007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Macula - multifocal placoid lesions (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Macula - multifocal placoid lesions",
+          "lang": "en"
+        },
+        "id": "247151007"
+      }
+    },
+    {
+      "term": "Finding of number of lesions (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300578003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of number of lesions (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of number of lesions",
+          "lang": "en"
+        },
+        "id": "300578003"
+      }
+    },
+    {
+      "term": "Macula - multifocal placoid lesions (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247151007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Macula - multifocal placoid lesions (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Macula - multifocal placoid lesions",
+          "lang": "en"
+        },
+        "id": "247151007"
+      }
+    },
+    {
+      "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.2 - parasagittal lesions",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "914971000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.2 - parasagittal lesions (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.2 - parasagittal lesions",
+          "lang": "en"
+        },
+        "id": "914971000000107"
+      }
+    },
+    {
+      "term": "SCPE (Surveillance of Cerebral Palsy in Europe) predominant pattern classification C.2 - parasagittal lesions",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "914971000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.2 - parasagittal lesions (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.2 - parasagittal lesions",
+          "lang": "en"
+        },
+        "id": "914971000000107"
+      }
+    },
+    {
+      "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.2 - parasagittal lesions (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "914971000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.2 - parasagittal lesions (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.2 - parasagittal lesions",
+          "lang": "en"
+        },
+        "id": "914971000000107"
+      }
+    },
+    {
+      "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.1 - basal ganglia and thalamus lesions",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "914951000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.1 - basal ganglia and thalamus lesions (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.1 - basal ganglia and thalamus lesions",
+          "lang": "en"
+        },
+        "id": "914951000000103"
+      }
+    },
+    {
+      "term": "SCPE (Surveillance of Cerebral Palsy in Europe) predominant pattern classification C.1 - basal ganglia and thalamus lesions",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "914951000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.1 - basal ganglia and thalamus lesions (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.1 - basal ganglia and thalamus lesions",
+          "lang": "en"
+        },
+        "id": "914951000000103"
+      }
+    },
+    {
+      "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.1 - basal ganglia and thalamus lesions (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "914951000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.1 - basal ganglia and thalamus lesions (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.1 - basal ganglia and thalamus lesions",
+          "lang": "en"
+        },
+        "id": "914951000000103"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1382 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 6,
+      "999000041000000102": 1,
+      "900000000000207008": 144
+    },
+    "semanticTags": {
+      "finding": 65
+    },
+    "language": {
+      "en": 151
+    },
+    "membership": {
+      "1322291000000109": 65,
+      "991171000000107": 2,
+      "999004331000000102": 2,
+      "1127601000000107": 64,
+      "1382531000000102": 1,
+      "999002551000000108": 1,
+      "1128991000000109": 2,
+      "999002271000000101": 49,
+      "1127741000000102": 1,
+      "999002451000000109": 2,
+      "999002571000000104": 1,
+      "900000000000497000": 62,
+      "999002051000000100": 5,
+      "999002111000000103": 1,
+      "733073007": 65,
+      "999002871000000102": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991171000000107": {
+      "conceptId": "991171000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy goals simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy goals simple reference set",
+        "lang": "en"
+      },
+      "id": "991171000000107"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999002551000000108": {
+      "conceptId": "999002551000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Mobility findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Mobility findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002551000000108"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1127741000000102": {
+      "conceptId": "1127741000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Uterine cervix effacement findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Uterine cervix effacement findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127741000000102"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "999002111000000103": {
+      "conceptId": "999002111000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy goals simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy goals simple reference set",
+        "lang": "en"
+      },
+      "id": "999002111000000103"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002871000000102": {
+      "conceptId": "999002871000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupational therapy findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupational therapy findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002871000000102"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    }
+  },
+  "totalElements": 151,
+  "totalPages": 4,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Lips full",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248177001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lips full (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lips full",
+          "lang": "en"
+        },
+        "id": "248177001"
+      }
+    },
+    {
+      "term": "Full rectum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249602003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full rectum (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full rectum",
+          "lang": "en"
+        },
+        "id": "249602003"
+      }
+    },
+    {
+      "term": "Fully mobile",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160680006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fully mobile (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fully mobile",
+          "lang": "en"
+        },
+        "id": "160680006"
+      }
+    },
+    {
+      "term": "Full of wind",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162076009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excessive upper gastrointestinal gas (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excessive upper gastrointestinal gas",
+          "lang": "en"
+        },
+        "id": "162076009"
+      }
+    },
+    {
+      "term": "Fully numerate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "441230007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to understand and use numbers (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to understand and use numbers",
+          "lang": "en"
+        },
+        "id": "441230007"
+      }
+    },
+    {
+      "term": "Fully conscious",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271591004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fully conscious (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fully conscious",
+          "lang": "en"
+        },
+        "id": "271591004"
+      }
+    },
+    {
+      "term": "Full care by GP",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170941001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full care by general practitioner (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full care by GP",
+          "lang": "en"
+        },
+        "id": "170941001"
+      }
+    },
+    {
+      "term": "Works full-time",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160903007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full-time employment (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full-time employment",
+          "lang": "en"
+        },
+        "id": "160903007"
+      }
+    },
+    {
+      "term": "Full pulse volume",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "421014001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulse volume - full (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full pulse volume",
+          "lang": "en"
+        },
+        "id": "421014001"
+      }
+    },
+    {
+      "term": "Epigastric fullness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8644006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Epigastric fullness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Epigastric fullness",
+          "lang": "en"
+        },
+        "id": "8644006"
+      }
+    },
+    {
+      "term": "Lips full (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248177001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lips full (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lips full",
+          "lang": "en"
+        },
+        "id": "248177001"
+      }
+    },
+    {
+      "term": "Pulse volume - full",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "421014001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pulse volume - full (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full pulse volume",
+          "lang": "en"
+        },
+        "id": "421014001"
+      }
+    },
+    {
+      "term": "Cervix fully dilated",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62472004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cervix fully dilated (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cervix fully dilated",
+          "lang": "en"
+        },
+        "id": "62472004"
+      }
+    },
+    {
+      "term": "Cervix fully effaced",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "19337000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fully effaced cervix (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fully effaced cervix",
+          "lang": "en"
+        },
+        "id": "19337000"
+      }
+    },
+    {
+      "term": "Full care by hospice",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170935008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full care by hospice (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full care by hospice",
+          "lang": "en"
+        },
+        "id": "170935008"
+      }
+    },
+    {
+      "term": "Full-time employment",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160903007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full-time employment (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full-time employment",
+          "lang": "en"
+        },
+        "id": "160903007"
+      }
+    },
+    {
+      "term": "Fully effaced cervix",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "19337000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fully effaced cervix (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fully effaced cervix",
+          "lang": "en"
+        },
+        "id": "19337000"
+      }
+    },
+    {
+      "term": "O/E - fully conscious",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162701007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - fully conscious (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - fully conscious",
+          "lang": "en"
+        },
+        "id": "162701007"
+      }
+    },
+    {
+      "term": "Full rectum (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249602003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full rectum (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full rectum",
+          "lang": "en"
+        },
+        "id": "249602003"
+      }
+    },
+    {
+      "term": "Fullers earth allergy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "294280001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergy to Fuller's earth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergy to Fuller's earth",
+          "lang": "en"
+        },
+        "id": "294280001"
+      }
+    },
+    {
+      "term": "Protrudes tongue fully",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "285508001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does protrude tongue fully (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does protrude tongue fully",
+          "lang": "en"
+        },
+        "id": "285508001"
+      }
+    },
+    {
+      "term": "Fully mobile (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160680006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fully mobile (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fully mobile",
+          "lang": "en"
+        },
+        "id": "160680006"
+      }
+    },
+    {
+      "term": "Fuller's earth allergy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "294280001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergy to Fuller's earth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergy to Fuller's earth",
+          "lang": "en"
+        },
+        "id": "294280001"
+      }
+    },
+    {
+      "term": "Ear feels full of water",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247332007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ear feels full of water (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ear feels full of water",
+          "lang": "en"
+        },
+        "id": "247332007"
+      }
+    },
+    {
+      "term": "Full care by specialist",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "268528005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full care by specialist (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full care by specialist",
+          "lang": "en"
+        },
+        "id": "268528005"
+      }
+    },
+    {
+      "term": "Full care by consultant",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "268528005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full care by specialist (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full care by specialist",
+          "lang": "en"
+        },
+        "id": "268528005"
+      }
+    },
+    {
+      "term": "Full blood count normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "165406005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full blood count within reference range (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full blood count within reference range",
+          "lang": "en"
+        },
+        "id": "165406005"
+      }
+    },
+    {
+      "term": "Bowels: fully continent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "24029004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bowels: fully continent (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bowels: fully continent",
+          "lang": "en"
+        },
+        "id": "24029004"
+      }
+    },
+    {
+      "term": "Baby full term maturity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "57891003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Term infant (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Term infant",
+          "lang": "en"
+        },
+        "id": "57891003"
+      }
+    },
+    {
+      "term": "Full to finger counting",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "420850000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full to finger counting (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full to finger counting",
+          "lang": "en"
+        },
+        "id": "420850000"
+      }
+    },
+    {
+      "term": "GMS - full registration",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "24801000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "GMS - full registration (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "GMS - full registration",
+          "lang": "en"
+        },
+        "id": "24801000000108"
+      }
+    },
+    {
+      "term": "Early satiety (fullness)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442076002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early satiety (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early satiety",
+          "lang": "en"
+        },
+        "id": "442076002"
+      }
+    },
+    {
+      "term": "Full thickness skin loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "421137005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full thickness skin loss (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full thickness skin loss",
+          "lang": "en"
+        },
+        "id": "421137005"
+      }
+    },
+    {
+      "term": "Fully dressed with shoes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303297007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Appropriately dressed with shoes (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Appropriately dressed with shoes",
+          "lang": "en"
+        },
+        "id": "1303297007"
+      }
+    },
+    {
+      "term": "Allergy to Fullers earth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "294280001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergy to Fuller's earth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergy to Fuller's earth",
+          "lang": "en"
+        },
+        "id": "294280001"
+      }
+    },
+    {
+      "term": "Full blood count abnormal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "165408006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full blood count outside reference range (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full blood count outside reference range",
+          "lang": "en"
+        },
+        "id": "165408006"
+      }
+    },
+    {
+      "term": "Fully conscious (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271591004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fully conscious (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fully conscious",
+          "lang": "en"
+        },
+        "id": "271591004"
+      }
+    },
+    {
+      "term": "Allergy to Fuller's earth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "294280001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergy to Fuller's earth (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergy to Fuller's earth",
+          "lang": "en"
+        },
+        "id": "294280001"
+      }
+    },
+    {
+      "term": "Erection with full bladder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248771009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Erection with full urinary bladder (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Erection with full urinary bladder",
+          "lang": "en"
+        },
+        "id": "248771009"
+      }
+    },
+    {
+      "term": "Does protrude tongue fully",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "285508001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does protrude tongue fully (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does protrude tongue fully",
+          "lang": "en"
+        },
+        "id": "285508001"
+      }
+    },
+    {
+      "term": "Full blood count borderline",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "165407001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full blood count borderline (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full blood count borderline",
+          "lang": "en"
+        },
+        "id": "165407001"
+      }
+    },
+    {
+      "term": "Fully dressed without shoes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1303299005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Appropriately dressed without shoes (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Appropriately dressed without shoes",
+          "lang": "en"
+        },
+        "id": "1303299005"
+      }
+    },
+    {
+      "term": "Referral delay - clinic full",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "397676007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Referral delay - clinic full (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referral delay - clinic full",
+          "lang": "en"
+        },
+        "id": "397676007"
+      }
+    },
+    {
+      "term": "Fully assessable left retina",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "830133000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fully assessable retina of left eye (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fully assessable left retina",
+          "lang": "en"
+        },
+        "id": "830133000"
+      }
+    },
+    {
+      "term": "Able to protrude tongue fully",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "285507006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to protrude tongue fully (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to protrude tongue fully",
+          "lang": "en"
+        },
+        "id": "285507006"
+      }
+    },
+    {
+      "term": "Full consent for immunization",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "171263007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full consent for immunization (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full consent for immunization",
+          "lang": "en"
+        },
+        "id": "171263007"
+      }
+    },
+    {
+      "term": "Full consent for immunisation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "171263007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full consent for immunization (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full consent for immunization",
+          "lang": "en"
+        },
+        "id": "171263007"
+      }
+    },
+    {
+      "term": "Full care: nurse practitioner",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "170939002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full care: nurse practitioner (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full care: nurse practitioner",
+          "lang": "en"
+        },
+        "id": "170939002"
+      }
+    },
+    {
+      "term": "O/E - PR-rectum full of feces",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "163329000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - Per rectum - rectum full of feces (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - PR-rectum full of feces",
+          "lang": "en"
+        },
+        "id": "163329000"
+      }
+    },
+    {
+      "term": "FBC - Full blood count normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "165406005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full blood count within reference range (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full blood count within reference range",
+          "lang": "en"
+        },
+        "id": "165406005"
+      }
+    }
+  ]
+}

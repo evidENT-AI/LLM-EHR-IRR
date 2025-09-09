@@ -1,0 +1,460 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 16
+    },
+    "semanticTags": {
+      "finding": 9
+    },
+    "language": {
+      "en": 16
+    },
+    "membership": {
+      "1322291000000109": 9,
+      "1127601000000107": 9,
+      "900000000000497000": 9,
+      "733073007": 9,
+      "999002271000000101": 9
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 16,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 16,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Skin exudate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297970000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Skin discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Skin discharge",
+          "lang": "en"
+        },
+        "id": "297970000"
+      }
+    },
+    {
+      "term": "Subretinal exudate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247156002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subretinal exudate (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subretinal exudate",
+          "lang": "en"
+        },
+        "id": "247156002"
+      }
+    },
+    {
+      "term": "Exudate on tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301791008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Exudate on tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Exudate on tonsils",
+          "lang": "en"
+        },
+        "id": "301791008"
+      }
+    },
+    {
+      "term": "Conjunctival exudate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "425317008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Conjunctival discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Conjunctival discharge",
+          "lang": "en"
+        },
+        "id": "425317008"
+      }
+    },
+    {
+      "term": "Pleural fluid = exudate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "167977005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pleural fluid = exudate (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pleural fluid = exudate",
+          "lang": "en"
+        },
+        "id": "167977005"
+      }
+    },
+    {
+      "term": "O/E - exudate on tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "394715003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - exudate on tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - exudate on tonsils",
+          "lang": "en"
+        },
+        "id": "394715003"
+      }
+    },
+    {
+      "term": "Subretinal exudate (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247156002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subretinal exudate (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subretinal exudate",
+          "lang": "en"
+        },
+        "id": "247156002"
+      }
+    },
+    {
+      "term": "Exudate on tonsils (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301791008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Exudate on tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Exudate on tonsils",
+          "lang": "en"
+        },
+        "id": "301791008"
+      }
+    },
+    {
+      "term": "Sanguinous exudate from wound",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448749002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sanguineous exudate from wound (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sanguineous exudate from wound",
+          "lang": "en"
+        },
+        "id": "448749002"
+      }
+    },
+    {
+      "term": "Purulent conjunctival exudate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "423243008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Purulent conjunctival discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Purulent conjunctival discharge",
+          "lang": "en"
+        },
+        "id": "423243008"
+      }
+    },
+    {
+      "term": "Sanguineous exudate from wound",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448749002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sanguineous exudate from wound (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sanguineous exudate from wound",
+          "lang": "en"
+        },
+        "id": "448749002"
+      }
+    },
+    {
+      "term": "Pleural fluid = exudate (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "167977005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pleural fluid = exudate (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pleural fluid = exudate",
+          "lang": "en"
+        },
+        "id": "167977005"
+      }
+    },
+    {
+      "term": "Mucopurulent conjunctival exudate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "423623006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mucopurulent conjunctival discharge (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mucopurulent conjunctival discharge",
+          "lang": "en"
+        },
+        "id": "423623006"
+      }
+    },
+    {
+      "term": "On examination - exudate on tonsils",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "394715003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - exudate on tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - exudate on tonsils",
+          "lang": "en"
+        },
+        "id": "394715003"
+      }
+    },
+    {
+      "term": "Sanguineous exudate from wound (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448749002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sanguineous exudate from wound (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sanguineous exudate from wound",
+          "lang": "en"
+        },
+        "id": "448749002"
+      }
+    },
+    {
+      "term": "On examination - exudate on tonsils (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "394715003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - exudate on tonsils (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - exudate on tonsils",
+          "lang": "en"
+        },
+        "id": "394715003"
+      }
+    }
+  ]
+}

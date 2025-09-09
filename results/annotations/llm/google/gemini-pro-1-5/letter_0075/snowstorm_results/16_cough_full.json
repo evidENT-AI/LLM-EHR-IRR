@@ -1,0 +1,1366 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 160
+    },
+    "semanticTags": {
+      "finding": 73
+    },
+    "language": {
+      "en": 164
+    },
+    "membership": {
+      "1322291000000109": 73,
+      "991411000000109": 1,
+      "1127601000000107": 68,
+      "999001871000000106": 2,
+      "1382531000000102": 1,
+      "2181221000000101": 4,
+      "991401000000107": 2,
+      "1128991000000109": 1,
+      "999002271000000101": 72,
+      "999002471000000100": 1,
+      "900000000000489007": 1,
+      "999002571000000104": 5,
+      "900000000000497000": 71,
+      "999002051000000100": 1,
+      "733073007": 73,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999001871000000106": {
+      "conceptId": "999001871000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Respiratory medicine diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Respiratory medicine diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001871000000106"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "991401000000107": {
+      "conceptId": "991401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care presenting complaints or issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care presenting complaints or issues simple reference set",
+        "lang": "en"
+      },
+      "id": "991401000000107"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999002471000000100": {
+      "conceptId": "999002471000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pain aggravating factors simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pain aggravating factors simple reference set",
+        "lang": "en"
+      },
+      "id": "999002471000000100"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 164,
+  "totalPages": 4,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49727002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cough",
+          "lang": "en"
+        },
+        "id": "49727002"
+      }
+    },
+    {
+      "term": "Dry cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11833005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dry cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dry cough",
+          "lang": "en"
+        },
+        "id": "11833005"
+      }
+    },
+    {
+      "term": "Does cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289114008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does cough",
+          "lang": "en"
+        },
+        "id": "289114008"
+      }
+    },
+    {
+      "term": "Loose cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28743005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Productive cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Productive cough",
+          "lang": "en"
+        },
+        "id": "28743005"
+      }
+    },
+    {
+      "term": "Moist cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28743005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Productive cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Productive cough",
+          "lang": "en"
+        },
+        "id": "28743005"
+      }
+    },
+    {
+      "term": "C/O - cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "272039006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Complaining of cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "C/O - cough",
+          "lang": "en"
+        },
+        "id": "272039006"
+      }
+    },
+    {
+      "term": "Acute cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "788062371000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute cough",
+          "lang": "en"
+        },
+        "id": "788062371000119104"
+      }
+    },
+    {
+      "term": "Brassy cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "20670007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Brassy cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Brassy cough",
+          "lang": "en"
+        },
+        "id": "20670007"
+      }
+    },
+    {
+      "term": "Bovine cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62427007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bovine cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bovine cough",
+          "lang": "en"
+        },
+        "id": "62427007"
+      }
+    },
+    {
+      "term": "Croupy cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289965001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Croupy cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Croupy cough",
+          "lang": "en"
+        },
+        "id": "289965001"
+      }
+    },
+    {
+      "term": "Reflux cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "200151000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Reflux cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Reflux cough",
+          "lang": "en"
+        },
+        "id": "200151000000106"
+      }
+    },
+    {
+      "term": "Chesty cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28743005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Productive cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Productive cough",
+          "lang": "en"
+        },
+        "id": "28743005"
+      }
+    },
+    {
+      "term": "Barking cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "17986004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Barking cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Barking cough",
+          "lang": "en"
+        },
+        "id": "17986004"
+      }
+    },
+    {
+      "term": "Cough syncope",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "90129003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tussive syncope (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tussive syncope",
+          "lang": "en"
+        },
+        "id": "90129003"
+      }
+    },
+    {
+      "term": "Cough at rest",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "7142008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cough at rest (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cough at rest",
+          "lang": "en"
+        },
+        "id": "7142008"
+      }
+    },
+    {
+      "term": "Hacking cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "59994004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hacking cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hacking cough",
+          "lang": "en"
+        },
+        "id": "59994004"
+      }
+    },
+    {
+      "term": "Chronic cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "68154008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic cough",
+          "lang": "en"
+        },
+        "id": "68154008"
+      }
+    },
+    {
+      "term": "Painful cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247410004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Painful cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Painful cough",
+          "lang": "en"
+        },
+        "id": "247410004"
+      }
+    },
+    {
+      "term": "Able to cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289113002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Able to cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Able to cough",
+          "lang": "en"
+        },
+        "id": "289113002"
+      }
+    },
+    {
+      "term": "Morning cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161932002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Morning cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Morning cough",
+          "lang": "en"
+        },
+        "id": "161932002"
+      }
+    },
+    {
+      "term": "Evening cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161933007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Evening cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Evening cough",
+          "lang": "en"
+        },
+        "id": "161933007"
+      }
+    },
+    {
+      "term": "Postural cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "111962006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Postural cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postural cough",
+          "lang": "en"
+        },
+        "id": "111962006"
+      }
+    },
+    {
+      "term": "Does not cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289115009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not cough",
+          "lang": "en"
+        },
+        "id": "289115009"
+      }
+    },
+    {
+      "term": "Allergic cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "300959008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allergic cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allergic cough",
+          "lang": "en"
+        },
+        "id": "300959008"
+      }
+    },
+    {
+      "term": "Subacute cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "383350451000119103",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subacute cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subacute cough",
+          "lang": "en"
+        },
+        "id": "383350451000119103"
+      }
+    },
+    {
+      "term": "Fit of coughing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43025008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Paroxysmal cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Paroxysmal cough",
+          "lang": "en"
+        },
+        "id": "43025008"
+      }
+    },
+    {
+      "term": "Nocturnal cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62548007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nocturnal cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nocturnal cough",
+          "lang": "en"
+        },
+        "id": "62548007"
+      }
+    },
+    {
+      "term": "Spasmodic cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63000007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Spasmodic cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Spasmodic cough",
+          "lang": "en"
+        },
+        "id": "63000007"
+      }
+    },
+    {
+      "term": "Unable to cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248590003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unable to cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unable to cough",
+          "lang": "en"
+        },
+        "id": "248590003"
+      }
+    },
+    {
+      "term": "Effective cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301236000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Effective cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Effective cough",
+          "lang": "en"
+        },
+        "id": "301236000"
+      }
+    },
+    {
+      "term": "Cough (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49727002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cough",
+          "lang": "en"
+        },
+        "id": "49727002"
+      }
+    },
+    {
+      "term": "Bronchial cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28743005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Productive cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Productive cough",
+          "lang": "en"
+        },
+        "id": "28743005"
+      }
+    },
+    {
+      "term": "Productive cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28743005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Productive cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Productive cough",
+          "lang": "en"
+        },
+        "id": "28743005"
+      }
+    },
+    {
+      "term": "Paroxysmal cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43025008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Paroxysmal cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Paroxysmal cough",
+          "lang": "en"
+        },
+        "id": "43025008"
+      }
+    },
+    {
+      "term": "Bout of coughing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43025008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Paroxysmal cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Paroxysmal cough",
+          "lang": "en"
+        },
+        "id": "43025008"
+      }
+    },
+    {
+      "term": "Cough with fever",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "135883003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cough with fever (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cough with fever",
+          "lang": "en"
+        },
+        "id": "135883003"
+      }
+    },
+    {
+      "term": "Persistent cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "284523002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Persistent cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Persistent cough",
+          "lang": "en"
+        },
+        "id": "284523002"
+      }
+    },
+    {
+      "term": "Cough suppression",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102580004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cough suppression (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cough suppression",
+          "lang": "en"
+        },
+        "id": "102580004"
+      }
+    },
+    {
+      "term": "Coughing up blood",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66857006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hemoptysis (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hemoptysis",
+          "lang": "en"
+        },
+        "id": "66857006"
+      }
+    },
+    {
+      "term": "Unexplained cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "315246003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Unexplained cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Unexplained cough",
+          "lang": "en"
+        },
+        "id": "315246003"
+      }
+    },
+    {
+      "term": "Cough on exercise",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "19282004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cough on exercise (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cough on exercise",
+          "lang": "en"
+        },
+        "id": "19282004"
+      }
+    },
+    {
+      "term": "No cough strength",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "769211009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No cough strength (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No cough strength",
+          "lang": "en"
+        },
+        "id": "769211009"
+      }
+    },
+    {
+      "term": "Unproductive cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11833005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dry cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dry cough",
+          "lang": "en"
+        },
+        "id": "11833005"
+      }
+    },
+    {
+      "term": "Cough after eating",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46789001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cough after eating (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cough after eating",
+          "lang": "en"
+        },
+        "id": "46789001"
+      }
+    },
+    {
+      "term": "Decreased coughing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "52673003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Decreased coughing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Decreased coughing",
+          "lang": "en"
+        },
+        "id": "52673003"
+      }
+    },
+    {
+      "term": "Episodic dry cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "810511000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Episodic dry cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Episodic dry cough",
+          "lang": "en"
+        },
+        "id": "810511000000109"
+      }
+    },
+    {
+      "term": "Early morning cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62618004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early morning cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early morning cough",
+          "lang": "en"
+        },
+        "id": "62618004"
+      }
+    },
+    {
+      "term": "Difficulty coughing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289116005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Difficulty coughing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Difficulty coughing",
+          "lang": "en"
+        },
+        "id": "289116005"
+      }
+    },
+    {
+      "term": "Cough reflex absent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "123819004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cough reflex absent (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cough reflex absent",
+          "lang": "en"
+        },
+        "id": "123819004"
+      }
+    },
+    {
+      "term": "Dry cough (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11833005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dry cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dry cough",
+          "lang": "en"
+        },
+        "id": "11833005"
+      }
+    }
+  ]
+}

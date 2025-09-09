@@ -1,0 +1,854 @@
+{
+  "labels": {
+    "severe tonsillitis": {
+      "context": "Severe tonsillitis, palatal cellulitis, and inability to swallow.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "108401009"
+    },
+    "palatal cellulitis": {
+      "context": "Severe tonsillitis, palatal cellulitis, and inability to swallow.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "inability to swallow": {
+      "context": "Severe tonsillitis, palatal cellulitis, and inability to swallow.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "40737009"
+    },
+    "sore throat": {
+      "context": "This patient started having sore throat approximately one week ago; however, yesterday it became much worse.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "22468002"
+    },
+    "unable to swallow": {
+      "context": "He was unable to swallow.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "40737009"
+    },
+    "pharyngeal, palatal, or peritonsillar abscess": {
+      "context": "He was taken to Med Care and did not get any better, and therefore presented this morning to ER, where seen and evaluated by Dr. X and concerned as whether he had an abscess either pharyngeal, palatal, or peritonsillar.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Suspected",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "108401009"
+    },
+    "extreme tonsillitis": {
+      "context": "He was noted to have extreme tonsillitis with kissing tonsils, marked exudates especially right side and right palatal cellulitis.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "108401009"
+    },
+    "kissing tonsils": {
+      "context": "He was noted to have extreme tonsillitis with kissing tonsils, marked exudates especially right side and right palatal cellulitis.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "marked exudates": {
+      "context": "He was noted to have extreme tonsillitis with kissing tonsils, marked exudates especially right side and right palatal cellulitis.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "300280008"
+    },
+    "right palatal cellulitis": {
+      "context": "He was noted to have extreme tonsillitis with kissing tonsils, marked exudates especially right side and right palatal cellulitis.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "abscess": {
+      "context": "I do not insist that this patient will need surgical intervention since there is no evidence of abscess.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "233512005"
+    },
+    "CT scan": {
+      "context": "A CT scan at ER did not show abscess.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "NA",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "airway compromise": {
+      "context": "He has not had airway compromise, but he has had difficulty swallowing.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "280195001"
+    },
+    "difficulty swallowing": {
+      "context": "He has not had airway compromise, but he has had difficulty swallowing.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "40737009"
+    },
+    "low-grade fever": {
+      "context": "He may have had a low-grade fever, but nothing marked at home.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Suspected",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "386661006"
+    },
+    "leukocytosis": {
+      "context": "He did have some equivalent leukocytosis.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "111574005"
+    },
+    "negative monospot": {
+      "context": "He had a negative monospot and negative strep screen.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "negative strep screen": {
+      "context": "He had a negative monospot and negative strep screen.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "significantly overweight": {
+      "context": "The patient takes no medications, has had no illnesses or surgeries and he is generally in good health other than being significantly overweight.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "sophomore at High School": {
+      "context": "He is a sophomore at High School.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "NA",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "dysphagia": {
+      "context": "ENT: The patient other than having dysphagia, the patient denies other associated ENT symptomatology.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "40737009"
+    },
+    "dysuria": {
+      "context": "GU: Denies dysuria.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "100172009"
+    },
+    "joint pain": {
+      "context": "Orthopedic: Denies joint pain, difficulty walking, etc.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "22627008"
+    },
+    "difficulty walking": {
+      "context": "Orthopedic: Denies joint pain, difficulty walking, etc.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "6032001"
+    },
+    "headache": {
+      "context": "Neuro: Denies headache, blurry vision, etc.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "25064002"
+    },
+    "blurry vision": {
+      "context": "Neuro: Denies headache, blurry vision, etc.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "65163007"
+    },
+    "vision is intact": {
+      "context": "Eyes: Says vision is intact.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "shortness of breath": {
+      "context": "Lungs: Denies shortness of breath, cough, etc.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "267036007"
+    },
+    "cough": {
+      "context": "Lungs: Denies shortness of breath, cough, etc.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "49727002"
+    },
+    "rash": {
+      "context": "Skin: He states he has a rash, which occurred from penicillin that he was given IM yesterday at Covington Med Care. Mildly itchy.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "271807003"
+    },
+    "penicillin": {
+      "context": "Skin: He states he has a rash, which occurred from penicillin that he was given IM yesterday at Covington Med Care. Mildly itchy.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "Pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "itchy": {
+      "context": "Skin: He states he has a rash, which occurred from penicillin that he was given IM yesterday at Covington Med Care. Mildly itchy.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "41757001"
+    },
+    "penicillin allergy": {
+      "context": "Mother has penicillin allergy.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "weight loss": {
+      "context": "Endocrine: The patient denies any weight loss, weight gain, skin changes, fatigue, etc, essentially no symptoms of hyper or hypothyroidism.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "161831004"
+    },
+    "weight gain": {
+      "context": "Endocrine: The patient denies any weight loss, weight gain, skin changes, fatigue, etc, essentially no symptoms of hyper or hypothyroidism.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "238132005"
+    },
+    "skin changes": {
+      "context": "Endocrine: The patient denies any weight loss, weight gain, skin changes, fatigue, etc, essentially no symptoms of hyper or hypothyroidism.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "fatigue": {
+      "context": "Endocrine: The patient denies any weight loss, weight gain, skin changes, fatigue, etc, essentially no symptoms of hyper or hypothyroidism.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "84229001"
+    },
+    "hyperthyroidism": {
+      "context": "Endocrine: The patient denies any weight loss, weight gain, skin changes, fatigue, etc, essentially no symptoms of hyper or hypothyroidism.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "34896006"
+    },
+    "hypothyroidism": {
+      "context": "Endocrine: The patient denies any weight loss, weight gain, skin changes, fatigue, etc, essentially no symptoms of hyper or hypothyroidism.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "40930008"
+    },
+    "morbidly obese": {
+      "context": "General: This is a morbidly obese white male adolescent, in no acute disease, alert and oriented x 4.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "414916001"
+    },
+    "white male adolescent": {
+      "context": "General: This is a morbidly obese white male adolescent, in no acute disease, alert and oriented x 4.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "NA",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no acute disease": {
+      "context": "General: This is a morbidly obese white male adolescent, in no acute disease, alert and oriented x 4.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "alert and oriented x 4": {
+      "context": "General: This is a morbidly obese white male adolescent, in no acute disease, alert and oriented x 4.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Voice is normal": {
+      "context": "Voice is normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "handling his secretions": {
+      "context": "He is handling his secretions.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "stridor": {
+      "context": "There is no stridor.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "1039003"
+    },
+    "TM and EACs are normal": {
+      "context": "Ears: TM and EACs are normal. External, normal.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Opening clear": {
+      "context": "Nose: Opening clear. External nose is normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "bilateral marked exudates": {
+      "context": "Mouth: Has bilateral marked exudates, tonsillitis, right greater than left.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "300280008"
+    },
+    "tonsillitis": {
+      "context": "Mouth: Has bilateral marked exudates, tonsillitis, right greater than left.",
+      "qualifier": "Diagnoses",
+      "laterality": "bilateral",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "108401009"
+    },
+    "Uvula is midline": {
+      "context": "Uvula is midline.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Tonsils are touching": {
+      "context": "Tonsils are touching.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "redness of the right palatal area": {
+      "context": "There is some redness of the right palatal area, but is not consistent with peritonsillar abscess.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "peritonsillar abscess": {
+      "context": "There is some redness of the right palatal area, but is not consistent with peritonsillar abscess.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "23585004"
+    },
+    "Tongue is normal": {
+      "context": "Tongue is normal.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Dentition intact": {
+      "context": "Dentition intact. No mucosal lesions other than as noted.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "mucosal lesions": {
+      "context": "Dentition intact. No mucosal lesions other than as noted.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "thyromegaly": {
+      "context": "Neck: No thyromegaly, masses, or adenopathy except for some small minimally enlarged high jugular nodes.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "29716002"
+    },
+    "masses": {
+      "context": "Neck: No thyromegaly, masses, or adenopathy except for some small minimally enlarged high jugular nodes.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "78225009"
+    },
+    "adenopathy": {
+      "context": "Neck: No thyromegaly, masses, or adenopathy except for some small minimally enlarged high jugular nodes.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "43979000"
+    },
+    "minimally enlarged high jugular nodes": {
+      "context": "Neck: No thyromegaly, masses, or adenopathy except for some small minimally enlarged high jugular nodes.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Clear to auscultation": {
+      "context": "Chest: Clear to auscultation.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "murmurs": {
+      "context": "Heart: No murmurs, rubs, or gallops.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "422408001"
+    },
+    "rubs": {
+      "context": "Heart: No murmurs, rubs, or gallops.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "426072006"
+    },
+    "gallops": {
+      "context": "Heart: No murmurs, rubs, or gallops.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "195080001"
+    },
+    "Obese": {
+      "context": "Abdomen: Obese. Complete exam deferred.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "skin dry and intact": {
+      "context": "Skin: Visualized skin dry and intact, except for rash on his inner thighs and upper legs, which is red maculopapular and consistent with possible allergic reaction.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "rash on his inner thighs and upper legs": {
+      "context": "Skin: Visualized skin dry and intact, except for rash on his inner thighs and upper legs, which is red maculopapular and consistent with possible allergic reaction.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "271807003"
+    },
+    "red maculopapular": {
+      "context": "Skin: Visualized skin dry and intact, except for rash on his inner thighs and upper legs, which is red maculopapular and consistent with possible allergic reaction.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "247442009"
+    },
+    "allergic reaction": {
+      "context": "Skin: Visualized skin dry and intact, except for rash on his inner thighs and upper legs, which is red maculopapular and consistent with possible allergic reaction.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Suspected",
+      "primary_secondary": "Secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "23500008"
+    },
+    "Cranial nerves II through XII are intact": {
+      "context": "Neuro: Cranial nerves II through XII are intact. Eyes, pupils are equal, round, and reactive to light and accommodation, full range.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "pupils are equal, round, and reactive to light and accommodation": {
+      "context": "Neuro: Cranial nerves II through XII are intact. Eyes, pupils are equal, round, and reactive to light and accommodation, full range.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Marked exudative tonsillitis": {
+      "context": "Impression: Marked exudative tonsillitis, non-strep, non-mono, probably mixed anaerobic infection.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "Confirmed",
+      "primary_secondary": "Primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "108401009"
+    },
+    "non-strep": {
+      "context": "Impression: Marked exudative tonsillitis, non-strep, non-mono, probably mixed anaerobic infection.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "non-mono": {
+      "context": "Impression: Marked exudative tonsillitis, non-strep, non-mono, probably mixed anaerobic infection.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "Negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "mixed anaerobic infection": {
+      "context": "Impression: Marked exudative tonsillitis, non-strep, non-mono, probably mixed anaerobic infection.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "prior history of tonsillitis": {
+      "context": "No significant prior history of tonsillitis.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "108401009"
+    },
+    "rash to PENICILLIN": {
+      "context": "Possible rash to PENICILLIN.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "271807003"
+    },
+    "IV clindamycin": {
+      "context": "I concur with IV clindamycin and IV Solu-Medrol as per Dr. X.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "IV Solu-Medrol": {
+      "context": "I concur with IV clindamycin and IV Solu-Medrol as per Dr. X.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "IV antibiotics": {
+      "context": "I anticipate this patient may need several days of IV antibiotics and then be able to switch over to oral.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "surgical intervention": {
+      "context": "I do not insist that this patient will need surgical intervention since there is no evidence of abscess.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "tonsillectomy": {
+      "context": "This one episode of severe tonsillitis does not mean the patient needs tonsillectomy, but if he continues to have significant tonsil problems after this he should be referred for ENT evaluation as an outpatient.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "28289007"
+    },
+    "tonsil problems": {
+      "context": "This one episode of severe tonsillitis does not mean the patient needs tonsillectomy, but if he continues to have significant tonsil problems after this he should be referred for ENT evaluation as an outpatient.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "ENT evaluation": {
+      "context": "This one episode of severe tonsillitis does not mean the patient needs tonsillectomy, but if he continues to have significant tonsil problems after this he should be referred for ENT evaluation as an outpatient.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    }
+  }
+}

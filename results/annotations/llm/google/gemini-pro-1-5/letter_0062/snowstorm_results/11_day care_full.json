@@ -1,0 +1,1470 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 4,
+      "999000011000000103": 60,
+      "900000000000207008": 146
+    },
+    "semanticTags": {
+      "regime/therapy": 12,
+      "environment": 9,
+      "product": 2,
+      "assessment scale": 4,
+      "observable entity": 7,
+      "procedure": 46,
+      "finding": 6,
+      "record artifact": 3,
+      "situation": 1
+    },
+    "language": {
+      "en": 210
+    },
+    "membership": {
+      "1322291000000109": 90,
+      "999004331000000102": 6,
+      "999003021000000104": 1,
+      "1127601000000107": 7,
+      "999000031000001105": 2,
+      "1323331000000106": 1,
+      "1382531000000102": 1,
+      "999000551000001106": 1,
+      "1127551000000109": 3,
+      "999000541000001108": 1,
+      "900000000000489007": 4,
+      "991441000000105": 1,
+      "991451000000108": 1,
+      "1128811000000107": 3,
+      "900000000000497000": 58,
+      "733073007": 88,
+      "999001471000000108": 2,
+      "999003011000000105": 1,
+      "1382401000000109": 4,
+      "30931000001101": 2,
+      "999002991000000109": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999003021000000104": {
+      "conceptId": "999003021000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care discharge status simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care discharge status simple reference set",
+        "lang": "en"
+      },
+      "id": "999003021000000104"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "991441000000105": {
+      "conceptId": "991441000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care follow-up procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care follow-up procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991441000000105"
+    },
+    "991451000000108": {
+      "conceptId": "991451000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care referral procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care referral procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991451000000108"
+    },
+    "1128811000000107": {
+      "conceptId": "1128811000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Prognosis findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Prognosis findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128811000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001471000000108": {
+      "conceptId": "999001471000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Care plan type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Care plan type simple reference set",
+        "lang": "en"
+      },
+      "id": "999001471000000108"
+    },
+    "999003011000000105": {
+      "conceptId": "999003011000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care discharge destination simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care discharge destination simple reference set",
+        "lang": "en"
+      },
+      "id": "999003011000000105"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999002991000000109": {
+      "conceptId": "999002991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care attendance source simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care attendance source simple reference set",
+        "lang": "en"
+      },
+      "id": "999002991000000109"
+    }
+  },
+  "totalElements": 210,
+  "totalPages": 5,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Day care center",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1348009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Day care center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day care center",
+          "lang": "en"
+        },
+        "id": "1348009"
+      }
+    },
+    {
+      "term": "Day care centre",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1348009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Day care center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day care center",
+          "lang": "en"
+        },
+        "id": "1348009"
+      }
+    },
+    {
+      "term": "Day centre care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304903009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of day care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of day care",
+          "lang": "en"
+        },
+        "id": "304903009"
+      }
+    },
+    {
+      "term": "Day center care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304903009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of day care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of day care",
+          "lang": "en"
+        },
+        "id": "304903009"
+      }
+    },
+    {
+      "term": "Medical day care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702881000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Medical day care (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Medical day care",
+          "lang": "en"
+        },
+        "id": "702881000"
+      }
+    },
+    {
+      "term": "Day hospital care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "183484003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Day hospital care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day hospital care",
+          "lang": "en"
+        },
+        "id": "183484003"
+      }
+    },
+    {
+      "term": "Day case care plan",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "736369006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Day case care plan (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day case care plan",
+          "lang": "en"
+        },
+        "id": "736369006"
+      }
+    },
+    {
+      "term": "Overnight day care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1258860000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Overnight daycare (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Overnight daycare",
+          "lang": "en"
+        },
+        "id": "1258860000"
+      }
+    },
+    {
+      "term": "Psychiatric day care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "183485002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Psychiatric day care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Psychiatric day care",
+          "lang": "en"
+        },
+        "id": "183485002"
+      }
+    },
+    {
+      "term": "Provision of day care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304903009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of day care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of day care",
+          "lang": "en"
+        },
+        "id": "304903009"
+      }
+    },
+    {
+      "term": "Day care surveillance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737846009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Day care surveillance (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day care surveillance",
+          "lang": "en"
+        },
+        "id": "737846009"
+      }
+    },
+    {
+      "term": "Child day center care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415185004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of child day center care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of child day center care",
+          "lang": "en"
+        },
+        "id": "415185004"
+      }
+    },
+    {
+      "term": "Child day centre care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415185004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of child day center care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of child day center care",
+          "lang": "en"
+        },
+        "id": "415185004"
+      }
+    },
+    {
+      "term": "Child day care center",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413817003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Child day care center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child day care center",
+          "lang": "en"
+        },
+        "id": "413817003"
+      }
+    },
+    {
+      "term": "Child day care centre",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413817003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Child day care center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child day care center",
+          "lang": "en"
+        },
+        "id": "413817003"
+      }
+    },
+    {
+      "term": "Adult day care center",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413456002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adult day care center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adult day care center",
+          "lang": "en"
+        },
+        "id": "413456002"
+      }
+    },
+    {
+      "term": "Adult day care centre",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413456002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adult day care center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adult day care center",
+          "lang": "en"
+        },
+        "id": "413456002"
+      }
+    },
+    {
+      "term": "Adult day center care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "370878002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of adult day center care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of adult day center care",
+          "lang": "en"
+        },
+        "id": "370878002"
+      }
+    },
+    {
+      "term": "Adult day centre care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "370878002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of adult day center care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of adult day center care",
+          "lang": "en"
+        },
+        "id": "370878002"
+      }
+    },
+    {
+      "term": "Day care case management",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737850002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Day care case management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day care case management",
+          "lang": "en"
+        },
+        "id": "737850002"
+      }
+    },
+    {
+      "term": "Local authority day care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312636004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of local authority day care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of local authority day care",
+          "lang": "en"
+        },
+        "id": "312636004"
+      }
+    },
+    {
+      "term": "Day case care management",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "867351000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Day case care management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day case care management",
+          "lang": "en"
+        },
+        "id": "867351000000100"
+      }
+    },
+    {
+      "term": "General day care of adult",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40773005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "General day care of adult (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "General day care of adult",
+          "lang": "en"
+        },
+        "id": "40773005"
+      }
+    },
+    {
+      "term": "General day care of child",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66615003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "General day care of child (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "General day care of child",
+          "lang": "en"
+        },
+        "id": "66615003"
+      }
+    },
+    {
+      "term": "Day case surgery care plan",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "736370007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Day case surgery care plan (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day case surgery care plan",
+          "lang": "en"
+        },
+        "id": "736370007"
+      }
+    },
+    {
+      "term": "Psychiatric day care by day",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "7133001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Psychiatric day care by day (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Psychiatric day care by day",
+          "lang": "en"
+        },
+        "id": "7133001"
+      }
+    },
+    {
+      "term": "Discharge from Day Case Care",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "163401000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Discharge from Day Case Care - FocusActOrEvent (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharge from Day Case Care",
+          "lang": "en"
+        },
+        "id": "163401000000105"
+      }
+    },
+    {
+      "term": "Discharged from day-case care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "183669000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discharged from day-case care (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discharged from day-case care",
+          "lang": "en"
+        },
+        "id": "183669000"
+      }
+    },
+    {
+      "term": "Psychiatric day care hospital",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309897003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Psychiatric day care hospital (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Psychiatric day care hospital",
+          "lang": "en"
+        },
+        "id": "309897003"
+      }
+    },
+    {
+      "term": "Day care center (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1348009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Day care center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day care center",
+          "lang": "en"
+        },
+        "id": "1348009"
+      }
+    },
+    {
+      "term": "Medical day care (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702881000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Medical day care (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Medical day care",
+          "lang": "en"
+        },
+        "id": "702881000"
+      }
+    },
+    {
+      "term": "Care of the elderly day hospital",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309900005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Care of the elderly day hospital (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Care of the elderly day hospital",
+          "lang": "en"
+        },
+        "id": "309900005"
+      }
+    },
+    {
+      "term": "Referred by adult day care centre",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1077761000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Referred by adult day care centre (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referred by adult day care centre",
+          "lang": "en"
+        },
+        "id": "1077761000000105"
+      }
+    },
+    {
+      "term": "Provision of adult day centre care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "370878002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of adult day center care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of adult day center care",
+          "lang": "en"
+        },
+        "id": "370878002"
+      }
+    },
+    {
+      "term": "Provision of adult day center care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "370878002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of adult day center care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of adult day center care",
+          "lang": "en"
+        },
+        "id": "370878002"
+      }
+    },
+    {
+      "term": "Day hospital care (regime/therapy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "183484003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Day hospital care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day hospital care",
+          "lang": "en"
+        },
+        "id": "183484003"
+      }
+    },
+    {
+      "term": "Provision of child day center care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415185004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of child day center care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of child day center care",
+          "lang": "en"
+        },
+        "id": "415185004"
+      }
+    },
+    {
+      "term": "Provision of child day centre care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "415185004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of child day center care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of child day center care",
+          "lang": "en"
+        },
+        "id": "415185004"
+      }
+    },
+    {
+      "term": "Referral to adult day care program",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442021000124100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Referral to adult day care program (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referral to adult day care program",
+          "lang": "en"
+        },
+        "id": "442021000124100"
+      }
+    },
+    {
+      "term": "Child day care center (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413817003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Child day care center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child day care center",
+          "lang": "en"
+        },
+        "id": "413817003"
+      }
+    },
+    {
+      "term": "Adult day care center (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413456002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adult day care center (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adult day care center",
+          "lang": "en"
+        },
+        "id": "413456002"
+      }
+    },
+    {
+      "term": "NHS day care facility on other site",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "930731000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "National Health Service day care facility on other site (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "NHS day care facility on other site",
+          "lang": "en"
+        },
+        "id": "930731000000107"
+      }
+    },
+    {
+      "term": "Day case care plan (record artifact)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "736369006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Day case care plan (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day case care plan",
+          "lang": "en"
+        },
+        "id": "736369006"
+      }
+    },
+    {
+      "term": "Day care case management (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "737850002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Day care case management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day care case management",
+          "lang": "en"
+        },
+        "id": "737850002"
+      }
+    },
+    {
+      "term": "Referral to adult day care programme",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442021000124100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Referral to adult day care program (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referral to adult day care program",
+          "lang": "en"
+        },
+        "id": "442021000124100"
+      }
+    },
+    {
+      "term": "Day case care management (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "867351000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Day case care management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Day case care management",
+          "lang": "en"
+        },
+        "id": "867351000000100"
+      }
+    },
+    {
+      "term": "Referral for same day emergency care",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "898791000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Referral for ambulatory care (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Referral for same day emergency care",
+          "lang": "en"
+        },
+        "id": "898791000000105"
+      }
+    },
+    {
+      "term": "Provision of local authority day care",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312636004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of local authority day care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of local authority day care",
+          "lang": "en"
+        },
+        "id": "312636004"
+      }
+    },
+    {
+      "term": "Psychiatric day care (regime/therapy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "183485002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Psychiatric day care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Psychiatric day care",
+          "lang": "en"
+        },
+        "id": "183485002"
+      }
+    },
+    {
+      "term": "Provision of day care (regime/therapy)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "304903009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Provision of day care (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Provision of day care",
+          "lang": "en"
+        },
+        "id": "304903009"
+      }
+    }
+  ]
+}

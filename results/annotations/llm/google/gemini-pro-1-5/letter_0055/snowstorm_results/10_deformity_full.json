@@ -1,0 +1,1630 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000012004": 6,
+      "999000021000000109": 2,
+      "999000011000000103": 6,
+      "999000041000000102": 1,
+      "900000000000207008": 1637
+    },
+    "semanticTags": {
+      "regime/therapy": 1,
+      "foundation metadata concept": 1,
+      "disorder": 503,
+      "morphologic abnormality": 24,
+      "observable entity": 2,
+      "procedure": 92,
+      "attribute": 3,
+      "finding": 103,
+      "situation": 8
+    },
+    "language": {
+      "en": 1652
+    },
+    "membership": {
+      "1322291000000109": 732,
+      "999004331000000102": 3,
+      "999003201000000100": 2,
+      "1323331000000106": 1,
+      "2181221000000101": 1,
+      "999002271000000101": 1045,
+      "2222191000000108": 2,
+      "2181201000000105": 3,
+      "999003181000000104": 1,
+      "999002451000000109": 2,
+      "999002571000000104": 3,
+      "900000000000497000": 733,
+      "999001761000000108": 9,
+      "999002491000000101": 13,
+      "1382401000000109": 315,
+      "1127601000000107": 611,
+      "1382531000000102": 176,
+      "2181151000000100": 1,
+      "1128991000000109": 1,
+      "900000000000489007": 2,
+      "1323321000000109": 1,
+      "999002511000000109": 9,
+      "999002961000000103": 7,
+      "733073007": 737,
+      "999003191000000102": 1,
+      "999002941000000104": 2,
+      "900000000000456007": 1,
+      "999003141000000107": 24,
+      "999001751000000105": 2
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000012004": {
+      "conceptId": "900000000000012004",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT model component module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT model component",
+        "lang": "en"
+      },
+      "id": "900000000000012004"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2181201000000105": {
+      "conceptId": "2181201000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric musculoskeletal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric musculoskeletal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181201000000105"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999003181000000104": {
+      "conceptId": "999003181000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003181000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999000021000000109": {
+      "conceptId": "999000021000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension reference set module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension reference set module",
+        "lang": "en"
+      },
+      "id": "999000021000000109"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "999002491000000101": {
+      "conceptId": "999002491000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Deformity of spine findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Deformity of spine findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002491000000101"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2181151000000100": {
+      "conceptId": "2181151000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181151000000100"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1323321000000109": {
+      "conceptId": "1323321000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323321000000109"
+    },
+    "999002511000000109": {
+      "conceptId": "999002511000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Posture findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Posture findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002511000000109"
+    },
+    "999002961000000103": {
+      "conceptId": "999002961000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Podiatric surgery procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Podiatric surgery procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "999002961000000103"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999003191000000102": {
+      "conceptId": "999003191000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1D Central nervous system neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1D CNS (central nervous system) neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003191000000102"
+    },
+    "999002941000000104": {
+      "conceptId": "999002941000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Podiatric health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Podiatric health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999002941000000104"
+    },
+    "900000000000456007": {
+      "conceptId": "900000000000456007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Reference set descriptor reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Reference set descriptor",
+        "lang": "en"
+      },
+      "id": "900000000000456007"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 1652,
+  "totalPages": 34,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6081001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity",
+          "lang": "en"
+        },
+        "id": "6081001"
+      }
+    },
+    {
+      "term": "Deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "417893002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity",
+          "lang": "en"
+        },
+        "id": "417893002"
+      }
+    },
+    {
+      "term": "Nail deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "201114008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nail deformity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nail deformity",
+          "lang": "en"
+        },
+        "id": "201114008"
+      }
+    },
+    {
+      "term": "Varus deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127562007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Varus deformity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Varus deformity",
+          "lang": "en"
+        },
+        "id": "127562007"
+      }
+    },
+    {
+      "term": "Joint deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "250087009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Joint deformity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Joint deformity",
+          "lang": "en"
+        },
+        "id": "250087009"
+      }
+    },
+    {
+      "term": "Cavus deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "2559001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Claw-shaped deformity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Claw-shaped deformity",
+          "lang": "en"
+        },
+        "id": "2559001"
+      }
+    },
+    {
+      "term": "Ulnar deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1293023007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ulnar angulation deformity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ulnar deviation",
+          "lang": "en"
+        },
+        "id": "1293023007"
+      }
+    },
+    {
+      "term": "Valgus deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127561000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Valgus deformity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Valgus deformity",
+          "lang": "en"
+        },
+        "id": "127561000"
+      }
+    },
+    {
+      "term": "Bowing deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34058006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bowing deformity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bowing deformity",
+          "lang": "en"
+        },
+        "id": "34058006"
+      }
+    },
+    {
+      "term": "Nipple deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237469008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nipple deformity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nipple deformity",
+          "lang": "en"
+        },
+        "id": "237469008"
+      }
+    },
+    {
+      "term": "Deformity of toe",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299567001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of toe (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of toe",
+          "lang": "en"
+        },
+        "id": "299567001"
+      }
+    },
+    {
+      "term": "Deformity of rib",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298735007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of rib (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of rib",
+          "lang": "en"
+        },
+        "id": "298735007"
+      }
+    },
+    {
+      "term": "C/O: a deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162417000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "Complaining of a deformity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "C/O: a deformity",
+          "lang": "en"
+        },
+        "id": "162417000"
+      }
+    },
+    {
+      "term": "Eyelid deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430960001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of eyelid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of eyelid",
+          "lang": "en"
+        },
+        "id": "430960001"
+      }
+    },
+    {
+      "term": "Radial deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1293024001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Radial angulation deformity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Radial deviation",
+          "lang": "en"
+        },
+        "id": "1293024001"
+      }
+    },
+    {
+      "term": "Orbital deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87540003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of orbit proper (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of orbit",
+          "lang": "en"
+        },
+        "id": "87540003"
+      }
+    },
+    {
+      "term": "Flexion deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "88565003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Flexion deformity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Flexion deformity",
+          "lang": "en"
+        },
+        "id": "88565003"
+      }
+    },
+    {
+      "term": "Corneal deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "41478008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Corneal deformity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Corneal deformity",
+          "lang": "en"
+        },
+        "id": "41478008"
+      }
+    },
+    {
+      "term": "Flexion deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "203598005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Flexion deformity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Flexion deformity",
+          "lang": "en"
+        },
+        "id": "203598005"
+      }
+    },
+    {
+      "term": "Deformity of foot",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "229844004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of foot (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of foot",
+          "lang": "en"
+        },
+        "id": "229844004"
+      }
+    },
+    {
+      "term": "Deformity of ulna",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271088009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of ulna (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of ulna",
+          "lang": "en"
+        },
+        "id": "271088009"
+      }
+    },
+    {
+      "term": "Deformity of neck",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298390003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of neck (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of neck",
+          "lang": "en"
+        },
+        "id": "298390003"
+      }
+    },
+    {
+      "term": "Deformity of hand",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299033004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of hand (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of hand",
+          "lang": "en"
+        },
+        "id": "299033004"
+      }
+    },
+    {
+      "term": "O/E - a deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "164622007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - a deformity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - a deformity",
+          "lang": "en"
+        },
+        "id": "164622007"
+      }
+    },
+    {
+      "term": "Torsion deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718355007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Torsion deformity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Torsion deformity",
+          "lang": "en"
+        },
+        "id": "718355007"
+      }
+    },
+    {
+      "term": "Nailbed deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "19051000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nailbed deformity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nailbed deformity",
+          "lang": "en"
+        },
+        "id": "19051000119100"
+      }
+    },
+    {
+      "term": "Deformity of limb",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "445144002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of limb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of limb",
+          "lang": "en"
+        },
+        "id": "445144002"
+      }
+    },
+    {
+      "term": "Haglund deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "202883008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Posterior calcaneal exostosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Posterior calcaneal exostosis",
+          "lang": "en"
+        },
+        "id": "202883008"
+      }
+    },
+    {
+      "term": "Lop ear deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "738164003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lop ear deformity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lop ear deformity",
+          "lang": "en"
+        },
+        "id": "738164003"
+      }
+    },
+    {
+      "term": "Deformity of bone",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298356007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformation of bone (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformation of bone",
+          "lang": "en"
+        },
+        "id": "298356007"
+      }
+    },
+    {
+      "term": "Gunstock deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "29087002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acquired cubitus varus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acquired cubitus varus",
+          "lang": "en"
+        },
+        "id": "29087002"
+      }
+    },
+    {
+      "term": "Deformity of orbit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "87540003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of orbit proper (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of orbit",
+          "lang": "en"
+        },
+        "id": "87540003"
+      }
+    },
+    {
+      "term": "Deformity of brain",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "57148006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital anomaly of brain (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital anomaly of brain",
+          "lang": "en"
+        },
+        "id": "57148006"
+      }
+    },
+    {
+      "term": "Deformity of pinna",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232216004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of pinna (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of pinna",
+          "lang": "en"
+        },
+        "id": "232216004"
+      }
+    },
+    {
+      "term": "Deformity of femur",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271092002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of femur (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of femur",
+          "lang": "en"
+        },
+        "id": "271092002"
+      }
+    },
+    {
+      "term": "Deformity of tibia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271094001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of tibia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of tibia",
+          "lang": "en"
+        },
+        "id": "271094001"
+      }
+    },
+    {
+      "term": "Deformity of talus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271097008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of talus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of talus",
+          "lang": "en"
+        },
+        "id": "271097008"
+      }
+    },
+    {
+      "term": "Angle of deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "281826003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Angle of deformity (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Angle of deformity",
+          "lang": "en"
+        },
+        "id": "281826003"
+      }
+    },
+    {
+      "term": "Deformity of spine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "298380006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of spine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of spine",
+          "lang": "en"
+        },
+        "id": "298380006"
+      }
+    },
+    {
+      "term": "Deformity of thumb",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299130003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of thumb (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of thumb",
+          "lang": "en"
+        },
+        "id": "299130003"
+      }
+    },
+    {
+      "term": "Madelung deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4530000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Madelung's deformity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Madelung's deformity",
+          "lang": "en"
+        },
+        "id": "4530000"
+      }
+    },
+    {
+      "term": "Rotation deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1296877001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rotation deformity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rotation deformity",
+          "lang": "en"
+        },
+        "id": "1296877001"
+      }
+    },
+    {
+      "term": "Swan-neck deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "23060008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Swan-neck deformity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Swan-neck deformity",
+          "lang": "en"
+        },
+        "id": "23060008"
+      }
+    },
+    {
+      "term": "Extension deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "90510001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Extension deformity (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Extension deformity",
+          "lang": "en"
+        },
+        "id": "90510001"
+      }
+    },
+    {
+      "term": "Deformity of finger",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "203556007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deviation of finger (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deviation of finger",
+          "lang": "en"
+        },
+        "id": "203556007"
+      }
+    },
+    {
+      "term": "Deformity of radius",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271087004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of radius (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of radius",
+          "lang": "en"
+        },
+        "id": "271087004"
+      }
+    },
+    {
+      "term": "Deformity of fibula",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271095000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of fibula (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of fibula",
+          "lang": "en"
+        },
+        "id": "271095000"
+      }
+    },
+    {
+      "term": "Toe joint deformity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "299581004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Toe joint deformity (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Toe joint deformity",
+          "lang": "en"
+        },
+        "id": "299581004"
+      }
+    },
+    {
+      "term": "Deformity of breast",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "360396000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of breast (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of breast",
+          "lang": "en"
+        },
+        "id": "360396000"
+      }
+    },
+    {
+      "term": "Deformity of eyelid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "430960001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deformity of eyelid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deformity of eyelid",
+          "lang": "en"
+        },
+        "id": "430960001"
+      }
+    }
+  ]
+}

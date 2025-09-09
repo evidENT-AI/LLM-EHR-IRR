@@ -1,0 +1,1238 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2,
+      "900000000000207008": 102
+    },
+    "semanticTags": {
+      "finding": 44
+    },
+    "language": {
+      "en": 104
+    },
+    "membership": {
+      "1322291000000109": 44,
+      "1127601000000107": 40,
+      "999002451000000109": 3,
+      "999002571000000104": 4,
+      "900000000000497000": 43,
+      "733073007": 44,
+      "999002271000000101": 39,
+      "999002501000000107": 4
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999002501000000107": {
+      "conceptId": "999002501000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Spine movement findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Spine movement findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002501000000107"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 104,
+  "totalPages": 3,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Retraction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37794007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction",
+          "lang": "en"
+        },
+        "id": "37794007"
+      }
+    },
+    {
+      "term": "Lid retraction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14520009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of eyelid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of eyelid",
+          "lang": "en"
+        },
+        "id": "14520009"
+      }
+    },
+    {
+      "term": "Retraction pocket",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71177003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of tympanic membrane (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of tympanic membrane",
+          "lang": "en"
+        },
+        "id": "71177003"
+      }
+    },
+    {
+      "term": "Retraction of nipple",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271955004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of nipple (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of nipple",
+          "lang": "en"
+        },
+        "id": "271955004"
+      }
+    },
+    {
+      "term": "Upper lid retraction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302014008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of upper eyelid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of upper eyelid",
+          "lang": "en"
+        },
+        "id": "302014008"
+      }
+    },
+    {
+      "term": "Lower lid retraction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302015009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of lower eyelid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of lower eyelid",
+          "lang": "en"
+        },
+        "id": "302015009"
+      }
+    },
+    {
+      "term": "Retraction (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37794007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction",
+          "lang": "en"
+        },
+        "id": "37794007"
+      }
+    },
+    {
+      "term": "Retraction of tongue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709612002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of tongue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of tongue",
+          "lang": "en"
+        },
+        "id": "709612002"
+      }
+    },
+    {
+      "term": "Retraction of eyelid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14520009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of eyelid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of eyelid",
+          "lang": "en"
+        },
+        "id": "14520009"
+      }
+    },
+    {
+      "term": "Chest wall retraction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "67909005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chest wall retraction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chest wall retraction",
+          "lang": "en"
+        },
+        "id": "67909005"
+      }
+    },
+    {
+      "term": "Retraction of eardrum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71177003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of tympanic membrane (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of tympanic membrane",
+          "lang": "en"
+        },
+        "id": "71177003"
+      }
+    },
+    {
+      "term": "Retraction of blood clot",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "827067003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of blood clot (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of blood clot",
+          "lang": "en"
+        },
+        "id": "827067003"
+      }
+    },
+    {
+      "term": "Retraction of left nipple",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15953221000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of left nipple (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of left nipple",
+          "lang": "en"
+        },
+        "id": "15953221000119100"
+      }
+    },
+    {
+      "term": "Retraction of upper eyelid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302014008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of upper eyelid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of upper eyelid",
+          "lang": "en"
+        },
+        "id": "302014008"
+      }
+    },
+    {
+      "term": "Retraction of lower eyelid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302015009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of lower eyelid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of lower eyelid",
+          "lang": "en"
+        },
+        "id": "302015009"
+      }
+    },
+    {
+      "term": "Retraction of right nipple",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15953181000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of right nipple (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of right nipple",
+          "lang": "en"
+        },
+        "id": "15953181000119108"
+      }
+    },
+    {
+      "term": "Retraction of both nipples",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "12265581000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of bilateral nipples (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral nipple retraction",
+          "lang": "en"
+        },
+        "id": "12265581000119109"
+      }
+    },
+    {
+      "term": "Bilateral nipple retraction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "12265581000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of bilateral nipples (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral nipple retraction",
+          "lang": "en"
+        },
+        "id": "12265581000119109"
+      }
+    },
+    {
+      "term": "Retraction of skin of breast",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1251502009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of skin of breast (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of skin of breast",
+          "lang": "en"
+        },
+        "id": "1251502009"
+      }
+    },
+    {
+      "term": "O/E: retraction of blood clot",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "165389001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - retraction of blood clot (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E: retraction of blood clot",
+          "lang": "en"
+        },
+        "id": "165389001"
+      }
+    },
+    {
+      "term": "Retraction of nipple (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271955004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of nipple (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of nipple",
+          "lang": "en"
+        },
+        "id": "271955004"
+      }
+    },
+    {
+      "term": "Retraction of tongue (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "709612002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of tongue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of tongue",
+          "lang": "en"
+        },
+        "id": "709612002"
+      }
+    },
+    {
+      "term": "Retraction of eyelid (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14520009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of eyelid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of eyelid",
+          "lang": "en"
+        },
+        "id": "14520009"
+      }
+    },
+    {
+      "term": "Retraction of tympanic membrane",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71177003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of tympanic membrane (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of tympanic membrane",
+          "lang": "en"
+        },
+        "id": "71177003"
+      }
+    },
+    {
+      "term": "Congenital retraction of nipple",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254239000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital retraction of nipple (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital retraction of nipple",
+          "lang": "en"
+        },
+        "id": "254239000"
+      }
+    },
+    {
+      "term": "Chest wall retraction (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "67909005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chest wall retraction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chest wall retraction",
+          "lang": "en"
+        },
+        "id": "67909005"
+      }
+    },
+    {
+      "term": "Retraction of bilateral nipples",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "12265581000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of bilateral nipples (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral nipple retraction",
+          "lang": "en"
+        },
+        "id": "12265581000119109"
+      }
+    },
+    {
+      "term": "Poor retraction of upper segment",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289744002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Poor retraction of upper segment (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Poor retraction of upper segment",
+          "lang": "en"
+        },
+        "id": "289744002"
+      }
+    },
+    {
+      "term": "Retraction of foreskin - finding",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "366289008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of retraction of foreskin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of foreskin - finding",
+          "lang": "en"
+        },
+        "id": "366289008"
+      }
+    },
+    {
+      "term": "Rib retraction during respiration",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248567008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Indrawing of ribs during respiration (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Indrawing of ribs during respiration",
+          "lang": "en"
+        },
+        "id": "248567008"
+      }
+    },
+    {
+      "term": "Finding of retraction of foreskin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "366289008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of retraction of foreskin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of foreskin - finding",
+          "lang": "en"
+        },
+        "id": "366289008"
+      }
+    },
+    {
+      "term": "Retraction of nipple in pregnancy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10760341000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of nipple in pregnancy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of nipple in pregnancy",
+          "lang": "en"
+        },
+        "id": "10760341000119101"
+      }
+    },
+    {
+      "term": "Retraction of blood clot (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "827067003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of blood clot (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of blood clot",
+          "lang": "en"
+        },
+        "id": "827067003"
+      }
+    },
+    {
+      "term": "Finding of upper segment retraction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289743008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of upper segment retraction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of upper segment retraction",
+          "lang": "en"
+        },
+        "id": "289743008"
+      }
+    },
+    {
+      "term": "Retraction of left nipple (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15953221000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of left nipple (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of left nipple",
+          "lang": "en"
+        },
+        "id": "15953221000119100"
+      }
+    },
+    {
+      "term": "Retraction of right nipple (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15953181000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of right nipple (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of right nipple",
+          "lang": "en"
+        },
+        "id": "15953181000119108"
+      }
+    },
+    {
+      "term": "Retraction of upper eyelid (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302014008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of upper eyelid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of upper eyelid",
+          "lang": "en"
+        },
+        "id": "302014008"
+      }
+    },
+    {
+      "term": "Retraction of lower eyelid (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "302015009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of lower eyelid (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of lower eyelid",
+          "lang": "en"
+        },
+        "id": "302015009"
+      }
+    },
+    {
+      "term": "Retraction of nipple during lactation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10760301000119103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of nipple during lactation (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of nipple during lactation",
+          "lang": "en"
+        },
+        "id": "10760301000119103"
+      }
+    },
+    {
+      "term": "Mammographic skin retraction of breast",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129796009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mammographic skin retraction of breast (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mammographic skin retraction of breast",
+          "lang": "en"
+        },
+        "id": "129796009"
+      }
+    },
+    {
+      "term": "Retraction of skin of breast (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1251502009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of skin of breast (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of skin of breast",
+          "lang": "en"
+        },
+        "id": "1251502009"
+      }
+    },
+    {
+      "term": "Observation of upper segment retraction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289743008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of upper segment retraction (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Finding of upper segment retraction",
+          "lang": "en"
+        },
+        "id": "289743008"
+      }
+    },
+    {
+      "term": "Retraction of tympanic membrane (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71177003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of tympanic membrane (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of tympanic membrane",
+          "lang": "en"
+        },
+        "id": "71177003"
+      }
+    },
+    {
+      "term": "On examination - retraction of blood clot",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "165389001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - retraction of blood clot (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E: retraction of blood clot",
+          "lang": "en"
+        },
+        "id": "165389001"
+      }
+    },
+    {
+      "term": "Congenital retraction of nipple (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254239000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital retraction of nipple (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital retraction of nipple",
+          "lang": "en"
+        },
+        "id": "254239000"
+      }
+    },
+    {
+      "term": "Retraction of bilateral nipples (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "12265581000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of bilateral nipples (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral nipple retraction",
+          "lang": "en"
+        },
+        "id": "12265581000119109"
+      }
+    },
+    {
+      "term": "Poor retraction of upper segment (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289744002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Poor retraction of upper segment (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Poor retraction of upper segment",
+          "lang": "en"
+        },
+        "id": "289744002"
+      }
+    },
+    {
+      "term": "Normal retraction of upper uterine segment",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1252649001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Normal retraction of upper uterine segment (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Normal retraction of upper uterine segment",
+          "lang": "en"
+        },
+        "id": "1252649001"
+      }
+    },
+    {
+      "term": "Finding of retraction of foreskin (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "366289008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of retraction of foreskin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of foreskin - finding",
+          "lang": "en"
+        },
+        "id": "366289008"
+      }
+    },
+    {
+      "term": "Retraction of nipple in pregnancy (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10760341000119101",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Retraction of nipple in pregnancy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Retraction of nipple in pregnancy",
+          "lang": "en"
+        },
+        "id": "10760341000119101"
+      }
+    }
+  ]
+}

@@ -1,0 +1,785 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "900000000000207008": 22
+    },
+    "semanticTags": {
+      "disorder": 4,
+      "observable entity": 1,
+      "procedure": 1,
+      "finding": 5
+    },
+    "language": {
+      "en": 26
+    },
+    "membership": {
+      "1322291000000109": 11,
+      "999004331000000102": 3,
+      "991411000000109": 2,
+      "1127601000000107": 9,
+      "1382531000000102": 3,
+      "900000000000497000": 8,
+      "1326311000000109": 2,
+      "733073007": 11,
+      "999002271000000101": 8,
+      "1326321000000103": 2,
+      "900000000000489007": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "1326311000000109": {
+      "conceptId": "1326311000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Long term effects of disease caused by severe acute respiratory syndrome coronavirus 2 primary care simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Long term effects of COVID-19 primary care simple reference set",
+        "lang": "en"
+      },
+      "id": "1326311000000109"
+    },
+    "1326321000000103": {
+      "conceptId": "1326321000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Post-COVID assessment service simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Post-COVID assessment service simple reference set",
+        "lang": "en"
+      },
+      "id": "1326321000000103"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    }
+  },
+  "totalElements": 26,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 26,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Gestation period, 12 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79992004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gestation period, 12 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gestation period, 12 weeks",
+          "lang": "en"
+        },
+        "id": "79992004"
+      }
+    },
+    {
+      "term": "Smoking status at 12 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "766931000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Smoking status at 12 weeks (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smoking status at 12 weeks",
+          "lang": "en"
+        },
+        "id": "766931000000106"
+      }
+    },
+    {
+      "term": "Antenatal 12 weeks examination",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "169712008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Antenatal 12 weeks examination (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Antenatal 12 weeks examination",
+          "lang": "en"
+        },
+        "id": "169712008"
+      }
+    },
+    {
+      "term": "Gravid uterus at 12-16 weeks size",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "840625002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gravid uterus at 12-16 weeks size (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gravid uterus at 12-16 weeks size",
+          "lang": "en"
+        },
+        "id": "840625002"
+      }
+    },
+    {
+      "term": "Gestation period, 12 weeks (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79992004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gestation period, 12 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gestation period, 12 weeks",
+          "lang": "en"
+        },
+        "id": "79992004"
+      }
+    },
+    {
+      "term": "Antenatal 12 weeks examination (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "169712008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Antenatal 12 weeks examination (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Antenatal 12 weeks examination",
+          "lang": "en"
+        },
+        "id": "169712008"
+      }
+    },
+    {
+      "term": "Gravid uterus at 12-16 weeks size (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "840625002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gravid uterus at 12-16 weeks size (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gravid uterus at 12-16 weeks size",
+          "lang": "en"
+        },
+        "id": "840625002"
+      }
+    },
+    {
+      "term": "Smoking status at 12 weeks (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "766931000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Smoking status at 12 weeks (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smoking status at 12 weeks",
+          "lang": "en"
+        },
+        "id": "766931000000106"
+      }
+    },
+    {
+      "term": "Long term effects of COVID-19 from 4 to 12 weeks.",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1325181000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Ongoing symptomatic disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ongoing symptomatic COVID-19",
+          "lang": "en"
+        },
+        "id": "1325181000000106"
+      }
+    },
+    {
+      "term": "FITT activity level 3; 12+ occas of mod activity in 4 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160649001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 3; 12 or more occasions of a moderate activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 3; 12+ occas of mod activity in 4 weeks",
+          "lang": "en"
+        },
+        "id": "160649001"
+      }
+    },
+    {
+      "term": "FITT activity level 5; 12+ occas of vig activity in 4 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160651002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 5; 12 or more occasions of a vigorous activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 5; 12+ occas of vig activity in 4 weeks",
+          "lang": "en"
+        },
+        "id": "160651002"
+      }
+    },
+    {
+      "term": "FITT activity level 3; 12 or more occasions of moderate activity in 4 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160649001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 3; 12 or more occasions of a moderate activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 3; 12+ occas of mod activity in 4 weeks",
+          "lang": "en"
+        },
+        "id": "160649001"
+      }
+    },
+    {
+      "term": "FITT activity level 5; 12 or more occasions of vigorous activity in 4 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160651002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 5; 12 or more occasions of a vigorous activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 5; 12+ occas of vig activity in 4 weeks",
+          "lang": "en"
+        },
+        "id": "160651002"
+      }
+    },
+    {
+      "term": "Symptoms related to COVID-19 that persist more than 12 weeks following onset.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1119304009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic post-COVID-19 syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic post-COVID-19 syndrome",
+          "lang": "en"
+        },
+        "id": "1119304009"
+      }
+    },
+    {
+      "term": "FITT activity level 4; 12 or more occasions of a mix of moderate and vigorous activity in 4 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160650001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 4; 12 or more occasions of a mix of moderate and vigorous activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 4; 12+ occas of mod/vig activit in 4 wks",
+          "lang": "en"
+        },
+        "id": "160650001"
+      }
+    },
+    {
+      "term": "Frequency-intensity-time-type activity level 5; 12 or more occasions of a vigorous activity in 4 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160651002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 5; 12 or more occasions of a vigorous activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 5; 12+ occas of vig activity in 4 weeks",
+          "lang": "en"
+        },
+        "id": "160651002"
+      }
+    },
+    {
+      "term": "Frequency-intensity-time-type activity level 3; 12 or more occasions of a moderate activity in 4 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160649001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 3; 12 or more occasions of a moderate activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 3; 12+ occas of mod activity in 4 weeks",
+          "lang": "en"
+        },
+        "id": "160649001"
+      }
+    },
+    {
+      "term": "Frequency-Intensity-Time-Type (FITT) activity level 3; 12 or more occasions of a moderate activity in 4 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160649001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 3; 12 or more occasions of a moderate activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 3; 12+ occas of mod activity in 4 weeks",
+          "lang": "en"
+        },
+        "id": "160649001"
+      }
+    },
+    {
+      "term": "Frequency-Intensity-Time-Type (FITT) activity level 5; 12 or more occasions of a vigorous activity in 4 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160651002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 5; 12 or more occasions of a vigorous activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 5; 12+ occas of vig activity in 4 weeks",
+          "lang": "en"
+        },
+        "id": "160651002"
+      }
+    },
+    {
+      "term": "Frequency-intensity-time-type activity level 3; 12 or more occasions of a moderate activity in 4 weeks (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160649001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 3; 12 or more occasions of a moderate activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 3; 12+ occas of mod activity in 4 weeks",
+          "lang": "en"
+        },
+        "id": "160649001"
+      }
+    },
+    {
+      "term": "Frequency-intensity-time-type activity level 5; 12 or more occasions of a vigorous activity in 4 weeks (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160651002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 5; 12 or more occasions of a vigorous activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 5; 12+ occas of vig activity in 4 weeks",
+          "lang": "en"
+        },
+        "id": "160651002"
+      }
+    },
+    {
+      "term": "Long term effects that develop during or after infection consistent with COVID-19 that continue for more than 12 weeks.",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1325161000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Post-COVID-19 syndrome (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Post-COVID-19 syndrome",
+          "lang": "en"
+        },
+        "id": "1325161000000102"
+      }
+    },
+    {
+      "term": "Frequency-intensity-time-type activity level 4; 12 or more occasions of a mix of moderate and vigorous activity in 4 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160650001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 4; 12 or more occasions of a mix of moderate and vigorous activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 4; 12+ occas of mod/vig activit in 4 wks",
+          "lang": "en"
+        },
+        "id": "160650001"
+      }
+    },
+    {
+      "term": "Frequency-Intensity-Time-Type (FITT) activity level 4; 12 or more occasions of a mix of moderate and vigorous activity in 4 weeks",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160650001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 4; 12 or more occasions of a mix of moderate and vigorous activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 4; 12+ occas of mod/vig activit in 4 wks",
+          "lang": "en"
+        },
+        "id": "160650001"
+      }
+    },
+    {
+      "term": "Frequency-intensity-time-type activity level 4; 12 or more occasions of a mix of moderate and vigorous activity in 4 weeks (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160650001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Frequency-intensity-time-type activity level 4; 12 or more occasions of a mix of moderate and vigorous activity in 4 weeks (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FITT activity level 4; 12+ occas of mod/vig activit in 4 wks",
+          "lang": "en"
+        },
+        "id": "160650001"
+      }
+    },
+    {
+      "term": "A minor variant of autosomal recessive congenital ichthyosis with manifestation of a collodion membrane at birth that heals within the first weeks of life. The exact prevalence is unknown. Approximately 25 cases have been reported in the literature. After the shedding of the membrane, patients present with mild scaling. Caused by mutations in the TGM1, ALOXE3 or ALOX12B genes encoding respectively transglutaminase 1, involved in the cornification of the stratum corneum, and arachidonate 3 and 12(R) lipoxygenases involved in lipid metabolism. Transmission is autosomal recessive.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "718632004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Self-healing collodion baby (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Self-healing collodion baby",
+          "lang": "en"
+        },
+        "id": "718632004"
+      }
+    }
+  ]
+}

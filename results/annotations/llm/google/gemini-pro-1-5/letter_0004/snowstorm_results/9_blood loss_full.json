@@ -1,0 +1,491 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 19
+    },
+    "semanticTags": {
+      "observable entity": 8
+    },
+    "language": {
+      "en": 19
+    },
+    "membership": {
+      "1322291000000109": 8,
+      "900000000000497000": 8,
+      "733073007": 8
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 19,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 19,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Actual blood loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "250771004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Actual blood loss (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Actual blood loss",
+          "lang": "en"
+        },
+        "id": "250771004"
+      }
+    },
+    {
+      "term": "Blood loss status",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404999000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blood loss status (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood loss status",
+          "lang": "en"
+        },
+        "id": "404999000"
+      }
+    },
+    {
+      "term": "Blood loss in labor",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "364332008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blood loss in labor (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood loss in labor",
+          "lang": "en"
+        },
+        "id": "364332008"
+      }
+    },
+    {
+      "term": "Blood loss severity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404999000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blood loss status (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood loss status",
+          "lang": "en"
+        },
+        "id": "404999000"
+      }
+    },
+    {
+      "term": "Blood loss in labour",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "364332008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blood loss in labor (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood loss in labor",
+          "lang": "en"
+        },
+        "id": "364332008"
+      }
+    },
+    {
+      "term": "Estimated blood loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409084000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Estimated blood loss (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estimated blood loss",
+          "lang": "en"
+        },
+        "id": "409084000"
+      }
+    },
+    {
+      "term": "Quantity of blood loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404999000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blood loss status (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood loss status",
+          "lang": "en"
+        },
+        "id": "404999000"
+      }
+    },
+    {
+      "term": "Estimated maternal blood loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409086003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Estimated maternal blood loss (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estimated maternal blood loss",
+          "lang": "en"
+        },
+        "id": "409086003"
+      }
+    },
+    {
+      "term": "Quantity of maternal blood loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409085004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Quantity of maternal blood loss (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Quantity of maternal blood loss",
+          "lang": "en"
+        },
+        "id": "409085004"
+      }
+    },
+    {
+      "term": "Quantity of menstrual blood loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "364308001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Quantity of menstrual blood loss (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Quantity of menstrual blood loss",
+          "lang": "en"
+        },
+        "id": "364308001"
+      }
+    },
+    {
+      "term": "Actual blood loss (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "250771004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Actual blood loss (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Actual blood loss",
+          "lang": "en"
+        },
+        "id": "250771004"
+      }
+    },
+    {
+      "term": "Blood loss status (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404999000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blood loss status (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood loss status",
+          "lang": "en"
+        },
+        "id": "404999000"
+      }
+    },
+    {
+      "term": "Blood loss in labor (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "364332008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blood loss in labor (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blood loss in labor",
+          "lang": "en"
+        },
+        "id": "364332008"
+      }
+    },
+    {
+      "term": "Estimated blood loss (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409084000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Estimated blood loss (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estimated blood loss",
+          "lang": "en"
+        },
+        "id": "409084000"
+      }
+    },
+    {
+      "term": "Quantity of postpartum maternal blood loss",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719051004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Quantity of postpartum maternal blood loss (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Quantity of postpartum maternal blood loss",
+          "lang": "en"
+        },
+        "id": "719051004"
+      }
+    },
+    {
+      "term": "Estimated maternal blood loss (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409086003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Estimated maternal blood loss (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Estimated maternal blood loss",
+          "lang": "en"
+        },
+        "id": "409086003"
+      }
+    },
+    {
+      "term": "Quantity of maternal blood loss (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "409085004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Quantity of maternal blood loss (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Quantity of maternal blood loss",
+          "lang": "en"
+        },
+        "id": "409085004"
+      }
+    },
+    {
+      "term": "Quantity of menstrual blood loss (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "364308001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Quantity of menstrual blood loss (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Quantity of menstrual blood loss",
+          "lang": "en"
+        },
+        "id": "364308001"
+      }
+    },
+    {
+      "term": "Quantity of postpartum maternal blood loss (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719051004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Quantity of postpartum maternal blood loss (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Quantity of postpartum maternal blood loss",
+          "lang": "en"
+        },
+        "id": "719051004"
+      }
+    }
+  ]
+}
