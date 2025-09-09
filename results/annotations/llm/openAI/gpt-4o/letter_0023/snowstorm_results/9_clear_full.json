@@ -1,0 +1,1206 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 29,
+      "999000041000000102": 6,
+      "900000000000207008": 121
+    },
+    "semanticTags": {
+      "observable entity": 57
+    },
+    "language": {
+      "en": 156
+    },
+    "membership": {
+      "1322291000000109": 57,
+      "1853551000000106": 8,
+      "900000000000497000": 41,
+      "733073007": 57,
+      "999002881000000100": 4
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1853551000000106": {
+      "conceptId": "1853551000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology and Laboratory Medicine observable entity simple reference set",
+        "lang": "en"
+      },
+      "id": "1853551000000106"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    }
+  },
+  "totalElements": 156,
+  "totalPages": 4,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Gas clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27421000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gas clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gas clearance",
+          "lang": "en"
+        },
+        "id": "27421000"
+      }
+    },
+    {
+      "term": "Throat clearing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "12239004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Throat clearing (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Throat clearing",
+          "lang": "en"
+        },
+        "id": "12239004"
+      }
+    },
+    {
+      "term": "Renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6635000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Renal clearance",
+          "lang": "en"
+        },
+        "id": "6635000"
+      }
+    },
+    {
+      "term": "Immune clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "42081005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Immune clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Immune clearance",
+          "lang": "en"
+        },
+        "id": "42081005"
+      }
+    },
+    {
+      "term": "Amylase clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1005581000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Amylase clearance (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Amylase clearance",
+          "lang": "en"
+        },
+        "id": "1005581000000106"
+      }
+    },
+    {
+      "term": "IgG clearance ratio",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "996061000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Immunoglobulin G clearance ratio (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "IgG clearance ratio",
+          "lang": "en"
+        },
+        "id": "996061000000109"
+      }
+    },
+    {
+      "term": "Free water clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "90760005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Free water clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Free water clearance",
+          "lang": "en"
+        },
+        "id": "90760005"
+      }
+    },
+    {
+      "term": "Urea renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102828003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urea renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urea renal clearance",
+          "lang": "en"
+        },
+        "id": "102828003"
+      }
+    },
+    {
+      "term": "Lung clearance index",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30367009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lung clearance index (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lung clearance index",
+          "lang": "en"
+        },
+        "id": "30367009"
+      }
+    },
+    {
+      "term": "Urate clearance test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1021831000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Urate clearance test (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urate clearance test",
+          "lang": "en"
+        },
+        "id": "1021831000000103"
+      }
+    },
+    {
+      "term": "Renin renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102824001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Renin renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Renin renal clearance",
+          "lang": "en"
+        },
+        "id": "102824001"
+      }
+    },
+    {
+      "term": "Urate renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102827008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urate renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urate renal clearance",
+          "lang": "en"
+        },
+        "id": "102827008"
+      }
+    },
+    {
+      "term": "Mucociliary clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63533009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mucociliary clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mucociliary clearance",
+          "lang": "en"
+        },
+        "id": "63533009"
+      }
+    },
+    {
+      "term": "Inulin renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102815005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inulin renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inulin renal clearance",
+          "lang": "en"
+        },
+        "id": "102815005"
+      }
+    },
+    {
+      "term": "Sodium renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102825000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sodium renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sodium renal clearance",
+          "lang": "en"
+        },
+        "id": "102825000"
+      }
+    },
+    {
+      "term": "Ability to clear chest",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289108001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ability to expectorate (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ability to expectorate",
+          "lang": "en"
+        },
+        "id": "289108001"
+      }
+    },
+    {
+      "term": "Albumin renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102804000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Albumin renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Albumin renal clearance",
+          "lang": "en"
+        },
+        "id": "102804000"
+      }
+    },
+    {
+      "term": "Amylase renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102806003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "alpha-Amylase renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "alpha-Amylase renal clearance",
+          "lang": "en"
+        },
+        "id": "102806003"
+      }
+    },
+    {
+      "term": "Calcium renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102810000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Calcium renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Calcium renal clearance",
+          "lang": "en"
+        },
+        "id": "102810000"
+      }
+    },
+    {
+      "term": "Insulin renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102814009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Insulin renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Insulin renal clearance",
+          "lang": "en"
+        },
+        "id": "102814009"
+      }
+    },
+    {
+      "term": "Lithium renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102818007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lithium renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lithium renal clearance",
+          "lang": "en"
+        },
+        "id": "102818007"
+      }
+    },
+    {
+      "term": "Oxalate renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102820005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Oxalate renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Oxalate renal clearance",
+          "lang": "en"
+        },
+        "id": "102820005"
+      }
+    },
+    {
+      "term": "Ability to clear sputum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248597000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ability to clear sputum (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ability to clear sputum",
+          "lang": "en"
+        },
+        "id": "248597000"
+      }
+    },
+    {
+      "term": "Net mean clearance rate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251862008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Net mean clearance rate (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Net mean clearance rate",
+          "lang": "en"
+        },
+        "id": "251862008"
+      }
+    },
+    {
+      "term": "Instantaneous clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251863003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Instantaneous clearance (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Instantaneous clearance",
+          "lang": "en"
+        },
+        "id": "251863003"
+      }
+    },
+    {
+      "term": "Gas clearance, function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27421000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gas clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gas clearance",
+          "lang": "en"
+        },
+        "id": "27421000"
+      }
+    },
+    {
+      "term": "Metabolic clearance rate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28771004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Metabolic clearance rate, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Metabolic clearance rate",
+          "lang": "en"
+        },
+        "id": "28771004"
+      }
+    },
+    {
+      "term": "Mannitol renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102819004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mannitol renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mannitol renal clearance",
+          "lang": "en"
+        },
+        "id": "102819004"
+      }
+    },
+    {
+      "term": "Bilirubin renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102808002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bilirubin renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilirubin renal clearance",
+          "lang": "en"
+        },
+        "id": "102808002"
+      }
+    },
+    {
+      "term": "Galactose renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102813003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Galactose renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Galactose renal clearance",
+          "lang": "en"
+        },
+        "id": "102813003"
+      }
+    },
+    {
+      "term": "Phosphate renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102822002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Phosphate renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Phosphate renal clearance",
+          "lang": "en"
+        },
+        "id": "102822002"
+      }
+    },
+    {
+      "term": "Potassium renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102823007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Potassium renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Potassium renal clearance",
+          "lang": "en"
+        },
+        "id": "102823007"
+      }
+    },
+    {
+      "term": "Peritoneal clearance rate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "251862008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Net mean clearance rate (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Net mean clearance rate",
+          "lang": "en"
+        },
+        "id": "251862008"
+      }
+    },
+    {
+      "term": "Renal clearance, function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6635000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Renal clearance",
+          "lang": "en"
+        },
+        "id": "6635000"
+      }
+    },
+    {
+      "term": "Creatinine clearance test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1015981000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Creatinine clearance test (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Creatinine clearance test",
+          "lang": "en"
+        },
+        "id": "1015981000000103"
+      }
+    },
+    {
+      "term": "Antipyrine renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102807007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Antipyrine renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Antipyrine renal clearance",
+          "lang": "en"
+        },
+        "id": "102807007"
+      }
+    },
+    {
+      "term": "Creatinine renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102811001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Creatinine renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Creatinine renal clearance",
+          "lang": "en"
+        },
+        "id": "102811001"
+      }
+    },
+    {
+      "term": "Immune clearance, function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "42081005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Immune clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Immune clearance",
+          "lang": "en"
+        },
+        "id": "42081005"
+      }
+    },
+    {
+      "term": "LCI - lung clearance index",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30367009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lung clearance index (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lung clearance index",
+          "lang": "en"
+        },
+        "id": "30367009"
+      }
+    },
+    {
+      "term": "Aldosterone renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102805004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Aldosterone renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Aldosterone renal clearance",
+          "lang": "en"
+        },
+        "id": "102805004"
+      }
+    },
+    {
+      "term": "Thiosulfate renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102826004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thiosulfate renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thiosulfate renal clearance",
+          "lang": "en"
+        },
+        "id": "102826004"
+      }
+    },
+    {
+      "term": "Iodohippuran renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102816006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Iodohippuran renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Iodohippuran renal clearance",
+          "lang": "en"
+        },
+        "id": "102816006"
+      }
+    },
+    {
+      "term": "Thiosulphate renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102826004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thiosulfate renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thiosulfate renal clearance",
+          "lang": "en"
+        },
+        "id": "102826004"
+      }
+    },
+    {
+      "term": "alpha-Amylase renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102806003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "alpha-Amylase renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "alpha-Amylase renal clearance",
+          "lang": "en"
+        },
+        "id": "102806003"
+      }
+    },
+    {
+      "term": "Ability to articulate clearly",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "286293005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ability to articulate clearly (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ability to articulate clearly",
+          "lang": "en"
+        },
+        "id": "286293005"
+      }
+    },
+    {
+      "term": "Cyanocobalamin renal clearance",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102812008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cyanocobalamin renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cyanocobalamin renal clearance",
+          "lang": "en"
+        },
+        "id": "102812008"
+      }
+    },
+    {
+      "term": "Free water clearance, function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "90760005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Free water clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Free water clearance",
+          "lang": "en"
+        },
+        "id": "90760005"
+      }
+    },
+    {
+      "term": "Urea renal clearance, function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102828003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urea renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urea renal clearance",
+          "lang": "en"
+        },
+        "id": "102828003"
+      }
+    },
+    {
+      "term": "Mucociliary clearance, function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63533009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mucociliary clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mucociliary clearance",
+          "lang": "en"
+        },
+        "id": "63533009"
+      }
+    },
+    {
+      "term": "Renin renal clearance, function",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102824001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Renin renal clearance, function (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Renin renal clearance",
+          "lang": "en"
+        },
+        "id": "102824001"
+      }
+    }
+  ]
+}

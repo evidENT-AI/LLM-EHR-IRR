@@ -1,0 +1,912 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 36
+    },
+    "semanticTags": {
+      "finding": 16
+    },
+    "language": {
+      "en": 36
+    },
+    "membership": {
+      "1322291000000109": 16,
+      "1127601000000107": 16,
+      "900000000000497000": 16,
+      "991401000000107": 1,
+      "733073007": 16,
+      "999002271000000101": 16,
+      "2222161000000102": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "991401000000107": {
+      "conceptId": "991401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care presenting complaints or issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care presenting complaints or issues simple reference set",
+        "lang": "en"
+      },
+      "id": "991401000000107"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "2222161000000102": {
+      "conceptId": "2222161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric ear, nose, throat and hearing disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222161000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 36,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 36,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Tinnitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60862001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tinnitus",
+          "lang": "en"
+        },
+        "id": "60862001"
+      }
+    },
+    {
+      "term": "Tonal tinnitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "866003005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonal tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonal tinnitus",
+          "lang": "en"
+        },
+        "id": "866003005"
+      }
+    },
+    {
+      "term": "Tinnitus aurium",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62452009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subjective tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subjective tinnitus",
+          "lang": "en"
+        },
+        "id": "62452009"
+      }
+    },
+    {
+      "term": "Nervous tinnitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95824009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nervous tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nervous tinnitus",
+          "lang": "en"
+        },
+        "id": "95824009"
+      }
+    },
+    {
+      "term": "Clicking tinnitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95822008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Clicking tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Clicking tinnitus",
+          "lang": "en"
+        },
+        "id": "95822008"
+      }
+    },
+    {
+      "term": "Objective tinnitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28715001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Objective tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Objective tinnitus",
+          "lang": "en"
+        },
+        "id": "28715001"
+      }
+    },
+    {
+      "term": "Vibratory tinnitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95826006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vibratory tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vibratory tinnitus",
+          "lang": "en"
+        },
+        "id": "95826006"
+      }
+    },
+    {
+      "term": "Tinnitus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "60862001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tinnitus",
+          "lang": "en"
+        },
+        "id": "60862001"
+      }
+    },
+    {
+      "term": "Bilateral tinnitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4831000119102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bilateral tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral tinnitus",
+          "lang": "en"
+        },
+        "id": "4831000119102"
+      }
+    },
+    {
+      "term": "Subjective tinnitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62452009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subjective tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subjective tinnitus",
+          "lang": "en"
+        },
+        "id": "62452009"
+      }
+    },
+    {
+      "term": "Non-vibratory tinnitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95825005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-vibratory tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-vibratory tinnitus",
+          "lang": "en"
+        },
+        "id": "95825005"
+      }
+    },
+    {
+      "term": "Observation of tinnitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "162349004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Noises in ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Noises in ear",
+          "lang": "en"
+        },
+        "id": "162349004"
+      }
+    },
+    {
+      "term": "Tonal tinnitus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "866003005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tonal tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tonal tinnitus",
+          "lang": "en"
+        },
+        "id": "866003005"
+      }
+    },
+    {
+      "term": "Nervous tinnitus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95824009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nervous tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nervous tinnitus",
+          "lang": "en"
+        },
+        "id": "95824009"
+      }
+    },
+    {
+      "term": "Clicking tinnitus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95822008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Clicking tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Clicking tinnitus",
+          "lang": "en"
+        },
+        "id": "95822008"
+      }
+    },
+    {
+      "term": "Objective tinnitus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "28715001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Objective tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Objective tinnitus",
+          "lang": "en"
+        },
+        "id": "28715001"
+      }
+    },
+    {
+      "term": "Vibratory tinnitus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95826006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vibratory tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vibratory tinnitus",
+          "lang": "en"
+        },
+        "id": "95826006"
+      }
+    },
+    {
+      "term": "Bilateral tinnitus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4831000119102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bilateral tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral tinnitus",
+          "lang": "en"
+        },
+        "id": "4831000119102"
+      }
+    },
+    {
+      "term": "Subjective tinnitus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62452009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subjective tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subjective tinnitus",
+          "lang": "en"
+        },
+        "id": "62452009"
+      }
+    },
+    {
+      "term": "Objective tinnitus of left ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1089271000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Objective tinnitus of left ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Objective tinnitus of left ear",
+          "lang": "en"
+        },
+        "id": "1089271000119104"
+      }
+    },
+    {
+      "term": "Objective tinnitus of right ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1091881000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Objective tinnitus of right ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Objective tinnitus of right ear",
+          "lang": "en"
+        },
+        "id": "1091881000119100"
+      }
+    },
+    {
+      "term": "Objective tinnitus of both ears",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1084201000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Objective tinnitus of bilateral ears (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral objective tinnitus of ears",
+          "lang": "en"
+        },
+        "id": "1084201000119108"
+      }
+    },
+    {
+      "term": "Subjective tinnitus of left ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1089631000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subjective tinnitus of left ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subjective tinnitus of left ear",
+          "lang": "en"
+        },
+        "id": "1089631000119100"
+      }
+    },
+    {
+      "term": "Non-vibratory tinnitus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95825005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-vibratory tinnitus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-vibratory tinnitus",
+          "lang": "en"
+        },
+        "id": "95825005"
+      }
+    },
+    {
+      "term": "Subjective tinnitus of right ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1092241000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subjective tinnitus of right ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subjective tinnitus of right ear",
+          "lang": "en"
+        },
+        "id": "1092241000119104"
+      }
+    },
+    {
+      "term": "Subjective tinnitus of both ears",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1084631000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subjective tinnitus of bilateral ears (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral subjective tinnitus of ears",
+          "lang": "en"
+        },
+        "id": "1084631000119104"
+      }
+    },
+    {
+      "term": "Objective tinnitus of bilateral ears",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1084201000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Objective tinnitus of bilateral ears (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral objective tinnitus of ears",
+          "lang": "en"
+        },
+        "id": "1084201000119108"
+      }
+    },
+    {
+      "term": "Bilateral objective tinnitus of ears",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1084201000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Objective tinnitus of bilateral ears (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral objective tinnitus of ears",
+          "lang": "en"
+        },
+        "id": "1084201000119108"
+      }
+    },
+    {
+      "term": "Subjective tinnitus of bilateral ears",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1084631000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subjective tinnitus of bilateral ears (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral subjective tinnitus of ears",
+          "lang": "en"
+        },
+        "id": "1084631000119104"
+      }
+    },
+    {
+      "term": "Bilateral subjective tinnitus of ears",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1084631000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subjective tinnitus of bilateral ears (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral subjective tinnitus of ears",
+          "lang": "en"
+        },
+        "id": "1084631000119104"
+      }
+    },
+    {
+      "term": "Objective tinnitus of left ear (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1089271000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Objective tinnitus of left ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Objective tinnitus of left ear",
+          "lang": "en"
+        },
+        "id": "1089271000119104"
+      }
+    },
+    {
+      "term": "Objective tinnitus of right ear (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1091881000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Objective tinnitus of right ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Objective tinnitus of right ear",
+          "lang": "en"
+        },
+        "id": "1091881000119100"
+      }
+    },
+    {
+      "term": "Subjective tinnitus of left ear (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1089631000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subjective tinnitus of left ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subjective tinnitus of left ear",
+          "lang": "en"
+        },
+        "id": "1089631000119100"
+      }
+    },
+    {
+      "term": "Subjective tinnitus of right ear (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1092241000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subjective tinnitus of right ear (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Subjective tinnitus of right ear",
+          "lang": "en"
+        },
+        "id": "1092241000119104"
+      }
+    },
+    {
+      "term": "Objective tinnitus of bilateral ears (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1084201000119108",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Objective tinnitus of bilateral ears (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral objective tinnitus of ears",
+          "lang": "en"
+        },
+        "id": "1084201000119108"
+      }
+    },
+    {
+      "term": "Subjective tinnitus of bilateral ears (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1084631000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Subjective tinnitus of bilateral ears (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral subjective tinnitus of ears",
+          "lang": "en"
+        },
+        "id": "1084631000119104"
+      }
+    }
+  ]
+}

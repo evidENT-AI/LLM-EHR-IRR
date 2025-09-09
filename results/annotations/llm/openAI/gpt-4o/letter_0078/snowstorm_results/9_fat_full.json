@@ -1,0 +1,1462 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "999000041000000102": 2,
+      "900000000000207008": 285
+    },
+    "semanticTags": {
+      "finding": 116
+    },
+    "language": {
+      "en": 291
+    },
+    "membership": {
+      "1322291000000109": 115,
+      "999004341000000106": 4,
+      "999004331000000102": 2,
+      "1127601000000107": 111,
+      "999003161000000108": 4,
+      "1382531000000102": 2,
+      "1382541000000106": 1,
+      "2222211000000107": 1,
+      "1128991000000109": 7,
+      "999002271000000101": 94,
+      "1128791000000106": 2,
+      "900000000000489007": 1,
+      "1382501000000108": 27,
+      "999002061000000102": 3,
+      "999002571000000104": 5,
+      "1027891000000106": 1,
+      "900000000000497000": 114,
+      "2181121000000105": 1,
+      "999002051000000100": 1,
+      "733073007": 116,
+      "1127521000000104": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "999004341000000106": {
+      "conceptId": "999004341000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999004341000000106"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "1382541000000106": {
+      "conceptId": "1382541000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care sickness absence category simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care sickness absence category simple reference set",
+        "lang": "en"
+      },
+      "id": "1382541000000106"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "2222211000000107": {
+      "conceptId": "2222211000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric general findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric general findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2222211000000107"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "1128791000000106": {
+      "conceptId": "1128791000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional biochemistry and haematology interpretation findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional biochemistry and haematology interpretation findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128791000000106"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "1382501000000108": {
+      "conceptId": "1382501000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Dietary requirement findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Dietary requirement findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1382501000000108"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "1027891000000106": {
+      "conceptId": "1027891000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Household composition findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Household composition findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1027891000000106"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "2181121000000105": {
+      "conceptId": "2181121000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric behaviour, emotions, mental health and substance use findings simple reference set",
+        "lang": "en"
+      },
+      "id": "2181121000000105"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "1127521000000104": {
+      "conceptId": "1127521000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Subject is carer findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Subject is carer findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127521000000104"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    }
+  },
+  "totalElements": 291,
+  "totalPages": 6,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Fatigue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "84229001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fatigue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fatigue",
+          "lang": "en"
+        },
+        "id": "84229001"
+      }
+    },
+    {
+      "term": "Fat diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71809002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fat diet",
+          "lang": "en"
+        },
+        "id": "71809002"
+      }
+    },
+    {
+      "term": "Fat build",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271590003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obese build (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obese build",
+          "lang": "en"
+        },
+        "id": "271590003"
+      }
+    },
+    {
+      "term": "Fatty stool",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66187002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fatty stool (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fatty stool",
+          "lang": "en"
+        },
+        "id": "66187002"
+      }
+    },
+    {
+      "term": "Low fat diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16208003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Low fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Low fat diet",
+          "lang": "en"
+        },
+        "id": "16208003"
+      }
+    },
+    {
+      "term": "Fatigability",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79915001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fatigability (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fatigability",
+          "lang": "en"
+        },
+        "id": "79915001"
+      }
+    },
+    {
+      "term": "Vocal fatigue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8614008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vocal fatigue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vocal fatigue",
+          "lang": "en"
+        },
+        "id": "8614008"
+      }
+    },
+    {
+      "term": "High fat diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "226097005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "High fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "High fat diet",
+          "lang": "en"
+        },
+        "id": "226097005"
+      }
+    },
+    {
+      "term": "Voice fatigue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "8614008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vocal fatigue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vocal fatigue",
+          "lang": "en"
+        },
+        "id": "8614008"
+      }
+    },
+    {
+      "term": "Muscle fatigue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "80449002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Muscle fatigue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Muscle fatigue",
+          "lang": "en"
+        },
+        "id": "80449002"
+      }
+    },
+    {
+      "term": "Fecal fat level",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "365797009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of fecal fat level (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fecal fat level - finding",
+          "lang": "en"
+        },
+        "id": "365797009"
+      }
+    },
+    {
+      "term": "30 gram fat diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "21941007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "30 gram fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "30 gram fat diet",
+          "lang": "en"
+        },
+        "id": "21941007"
+      }
+    },
+    {
+      "term": "70 gram fat diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49139000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "70 gram fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "70 gram fat diet",
+          "lang": "en"
+        },
+        "id": "49139000"
+      }
+    },
+    {
+      "term": "50 gram fat diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62682007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "50 gram fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "50 gram fat diet",
+          "lang": "en"
+        },
+        "id": "62682007"
+      }
+    },
+    {
+      "term": "Minimal fat diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "226110009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Minimal fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Minimal fat diet",
+          "lang": "en"
+        },
+        "id": "226110009"
+      }
+    },
+    {
+      "term": "Fecal fat normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "167648007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fecal fat within reference range (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fecal fat within reference range",
+          "lang": "en"
+        },
+        "id": "167648007"
+      }
+    },
+    {
+      "term": "Loss of body fat",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248314009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of loss of body fat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Loss of body fat - finding",
+          "lang": "en"
+        },
+        "id": "248314009"
+      }
+    },
+    {
+      "term": "Faecal fat level",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "365797009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Finding of fecal fat level (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fecal fat level - finding",
+          "lang": "en"
+        },
+        "id": "365797009"
+      }
+    },
+    {
+      "term": "Body fat finding",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "366319001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Body fat finding (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Body fat finding",
+          "lang": "en"
+        },
+        "id": "366319001"
+      }
+    },
+    {
+      "term": "Fat exchange list",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "14895001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fat exchange list (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fat exchange list",
+          "lang": "en"
+        },
+        "id": "14895001"
+      }
+    },
+    {
+      "term": "Lives with father",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224140008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lives with father (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lives with father",
+          "lang": "en"
+        },
+        "id": "224140008"
+      }
+    },
+    {
+      "term": "Very low fat diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "226109004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Very low fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Very low fat diet",
+          "lang": "en"
+        },
+        "id": "226109004"
+      }
+    },
+    {
+      "term": "Faecal fat normal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "167648007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fecal fat within reference range (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fecal fat within reference range",
+          "lang": "en"
+        },
+        "id": "167648007"
+      }
+    },
+    {
+      "term": "Modified fat diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39980005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fat controlled diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fat controlled diet",
+          "lang": "en"
+        },
+        "id": "39980005"
+      }
+    },
+    {
+      "term": "Fatigue (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "84229001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fatigue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fatigue",
+          "lang": "en"
+        },
+        "id": "84229001"
+      }
+    },
+    {
+      "term": "LF - Low fat diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16208003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Low fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Low fat diet",
+          "lang": "en"
+        },
+        "id": "16208003"
+      }
+    },
+    {
+      "term": "Diet - low in fat",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16208003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Low fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Low fat diet",
+          "lang": "en"
+        },
+        "id": "16208003"
+      }
+    },
+    {
+      "term": "HF - High fat diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "226097005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "High fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "High fat diet",
+          "lang": "en"
+        },
+        "id": "226097005"
+      }
+    },
+    {
+      "term": "Excess orbital fat",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "246838007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excess orbital fat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excess orbital fat",
+          "lang": "en"
+        },
+        "id": "246838007"
+      }
+    },
+    {
+      "term": "Deserted by father",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307101004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deserted by father (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deserted by father",
+          "lang": "en"
+        },
+        "id": "307101004"
+      }
+    },
+    {
+      "term": "Has teenage father",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307103001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Has teenage father (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has teenage father",
+          "lang": "en"
+        },
+        "id": "307103001"
+      }
+    },
+    {
+      "term": "Has elderly father",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309680006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Has elderly father (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has elderly father",
+          "lang": "en"
+        },
+        "id": "309680006"
+      }
+    },
+    {
+      "term": "Fat diet (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "71809002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fat diet",
+          "lang": "en"
+        },
+        "id": "71809002"
+      }
+    },
+    {
+      "term": "LFD - Low fat diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16208003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Low fat diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Low fat diet",
+          "lang": "en"
+        },
+        "id": "16208003"
+      }
+    },
+    {
+      "term": "Urinary cast, fatty",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102841004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Urinary cast, fatty (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Urinary cast, fatty",
+          "lang": "en"
+        },
+        "id": "102841004"
+      }
+    },
+    {
+      "term": "Fat controlled diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39980005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fat controlled diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fat controlled diet",
+          "lang": "en"
+        },
+        "id": "39980005"
+      }
+    },
+    {
+      "term": "Malaise and fatigue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271795006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Malaise and fatigue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Malaise and fatigue",
+          "lang": "en"
+        },
+        "id": "271795006"
+      }
+    },
+    {
+      "term": "Fecal fat excessive",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "167649004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fecal fat excessive (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fecal fat excessive",
+          "lang": "en"
+        },
+        "id": "167649004"
+      }
+    },
+    {
+      "term": "Urine: fat globules",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102848005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fat globules in urine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fat globules in urine",
+          "lang": "en"
+        },
+        "id": "102848005"
+      }
+    },
+    {
+      "term": "Increase in body fat",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248301008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Increase in body fat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Increase in body fat",
+          "lang": "en"
+        },
+        "id": "248301008"
+      }
+    },
+    {
+      "term": "Fear of becoming fat",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247824007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fear of becoming fat (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fear of becoming fat",
+          "lang": "en"
+        },
+        "id": "247824007"
+      }
+    },
+    {
+      "term": "Faecal fat excessive",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "167649004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fecal fat excessive (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fecal fat excessive",
+          "lang": "en"
+        },
+        "id": "167649004"
+      }
+    },
+    {
+      "term": "Excessive fat intake",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "846619006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excessive intake of fat and oil (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Excessive fat intake",
+          "lang": "en"
+        },
+        "id": "846619006"
+      }
+    },
+    {
+      "term": "Rapid fatigue of gait",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "250002000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rapid fatigue of gait (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rapid fatigue of gait",
+          "lang": "en"
+        },
+        "id": "250002000"
+      }
+    },
+    {
+      "term": "Fat globules in urine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "102848005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fat globules in urine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fat globules in urine",
+          "lang": "en"
+        },
+        "id": "102848005"
+      }
+    },
+    {
+      "term": "Fatty stool (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66187002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fatty stool (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fatty stool",
+          "lang": "en"
+        },
+        "id": "66187002"
+      }
+    },
+    {
+      "term": "Staff member fatigued",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398051009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Staff member fatigued (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Staff member fatigued",
+          "lang": "en"
+        },
+        "id": "398051009"
+      }
+    },
+    {
+      "term": "Fatigue during eating",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1217377009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Difficulty eating due to fatigue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Difficulty eating due to fatigue",
+          "lang": "en"
+        },
+        "id": "1217377009"
+      }
+    },
+    {
+      "term": "Inadequate fat intake",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "880110002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inadequate intake of fat and oil (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inadequate intake of fat and oil",
+          "lang": "en"
+        },
+        "id": "880110002"
+      }
+    },
+    {
+      "term": "Post-exertion fatigue",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "444042007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Excessive postexertional fatigue (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Postexertional fatigue",
+          "lang": "en"
+        },
+        "id": "444042007"
+      }
+    }
+  ]
+}

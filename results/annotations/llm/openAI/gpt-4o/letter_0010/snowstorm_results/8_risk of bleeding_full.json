@@ -1,0 +1,591 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 9,
+      "900000000000207008": 10
+    },
+    "semanticTags": {
+      "disorder": 2,
+      "assessment scale": 1,
+      "observable entity": 1,
+      "procedure": 1,
+      "finding": 2
+    },
+    "language": {
+      "en": 19
+    },
+    "membership": {
+      "1322291000000109": 7,
+      "1127601000000107": 4,
+      "1382531000000102": 2,
+      "999003161000000108": 1,
+      "900000000000497000": 4,
+      "733073007": 7,
+      "999002271000000101": 2,
+      "900000000000489007": 3
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 19,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 19,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "At increased risk of bleeding from aspirin therapy",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427026001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of bleeding from aspirin therapy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of bleeding from aspirin therapy",
+          "lang": "en"
+        },
+        "id": "427026001"
+      }
+    },
+    {
+      "term": "At increased risk of bleeding from aspirin therapy (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "427026001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of bleeding from aspirin therapy (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of bleeding from aspirin therapy",
+          "lang": "en"
+        },
+        "id": "427026001"
+      }
+    },
+    {
+      "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metabolizer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1144302003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metabolizer (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metabolizer",
+          "lang": "en"
+        },
+        "id": "1144302003"
+      }
+    },
+    {
+      "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metaboliser",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1144302003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metabolizer (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metabolizer",
+          "lang": "en"
+        },
+        "id": "1144302003"
+      }
+    },
+    {
+      "term": "Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1362851000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score",
+          "lang": "en"
+        },
+        "id": "1362851000000109"
+      }
+    },
+    {
+      "term": "Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1362861000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score",
+          "lang": "en"
+        },
+        "id": "1362861000000107"
+      }
+    },
+    {
+      "term": "At high risk of bleeding due to VKORC1 (vitamin K epoxide reductase complex 1) rapid metabolizer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1144302003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metabolizer (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metabolizer",
+          "lang": "en"
+        },
+        "id": "1144302003"
+      }
+    },
+    {
+      "term": "At high risk of bleeding due to VKORC1 (vitamin K epoxide reductase complex 1) rapid metaboliser",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1144302003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metabolizer (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metabolizer",
+          "lang": "en"
+        },
+        "id": "1144302003"
+      }
+    },
+    {
+      "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metabolizer (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1144302003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metabolizer (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At high risk of bleeding due to vitamin K epoxide reductase complex 1 rapid metabolizer",
+          "lang": "en"
+        },
+        "id": "1144302003"
+      }
+    },
+    {
+      "term": "ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1362851000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score",
+          "lang": "en"
+        },
+        "id": "1362851000000109"
+      }
+    },
+    {
+      "term": "ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1362861000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score",
+          "lang": "en"
+        },
+        "id": "1362861000000107"
+      }
+    },
+    {
+      "term": "Assessment using Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1362841000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Assessment using Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment using ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score",
+          "lang": "en"
+        },
+        "id": "1362841000000106"
+      }
+    },
+    {
+      "term": "Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score (assessment scale)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1362851000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score",
+          "lang": "en"
+        },
+        "id": "1362851000000109"
+      }
+    },
+    {
+      "term": "Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1362861000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score",
+          "lang": "en"
+        },
+        "id": "1362861000000107"
+      }
+    },
+    {
+      "term": "Assessment using ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1362841000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Assessment using Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment using ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score",
+          "lang": "en"
+        },
+        "id": "1362841000000106"
+      }
+    },
+    {
+      "term": "Assessment using Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1362841000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Assessment using Outcomes Registry for Better Informed Treatment of Atrial Fibrillation bleeding risk score (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Assessment using ORBIT-AF (Outcomes Registry for Better Informed Treatment of Atrial Fibrillation) bleeding risk score",
+          "lang": "en"
+        },
+        "id": "1362841000000106"
+      }
+    },
+    {
+      "term": "A rare malignant hematologic disease characterized by clonal proliferation of myeloid blasts, primarily involving the bone marrow, in association with congenital disorders (e.g. Fanconi anemia, dyskeratosis congenita, Bloom syndrome, Down syndrome, congenital neutropenia, neurofibromatosis) and genetic defects predisposing to acute myeloid leukemia. Patients present with signs and symptoms related to ineffective hematopoesis (fatigue, bleeding and bruising, recurrent infections, bone pain) and/or extramedullary site involvement (gingivitis, splenomegaly). Depending on the underlying genetic defect, there may be additional cancer risks and other health problems present.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "764940002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inherited acute myeloid leukemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inherited acute myeloid leukemia",
+          "lang": "en"
+        },
+        "id": "764940002"
+      }
+    },
+    {
+      "term": "A bleeding disorder associated with a decreased ability to form blood clots resulting in increased risk of epistaxis, heavy or prolonged bleeding following minor injury or surgery, ecchymosis and menorrhagia. The disease can be caused by mutations in the GP6 gene, leading to the production of no glycoprotein VI (GPVI) protein, an abnormally short, nonfunctional GPVI protein; or a protein that is less able to bind to collagen. Without GPVI binding to collagen, platelets cannot come together efficiently to form a clot. The disease may also be acquired rather than inherited and such cases are associated with autoimmune disorders such as systemic lupus erythematosus (SLE).",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "765977002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bleeding disorder due to glycoprotein VI deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glycoprotein VI deficiency",
+          "lang": "en"
+        },
+        "id": "765977002"
+      }
+    },
+    {
+      "term": "A rare malignant haematologic disease characterised by clonal proliferation of myeloid blasts, primarily involving the bone marrow, in association with congenital disorders (e.g. Fanconi anemia, dyskeratosis congenita, Bloom syndrome, Down syndrome, congenital neutropenia, neurofibromatosis) and genetic defects predisposing to acute myeloid leukaemia. Patients present with signs and symptoms related to ineffective haematopoesis (fatigue, bleeding and bruising, recurrent infections, bone pain) and/or extramedullary site involvement (gingivitis, splenomegaly). Depending on the underlying genetic defect, there may be additional cancer risks and other health problems present.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "764940002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inherited acute myeloid leukemia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inherited acute myeloid leukemia",
+          "lang": "en"
+        },
+        "id": "764940002"
+      }
+    }
+  ]
+}

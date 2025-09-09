@@ -1,0 +1,2099 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000001104": 105,
+      "999000021000001108": 10,
+      "999000011000000103": 508,
+      "999000041000000102": 14,
+      "900000000000207008": 2249
+    },
+    "semanticTags": {
+      "regime/therapy": 12,
+      "product": 4,
+      "occupation": 2,
+      "assessment scale": 27,
+      "observable entity": 53,
+      "procedure": 114,
+      "finding": 65,
+      "qualifier value": 10,
+      "foundation metadata concept": 5,
+      "disorder": 668,
+      "environment": 3,
+      "physical object": 65,
+      "situation": 71,
+      "record artifact": 8
+    },
+    "language": {
+      "en": 2886
+    },
+    "membership": {
+      "2181161000000102": 2,
+      "999003161000000108": 2,
+      "1127551000000109": 8,
+      "999002271000000101": 2438,
+      "999002651000000107": 1,
+      "1382501000000108": 3,
+      "999002571000000104": 1,
+      "991451000000108": 1,
+      "900000000000497000": 823,
+      "999001761000000108": 29,
+      "999001471000000108": 5,
+      "1323831000000101": 1,
+      "1382401000000109": 10,
+      "991411000000109": 8,
+      "1127601000000107": 803,
+      "999000031000001105": 64,
+      "1127541000000106": 1,
+      "999000541000001108": 31,
+      "999002661000000105": 1,
+      "2181151000000100": 12,
+      "1128991000000109": 2,
+      "999002911000000100": 2,
+      "82551000000107": 1,
+      "2222221000000101": 3,
+      "991311000000100": 1,
+      "1128731000000105": 1,
+      "999000401000000107": 65,
+      "999002051000000100": 5,
+      "1323341000000102": 4,
+      "733073007": 1039,
+      "991381000000107": 2,
+      "999002941000000104": 5,
+      "900000000000456007": 5,
+      "999002881000000100": 2,
+      "999001751000000105": 5,
+      "1322291000000109": 1101,
+      "999004331000000102": 19,
+      "1127531000000102": 4,
+      "999002901000000102": 2,
+      "999000551000001106": 33,
+      "2181181000000106": 12,
+      "226191000001107": 2,
+      "1323331000000106": 1,
+      "999002671000000103": 1,
+      "2181221000000101": 1,
+      "999002641000000109": 1,
+      "999002451000000109": 1,
+      "71681000000103": 2,
+      "999002631000000100": 1,
+      "1382531000000102": 509,
+      "999001061000000106": 51,
+      "999001571000000109": 1,
+      "900000000000489007": 89,
+      "999002001000000101": 3,
+      "1128781000000109": 1,
+      "999002061000000102": 1,
+      "966261000000100": 5,
+      "30931000001101": 4
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "2181161000000102": {
+      "conceptId": "2181161000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric eyes and vision disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric eyes and vision disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181161000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999002651000000107": {
+      "conceptId": "999002651000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure impairment scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure impairment scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002651000000107"
+    },
+    "1382501000000108": {
+      "conceptId": "1382501000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Dietary requirement findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Dietary requirement findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1382501000000108"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "991451000000108": {
+      "conceptId": "991451000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care referral procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care referral procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991451000000108"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "999001471000000108": {
+      "conceptId": "999001471000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Care plan type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Care plan type simple reference set",
+        "lang": "en"
+      },
+      "id": "999001471000000108"
+    },
+    "1323831000000101": {
+      "conceptId": "1323831000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Improving Access to Psychological Therapies assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "IAPT (Improving Access to Psychological Therapies) assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "1323831000000101"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1127541000000106": {
+      "conceptId": "1127541000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Specialities simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Specialities simple reference set",
+        "lang": "en"
+      },
+      "id": "1127541000000106"
+    },
+    "999000031000001105": {
+      "conceptId": "999000031000001105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Manufactured material simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Manufactured material simple reference set",
+        "lang": "en"
+      },
+      "id": "999000031000001105"
+    },
+    "999000541000001108": {
+      "conceptId": "999000541000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product simple reference set",
+        "lang": "en"
+      },
+      "id": "999000541000001108"
+    },
+    "999002661000000105": {
+      "conceptId": "999002661000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure participation scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure participation scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002661000000105"
+    },
+    "2181151000000100": {
+      "conceptId": "2181151000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric endocrine and metabolic disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181151000000100"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "999002911000000100": {
+      "conceptId": "999002911000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Podiatric assessment procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Podiatric assessment procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "999002911000000100"
+    },
+    "82551000000107": {
+      "conceptId": "82551000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service England National Genomic Test Directory whole genome sequencing test simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS England National Genomic Test Directory WGS (whole genome sequencing) test simple map reference set",
+        "lang": "en"
+      },
+      "id": "82551000000107"
+    },
+    "2222221000000101": {
+      "conceptId": "2222221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric perinatal and neonatal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric perinatal and neonatal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222221000000101"
+    },
+    "991311000000100": {
+      "conceptId": "991311000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Early intervention in psychosis procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Early intervention in psychosis procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "991311000000100"
+    },
+    "1128731000000105": {
+      "conceptId": "1128731000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional assessment scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional assessment scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "1128731000000105"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "999002051000000100": {
+      "conceptId": "999002051000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language related findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language related findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002051000000100"
+    },
+    "1323341000000102": {
+      "conceptId": "1323341000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Treatment Function services for England simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Treatment Function services for England simple reference set",
+        "lang": "en"
+      },
+      "id": "1323341000000102"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000021000001108": {
+      "conceptId": "999000021000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension reference set module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension reference set module",
+        "lang": "en"
+      },
+      "id": "999000021000001108"
+    },
+    "991381000000107": {
+      "conceptId": "991381000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Comorbid conditions for selection simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Comorbid conditions for selection simple reference set",
+        "lang": "en"
+      },
+      "id": "991381000000107"
+    },
+    "999002941000000104": {
+      "conceptId": "999002941000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Podiatric health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Podiatric health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999002941000000104"
+    },
+    "900000000000456007": {
+      "conceptId": "900000000000456007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Reference set descriptor reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Reference set descriptor",
+        "lang": "en"
+      },
+      "id": "900000000000456007"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    },
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127531000000102": {
+      "conceptId": "1127531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Services simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Services simple reference set",
+        "lang": "en"
+      },
+      "id": "1127531000000102"
+    },
+    "999002901000000102": {
+      "conceptId": "999002901000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Podiatric assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Podiatric assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002901000000102"
+    },
+    "226191000001107": {
+      "conceptId": "226191000001107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Diabetes Audit general practice extraction - glucose monitoring strips simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Diabetes Audit general practice extraction - glucose monitoring strips simple reference set",
+        "lang": "en"
+      },
+      "id": "226191000001107"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "999000551000001106": {
+      "conceptId": "999000551000001106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Health Service dictionary of medicines and devices actual medicinal product pack simple reference set",
+        "lang": "en"
+      },
+      "id": "999000551000001106"
+    },
+    "999002671000000103": {
+      "conceptId": "999002671000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure wellbeing scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure wellbeing scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002671000000103"
+    },
+    "2181221000000101": {
+      "conceptId": "2181221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric respiratory disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric respiratory disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181221000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002641000000109": {
+      "conceptId": "999002641000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure carer wellbeing scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure carer wellbeing scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002641000000109"
+    },
+    "999002451000000109": {
+      "conceptId": "999002451000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Orthoptic assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Orthoptic assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002451000000109"
+    },
+    "71681000000103": {
+      "conceptId": "71681000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service England National Genomic Test Directory whole genome sequencing test simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS England National Genomic Test Directory WGS (whole genome sequencing) test simple reference set",
+        "lang": "en"
+      },
+      "id": "71681000000103"
+    },
+    "999002631000000100": {
+      "conceptId": "999002631000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Therapy Outcome Measure activity scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Therapy Outcome Measure activity scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002631000000100"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999000011000001104": {
+      "conceptId": "999000011000001104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension module",
+        "lang": "en"
+      },
+      "id": "999000011000001104"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999002001000000101": {
+      "conceptId": "999002001000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Current care provider findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Current care provider findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002001000000101"
+    },
+    "1128781000000109": {
+      "conceptId": "1128781000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional assessment scale procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional assessment scale procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "1128781000000109"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "966261000000100": {
+      "conceptId": "966261000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Speech and language therapy assessment observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Speech and language therapy assessment observables simple reference set",
+        "lang": "en"
+      },
+      "id": "966261000000100"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    }
+  },
+  "totalElements": 2886,
+  "totalPages": 58,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Pre-diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "858301000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Pre-diabetes (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pre-diabetes",
+          "lang": "en"
+        },
+        "id": "858301000000107"
+      }
+    },
+    {
+      "term": "Diabetes type",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405751000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes type (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes type",
+          "lang": "en"
+        },
+        "id": "405751000"
+      }
+    },
+    {
+      "term": "Latent diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9414007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Impaired glucose tolerance (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Impaired glucose tolerance",
+          "lang": "en"
+        },
+        "id": "9414007"
+      }
+    },
+    {
+      "term": "Labile diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11530004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Brittle diabetes mellitus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Brittle diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "11530004"
+      }
+    },
+    {
+      "term": "Diabetes clinic",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "702706001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes clinic (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes clinic",
+          "lang": "en"
+        },
+        "id": "702706001"
+      }
+    },
+    {
+      "term": "Bronze diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "399144008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bronze diabetes (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bronze diabetes",
+          "lang": "en"
+        },
+        "id": "399144008"
+      }
+    },
+    {
+      "term": "Brittle diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11530004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Brittle diabetes mellitus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Brittle diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "11530004"
+      }
+    },
+    {
+      "term": "Bronzed diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "399144008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bronze diabetes (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bronze diabetes",
+          "lang": "en"
+        },
+        "id": "399144008"
+      }
+    },
+    {
+      "term": "Chemical diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9414007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Impaired glucose tolerance (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Impaired glucose tolerance",
+          "lang": "en"
+        },
+        "id": "9414007"
+      }
+    },
+    {
+      "term": "Diabetes mellitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73211009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes mellitus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "73211009"
+      }
+    },
+    {
+      "term": "Diabetes resolved",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "315051004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes resolved (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes resolved",
+          "lang": "en"
+        },
+        "id": "315051004"
+      }
+    },
+    {
+      "term": "Anemia of diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82980005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anemia due to diabetes mellitus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anemia due to diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "82980005"
+      }
+    },
+    {
+      "term": "Phosphate diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "85487008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Renal phosphaturia (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Renal phosphaturia",
+          "lang": "en"
+        },
+        "id": "85487008"
+      }
+    },
+    {
+      "term": "Diabetes monitored",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "270445003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes monitoring check done (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes monitoring check done",
+          "lang": "en"
+        },
+        "id": "270445003"
+      }
+    },
+    {
+      "term": "Diabetes dietitian",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309417009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes dietitian (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes dietitian",
+          "lang": "en"
+        },
+        "id": "309417009"
+      }
+    },
+    {
+      "term": "Diabetes insipidus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1296758008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Arginine vasopressin-related polyuria (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vasopressin-related polyuria",
+          "lang": "en"
+        },
+        "id": "1296758008"
+      }
+    },
+    {
+      "term": "Diabetes care plan",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1362341000000103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Diabetes care plan (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes care plan",
+          "lang": "en"
+        },
+        "id": "1362341000000103"
+      }
+    },
+    {
+      "term": "Adult diabetes diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "34170007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adult diabetes diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adult diabetes diet",
+          "lang": "en"
+        },
+        "id": "34170007"
+      }
+    },
+    {
+      "term": "Child diabetes diet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "79367009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Child diabetes diet (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Child diabetes diet",
+          "lang": "en"
+        },
+        "id": "79367009"
+      }
+    },
+    {
+      "term": "Anaemia of diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "82980005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anemia due to diabetes mellitus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anemia due to diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "82980005"
+      }
+    },
+    {
+      "term": "Diarrhea in diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38205001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diarrhea due to diabetes mellitus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diarrhea due to diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "38205001"
+      }
+    },
+    {
+      "term": "Gestational diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11687002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gestational diabetes mellitus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gestational diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "11687002"
+      }
+    },
+    {
+      "term": "Diabetes key contact",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "408290003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes key contact (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes key contact",
+          "lang": "en"
+        },
+        "id": "408290003"
+      }
+    },
+    {
+      "term": "Abbott Diabetes Care",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "3146801000001100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Medisense Britain Ltd (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Medisense Britain Ltd",
+          "lang": "en"
+        },
+        "id": "3146801000001100"
+      }
+    },
+    {
+      "term": "Lipoatrophic diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127012008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lipoatrophic diabetes (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lipoatrophic diabetes",
+          "lang": "en"
+        },
+        "id": "127012008"
+      }
+    },
+    {
+      "term": "Diarrhoea in diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38205001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diarrhea due to diabetes mellitus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diarrhea due to diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "38205001"
+      }
+    },
+    {
+      "term": "FH: Diabetes mellitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160303001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of diabetes mellitus (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "160303001"
+      }
+    },
+    {
+      "term": "Adjusted for diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "707683005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adjusted for diabetes technique (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adjusted for diabetes",
+          "lang": "en"
+        },
+        "id": "707683005"
+      }
+    },
+    {
+      "term": "H/O: diabetes mellitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161445009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of diabetes mellitus (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "161445009"
+      }
+    },
+    {
+      "term": "DM - Diabetes mellitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "73211009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes mellitus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "73211009"
+      }
+    },
+    {
+      "term": "Mitochondrial diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "237619009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Maternally inherited diabetes and deafness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Maternally inherited diabetes and deafness",
+          "lang": "en"
+        },
+        "id": "237619009"
+      }
+    },
+    {
+      "term": "Diabetes type 1 review",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "279291000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Diabetes type 1 review (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes type 1 review",
+          "lang": "en"
+        },
+        "id": "279291000000109"
+      }
+    },
+    {
+      "term": "Diabetes type 2 review",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "279321000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Diabetes type 2 review (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes type 2 review",
+          "lang": "en"
+        },
+        "id": "279321000000104"
+      }
+    },
+    {
+      "term": "Lipodystrophic diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127012008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Lipoatrophic diabetes (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Lipoatrophic diabetes",
+          "lang": "en"
+        },
+        "id": "127012008"
+      }
+    },
+    {
+      "term": "Diabetes type II review",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "279321000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Diabetes type 2 review (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes type 2 review",
+          "lang": "en"
+        },
+        "id": "279321000000104"
+      }
+    },
+    {
+      "term": "Pre-diabetes (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "858301000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Pre-diabetes (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pre-diabetes",
+          "lang": "en"
+        },
+        "id": "858301000000107"
+      }
+    },
+    {
+      "term": "Roche Diabetes Care Ltd",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000001104",
+      "concept": {
+        "conceptId": "28013511000001107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000001104",
+        "fsn": {
+          "term": "Roche Diabetes Care Ltd (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Roche Diabetes Care Ltd",
+          "lang": "en"
+        },
+        "id": "28013511000001107"
+      }
+    },
+    {
+      "term": "Diabetes mellitus type I",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46635009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes mellitus type 1 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Type 1 diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "46635009"
+      }
+    },
+    {
+      "term": "Type 2 diabetes mellitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "44054006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes mellitus type 2 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Type 2 diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "44054006"
+      }
+    },
+    {
+      "term": "Diabetes mellitus type 2",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "44054006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes mellitus type 2 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Type 2 diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "44054006"
+      }
+    },
+    {
+      "term": "Type 1 diabetes mellitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46635009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes mellitus type 1 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Type 1 diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "46635009"
+      }
+    },
+    {
+      "term": "Diabetes mellitus type 1",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46635009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes mellitus type 1 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Type 1 diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "46635009"
+      }
+    },
+    {
+      "term": "Steroid-induced diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "190447002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Steroid-induced diabetes (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Steroid-induced diabetes",
+          "lang": "en"
+        },
+        "id": "190447002"
+      }
+    },
+    {
+      "term": "Diabetes monitoring call",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "308505000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes monitoring call (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes monitoring call",
+          "lang": "en"
+        },
+        "id": "308505000"
+      }
+    },
+    {
+      "term": "Type I diabetes mellitus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "46635009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes mellitus type 1 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Type 1 diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "46635009"
+      }
+    },
+    {
+      "term": "Newly diagnosed diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405749004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Newly diagnosed diabetes (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Newly diagnosed diabetes",
+          "lang": "en"
+        },
+        "id": "405749004"
+      }
+    },
+    {
+      "term": "Diabetes self-management",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405096004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes self-management behavior (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetes self-management behavior",
+          "lang": "en"
+        },
+        "id": "405096004"
+      }
+    },
+    {
+      "term": "Diabetes self management",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "878859007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Self management of diabetes (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Self management of diabetes",
+          "lang": "en"
+        },
+        "id": "878859007"
+      }
+    },
+    {
+      "term": "Education about diabetes",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "6143009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetic education (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diabetic education",
+          "lang": "en"
+        },
+        "id": "6143009"
+      }
+    },
+    {
+      "term": "Diabetes mellitus type II",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "44054006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diabetes mellitus type 2 (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Type 2 diabetes mellitus",
+          "lang": "en"
+        },
+        "id": "44054006"
+      }
+    }
+  ]
+}

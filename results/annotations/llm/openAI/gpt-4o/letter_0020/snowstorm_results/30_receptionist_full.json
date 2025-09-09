@@ -1,0 +1,472 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 15
+    },
+    "semanticTags": {
+      "occupation": 6,
+      "finding": 1
+    },
+    "language": {
+      "en": 15
+    },
+    "membership": {
+      "1322291000000109": 7,
+      "1127601000000107": 1,
+      "1323331000000106": 1,
+      "999002571000000104": 1,
+      "900000000000497000": 7,
+      "733073007": 7,
+      "999001571000000109": 5
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 15,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 15,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Receptionist",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "159561009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Receptionist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Receptionist",
+          "lang": "en"
+        },
+        "id": "159561009"
+      }
+    },
+    {
+      "term": "Hotel receptionist",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "61315006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hotel receptionist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hotel receptionist",
+          "lang": "en"
+        },
+        "id": "61315006"
+      }
+    },
+    {
+      "term": "Seen by receptionist",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185299002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Seen by receptionist (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Seen by receptionist",
+          "lang": "en"
+        },
+        "id": "185299002"
+      }
+    },
+    {
+      "term": "Receptionist (general)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30263006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Receptionist (general) (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Receptionist (general)",
+          "lang": "en"
+        },
+        "id": "30263006"
+      }
+    },
+    {
+      "term": "Receptionist (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "159561009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Receptionist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Receptionist",
+          "lang": "en"
+        },
+        "id": "159561009"
+      }
+    },
+    {
+      "term": "Health services receptionist",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "159562002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Health services receptionist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Health services receptionist",
+          "lang": "en"
+        },
+        "id": "159562002"
+      }
+    },
+    {
+      "term": "Seen by receptionist (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185299002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Seen by receptionist (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Seen by receptionist",
+          "lang": "en"
+        },
+        "id": "185299002"
+      }
+    },
+    {
+      "term": "Hotel receptionist (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "61315006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hotel receptionist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hotel receptionist",
+          "lang": "en"
+        },
+        "id": "61315006"
+      }
+    },
+    {
+      "term": "Receptionist/travel agency clerk",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "106351005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Receptionist/travel agency clerk (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Receptionist AND/OR travel agency clerk",
+          "lang": "en"
+        },
+        "id": "106351005"
+      }
+    },
+    {
+      "term": "Doctor's or dentist's receptionist",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56551004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Doctor's or dentist's receptionist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Doctor's or dentist's receptionist",
+          "lang": "en"
+        },
+        "id": "56551004"
+      }
+    },
+    {
+      "term": "Receptionist (general) (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "30263006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Receptionist (general) (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Receptionist (general)",
+          "lang": "en"
+        },
+        "id": "30263006"
+      }
+    },
+    {
+      "term": "Receptionist AND/OR travel agency clerk",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "106351005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Receptionist/travel agency clerk (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Receptionist AND/OR travel agency clerk",
+          "lang": "en"
+        },
+        "id": "106351005"
+      }
+    },
+    {
+      "term": "Health services receptionist (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "159562002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Health services receptionist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Health services receptionist",
+          "lang": "en"
+        },
+        "id": "159562002"
+      }
+    },
+    {
+      "term": "Receptionist/travel agency clerk (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "106351005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Receptionist/travel agency clerk (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Receptionist AND/OR travel agency clerk",
+          "lang": "en"
+        },
+        "id": "106351005"
+      }
+    },
+    {
+      "term": "Doctor's or dentist's receptionist (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56551004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Doctor's or dentist's receptionist (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Doctor's or dentist's receptionist",
+          "lang": "en"
+        },
+        "id": "56551004"
+      }
+    }
+  ]
+}

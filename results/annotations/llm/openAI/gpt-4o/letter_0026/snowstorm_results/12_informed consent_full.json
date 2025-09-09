@@ -1,0 +1,625 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 12,
+      "900000000000207008": 11
+    },
+    "semanticTags": {
+      "procedure": 2,
+      "finding": 9,
+      "event": 1
+    },
+    "language": {
+      "en": 23
+    },
+    "membership": {
+      "1322291000000109": 12,
+      "1127601000000107": 9,
+      "900000000000497000": 6,
+      "733073007": 12,
+      "900000000000489007": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 23,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 23,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Informed consent given",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "203031000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent given",
+          "lang": "en"
+        },
+        "id": "203031000000107"
+      }
+    },
+    {
+      "term": "Informed consent for procedure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "182771004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Informed consent for procedure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent for procedure",
+          "lang": "en"
+        },
+        "id": "182771004"
+      }
+    },
+    {
+      "term": "Informed consent given (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "203031000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent given",
+          "lang": "en"
+        },
+        "id": "203031000000107"
+      }
+    },
+    {
+      "term": "Informed consent for national audit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413149001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Informed consent for national audit (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent for national audit",
+          "lang": "en"
+        },
+        "id": "413149001"
+      }
+    },
+    {
+      "term": "Informed consent given for treatment",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "762911000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent given for treatment (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent given for treatment",
+          "lang": "en"
+        },
+        "id": "762911000000102"
+      }
+    },
+    {
+      "term": "Informed consent for cervical smear given",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "206231000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent for cervical smear given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent for cervical smear given",
+          "lang": "en"
+        },
+        "id": "206231000000105"
+      }
+    },
+    {
+      "term": "Informed consent for local clinical audit",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "979151000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent for local clinical audit (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent for local clinical audit",
+          "lang": "en"
+        },
+        "id": "979151000000108"
+      }
+    },
+    {
+      "term": "Informed consent for procedure (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "182771004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Informed consent for procedure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent for procedure",
+          "lang": "en"
+        },
+        "id": "182771004"
+      }
+    },
+    {
+      "term": "Informed consent to see school nurse given",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "206241000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent to see school nurse given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent to see school nurse given",
+          "lang": "en"
+        },
+        "id": "206241000000101"
+      }
+    },
+    {
+      "term": "Informed consent for diabetes national audit",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "113131000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent for diabetes national audit (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent for diabetes national audit",
+          "lang": "en"
+        },
+        "id": "113131000000107"
+      }
+    },
+    {
+      "term": "Free and informed consent for sedation given",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47521000087106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Free and informed consent for sedation given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Free and informed consent for sedation given",
+          "lang": "en"
+        },
+        "id": "47521000087106"
+      }
+    },
+    {
+      "term": "Informed consent for national audit (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413149001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Informed consent for national audit (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent for national audit",
+          "lang": "en"
+        },
+        "id": "413149001"
+      }
+    },
+    {
+      "term": "Free and informed consent for procedure given",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47511000087103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Free and informed consent for procedure given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Free and informed consent for procedure given",
+          "lang": "en"
+        },
+        "id": "47511000087103"
+      }
+    },
+    {
+      "term": "Informed consent given for treatment (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "762911000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent given for treatment (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent given for treatment",
+          "lang": "en"
+        },
+        "id": "762911000000102"
+      }
+    },
+    {
+      "term": "Informed consent for cervical smear given (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "206231000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent for cervical smear given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent for cervical smear given",
+          "lang": "en"
+        },
+        "id": "206231000000105"
+      }
+    },
+    {
+      "term": "Informed consent for local clinical audit (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "979151000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent for local clinical audit (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent for local clinical audit",
+          "lang": "en"
+        },
+        "id": "979151000000108"
+      }
+    },
+    {
+      "term": "Informed consent to see school nurse given (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "206241000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent to see school nurse given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent to see school nurse given",
+          "lang": "en"
+        },
+        "id": "206241000000101"
+      }
+    },
+    {
+      "term": "Informed consent for diabetes national audit (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "113131000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent for diabetes national audit (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent for diabetes national audit",
+          "lang": "en"
+        },
+        "id": "113131000000107"
+      }
+    },
+    {
+      "term": "Free and informed consent for sedation given (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47521000087106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Free and informed consent for sedation given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Free and informed consent for sedation given",
+          "lang": "en"
+        },
+        "id": "47521000087106"
+      }
+    },
+    {
+      "term": "Free and informed consent for procedure given (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "47511000087103",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Free and informed consent for procedure given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Free and informed consent for procedure given",
+          "lang": "en"
+        },
+        "id": "47511000087103"
+      }
+    },
+    {
+      "term": "Procurement of patient informed consent, investigational study",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "55149002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Procurement of patient informed consent, investigational study (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Procurement of patient informed consent, investigational study",
+          "lang": "en"
+        },
+        "id": "55149002"
+      }
+    },
+    {
+      "term": "Procurement of patient informed consent, investigational study (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "55149002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Procurement of patient informed consent, investigational study (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Procurement of patient informed consent, investigational study",
+          "lang": "en"
+        },
+        "id": "55149002"
+      }
+    },
+    {
+      "term": "Surgery performed on a body part not consistent with the documented informed consent for that patient, excluding emergent situations whose exigency precludes obtaining informed consent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "370896006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Surgery performed on the wrong body part (event)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Surgery performed on the wrong body part",
+          "lang": "en"
+        },
+        "id": "370896006"
+      }
+    }
+  ]
+}

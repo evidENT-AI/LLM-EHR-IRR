@@ -1,0 +1,284 @@
+{
+  "labels": {
+    "Fever": {
+      "context": "The patient is a 10-month-old male who was seen in the office 1 day prior to admission. He has had a 2-day history of fever that has gone up to as high as 103.6 degrees F.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "386661006"
+    },
+    "otitis media": {
+      "context": "Admitting Diagnoses: 1. Fever. 2. Otitis media. 3. Possible sepsis.",
+      "qualifier": "Diagnoses",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "65363002"
+    },
+    "possible sepsis": {
+      "context": "Admitting Diagnoses: 1. Fever. 2. Otitis media. 3. Possible sepsis.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "suspected",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "91302008"
+    },
+    "10-month-old male": {
+      "context": "The patient is a 10-month-old male who was seen in the office 1 day prior to admission.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "intermittent cough": {
+      "context": "He has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "49727002"
+    },
+    "nasal congestion": {
+      "context": "He has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "68235000"
+    },
+    "rhinorrhea": {
+      "context": "He has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "267036007"
+    },
+    "no history of rashes": {
+      "context": "He has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "271807003"
+    },
+    "Tylenol": {
+      "context": "He has been taking Tylenol and Advil to help decrease the fevers, but the fever has continued to rise.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "387458008"
+    },
+    "Advil": {
+      "context": "He has been taking Tylenol and Advil to help decrease the fevers, but the fever has continued to rise.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "387517004"
+    },
+    "increased workup of breathing": {
+      "context": "He was noted to have some increased workup of breathing and parents returned to the office on the day of admission.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "81898007"
+    },
+    "born at 33 weeks' gestation": {
+      "context": "Significant for being born at 33 weeks' gestation with a birth weight of 5 pounds and 1 ounce.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "birth weight of 5 pounds and 1 ounce": {
+      "context": "Significant for being born at 33 weeks' gestation with a birth weight of 5 pounds and 1 ounce.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "moderately ill appearing and lethargic": {
+      "context": "On exam, he was moderately ill appearing and lethargic.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "248427009"
+    },
+    "tympanic membranes were red and yellow, and opaque bilaterally": {
+      "context": "Tympanic membranes were red and yellow, and opaque bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "301011002"
+    },
+    "increased workup of breathing, moderate tachypnea": {
+      "context": "Lungs showed increased workup of breathing, moderate tachypnea.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "81898007"
+    },
+    "no rales, rhonchi or wheezes": {
+      "context": "No rales, rhonchi or wheezes were noted.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "electrolytes, BUN and creatinine, and glucose all of which were within normal limits": {
+      "context": "He had electrolytes, BUN and creatinine, and glucose all of which were within normal limits.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "White blood cell count was 8.6 with 61% neutrophils, 21% lymphocytes, 17% monocytes, suggestive of a viral infection": {
+      "context": "White blood cell count was 8.6 with 61% neutrophils, 21% lymphocytes, 17% monocytes, suggestive of a viral infection.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Urinalysis was completely unremarkable": {
+      "context": "Urinalysis was completely unremarkable.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "Chest x-ray showed a suboptimal inspiration, but no evidence of an acute process in the chest": {
+      "context": "Chest x-ray showed a suboptimal inspiration, but no evidence of an acute process in the chest.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "ceftriaxone 500 mg IV once daily": {
+      "context": "He was given ceftriaxone 500 mg IV once daily to treat otitis media and possible sepsis, and I will add Tylenol and ibuprofen as needed for fevers.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "372687004"
+    },
+    "Tylenol and ibuprofen": {
+      "context": "He was given ceftriaxone 500 mg IV once daily to treat otitis media and possible sepsis, and I will add Tylenol and ibuprofen as needed for fevers.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "oxygen saturations drop": {
+      "context": "Overnight, he did have his oxygen saturations drop and went into oxygen overnight.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "431314004"
+    },
+    "albuterol aerosols every 6 hours": {
+      "context": "His lungs remained clear, but because of the need for O2, we instituted albuterol aerosols every 6 hours to help maintain good lung function.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "afebrile": {
+      "context": "He has become afebrile and was having no further increased work of breathing.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "389100001"
+    },
+    "no further increased work of breathing": {
+      "context": "He has become afebrile and was having no further increased work of breathing.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "81898007"
+    },
+    "Omnicef 125 mg/5 mL one teaspoon p.o. once daily": {
+      "context": "He was continued Omnicef 125 mg/5 mL one teaspoon p.o. once daily and instructed to follow up with Dr. X, his primary doctor, on the following Tuesday.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    }
+  }
+}

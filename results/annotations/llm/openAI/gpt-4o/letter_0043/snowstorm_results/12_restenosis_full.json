@@ -1,0 +1,346 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 9
+    },
+    "semanticTags": {
+      "disorder": 3,
+      "morphologic abnormality": 1
+    },
+    "language": {
+      "en": 9
+    },
+    "membership": {
+      "1322291000000109": 4,
+      "1127601000000107": 3,
+      "1382531000000102": 1,
+      "900000000000497000": 4,
+      "999002271000000101": 5,
+      "733073007": 4,
+      "999003141000000107": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 9,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 9,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Restenosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43026009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Restenosis (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Restenosis",
+          "lang": "en"
+        },
+        "id": "43026009"
+      }
+    },
+    {
+      "term": "Mitral restenosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233856001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mitral restenosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mitral restenosis",
+          "lang": "en"
+        },
+        "id": "233856001"
+      }
+    },
+    {
+      "term": "Mitral restenosis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "233856001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Mitral restenosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Mitral restenosis",
+          "lang": "en"
+        },
+        "id": "233856001"
+      }
+    },
+    {
+      "term": "Restenosis (morphologic abnormality)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "43026009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Restenosis (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Restenosis",
+          "lang": "en"
+        },
+        "id": "43026009"
+      }
+    },
+    {
+      "term": "Restenosis of peripheral vascular stent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16741051000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Restenosis of peripheral vascular stent (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Restenosis of peripheral vascular stent",
+          "lang": "en"
+        },
+        "id": "16741051000119109"
+      }
+    },
+    {
+      "term": "Restenosis of peripheral vascular stent (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16741051000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Restenosis of peripheral vascular stent (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Restenosis of peripheral vascular stent",
+          "lang": "en"
+        },
+        "id": "16741051000119109"
+      }
+    },
+    {
+      "term": "Restenosis of coronary artery after insertion of stent into coronary artery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1335844007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Restenosis of coronary artery following insertion of stent into coronary artery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Restenosis of coronary artery following insertion of stent into coronary artery",
+          "lang": "en"
+        },
+        "id": "1335844007"
+      }
+    },
+    {
+      "term": "Restenosis of coronary artery following insertion of stent into coronary artery",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1335844007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Restenosis of coronary artery following insertion of stent into coronary artery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Restenosis of coronary artery following insertion of stent into coronary artery",
+          "lang": "en"
+        },
+        "id": "1335844007"
+      }
+    },
+    {
+      "term": "Restenosis of coronary artery following insertion of stent into coronary artery (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1335844007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Restenosis of coronary artery following insertion of stent into coronary artery (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Restenosis of coronary artery following insertion of stent into coronary artery",
+          "lang": "en"
+        },
+        "id": "1335844007"
+      }
+    }
+  ]
+}

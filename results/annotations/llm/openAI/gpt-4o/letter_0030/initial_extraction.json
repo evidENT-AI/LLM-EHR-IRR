@@ -1,0 +1,294 @@
+{
+  "labels": {
+    "13 years old": {
+      "context": "Patient, 13 years old, comes to your office with his mother complaining about severe ear pain.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "severe ear pain": {
+      "context": "Patient, 13 years old, comes to your office with his mother complaining about severe ear pain.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "22253000"
+    },
+    "earaches": {
+      "context": "Mom states that this is the third time this year he has had earaches.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "267036007"
+    },
+    "antibiotics": {
+      "context": "Patient reports that he felt good after taking antibiotics with each earache episode.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "764146007"
+    },
+    "afebrile": {
+      "context": "Mom reports that patient has been afebrile with each of the earache episodes.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "386661006"
+    },
+    "no upper respiratory symptoms": {
+      "context": "He has not had upper respiratory symptoms.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "267036007"
+    },
+    "no head trauma": {
+      "context": "Patient denies any head trauma associated with wrestling practice.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "417163006"
+    },
+    "normal pregnancy": {
+      "context": "Patient's mother reports a normal pregnancy with no complications.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "vaginal delivery": {
+      "context": "Vaginal delivery was uneventful with a normal perinatal course.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal developmental milestones": {
+      "context": "His verbal and motor developmental milestones were as expected.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "hypertension": {
+      "context": "His Dad has hypertension and has frequent heartburn symptoms.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "38341003"
+    },
+    "asthma": {
+      "context": "Mom is healthy and has asthma.",
+      "qualifier": "Risk Factors",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Family",
+      "treatment_stage": "NA",
+      "snomed_ct": "195967001"
+    },
+    "knee laceration": {
+      "context": "He had one emergency room visit 2 years ago for a knee laceration.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "resolved",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "262520000"
+    },
+    "otitis media": {
+      "context": "He had two episodes of otitis media not associated with respiratory infections.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "resolved",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "65363002"
+    },
+    "amoxicillin": {
+      "context": "He received antibiotic therapy (amoxicillin) for the otitis media and both episodes resolved without problems.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "372687004"
+    },
+    "heartburn": {
+      "context": "He admits that he has been taking his dad's OTC Pepcid AE sometimes when he gets heartburn.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "162058000"
+    },
+    "sore throats": {
+      "context": "He does complain of sore throats sometimes and often feels burning in his throat when he goes to sleep at night after a late evening snack.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "162397003"
+    },
+    "burning in his throat": {
+      "context": "He does complain of sore throats sometimes and often feels burning in his throat when he goes to sleep at night after a late evening snack.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "162397003"
+    },
+    "height/weight": {
+      "context": "Patient weighs 109 pounds (60th percentile) and is 69 inches tall (93rd percentile).",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "TMs deep red, dull, landmarks obscured, full bilaterally": {
+      "context": "TMs deep red, dull, landmarks obscured, full bilaterally.",
+      "qualifier": "Signs",
+      "laterality": "bilateral",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "post auricular and submandibular nodes on left are palpable and slightly tender": {
+      "context": "Post auricular and submandibular nodes on left are palpable and slightly tender.",
+      "qualifier": "Signs",
+      "laterality": "left",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "heartburn begins in epigastric area and rises to throat": {
+      "context": "Reports no epigastric tenderness but states that heartburn begins in epigastric area and rises to throat.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "162058000"
+    },
+    "stool negative for blood and H. pylori antigen": {
+      "context": "Stool negative for blood and H. pylori antigen.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "normal CBC and urinalysis": {
+      "context": "Normal CBC and urinalysis.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "NA",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "marked GE reflux": {
+      "context": "A barium swallow and upper GI was scheduled for the following week. It showed marked GE reflux.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "235595009"
+    },
+    "chronic otitis media": {
+      "context": "Chronic otitis media due to a penicillin resistant organism would be the obvious diagnosis in this case.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "65363002"
+    },
+    "GERD": {
+      "context": "The positive study supported the diagnosis of GERD, which was severe and chronic enough to cause irritation of the mucosal surfaces exposed to the gastric juices and edema, inflammation in the inner ears.",
+      "qualifier": "Diagnoses",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "235595009"
+    },
+    "omeprazole": {
+      "context": "Patient and his Mom agreed to a trial of omeprazole 20 mg at bedtime for 2 weeks.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "373500007"
+    },
+    "Augmentin99": {
+      "context": "He was also given a prescription for 10 days of Augmentin99 and a follow-up appointment for 2 weeks.",
+      "qualifier": "Treatments",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "9569701000001100"
+    }
+  }
+}

@@ -1,0 +1,1335 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 152
+    },
+    "semanticTags": {
+      "disorder": 83,
+      "situation": 1
+    },
+    "language": {
+      "en": 152
+    },
+    "membership": {
+      "1322291000000109": 84,
+      "999004331000000102": 2,
+      "1127601000000107": 84,
+      "1382531000000102": 49,
+      "2181181000000106": 1,
+      "999003161000000108": 1,
+      "999003201000000100": 1,
+      "999001741000000107": 1,
+      "999003091000000101": 1,
+      "999002271000000101": 113,
+      "999001061000000106": 1,
+      "999002061000000102": 1,
+      "900000000000497000": 84,
+      "733073007": 84,
+      "999004381000000103": 2
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "2181181000000106": {
+      "conceptId": "2181181000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric genitourinary and renal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181181000000106"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999003201000000100": {
+      "conceptId": "999003201000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 2 Benign neoplasms diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003201000000100"
+    },
+    "999001741000000107": {
+      "conceptId": "999001741000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Gastroenterology outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001741000000107"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    }
+  },
+  "totalElements": 152,
+  "totalPages": 4,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Ear infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129127001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection of ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection of ear",
+          "lang": "en"
+        },
+        "id": "129127001"
+      }
+    },
+    {
+      "term": "Infection of ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129127001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection of ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection of ear",
+          "lang": "en"
+        },
+        "id": "129127001"
+      }
+    },
+    {
+      "term": "Viral ear infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312137007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Viral ear infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Viral ear infection",
+          "lang": "en"
+        },
+        "id": "312137007"
+      }
+    },
+    {
+      "term": "Fungal ear infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312148000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fungal ear infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fungal ear infection",
+          "lang": "en"
+        },
+        "id": "312148000"
+      }
+    },
+    {
+      "term": "Infection of ear lobe",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95808008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection of ear lobe (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection of ear lobe",
+          "lang": "en"
+        },
+        "id": "95808008"
+      }
+    },
+    {
+      "term": "Bacterial ear infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95882006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bacterial ear infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bacterial ear infection",
+          "lang": "en"
+        },
+        "id": "95882006"
+      }
+    },
+    {
+      "term": "Infection of external ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402697000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection of external ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection of external ear",
+          "lang": "en"
+        },
+        "id": "402697000"
+      }
+    },
+    {
+      "term": "H/O: chronic ear infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161496006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of chronic ear infection (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: chronic ear infection",
+          "lang": "en"
+        },
+        "id": "161496006"
+      }
+    },
+    {
+      "term": "Infection of ear (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "129127001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection of ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection of ear",
+          "lang": "en"
+        },
+        "id": "129127001"
+      }
+    },
+    {
+      "term": "Blister of ear with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45666009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blister of ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blister of ear with infection",
+          "lang": "en"
+        },
+        "id": "45666009"
+      }
+    },
+    {
+      "term": "Infection involving inner ear",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232310008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection involving inner ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection involving inner ear",
+          "lang": "en"
+        },
+        "id": "232310008"
+      }
+    },
+    {
+      "term": "Viral ear infection (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312137007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Viral ear infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Viral ear infection",
+          "lang": "en"
+        },
+        "id": "312137007"
+      }
+    },
+    {
+      "term": "Fungal ear infection (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312148000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fungal ear infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fungal ear infection",
+          "lang": "en"
+        },
+        "id": "312148000"
+      }
+    },
+    {
+      "term": "Left ear blister with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11844391000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blister of left ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Left ear blister with infection",
+          "lang": "en"
+        },
+        "id": "11844391000119104"
+      }
+    },
+    {
+      "term": "Blister of ear without infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "21286004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blister of ear without infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blister of ear without infection",
+          "lang": "en"
+        },
+        "id": "21286004"
+      }
+    },
+    {
+      "term": "Infection of ear lobe (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95808008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection of ear lobe (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection of ear lobe",
+          "lang": "en"
+        },
+        "id": "95808008"
+      }
+    },
+    {
+      "term": "History of chronic ear infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161496006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of chronic ear infection (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: chronic ear infection",
+          "lang": "en"
+        },
+        "id": "161496006"
+      }
+    },
+    {
+      "term": "Right ear blister with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11844351000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blister of right ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Right ear blister with infection",
+          "lang": "en"
+        },
+        "id": "11844351000119109"
+      }
+    },
+    {
+      "term": "Bacterial ear infection (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95882006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Bacterial ear infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bacterial ear infection",
+          "lang": "en"
+        },
+        "id": "95882006"
+      }
+    },
+    {
+      "term": "Blister of left ear with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11844391000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blister of left ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Left ear blister with infection",
+          "lang": "en"
+        },
+        "id": "11844391000119104"
+      }
+    },
+    {
+      "term": "Early neonatal parasitic infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1264227004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early neonatal parasitic infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early neonatal parasitic infection",
+          "lang": "en"
+        },
+        "id": "1264227004"
+      }
+    },
+    {
+      "term": "Blister of right ear with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11844351000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blister of right ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Right ear blister with infection",
+          "lang": "en"
+        },
+        "id": "11844351000119109"
+      }
+    },
+    {
+      "term": "Infection of external ear (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402697000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection of external ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection of external ear",
+          "lang": "en"
+        },
+        "id": "402697000"
+      }
+    },
+    {
+      "term": "Acute infection of pinna of both ears",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1083021000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute infection of pinna of bilateral ears (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral acute infection of pinna",
+          "lang": "en"
+        },
+        "id": "1083021000119105"
+      }
+    },
+    {
+      "term": "Superficial injury of ear with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "24457001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Superficial injury of ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Superficial injury of ear with infection",
+          "lang": "en"
+        },
+        "id": "24457001"
+      }
+    },
+    {
+      "term": "Blister of ear with infection (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45666009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blister of ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blister of ear with infection",
+          "lang": "en"
+        },
+        "id": "45666009"
+      }
+    },
+    {
+      "term": "Infection involving inner ear (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "232310008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infection involving inner ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infection involving inner ear",
+          "lang": "en"
+        },
+        "id": "232310008"
+      }
+    },
+    {
+      "term": "Early neonatal jaundice due to infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1335875003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early neonatal jaundice due to infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early neonatal jaundice due to infection",
+          "lang": "en"
+        },
+        "id": "1335875003"
+      }
+    },
+    {
+      "term": "Early neonatal infection caused by fungus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1264221003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early neonatal infection caused by fungus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early neonatal infection caused by fungus",
+          "lang": "en"
+        },
+        "id": "1264221003"
+      }
+    },
+    {
+      "term": "Acute infection of pinna of bilateral ears",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1083021000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute infection of pinna of bilateral ears (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Bilateral acute infection of pinna",
+          "lang": "en"
+        },
+        "id": "1083021000119105"
+      }
+    },
+    {
+      "term": "Foreign body in skin of ear with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "897300000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Foreign body in skin of ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Foreign body in skin of ear with infection",
+          "lang": "en"
+        },
+        "id": "897300000"
+      }
+    },
+    {
+      "term": "Superficial injury of ear without infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "25471001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Superficial injury of ear without infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Superficial injury of ear without infection",
+          "lang": "en"
+        },
+        "id": "25471001"
+      }
+    },
+    {
+      "term": "Blister of ear without infection (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "21286004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blister of ear without infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Blister of ear without infection",
+          "lang": "en"
+        },
+        "id": "21286004"
+      }
+    },
+    {
+      "term": "History of chronic ear infection (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161496006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "History of chronic ear infection (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "H/O: chronic ear infection",
+          "lang": "en"
+        },
+        "id": "161496006"
+      }
+    },
+    {
+      "term": "Early neonatal infection caused by bacterium",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1264218000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early neonatal infection caused by bacterium (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early neonatal infection caused by bacterium",
+          "lang": "en"
+        },
+        "id": "1264218000"
+      }
+    },
+    {
+      "term": "Nonvenomous insect bite of ear with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "17198008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonvenomous insect bite of ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonvenomous insect bite of ear with infection",
+          "lang": "en"
+        },
+        "id": "17198008"
+      }
+    },
+    {
+      "term": "Blister of left ear with infection (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11844391000119104",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blister of left ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Left ear blister with infection",
+          "lang": "en"
+        },
+        "id": "11844391000119104"
+      }
+    },
+    {
+      "term": "Early neonatal parasitic infection (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1264227004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early neonatal parasitic infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early neonatal parasitic infection",
+          "lang": "en"
+        },
+        "id": "1264227004"
+      }
+    },
+    {
+      "term": "Blister of right ear with infection (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11844351000119109",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Blister of right ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Right ear blister with infection",
+          "lang": "en"
+        },
+        "id": "11844351000119109"
+      }
+    },
+    {
+      "term": "Superficial foreign body of ear with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "897300000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Foreign body in skin of ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Foreign body in skin of ear with infection",
+          "lang": "en"
+        },
+        "id": "897300000"
+      }
+    },
+    {
+      "term": "Foreign body in skin of left ear with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11843351000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Foreign body in skin of left ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Foreign body in skin of left ear with infection",
+          "lang": "en"
+        },
+        "id": "11843351000119106"
+      }
+    },
+    {
+      "term": "Invasive infection of ear caused by Aspergillus",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1163476002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Invasive infection of ear caused by Aspergillus (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Invasive aural aspergillosis",
+          "lang": "en"
+        },
+        "id": "1163476002"
+      }
+    },
+    {
+      "term": "Nonvenomous insect bite of ear without infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "44921007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nonvenomous insect bite of ear without infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nonvenomous insect bite of ear without infection",
+          "lang": "en"
+        },
+        "id": "44921007"
+      }
+    },
+    {
+      "term": "Foreign body in skin of right ear with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11843271000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Foreign body in skin of right ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Foreign body in skin of right ear with infection",
+          "lang": "en"
+        },
+        "id": "11843271000119105"
+      }
+    },
+    {
+      "term": "Superficial injury of ear with infection (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "24457001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Superficial injury of ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Superficial injury of ear with infection",
+          "lang": "en"
+        },
+        "id": "24457001"
+      }
+    },
+    {
+      "term": "Abrasion and/or friction burn of ear with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "61383005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Abrasion and/or friction burn of ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Abrasion and/or friction burn of ear with infection",
+          "lang": "en"
+        },
+        "id": "61383005"
+      }
+    },
+    {
+      "term": "Early neonatal jaundice due to infection (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1335875003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early neonatal jaundice due to infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early neonatal jaundice due to infection",
+          "lang": "en"
+        },
+        "id": "1335875003"
+      }
+    },
+    {
+      "term": "Superficial foreign body of left ear with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11843351000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Foreign body in skin of left ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Foreign body in skin of left ear with infection",
+          "lang": "en"
+        },
+        "id": "11843351000119106"
+      }
+    },
+    {
+      "term": "Early neonatal infection caused by Escherichia coli",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1264224006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Early neonatal infection caused by Escherichia coli (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Early neonatal infection caused by Escherichia coli",
+          "lang": "en"
+        },
+        "id": "1264224006"
+      }
+    },
+    {
+      "term": "Superficial foreign body of right ear with infection",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11843271000119105",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Foreign body in skin of right ear with infection (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Foreign body in skin of right ear with infection",
+          "lang": "en"
+        },
+        "id": "11843271000119105"
+      }
+    }
+  ]
+}

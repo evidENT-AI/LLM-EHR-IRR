@@ -1,0 +1,418 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 14
+    },
+    "semanticTags": {
+      "finding": 7
+    },
+    "language": {
+      "en": 14
+    },
+    "membership": {
+      "1322291000000109": 7,
+      "1127601000000107": 7,
+      "900000000000497000": 7,
+      "733073007": 7,
+      "999002271000000101": 5
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 14,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 14,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Does not cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289115009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not cough",
+          "lang": "en"
+        },
+        "id": "289115009"
+      }
+    },
+    {
+      "term": "Nocturnal cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62548007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nocturnal cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nocturnal cough",
+          "lang": "en"
+        },
+        "id": "62548007"
+      }
+    },
+    {
+      "term": "No cough strength",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "769211009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No cough strength (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No cough strength",
+          "lang": "en"
+        },
+        "id": "769211009"
+      }
+    },
+    {
+      "term": "Non-productive cough",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "11833005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Dry cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Dry cough",
+          "lang": "en"
+        },
+        "id": "11833005"
+      }
+    },
+    {
+      "term": "Does not cough up sputum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301247007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not cough up sputum (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not cough up sputum",
+          "lang": "en"
+        },
+        "id": "301247007"
+      }
+    },
+    {
+      "term": "Does not cough (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "289115009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not cough",
+          "lang": "en"
+        },
+        "id": "289115009"
+      }
+    },
+    {
+      "term": "Nocturnal cough (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62548007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nocturnal cough (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nocturnal cough",
+          "lang": "en"
+        },
+        "id": "62548007"
+      }
+    },
+    {
+      "term": "Nocturnal cough and wheeze",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161947006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nocturnal cough and wheeze (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nocturnal cough and wheeze",
+          "lang": "en"
+        },
+        "id": "161947006"
+      }
+    },
+    {
+      "term": "No cough strength (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "769211009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No cough strength (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No cough strength",
+          "lang": "en"
+        },
+        "id": "769211009"
+      }
+    },
+    {
+      "term": "Nocturnal cough and wheezing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161947006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nocturnal cough and wheeze (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nocturnal cough and wheeze",
+          "lang": "en"
+        },
+        "id": "161947006"
+      }
+    },
+    {
+      "term": "Does not cough up sputum (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "301247007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Does not cough up sputum (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Does not cough up sputum",
+          "lang": "en"
+        },
+        "id": "301247007"
+      }
+    },
+    {
+      "term": "Nocturnal cough and wheeze (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161947006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nocturnal cough and wheeze (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nocturnal cough and wheeze",
+          "lang": "en"
+        },
+        "id": "161947006"
+      }
+    },
+    {
+      "term": "Vocal cord does not adduct on coughing",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249456001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vocal cord does not adduct on coughing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vocal cord does not adduct on coughing",
+          "lang": "en"
+        },
+        "id": "249456001"
+      }
+    },
+    {
+      "term": "Vocal cord does not adduct on coughing (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "249456001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Vocal cord does not adduct on coughing (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Vocal cord does not adduct on coughing",
+          "lang": "en"
+        },
+        "id": "249456001"
+      }
+    }
+  ]
+}

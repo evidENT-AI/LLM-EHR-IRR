@@ -1,0 +1,1388 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 4,
+      "999000041000000102": 1,
+      "900000000000207008": 1042
+    },
+    "semanticTags": {
+      "disorder": 375,
+      "substance": 1,
+      "morphologic abnormality": 41,
+      "observable entity": 1,
+      "procedure": 3,
+      "finding": 1,
+      "situation": 5
+    },
+    "language": {
+      "en": 1047
+    },
+    "membership": {
+      "1322291000000109": 425,
+      "991411000000109": 1,
+      "999004341000000106": 1,
+      "1127601000000107": 381,
+      "999003161000000108": 387,
+      "1382531000000102": 286,
+      "999002271000000101": 632,
+      "999003171000000101": 26,
+      "446608001": 33,
+      "900000000000497000": 425,
+      "733073007": 427,
+      "999001761000000108": 1,
+      "999002881000000100": 1,
+      "999003141000000107": 41,
+      "1382401000000109": 3,
+      "30931000001101": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "999004341000000106": {
+      "conceptId": "999004341000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999004341000000106"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999003171000000101": {
+      "conceptId": "999003171000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1B In situ diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1B In situ diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003171000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "446608001": {
+      "conceptId": "446608001",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT to ICD-O simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT to ICD-O simple map",
+        "lang": "en"
+      },
+      "id": "446608001"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999001761000000108": {
+      "conceptId": "999001761000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Ophthalmology diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Ophthalmology diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001761000000108"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "999002881000000100": {
+      "conceptId": "999002881000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Pathology Bounded Code List observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Pathology Bounded Code List observables simple reference set",
+        "lang": "en"
+      },
+      "id": "999002881000000100"
+    },
+    "30931000001101": {
+      "conceptId": "30931000001101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000001108",
+      "fsn": {
+        "term": "Allergy or adverse effect causative agent simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Allergy or adverse effect causative agent simple reference set",
+        "lang": "en"
+      },
+      "id": "30931000001101"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "999003141000000107": {
+      "conceptId": "999003141000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Histopathology specimen morphology values simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Histopathology specimen morphology values simple reference set",
+        "lang": "en"
+      },
+      "id": "999003141000000107"
+    }
+  },
+  "totalElements": 1047,
+  "totalPages": 21,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402815007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma",
+          "lang": "en"
+        },
+        "id": "402815007"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1162767002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma",
+          "lang": "en"
+        },
+        "id": "1162767002"
+      }
+    },
+    {
+      "term": "Anal squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "255084004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of anal margin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of anal margin",
+          "lang": "en"
+        },
+        "id": "255084004"
+      }
+    },
+    {
+      "term": "Squamous cell carcinomatosis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "425303004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinomatosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinomatosis",
+          "lang": "en"
+        },
+        "id": "425303004"
+      }
+    },
+    {
+      "term": "SCC - squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1162767002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma",
+          "lang": "en"
+        },
+        "id": "1162767002"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of gum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276953005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of gum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of gum",
+          "lang": "en"
+        },
+        "id": "276953005"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of lip",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "255071008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of lip (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of lip",
+          "lang": "en"
+        },
+        "id": "255071008"
+      }
+    },
+    {
+      "term": "Penile squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403468003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of penis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of penis",
+          "lang": "en"
+        },
+        "id": "403468003"
+      }
+    },
+    {
+      "term": "Rectal squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "766979005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of rectum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of rectum",
+          "lang": "en"
+        },
+        "id": "766979005"
+      }
+    },
+    {
+      "term": "Adenoid squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "85956000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Adenoid squamous cell carcinoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Adenoid squamous cell carcinoma",
+          "lang": "en"
+        },
+        "id": "85956000"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma in situ",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "189565007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma in situ (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma in situ",
+          "lang": "en"
+        },
+        "id": "189565007"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of lung",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254634000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of lung (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of lung",
+          "lang": "en"
+        },
+        "id": "254634000"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254651007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of skin",
+          "lang": "en"
+        },
+        "id": "254651007"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma antigen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "259641008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma antigen (substance)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma antigen",
+          "lang": "en"
+        },
+        "id": "259641008"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of nose",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "448930008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of nose (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of nose",
+          "lang": "en"
+        },
+        "id": "448930008"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of chin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "422572002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of chin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of chin",
+          "lang": "en"
+        },
+        "id": "422572002"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of back",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "422599000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of back (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of back",
+          "lang": "en"
+        },
+        "id": "422599000"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of foot",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403895004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of foot (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of foot",
+          "lang": "en"
+        },
+        "id": "403895004"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of hand",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403896003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of hand (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of hand",
+          "lang": "en"
+        },
+        "id": "403896003"
+      }
+    },
+    {
+      "term": "Gastric squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "766980008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of stomach (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of stomach",
+          "lang": "en"
+        },
+        "id": "766980008"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma in situ",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1162893000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma in situ (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma in situ",
+          "lang": "en"
+        },
+        "id": "1162893000"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of vulva",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254895003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of vulva (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of vulva",
+          "lang": "en"
+        },
+        "id": "254895003"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of mouth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "307502000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of mouth (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of mouth",
+          "lang": "en"
+        },
+        "id": "307502000"
+      }
+    },
+    {
+      "term": "Basaloid squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128634009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Basaloid squamous cell carcinoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Basaloid squamous cell carcinoma",
+          "lang": "en"
+        },
+        "id": "128634009"
+      }
+    },
+    {
+      "term": "Polypoid squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "65692009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Spindle cell carcinoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Spindle cell carcinoma",
+          "lang": "en"
+        },
+        "id": "65692009"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of pinna",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "423700001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of auricle of ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of auricle of ear",
+          "lang": "en"
+        },
+        "id": "423700001"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of penis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403468003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of penis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of penis",
+          "lang": "en"
+        },
+        "id": "403468003"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of scalp",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403891008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of scalp (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of scalp",
+          "lang": "en"
+        },
+        "id": "403891008"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of colon",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "766981007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of colon (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of colon",
+          "lang": "en"
+        },
+        "id": "766981007"
+      }
+    },
+    {
+      "term": "Verrucous squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "89906000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Verrucous carcinoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Verrucous carcinoma",
+          "lang": "en"
+        },
+        "id": "89906000"
+      }
+    },
+    {
+      "term": "Papillary squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "39056008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Papillary squamous cell carcinoma (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Papillary squamous cell carcinoma",
+          "lang": "en"
+        },
+        "id": "39056008"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of eyelid",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "231831002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of eyelid (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of eyelid",
+          "lang": "en"
+        },
+        "id": "231831002"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of tongue",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276952000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of tongue (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of tongue",
+          "lang": "en"
+        },
+        "id": "276952000"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of palate",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276962007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of palate (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of palate",
+          "lang": "en"
+        },
+        "id": "276962007"
+      }
+    },
+    {
+      "term": "Cutaneous squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254651007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of skin (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of skin",
+          "lang": "en"
+        },
+        "id": "254651007"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of cervix",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254886006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of cervix (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of cervix",
+          "lang": "en"
+        },
+        "id": "254886006"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of cornea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "255008003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of cornea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of cornea",
+          "lang": "en"
+        },
+        "id": "255008003"
+      }
+    },
+    {
+      "term": "Recurrent squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "719052006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recurrent squamous cell carcinoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recurrent squamous cell carcinoma",
+          "lang": "en"
+        },
+        "id": "719052006"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of vagina",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "105121000119102",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of vagina (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of vagina",
+          "lang": "en"
+        },
+        "id": "105121000119102"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of temple",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "425148008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of temple (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of temple",
+          "lang": "en"
+        },
+        "id": "425148008"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of larynx",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405822008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of larynx (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of larynx",
+          "lang": "en"
+        },
+        "id": "405822008"
+      }
+    },
+    {
+      "term": "Verrucous squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "403904009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Verrucous squamous cell carcinoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Verrucous squamous cell carcinoma",
+          "lang": "en"
+        },
+        "id": "403904009"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of rectum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "766979005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of rectum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of rectum",
+          "lang": "en"
+        },
+        "id": "766979005"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of scrotum",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276860003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of scrotum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of scrotum",
+          "lang": "en"
+        },
+        "id": "276860003"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of gingiva",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "276953005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of gum (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of gum",
+          "lang": "en"
+        },
+        "id": "276953005"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of trachea",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "254620000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of trachea (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of trachea",
+          "lang": "en"
+        },
+        "id": "254620000"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of bladder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "255111004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of urinary bladder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of urinary bladder",
+          "lang": "en"
+        },
+        "id": "255111004"
+      }
+    },
+    {
+      "term": "Metastatic squamous cell carcinoma",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64204000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma, metastatic (morphologic abnormality)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma, metastatic",
+          "lang": "en"
+        },
+        "id": "64204000"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "402815007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma",
+          "lang": "en"
+        },
+        "id": "402815007"
+      }
+    },
+    {
+      "term": "Squamous cell carcinoma of auricle",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "423700001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Squamous cell carcinoma of auricle of ear (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Squamous cell carcinoma of auricle of ear",
+          "lang": "en"
+        },
+        "id": "423700001"
+      }
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 2,
+      "900000000000207008": 13
+    },
+    "semanticTags": {
+      "finding": 6
+    },
+    "language": {
+      "en": 15
+    },
+    "membership": {
+      "1322291000000109": 6,
+      "1127601000000107": 6,
+      "999002531000000101": 1,
+      "900000000000497000": 5,
+      "733073007": 6,
+      "999002271000000101": 3
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "999002531000000101": {
+      "conceptId": "999002531000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Wound integrity findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Wound integrity findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002531000000101"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 15,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 15,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "O/E - infected toe",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413108001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - infected toe (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - infected toe",
+          "lang": "en"
+        },
+        "id": "413108001"
+      }
+    },
+    {
+      "term": "Sputum - not infected",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "167987009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sputum - not infected (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sputum - not infected",
+          "lang": "en"
+        },
+        "id": "167987009"
+      }
+    },
+    {
+      "term": "CDC Class IV/Dirty-infected",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418422005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Centers for Disease Control and Prevention Class IV/Dirty-infected (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CDC Class IV/Dirty-infected",
+          "lang": "en"
+        },
+        "id": "418422005"
+      }
+    },
+    {
+      "term": "On examination - infected toe",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413108001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - infected toe (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - infected toe",
+          "lang": "en"
+        },
+        "id": "413108001"
+      }
+    },
+    {
+      "term": "Smear infected - recall delete",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185620004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smear infected - recall delete (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smear infected - recall delete",
+          "lang": "en"
+        },
+        "id": "185620004"
+      }
+    },
+    {
+      "term": "Sputum - not infected (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "167987009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sputum - not infected (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sputum - not infected",
+          "lang": "en"
+        },
+        "id": "167987009"
+      }
+    },
+    {
+      "term": "Environment contains infected animal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "424681004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Environment contains infected animal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Environment contains infected animal",
+          "lang": "en"
+        },
+        "id": "424681004"
+      }
+    },
+    {
+      "term": "On examination - infected toe (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413108001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - infected toe (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - infected toe",
+          "lang": "en"
+        },
+        "id": "413108001"
+      }
+    },
+    {
+      "term": "Smear infected - recall delete (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185620004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Smear infected - recall delete (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Smear infected - recall delete",
+          "lang": "en"
+        },
+        "id": "185620004"
+      }
+    },
+    {
+      "term": "Environment contains infected animal (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "424681004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Environment contains infected animal (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Environment contains infected animal",
+          "lang": "en"
+        },
+        "id": "424681004"
+      }
+    },
+    {
+      "term": "Hepatitis C screening - infected with hepatitis C virus",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "82611000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Hepatitis C screening - infected with hepatitis C virus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hepatitis C screening - infected with hepatitis C virus",
+          "lang": "en"
+        },
+        "id": "82611000000107"
+      }
+    },
+    {
+      "term": "Hepatitis C screening - infected with hepatitis C virus (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "82611000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Hepatitis C screening - infected with hepatitis C virus (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hepatitis C screening - infected with hepatitis C virus",
+          "lang": "en"
+        },
+        "id": "82611000000107"
+      }
+    },
+    {
+      "term": "Centers for Disease Control and Prevention Class IV/Dirty-infected",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418422005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Centers for Disease Control and Prevention Class IV/Dirty-infected (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CDC Class IV/Dirty-infected",
+          "lang": "en"
+        },
+        "id": "418422005"
+      }
+    },
+    {
+      "term": "CDC - Centers for Disease Control and Prevention Class IV/Dirty-infected",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418422005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Centers for Disease Control and Prevention Class IV/Dirty-infected (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CDC Class IV/Dirty-infected",
+          "lang": "en"
+        },
+        "id": "418422005"
+      }
+    },
+    {
+      "term": "Centers for Disease Control and Prevention Class IV/Dirty-infected (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "418422005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Centers for Disease Control and Prevention Class IV/Dirty-infected (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "CDC Class IV/Dirty-infected",
+          "lang": "en"
+        },
+        "id": "418422005"
+      }
+    }
+  ]
+}

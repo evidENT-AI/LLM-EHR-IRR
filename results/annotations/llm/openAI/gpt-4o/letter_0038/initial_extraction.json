@@ -1,0 +1,194 @@
+{
+  "labels": {
+    "Fiberoptic nasolaryngoscopy": {
+      "context": "Fiberoptic nasolaryngoscopy. Dysphagia with no signs of piriform sinus pooling or aspiration.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "432100008"
+    },
+    "Dysphagia": {
+      "context": "Dysphagia with no signs of piriform sinus pooling or aspiration.",
+      "qualifier": "Symptoms",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "162397003"
+    },
+    "piriform sinus pooling": {
+      "context": "Dysphagia with no signs of piriform sinus pooling or aspiration.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "aspiration": {
+      "context": "Dysphagia with no signs of piriform sinus pooling or aspiration.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "424935004"
+    },
+    "Right parapharyngeal lesion": {
+      "context": "Right parapharyngeal lesion, likely thyroid cartilage, nonhemorrhagic.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "thyroid cartilage": {
+      "context": "Right parapharyngeal lesion, likely thyroid cartilage, nonhemorrhagic.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "nonhemorrhagic": {
+      "context": "Right parapharyngeal lesion, likely thyroid cartilage, nonhemorrhagic.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "93-year-old Caucasian male": {
+      "context": "The patient is a 93-year-old Caucasian male who was admitted to ABCD General Hospital on 08/07/2003 secondary to ischemic ulcer on the right foot.",
+      "qualifier": "Sociodemographics",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "ischemic ulcer": {
+      "context": "The patient is a 93-year-old Caucasian male who was admitted to ABCD General Hospital on 08/07/2003 secondary to ischemic ulcer on the right foot.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "399963005"
+    },
+    "right parapharyngeal hemorrhagic lesion": {
+      "context": "ENT was asked to see the patient regarding postop dysphagia with findings at that time of the consultation on 08/17/03 with a fiberoptic nasolaryngoscopy, a right parapharyngeal hemorrhagic lesion possibly secondary to LMA intubation.",
+      "qualifier": "Diagnoses",
+      "laterality": "right",
+      "presence": "suspected",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "LMA intubation": {
+      "context": "ENT was asked to see the patient regarding postop dysphagia with findings at that time of the consultation on 08/17/03 with a fiberoptic nasolaryngoscopy, a right parapharyngeal hemorrhagic lesion possibly secondary to LMA intubation.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "pre-treatment",
+      "snomed_ct": "NA"
+    },
+    "Speech workup": {
+      "context": "The patient subsequently resolved with his dysphagia and workup of Speech was obtained, which showed no aspiration, no pooling, minimal premature spillage with solids, but good protection of the airway.",
+      "qualifier": "Test Results",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "minimal premature spillage with solids": {
+      "context": "The patient subsequently resolved with his dysphagia and workup of Speech was obtained, which showed no aspiration, no pooling, minimal premature spillage with solids, but good protection of the airway.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "good protection of the airway": {
+      "context": "The patient subsequently resolved with his dysphagia and workup of Speech was obtained, which showed no aspiration, no pooling, minimal premature spillage with solids, but good protection of the airway.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "semi-Fowler's position": {
+      "context": "The patient was brought in the semi-Fowler's position, a fiberoptic nasal laryngoscope was then passed into the patient's right nasal passage, all the way to the nasopharynx.",
+      "qualifier": "Procedures",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "NA",
+      "snomed_ct": "NA"
+    },
+    "no signs of any gross lesions, edema, or ecchymosis": {
+      "context": "The patient's oro and nasopharynx all appeared normal with no signs of any gross lesions, edema, or ecchymosis.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "area of fullness": {
+      "context": "Within the hypopharynx although there was an area of fullness and on the right side around the level of the thyroid cartilage cornu that seemed to be prominent and within the lumen of the hypopharynx.",
+      "qualifier": "Signs",
+      "laterality": "right",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "no signs of any obstruction": {
+      "context": "There were no signs of any obstruction.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "negated",
+      "primary_secondary": "primary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    },
+    "excellent phonation with good glottic closure": {
+      "context": "The patient with excellent phonation with good glottic closure upon phonation and no signs of any aspiration or pooling of secretions.",
+      "qualifier": "Signs",
+      "laterality": "NA",
+      "presence": "confirmed",
+      "primary_secondary": "secondary",
+      "experiencer": "Patient",
+      "treatment_stage": "post-treatment",
+      "snomed_ct": "NA"
+    }
+  }
+}

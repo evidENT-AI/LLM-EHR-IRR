@@ -1,0 +1,1357 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 299,
+      "999000041000000102": 2,
+      "900000000000207008": 239
+    },
+    "semanticTags": {
+      "disorder": 6,
+      "observable entity": 1,
+      "procedure": 19,
+      "finding": 200,
+      "event": 2,
+      "record artifact": 9,
+      "situation": 1,
+      "qualifier value": 3
+    },
+    "language": {
+      "en": 540
+    },
+    "membership": {
+      "1322291000000109": 238,
+      "999004331000000102": 20,
+      "1127601000000107": 200,
+      "1323331000000106": 1,
+      "1127551000000109": 9,
+      "999002271000000101": 22,
+      "900000000000489007": 17,
+      "1382491000000102": 1,
+      "999002571000000104": 7,
+      "900000000000497000": 99,
+      "733073007": 241,
+      "999004381000000103": 1,
+      "1127511000000105": 6,
+      "999002021000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1382491000000102": {
+      "conceptId": "1382491000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Advance decision findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Advance decision findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1382491000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "1127511000000105": {
+      "conceptId": "1127511000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Subject has carer findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Subject has carer findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1127511000000105"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "999002021000000105": {
+      "conceptId": "999002021000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Newborn hearing screening outcome simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Newborn hearing screening outcome simple reference set",
+        "lang": "en"
+      },
+      "id": "999002021000000105"
+    }
+  },
+  "totalElements": 540,
+  "totalPages": 11,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Consent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "61861000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent",
+          "lang": "en"
+        },
+        "id": "61861000000100"
+      }
+    },
+    {
+      "term": "Consented",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "441898007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consented (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consented",
+          "lang": "en"
+        },
+        "id": "441898007"
+      }
+    },
+    {
+      "term": "Self consent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405627000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Self consent (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Self consent",
+          "lang": "en"
+        },
+        "id": "405627000"
+      }
+    },
+    {
+      "term": "Consent form",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "824831000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Consent form (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent form",
+          "lang": "en"
+        },
+        "id": "824831000000101"
+      }
+    },
+    {
+      "term": "Consent status",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309370004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent status (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent status",
+          "lang": "en"
+        },
+        "id": "309370004"
+      }
+    },
+    {
+      "term": "Consent report",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "371537001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent report (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent report",
+          "lang": "en"
+        },
+        "id": "371537001"
+      }
+    },
+    {
+      "term": "Consent section",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "854861000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Consent section (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent section",
+          "lang": "en"
+        },
+        "id": "854861000000105"
+      }
+    },
+    {
+      "term": "No consent - BCG",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "171271006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No consent - bacillus Calmette-Guerin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No consent - BCG",
+          "lang": "en"
+        },
+        "id": "171271006"
+      }
+    },
+    {
+      "term": "Obtaining consent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414925007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obtaining consent (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obtaining consent",
+          "lang": "en"
+        },
+        "id": "414925007"
+      }
+    },
+    {
+      "term": "No consent for MMR",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "171280006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No consent for measles, mumps and rubella vaccine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No consent for MMR",
+          "lang": "en"
+        },
+        "id": "171280006"
+      }
+    },
+    {
+      "term": "Inadequate consent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398227009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inadequate consent (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inadequate consent",
+          "lang": "en"
+        },
+        "id": "398227009"
+      }
+    },
+    {
+      "term": "Anesthetic consent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398172005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent for anesthesia given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent for anesthesia given",
+          "lang": "en"
+        },
+        "id": "398172005"
+      }
+    },
+    {
+      "term": "No consent for MMR1",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "310839003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No consent for measles/mumps/rubella one (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No consent for MMR1",
+          "lang": "en"
+        },
+        "id": "310839003"
+      }
+    },
+    {
+      "term": "No consent for MMR2",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "310840001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No consent for second measles, mumps and rubella vaccine (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No consent for MMR2",
+          "lang": "en"
+        },
+        "id": "310840001"
+      }
+    },
+    {
+      "term": "Recipient consented",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442681007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Recipient consented (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Recipient consented",
+          "lang": "en"
+        },
+        "id": "442681007"
+      }
+    },
+    {
+      "term": "Anaesthetic consent",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398172005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent for anesthesia given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent for anesthesia given",
+          "lang": "en"
+        },
+        "id": "398172005"
+      }
+    },
+    {
+      "term": "Legal agent consented",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "442633000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Legal agent consented (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Legal agent consented",
+          "lang": "en"
+        },
+        "id": "442633000"
+      }
+    },
+    {
+      "term": "Self consent (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405627000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Self consent (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Self consent",
+          "lang": "en"
+        },
+        "id": "405627000"
+      }
+    },
+    {
+      "term": "HPV test consent given",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "391144006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Human papillomavirus test consent given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "HPV test consent given",
+          "lang": "en"
+        },
+        "id": "391144006"
+      }
+    },
+    {
+      "term": "Informed consent given",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "203031000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Informed consent given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Informed consent given",
+          "lang": "en"
+        },
+        "id": "203031000000107"
+      }
+    },
+    {
+      "term": "Consent status (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309370004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent status (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent status",
+          "lang": "en"
+        },
+        "id": "309370004"
+      }
+    },
+    {
+      "term": "Patient consent document",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "721914005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Patient consent document (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Patient consent document",
+          "lang": "en"
+        },
+        "id": "721914005"
+      }
+    },
+    {
+      "term": "Consent for autopsy given",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "408774002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent for postmortem given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent for postmortem given",
+          "lang": "en"
+        },
+        "id": "408774002"
+      }
+    },
+    {
+      "term": "Consent (record artifact)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "61861000000100",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent",
+          "lang": "en"
+        },
+        "id": "61861000000100"
+      }
+    },
+    {
+      "term": "Consent relating to child",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "887021000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Consent relating to child (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent relating to child",
+          "lang": "en"
+        },
+        "id": "887021000000106"
+      }
+    },
+    {
+      "term": "Immunisation consent given",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "310375005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Immunization consent given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Immunization consent given",
+          "lang": "en"
+        },
+        "id": "310375005"
+      }
+    },
+    {
+      "term": "Immunization consent given",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "310375005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Immunization consent given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Immunization consent given",
+          "lang": "en"
+        },
+        "id": "310375005"
+      }
+    },
+    {
+      "term": "No consent DT immunization",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314769006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No consent tetanus plus diphtheria immunization (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No consent DT immunization",
+          "lang": "en"
+        },
+        "id": "314769006"
+      }
+    },
+    {
+      "term": "No consent DT immunisation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314769006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No consent tetanus plus diphtheria immunization (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No consent DT immunization",
+          "lang": "en"
+        },
+        "id": "314769006"
+      }
+    },
+    {
+      "term": "Physician consent obtained",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405628005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Physician consent obtained (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Physician consent obtained",
+          "lang": "en"
+        },
+        "id": "405628005"
+      }
+    },
+    {
+      "term": "Consent for operation given",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "182772006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent for operation given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent for operation given",
+          "lang": "en"
+        },
+        "id": "182772006"
+      }
+    },
+    {
+      "term": "No consent DTP immunisation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314768003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No consent diphtheria, tetanus, pertussis immunization (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No consent DTP immunization",
+          "lang": "en"
+        },
+        "id": "314768003"
+      }
+    },
+    {
+      "term": "No consent DTP immunization",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "314768003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No consent diphtheria, tetanus, pertussis immunization (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No consent DTP immunization",
+          "lang": "en"
+        },
+        "id": "314768003"
+      }
+    },
+    {
+      "term": "Consent for procedure given",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "408835000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent for procedure given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent for procedure given",
+          "lang": "en"
+        },
+        "id": "408835000"
+      }
+    },
+    {
+      "term": "Consented (qualifier value)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "441898007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consented (qualifier value)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consented",
+          "lang": "en"
+        },
+        "id": "441898007"
+      }
+    },
+    {
+      "term": "Incomplete withdrew consent",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "276871000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Newborn hearing screening programme incomplete as withdrew consent during screening (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Newborn hearing screening programme incomplete as withdrew consent during screening",
+          "lang": "en"
+        },
+        "id": "276871000000102"
+      }
+    },
+    {
+      "term": "Consent given for injection",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "845951000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Consent given for injection (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent given for injection",
+          "lang": "en"
+        },
+        "id": "845951000000101"
+      }
+    },
+    {
+      "term": "Inadequate consent (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398227009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inadequate consent (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Inadequate consent",
+          "lang": "en"
+        },
+        "id": "398227009"
+      }
+    },
+    {
+      "term": "Consent for anesthesia given",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398172005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent for anesthesia given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent for anesthesia given",
+          "lang": "en"
+        },
+        "id": "398172005"
+      }
+    },
+    {
+      "term": "Consent given for counseling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "439853000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent given for counseling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent given for counseling",
+          "lang": "en"
+        },
+        "id": "439853000"
+      }
+    },
+    {
+      "term": "Consent for postmortem given",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "408774002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent for postmortem given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent for postmortem given",
+          "lang": "en"
+        },
+        "id": "408774002"
+      }
+    },
+    {
+      "term": "Consent for autopsy declined",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "408775001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent for postmortem declined (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent for postmortem declined",
+          "lang": "en"
+        },
+        "id": "408775001"
+      }
+    },
+    {
+      "term": "Consent for treatment record",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "886971000000109",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Consent for treatment record (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent for treatment record",
+          "lang": "en"
+        },
+        "id": "886971000000109"
+      }
+    },
+    {
+      "term": "Consent given for blood test",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "907131000000101",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Consent given for blood test (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent given for blood test",
+          "lang": "en"
+        },
+        "id": "907131000000101"
+      }
+    },
+    {
+      "term": "Consent for operation refused",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "182773001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent for operation refused (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent for operation refused",
+          "lang": "en"
+        },
+        "id": "182773001"
+      }
+    },
+    {
+      "term": "Full consent for immunization",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "171263007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full consent for immunization (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full consent for immunization",
+          "lang": "en"
+        },
+        "id": "171263007"
+      }
+    },
+    {
+      "term": "Full consent for immunisation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "171263007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Full consent for immunization (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Full consent for immunization",
+          "lang": "en"
+        },
+        "id": "171263007"
+      }
+    },
+    {
+      "term": "Consent for anaesthesia given",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398172005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent for anesthesia given (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent for anesthesia given",
+          "lang": "en"
+        },
+        "id": "398172005"
+      }
+    },
+    {
+      "term": "Obtaining consent (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414925007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Obtaining consent (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Obtaining consent",
+          "lang": "en"
+        },
+        "id": "414925007"
+      }
+    },
+    {
+      "term": "Consent given for counselling",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "439853000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Consent given for counseling (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent given for counseling",
+          "lang": "en"
+        },
+        "id": "439853000"
+      }
+    }
+  ]
+}

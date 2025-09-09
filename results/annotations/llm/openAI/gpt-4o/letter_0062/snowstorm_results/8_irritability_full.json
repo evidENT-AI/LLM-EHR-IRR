@@ -1,0 +1,418 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 14
+    },
+    "semanticTags": {
+      "finding": 6
+    },
+    "language": {
+      "en": 14
+    },
+    "membership": {
+      "1322291000000109": 6,
+      "1127601000000107": 6,
+      "900000000000497000": 6,
+      "733073007": 6,
+      "999002271000000101": 6
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 14,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 14,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Irritability",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "55929007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Feeling irritable (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Feeling irritable",
+          "lang": "en"
+        },
+        "id": "55929007"
+      }
+    },
+    {
+      "term": "Muscle irritability",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271697007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Muscle irritability (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Muscle irritability",
+          "lang": "en"
+        },
+        "id": "271697007"
+      }
+    },
+    {
+      "term": "Bladder irritability",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404220000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irritability of urinary bladder (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irritability of urinary bladder",
+          "lang": "en"
+        },
+        "id": "404220000"
+      }
+    },
+    {
+      "term": "Irritability and anger",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274646000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irritability and anger (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irritability and anger",
+          "lang": "en"
+        },
+        "id": "274646000"
+      }
+    },
+    {
+      "term": "Irritability postvaccinal",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "844583007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irritability after vaccination (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irritability postvaccinal",
+          "lang": "en"
+        },
+        "id": "844583007"
+      }
+    },
+    {
+      "term": "O/E - muscular irritability",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "163652008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - muscular irritability (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - muscular irritability",
+          "lang": "en"
+        },
+        "id": "163652008"
+      }
+    },
+    {
+      "term": "Muscle irritability (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271697007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Muscle irritability (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Muscle irritability",
+          "lang": "en"
+        },
+        "id": "271697007"
+      }
+    },
+    {
+      "term": "Irritability after vaccination",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "844583007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irritability after vaccination (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irritability postvaccinal",
+          "lang": "en"
+        },
+        "id": "844583007"
+      }
+    },
+    {
+      "term": "Irritability of urinary bladder",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404220000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irritability of urinary bladder (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irritability of urinary bladder",
+          "lang": "en"
+        },
+        "id": "404220000"
+      }
+    },
+    {
+      "term": "Irritability and anger (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274646000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irritability and anger (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irritability and anger",
+          "lang": "en"
+        },
+        "id": "274646000"
+      }
+    },
+    {
+      "term": "On examination - muscular irritability",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "163652008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - muscular irritability (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - muscular irritability",
+          "lang": "en"
+        },
+        "id": "163652008"
+      }
+    },
+    {
+      "term": "Irritability after vaccination (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "844583007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irritability after vaccination (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irritability postvaccinal",
+          "lang": "en"
+        },
+        "id": "844583007"
+      }
+    },
+    {
+      "term": "Irritability of urinary bladder (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "404220000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Irritability of urinary bladder (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Irritability of urinary bladder",
+          "lang": "en"
+        },
+        "id": "404220000"
+      }
+    },
+    {
+      "term": "On examination - muscular irritability (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "163652008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - muscular irritability (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - muscular irritability",
+          "lang": "en"
+        },
+        "id": "163652008"
+      }
+    }
+  ]
+}

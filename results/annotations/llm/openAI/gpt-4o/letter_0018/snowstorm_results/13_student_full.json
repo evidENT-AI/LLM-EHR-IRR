@@ -1,0 +1,1275 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 32,
+      "999000041000000102": 1,
+      "900000000000207008": 37
+    },
+    "semanticTags": {
+      "disorder": 1,
+      "environment": 1,
+      "occupation": 16,
+      "observable entity": 1,
+      "procedure": 3,
+      "finding": 8
+    },
+    "language": {
+      "en": 70
+    },
+    "membership": {
+      "1322291000000109": 29,
+      "991291000000101": 1,
+      "1127601000000107": 9,
+      "1382531000000102": 1,
+      "900000000000497000": 18,
+      "733073007": 30,
+      "999002271000000101": 3,
+      "999001571000000109": 16,
+      "900000000000489007": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991291000000101": {
+      "conceptId": "991291000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care place of injury type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care place of injury type simple reference set",
+        "lang": "en"
+      },
+      "id": "991291000000101"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 70,
+  "totalPages": 2,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Student",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "65853000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student",
+          "lang": "en"
+        },
+        "id": "65853000"
+      }
+    },
+    {
+      "term": "Student nurse",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "159005005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student nurse (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student nurse",
+          "lang": "en"
+        },
+        "id": "159005005"
+      }
+    },
+    {
+      "term": "Student hostel",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224682008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student hostel (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student hostel",
+          "lang": "en"
+        },
+        "id": "224682008"
+      }
+    },
+    {
+      "term": "Student midwife",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309454000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student midwife (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student midwife",
+          "lang": "en"
+        },
+        "id": "309454000"
+      }
+    },
+    {
+      "term": "Student's elbow",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "425940002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Inflammation of bursa of olecranon (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Olecranon bursitis",
+          "lang": "en"
+        },
+        "id": "425940002"
+      }
+    },
+    {
+      "term": "Medical student",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398130009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Medical student (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Medical student",
+          "lang": "en"
+        },
+        "id": "398130009"
+      }
+    },
+    {
+      "term": "Overseas student",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "450768005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "International student (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "International student",
+          "lang": "en"
+        },
+        "id": "450768005"
+      }
+    },
+    {
+      "term": "Student residence",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224682008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student hostel (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student hostel",
+          "lang": "en"
+        },
+        "id": "224682008"
+      }
+    },
+    {
+      "term": "Full-time student",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413327003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student in full time education (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student in full time education",
+          "lang": "en"
+        },
+        "id": "413327003"
+      }
+    },
+    {
+      "term": "Part-time student",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5061000175102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student in part-time education (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student in part-time education",
+          "lang": "en"
+        },
+        "id": "5061000175102"
+      }
+    },
+    {
+      "term": "Preceptor: student",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "386392002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Preceptoring: student (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Preceptoring: student",
+          "lang": "en"
+        },
+        "id": "386392002"
+      }
+    },
+    {
+      "term": "Student (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "65853000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student",
+          "lang": "en"
+        },
+        "id": "65853000"
+      }
+    },
+    {
+      "term": "Discord with students",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "105517004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discord with students (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discord with students",
+          "lang": "en"
+        },
+        "id": "105517004"
+      }
+    },
+    {
+      "term": "Preceptoring: student",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "386392002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Preceptoring: student (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Preceptoring: student",
+          "lang": "en"
+        },
+        "id": "386392002"
+      }
+    },
+    {
+      "term": "International student",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "450768005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "International student (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "International student",
+          "lang": "en"
+        },
+        "id": "450768005"
+      }
+    },
+    {
+      "term": "Student health status",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405156004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student health status (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student health status",
+          "lang": "en"
+        },
+        "id": "405156004"
+      }
+    },
+    {
+      "term": "Allied health student",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "840584008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allied health student (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allied health student",
+          "lang": "en"
+        },
+        "id": "840584008"
+      }
+    },
+    {
+      "term": "Student health visitor",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "939111000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Student health visitor (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student health visitor",
+          "lang": "en"
+        },
+        "id": "939111000000107"
+      }
+    },
+    {
+      "term": "Seen by medical student",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185292006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Seen by medical student (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Seen by medical student",
+          "lang": "en"
+        },
+        "id": "185292006"
+      }
+    },
+    {
+      "term": "Student health examination",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "171416008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student health examination (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student health examination",
+          "lang": "en"
+        },
+        "id": "171416008"
+      }
+    },
+    {
+      "term": "Student nurse (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "159005005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student nurse (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student nurse",
+          "lang": "en"
+        },
+        "id": "159005005"
+      }
+    },
+    {
+      "term": "Student midwife (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "309454000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student midwife (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student midwife",
+          "lang": "en"
+        },
+        "id": "309454000"
+      }
+    },
+    {
+      "term": "Medical student (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398130009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Medical student (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Medical student",
+          "lang": "en"
+        },
+        "id": "398130009"
+      }
+    },
+    {
+      "term": "Student hostel (environment)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "224682008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student hostel (environment)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student hostel",
+          "lang": "en"
+        },
+        "id": "224682008"
+      }
+    },
+    {
+      "term": "Student in full time education",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413327003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student in full time education (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student in full time education",
+          "lang": "en"
+        },
+        "id": "413327003"
+      }
+    },
+    {
+      "term": "Student in part-time education",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5061000175102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student in part-time education (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student in part-time education",
+          "lang": "en"
+        },
+        "id": "5061000175102"
+      }
+    },
+    {
+      "term": "Discord with students (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "105517004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Discord with students (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Discord with students",
+          "lang": "en"
+        },
+        "id": "105517004"
+      }
+    },
+    {
+      "term": "Has United Kingdom student visa",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "811031000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Has United Kingdom student visa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has United Kingdom student visa",
+          "lang": "en"
+        },
+        "id": "811031000000102"
+      }
+    },
+    {
+      "term": "Seen by medical student (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "185292006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Seen by medical student (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Seen by medical student",
+          "lang": "en"
+        },
+        "id": "185292006"
+      }
+    },
+    {
+      "term": "Preceptoring: student (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "386392002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Preceptoring: student (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Preceptoring: student",
+          "lang": "en"
+        },
+        "id": "386392002"
+      }
+    },
+    {
+      "term": "International student (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "450768005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "International student (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "International student",
+          "lang": "en"
+        },
+        "id": "450768005"
+      }
+    },
+    {
+      "term": "Allied health student (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "840584008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Allied health student (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Allied health student",
+          "lang": "en"
+        },
+        "id": "840584008"
+      }
+    },
+    {
+      "term": "Student health visitor (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "939111000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Student health visitor (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student health visitor",
+          "lang": "en"
+        },
+        "id": "939111000000107"
+      }
+    },
+    {
+      "term": "Royal Air Force student radiographer",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "472251000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Royal Air Force student radiographer (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Royal Air Force student radiographer",
+          "lang": "en"
+        },
+        "id": "472251000000108"
+      }
+    },
+    {
+      "term": "Has UK (United Kingdom) student visa",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "811031000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Has United Kingdom student visa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has United Kingdom student visa",
+          "lang": "en"
+        },
+        "id": "811031000000102"
+      }
+    },
+    {
+      "term": "Student health examination (procedure)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "171416008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student health examination (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student health examination",
+          "lang": "en"
+        },
+        "id": "171416008"
+      }
+    },
+    {
+      "term": "Consent given for treatment by student",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "769011000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Consent given for treatment by student (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent given for treatment by student",
+          "lang": "en"
+        },
+        "id": "769011000000105"
+      }
+    },
+    {
+      "term": "Student health status (observable entity)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405156004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student health status (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student health status",
+          "lang": "en"
+        },
+        "id": "405156004"
+      }
+    },
+    {
+      "term": "Royal Air Force student dental technician",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "413061000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Royal Air Force student dental technician (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Royal Air Force student dental technician",
+          "lang": "en"
+        },
+        "id": "413061000000104"
+      }
+    },
+    {
+      "term": "Has United Kingdom student visa (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "811031000000102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Has United Kingdom student visa (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Has United Kingdom student visa",
+          "lang": "en"
+        },
+        "id": "811031000000102"
+      }
+    },
+    {
+      "term": "RAF (Royal Air Force) student radiographer",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "472251000000108",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Royal Air Force student radiographer (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Royal Air Force student radiographer",
+          "lang": "en"
+        },
+        "id": "472251000000108"
+      }
+    },
+    {
+      "term": "Student in full time education (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413327003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student in full time education (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student in full time education",
+          "lang": "en"
+        },
+        "id": "413327003"
+      }
+    },
+    {
+      "term": "Royal Air Force student mental health nurse",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "444451000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Royal Air Force student mental health nurse (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Royal Air Force student mental health nurse",
+          "lang": "en"
+        },
+        "id": "444451000000104"
+      }
+    },
+    {
+      "term": "Royal Air Force student pharmacy technician",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "442861000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Royal Air Force student pharmacy technician (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Royal Air Force student pharmacy technician",
+          "lang": "en"
+        },
+        "id": "442861000000106"
+      }
+    },
+    {
+      "term": "Student in part-time education (occupation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "5061000175102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Student in part-time education (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Student in part-time education",
+          "lang": "en"
+        },
+        "id": "5061000175102"
+      }
+    },
+    {
+      "term": "Royal Air Force student laboratory technician",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "403051000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Royal Air Force student laboratory technician (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Royal Air Force student laboratory technician",
+          "lang": "en"
+        },
+        "id": "403051000000104"
+      }
+    },
+    {
+      "term": "RAF (Royal Air Force) student dental technician",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "413061000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Royal Air Force student dental technician (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Royal Air Force student dental technician",
+          "lang": "en"
+        },
+        "id": "413061000000104"
+      }
+    },
+    {
+      "term": "Consent given for treatment by student (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "769011000000105",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Consent given for treatment by student (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Consent given for treatment by student",
+          "lang": "en"
+        },
+        "id": "769011000000105"
+      }
+    },
+    {
+      "term": "RAF (Royal Air Force) student mental health nurse",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "444451000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Royal Air Force student mental health nurse (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Royal Air Force student mental health nurse",
+          "lang": "en"
+        },
+        "id": "444451000000104"
+      }
+    },
+    {
+      "term": "RAF (Royal Air Force) student pharmacy technician",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "442861000000106",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Royal Air Force student pharmacy technician (occupation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Royal Air Force student pharmacy technician",
+          "lang": "en"
+        },
+        "id": "442861000000106"
+      }
+    }
+  ]
+}

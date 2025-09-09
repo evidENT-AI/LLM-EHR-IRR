@@ -1,0 +1,1616 @@
+{
+  "buckets": {
+    "module": {
+      "999000021000001108": 3,
+      "999000011000000103": 63,
+      "900000000000207008": 523
+    },
+    "semanticTags": {
+      "regime/therapy": 6,
+      "foundation metadata concept": 1,
+      "disorder": 177,
+      "environment": 1,
+      "assessment scale": 8,
+      "observable entity": 5,
+      "procedure": 34,
+      "finding": 21,
+      "situation": 15,
+      "record artifact": 3,
+      "qualifier value": 1
+    },
+    "language": {
+      "en": 589
+    },
+    "membership": {
+      "1322291000000109": 271,
+      "999004331000000102": 8,
+      "1127531000000102": 1,
+      "999003161000000108": 2,
+      "1127551000000109": 3,
+      "999002271000000101": 370,
+      "2222191000000108": 1,
+      "2181141000000103": 3,
+      "999003181000000104": 1,
+      "999002571000000104": 1,
+      "900000000000497000": 239,
+      "999001471000000108": 3,
+      "1382401000000109": 51,
+      "991411000000109": 3,
+      "1127601000000107": 212,
+      "1382531000000102": 142,
+      "999003091000000101": 2,
+      "999001061000000106": 17,
+      "2222221000000101": 1,
+      "900000000000489007": 10,
+      "1128731000000105": 1,
+      "1128781000000109": 1,
+      "999002061000000102": 1,
+      "1323341000000102": 1,
+      "733073007": 274,
+      "999004381000000103": 2,
+      "999001111000000105": 4,
+      "991381000000107": 4,
+      "900000000000456007": 1,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127531000000102": {
+      "conceptId": "1127531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Services simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Services simple reference set",
+        "lang": "en"
+      },
+      "id": "1127531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "2181141000000103": {
+      "conceptId": "2181141000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric cardiovascular disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric cardiovascular disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2181141000000103"
+    },
+    "999003181000000104": {
+      "conceptId": "999003181000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1C Uncertain diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003181000000104"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "999001471000000108": {
+      "conceptId": "999001471000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Care plan type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Care plan type simple reference set",
+        "lang": "en"
+      },
+      "id": "999001471000000108"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003091000000101": {
+      "conceptId": "999003091000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Sexual health issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Sexual health issues simple reference set",
+        "lang": "en"
+      },
+      "id": "999003091000000101"
+    },
+    "2222221000000101": {
+      "conceptId": "2222221000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric perinatal and neonatal disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric perinatal and neonatal disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222221000000101"
+    },
+    "999001061000000106": {
+      "conceptId": "999001061000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Renal clinical finding simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Renal clinical finding simple reference set",
+        "lang": "en"
+      },
+      "id": "999001061000000106"
+    },
+    "900000000000489007": {
+      "conceptId": "900000000000489007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Concept inactivation indicator attribute value reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Concept inactivation indicator reference set",
+        "lang": "en"
+      },
+      "id": "900000000000489007"
+    },
+    "1128731000000105": {
+      "conceptId": "1128731000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional assessment scale observables simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional assessment scale observables simple reference set",
+        "lang": "en"
+      },
+      "id": "1128731000000105"
+    },
+    "1128781000000109": {
+      "conceptId": "1128781000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional assessment scale procedures simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional assessment scale procedures simple reference set",
+        "lang": "en"
+      },
+      "id": "1128781000000109"
+    },
+    "999002061000000102": {
+      "conceptId": "999002061000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional diagnostic findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional diagnostic findings simple reference set",
+        "lang": "en"
+      },
+      "id": "999002061000000102"
+    },
+    "1323341000000102": {
+      "conceptId": "1323341000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Treatment Function services for England simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Treatment Function services for England simple reference set",
+        "lang": "en"
+      },
+      "id": "1323341000000102"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999004381000000103": {
+      "conceptId": "999004381000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "General practice summary data sharing exclusion for sexually transmitted disease simple reference set",
+        "lang": "en"
+      },
+      "id": "999004381000000103"
+    },
+    "999000021000001108": {
+      "conceptId": "999000021000001108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom drug extension reference set module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom drug extension reference set module",
+        "lang": "en"
+      },
+      "id": "999000021000001108"
+    },
+    "999001111000000105": {
+      "conceptId": "999001111000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "United Kingdom diagnostic imaging procedure simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "United Kingdom diagnostic imaging procedure simple reference set",
+        "lang": "en"
+      },
+      "id": "999001111000000105"
+    },
+    "991381000000107": {
+      "conceptId": "991381000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Comorbid conditions for selection simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Comorbid conditions for selection simple reference set",
+        "lang": "en"
+      },
+      "id": "991381000000107"
+    },
+    "900000000000456007": {
+      "conceptId": "900000000000456007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "Reference set descriptor reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Reference set descriptor",
+        "lang": "en"
+      },
+      "id": "900000000000456007"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 589,
+  "totalPages": 12,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56265001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Heart disease",
+          "lang": "en"
+        },
+        "id": "56265001"
+      }
+    },
+    {
+      "term": "Acute heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127337006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute heart disease",
+          "lang": "en"
+        },
+        "id": "127337006"
+      }
+    },
+    {
+      "term": "Heart valve disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "368009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Heart valve disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Heart valve disorder",
+          "lang": "en"
+        },
+        "id": "368009"
+      }
+    },
+    {
+      "term": "Chronic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128238001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic heart disease",
+          "lang": "en"
+        },
+        "id": "128238001"
+      }
+    },
+    {
+      "term": "Fear of heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "723086009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Fear of heart disease (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Fear of heart disease",
+          "lang": "en"
+        },
+        "id": "723086009"
+      }
+    },
+    {
+      "term": "Pick disease of heart",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "85598007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Constrictive pericarditis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Constrictive pericarditis",
+          "lang": "en"
+        },
+        "id": "85598007"
+      }
+    },
+    {
+      "term": "Valvular heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "368009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Heart valve disorder (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Heart valve disorder",
+          "lang": "en"
+        },
+        "id": "368009"
+      }
+    },
+    {
+      "term": "Myxedema heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4641009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Myxedema heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Myxedema heart disease",
+          "lang": "en"
+        },
+        "id": "4641009"
+      }
+    },
+    {
+      "term": "Glycogen heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "274864009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Glycogen storage disease due to acid maltase deficiency (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glycogen storage disease due to acid maltase deficiency",
+          "lang": "en"
+        },
+        "id": "274864009"
+      }
+    },
+    {
+      "term": "Beriberi heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "61179004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiac beriberi (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiac beriberi",
+          "lang": "en"
+        },
+        "id": "61179004"
+      }
+    },
+    {
+      "term": "Heart disease excluded",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "394926003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Heart disease excluded (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Heart disease excluded",
+          "lang": "en"
+        },
+        "id": "394926003"
+      }
+    },
+    {
+      "term": "Ischemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414545008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ischemic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "414545008"
+      }
+    },
+    {
+      "term": "Coronary heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "53741008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Coronary arteriosclerosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Coronary arteriosclerosis",
+          "lang": "en"
+        },
+        "id": "53741008"
+      }
+    },
+    {
+      "term": "Myxoedema heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "4641009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Myxedema heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Myxedema heart disease",
+          "lang": "en"
+        },
+        "id": "4641009"
+      }
+    },
+    {
+      "term": "Rheumatic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "23685000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Rheumatic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Rheumatic heart disease",
+          "lang": "en"
+        },
+        "id": "23685000"
+      }
+    },
+    {
+      "term": "Carcinoid heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36222008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Carcinoid heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Carcinoid heart disease",
+          "lang": "en"
+        },
+        "id": "36222008"
+      }
+    },
+    {
+      "term": "Heart disease screening",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "171221008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Heart disease screening (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Heart disease screening",
+          "lang": "en"
+        },
+        "id": "171221008"
+      }
+    },
+    {
+      "term": "Suspected heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "394886001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Suspected heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Suspected heart disease",
+          "lang": "en"
+        },
+        "id": "394886001"
+      }
+    },
+    {
+      "term": "Ischaemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414545008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ischemic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "414545008"
+      }
+    },
+    {
+      "term": "Pulmonary heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "83291003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cor pulmonale (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cor pulmonale",
+          "lang": "en"
+        },
+        "id": "83291003"
+      }
+    },
+    {
+      "term": "Congenital heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "13213009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congenital heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congenital heart disease",
+          "lang": "en"
+        },
+        "id": "13213009"
+      }
+    },
+    {
+      "term": "Gonococcal heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9241004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Gonococcal heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Gonococcal heart disease",
+          "lang": "en"
+        },
+        "id": "9241004"
+      }
+    },
+    {
+      "term": "Congestive heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "42343007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Congestive heart failure (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Congestive heart failure",
+          "lang": "en"
+        },
+        "id": "42343007"
+      }
+    },
+    {
+      "term": "Heart disease monitoring",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "268509003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Cardiac disease monitoring (regime/therapy)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Cardiac disease monitoring",
+          "lang": "en"
+        },
+        "id": "268509003"
+      }
+    },
+    {
+      "term": "FH: Congen heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160364005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Congenital heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Congenital heart disease",
+          "lang": "en"
+        },
+        "id": "160364005"
+      }
+    },
+    {
+      "term": "At risk of heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161639008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At increased risk of heart disease (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At increased risk of heart disease",
+          "lang": "en"
+        },
+        "id": "161639008"
+      }
+    },
+    {
+      "term": "Chronic disease of heart",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128238001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Chronic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Chronic heart disease",
+          "lang": "en"
+        },
+        "id": "128238001"
+      }
+    },
+    {
+      "term": "Heart disease (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "56265001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Heart disease",
+          "lang": "en"
+        },
+        "id": "56265001"
+      }
+    },
+    {
+      "term": "Hyperkinetic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27012009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hyperkinetic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hyperkinetic heart disease",
+          "lang": "en"
+        },
+        "id": "27012009"
+      }
+    },
+    {
+      "term": "Hypertensive heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64715009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Hypertensive heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Hypertensive heart disease",
+          "lang": "en"
+        },
+        "id": "64715009"
+      }
+    },
+    {
+      "term": "FH: Ischemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297242006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of ischemic heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "297242006"
+      }
+    },
+    {
+      "term": "High risk of heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "161640005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "At high risk for heart disease (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "At high risk for heart disease",
+          "lang": "en"
+        },
+        "id": "161640005"
+      }
+    },
+    {
+      "term": "Coronary heart disease risk",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "315290008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Coronary heart disease risk (assessment scale)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Coronary heart disease risk",
+          "lang": "en"
+        },
+        "id": "315290008"
+      }
+    },
+    {
+      "term": "FH: Ischaemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "297242006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history of ischemic heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Family history of ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "297242006"
+      }
+    },
+    {
+      "term": "Infectious disease of heart",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "128403000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Infectious disease of heart (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Infectious disease of heart",
+          "lang": "en"
+        },
+        "id": "128403000"
+      }
+    },
+    {
+      "term": "Heart disease in childbirth",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "10753101000119102",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Heart disease in mother complicating childbirth (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Heart disease in mother complicating childbirth",
+          "lang": "en"
+        },
+        "id": "10753101000119102"
+      }
+    },
+    {
+      "term": "Kyphoscoliotic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "45650007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Kyphoscoliotic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Kyphoscoliotic heart disease",
+          "lang": "en"
+        },
+        "id": "45650007"
+      }
+    },
+    {
+      "term": "Sarcoid heart muscle disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "195033009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sarcoid heart muscle disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sarcoid heart muscle disease",
+          "lang": "en"
+        },
+        "id": "195033009"
+      }
+    },
+    {
+      "term": "FH: Congenital heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "160364005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Family history: Congenital heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "FH: Congenital heart disease",
+          "lang": "en"
+        },
+        "id": "160364005"
+      }
+    },
+    {
+      "term": "Amyloid heart muscle disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "16573007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Senile cardiac amyloidosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Senile cardiac amyloidosis",
+          "lang": "en"
+        },
+        "id": "16573007"
+      }
+    },
+    {
+      "term": "IHD - Ischemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414545008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ischemic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "414545008"
+      }
+    },
+    {
+      "term": "Acute ischemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413439005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute ischemic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "413439005"
+      }
+    },
+    {
+      "term": "CHD - Coronary heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "53741008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Coronary arteriosclerosis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Coronary arteriosclerosis",
+          "lang": "en"
+        },
+        "id": "53741008"
+      }
+    },
+    {
+      "term": "No FH: Ischemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "266882009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No family history: Ischemic heart disease (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No FH: Ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "266882009"
+      }
+    },
+    {
+      "term": "Acute rheumatic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "312591002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute rheumatic fever with heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute rheumatic heart disease",
+          "lang": "en"
+        },
+        "id": "312591002"
+      }
+    },
+    {
+      "term": "Coronary heart disease review",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "390799004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Coronary heart disease review (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Coronary heart disease review",
+          "lang": "en"
+        },
+        "id": "390799004"
+      }
+    },
+    {
+      "term": "IHD - Ischaemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "414545008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Ischemic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "414545008"
+      }
+    },
+    {
+      "term": "Acute ischaemic heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "413439005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute ischemic heart disease (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute ischemic heart disease",
+          "lang": "en"
+        },
+        "id": "413439005"
+      }
+    },
+    {
+      "term": "Acute pulmonary heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "49584005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Acute cor pulmonale (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Acute cor pulmonale",
+          "lang": "en"
+        },
+        "id": "49584005"
+      }
+    },
+    {
+      "term": "Familial amyloid heart disease",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27097002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Danish type familial amyloid cardiomyopathy (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Danish type familial amyloid cardiomyopathy",
+          "lang": "en"
+        },
+        "id": "27097002"
+      }
+    }
+  ]
+}

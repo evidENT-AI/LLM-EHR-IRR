@@ -1,0 +1,1395 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000012004": 2,
+      "900000000000207008": 704
+    },
+    "semanticTags": {
+      "regime/therapy": 6,
+      "navigational concept": 1,
+      "occupation": 1,
+      "observable entity": 16,
+      "procedure": 106,
+      "finding": 44,
+      "qualifier value": 1,
+      "disorder": 62,
+      "environment": 3,
+      "physical object": 77,
+      "attribute": 1,
+      "event": 1,
+      "situation": 9,
+      "record artifact": 2
+    },
+    "language": {
+      "en": 706
+    },
+    "membership": {
+      "1322291000000109": 317,
+      "999004331000000102": 1,
+      "1127601000000107": 109,
+      "1382531000000102": 37,
+      "1323331000000106": 2,
+      "999003161000000108": 1,
+      "1127551000000109": 2,
+      "991271000000100": 4,
+      "1128991000000109": 1,
+      "999002271000000101": 305,
+      "999001571000000109": 1,
+      "1323321000000109": 1,
+      "999000401000000107": 77,
+      "999002571000000104": 7,
+      "900000000000497000": 330,
+      "733073007": 334,
+      "1382401000000109": 193
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "900000000000012004": {
+      "conceptId": "900000000000012004",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT model component module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT model component",
+        "lang": "en"
+      },
+      "id": "900000000000012004"
+    },
+    "999004331000000102": {
+      "conceptId": "999004331000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Summary Care Record inclusion simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Summary Care Record inclusion simple reference set",
+        "lang": "en"
+      },
+      "id": "999004331000000102"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1323331000000106": {
+      "conceptId": "1323331000000106",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated inclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323331000000106"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999003161000000108": {
+      "conceptId": "999003161000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999003161000000108"
+    },
+    "1127551000000109": {
+      "conceptId": "1127551000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Record composition type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Record composition type simple reference set",
+        "lang": "en"
+      },
+      "id": "1127551000000109"
+    },
+    "1128991000000109": {
+      "conceptId": "1128991000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Nutritional clinical assessment findings simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Nutritional clinical assessment findings simple reference set",
+        "lang": "en"
+      },
+      "id": "1128991000000109"
+    },
+    "991271000000100": {
+      "conceptId": "991271000000100",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care treatments simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care treatments simple reference set",
+        "lang": "en"
+      },
+      "id": "991271000000100"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999001571000000109": {
+      "conceptId": "999001571000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Occupation simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Occupation simple reference set",
+        "lang": "en"
+      },
+      "id": "999001571000000109"
+    },
+    "1323321000000109": {
+      "conceptId": "1323321000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter professionally mediated exclusions simple reference set",
+        "lang": "en"
+      },
+      "id": "1323321000000109"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "999000401000000107": {
+      "conceptId": "999000401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "Device type simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Device type simple reference set",
+        "lang": "en"
+      },
+      "id": "999000401000000107"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "1382401000000109": {
+      "conceptId": "1382401000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Office of Population Censuses and Surveys Classification of Interventions and Procedures Version 4.10 complex map reference set",
+        "lang": "en"
+      },
+      "id": "1382401000000109"
+    }
+  },
+  "totalElements": 706,
+  "totalPages": 15,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33653009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Absence of sensation (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Absence of sensation",
+          "lang": "en"
+        },
+        "id": "33653009"
+      }
+    },
+    {
+      "term": "Anesthesia unit",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "15644007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia unit, device (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia unit",
+          "lang": "en"
+        },
+        "id": "15644007"
+      }
+    },
+    {
+      "term": "Deep anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248232007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Deep anesthesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Deep anesthesia",
+          "lang": "en"
+        },
+        "id": "248232007"
+      }
+    },
+    {
+      "term": "Anesthesia type",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398275004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia type (navigational concept)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia type",
+          "lang": "en"
+        },
+        "id": "398275004"
+      }
+    },
+    {
+      "term": "Anesthesia mask",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "706227009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia mask (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia mask",
+          "lang": "en"
+        },
+        "id": "706227009"
+      }
+    },
+    {
+      "term": "Frost anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "9935002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Local anesthesia, surface, by refrigerant (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Local anesthesia, surface, by refrigerant",
+          "lang": "en"
+        },
+        "id": "9935002"
+      }
+    },
+    {
+      "term": "Glove anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "63755003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Glove anesthesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Glove anesthesia",
+          "lang": "en"
+        },
+        "id": "63755003"
+      }
+    },
+    {
+      "term": "Light anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "248231000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Light anesthesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Light anesthesia",
+          "lang": "en"
+        },
+        "id": "248231000"
+      }
+    },
+    {
+      "term": "Local anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "386761002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Local anesthesia (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Local anesthesia",
+          "lang": "en"
+        },
+        "id": "386761002"
+      }
+    },
+    {
+      "term": "Under anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "421642003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Under anesthesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Under anesthesia",
+          "lang": "en"
+        },
+        "id": "421642003"
+      }
+    },
+    {
+      "term": "Sexual anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27433005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Sexual anesthesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Sexual anesthesia",
+          "lang": "en"
+        },
+        "id": "27433005"
+      }
+    },
+    {
+      "term": "Anesthesia device",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398203007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia equipment (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia equipment",
+          "lang": "en"
+        },
+        "id": "398203007"
+      }
+    },
+    {
+      "term": "Anesthesia warmer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "470715003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia warmer (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia warmer",
+          "lang": "en"
+        },
+        "id": "470715003"
+      }
+    },
+    {
+      "term": "Anesthesia needle",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "706206004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia needle (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia needle",
+          "lang": "en"
+        },
+        "id": "706206004"
+      }
+    },
+    {
+      "term": "Anesthesia screen",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "469797003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia screen (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia screen",
+          "lang": "en"
+        },
+        "id": "469797003"
+      }
+    },
+    {
+      "term": "Spinal anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "231249005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Local anesthetic intrathecal block (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Spinal anesthesia",
+          "lang": "en"
+        },
+        "id": "231249005"
+      }
+    },
+    {
+      "term": "Saddle anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "449813001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Numbness of saddle area (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Numbness of saddle area",
+          "lang": "en"
+        },
+        "id": "449813001"
+      }
+    },
+    {
+      "term": "Anesthesia record",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "416779005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia record (record artifact)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia record",
+          "lang": "en"
+        },
+        "id": "416779005"
+      }
+    },
+    {
+      "term": "Mucosal anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "95357004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia of mucous membrane (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia of mucous membrane",
+          "lang": "en"
+        },
+        "id": "95357004"
+      }
+    },
+    {
+      "term": "Tactile anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "37651007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Tactile anesthesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Tactile anesthesia",
+          "lang": "en"
+        },
+        "id": "37651007"
+      }
+    },
+    {
+      "term": "General anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50697003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Administration of general anesthetic (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Administration of general anesthetic",
+          "lang": "en"
+        },
+        "id": "50697003"
+      }
+    },
+    {
+      "term": "Thermal anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "64697009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Thermal anesthesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Thermal anesthesia",
+          "lang": "en"
+        },
+        "id": "64697009"
+      }
+    },
+    {
+      "term": "Anesthesia of skin",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271805006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia of skin (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia of skin",
+          "lang": "en"
+        },
+        "id": "271805006"
+      }
+    },
+    {
+      "term": "Corneal anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "373423002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Corneal anesthesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Corneal anesthesia",
+          "lang": "en"
+        },
+        "id": "373423002"
+      }
+    },
+    {
+      "term": "Sensory anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "33653009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Absence of sensation (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Absence of sensation",
+          "lang": "en"
+        },
+        "id": "33653009"
+      }
+    },
+    {
+      "term": "Anesthesia to pain",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "38433004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No sensitivity to pain (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No sensitivity to pain",
+          "lang": "en"
+        },
+        "id": "38433004"
+      }
+    },
+    {
+      "term": "Anesthesia syringe",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "470281001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia syringe (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia syringe",
+          "lang": "en"
+        },
+        "id": "470281001"
+      }
+    },
+    {
+      "term": "Anesthesia cabinet",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "470017003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia cabinet (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia cabinet",
+          "lang": "en"
+        },
+        "id": "470017003"
+      }
+    },
+    {
+      "term": "Anesthesia machine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405605009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia machine (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia machine",
+          "lang": "en"
+        },
+        "id": "405605009"
+      }
+    },
+    {
+      "term": "Epidural anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "18946005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Epidural anesthesia (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Epidural anesthesia",
+          "lang": "en"
+        },
+        "id": "18946005"
+      }
+    },
+    {
+      "term": "Regional anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "27372005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Regional anesthesia (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Regional anesthesia",
+          "lang": "en"
+        },
+        "id": "27372005"
+      }
+    },
+    {
+      "term": "Stocking anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "66085007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Stocking anesthesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Stocking anesthesia",
+          "lang": "en"
+        },
+        "id": "66085007"
+      }
+    },
+    {
+      "term": "Depth of anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "250840001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Depth of anesthesia (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Depth of anesthesia",
+          "lang": "en"
+        },
+        "id": "250840001"
+      }
+    },
+    {
+      "term": "Anesthesia dolorosa",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "247405003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Pain in area of anesthesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Pain in area of anesthesia",
+          "lang": "en"
+        },
+        "id": "247405003"
+      }
+    },
+    {
+      "term": "Adequate anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "421948002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "General anesthesia - under adequate anesthesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "General anesthesia - under adequate anesthesia",
+          "lang": "en"
+        },
+        "id": "421948002"
+      }
+    },
+    {
+      "term": "Anesthesia catheter",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "706197009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia catheter (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia catheter",
+          "lang": "en"
+        },
+        "id": "706197009"
+      }
+    },
+    {
+      "term": "Peridural anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "18946005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Epidural anesthesia (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Epidural anesthesia",
+          "lang": "en"
+        },
+        "id": "18946005"
+      }
+    },
+    {
+      "term": "Non-local anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "118491005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Non-local anesthesia procedure (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Non-local anesthesia procedure",
+          "lang": "en"
+        },
+        "id": "118491005"
+      }
+    },
+    {
+      "term": "Gustatory anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "36955009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Loss of taste (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Loss of taste",
+          "lang": "en"
+        },
+        "id": "36955009"
+      }
+    },
+    {
+      "term": "Anesthesia morbidity",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "397936000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia morbidity (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia morbidity",
+          "lang": "en"
+        },
+        "id": "397936000"
+      }
+    },
+    {
+      "term": "Anesthesia equipment",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398203007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia equipment (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia equipment",
+          "lang": "en"
+        },
+        "id": "398203007"
+      }
+    },
+    {
+      "term": "Anesthesia vaporizer",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "706189002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia vaporizer (physical object)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia vaporizer",
+          "lang": "en"
+        },
+        "id": "706189002"
+      }
+    },
+    {
+      "term": "Anesthesia induction",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "241687005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Induction of general anesthesia (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Induction of general anesthesia",
+          "lang": "en"
+        },
+        "id": "241687005"
+      }
+    },
+    {
+      "term": "Anesthesia procedure",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "399097000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Administration of anesthesia (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Administration of anesthesia",
+          "lang": "en"
+        },
+        "id": "399097000"
+      }
+    },
+    {
+      "term": "Anesthesia milestone",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405643007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia procedure milestone (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia procedure milestone",
+          "lang": "en"
+        },
+        "id": "405643007"
+      }
+    },
+    {
+      "term": "Making anesthesia bed",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "26892002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Making anesthesia bed (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Making anesthesia bed",
+          "lang": "en"
+        },
+        "id": "26892002"
+      }
+    },
+    {
+      "term": "Control of anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000012004",
+      "concept": {
+        "conceptId": "260706006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000012004",
+        "fsn": {
+          "term": "Control of anesthesia (attribute)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Control of anesthesia",
+          "lang": "en"
+        },
+        "id": "260706006"
+      }
+    },
+    {
+      "term": "Anesthesia start time",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "398325003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia start time (observable entity)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia start time",
+          "lang": "en"
+        },
+        "id": "398325003"
+      }
+    },
+    {
+      "term": "Anesthesia management",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "386513007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Anesthesia management (procedure)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Anesthesia management",
+          "lang": "en"
+        },
+        "id": "386513007"
+      }
+    },
+    {
+      "term": "LA - local anesthesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "422156002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Under local anesthesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Under local anesthesia",
+          "lang": "en"
+        },
+        "id": "422156002"
+      }
+    }
+  ]
+}

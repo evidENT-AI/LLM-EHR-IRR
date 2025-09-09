@@ -1,0 +1,597 @@
+{
+  "buckets": {
+    "module": {
+      "900000000000207008": 21
+    },
+    "semanticTags": {
+      "disorder": 8
+    },
+    "language": {
+      "en": 21
+    },
+    "membership": {
+      "1322291000000109": 8,
+      "1127601000000107": 7,
+      "1382531000000102": 8,
+      "999002571000000104": 1,
+      "900000000000497000": 8,
+      "999002271000000101": 14,
+      "733073007": 8
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "999002571000000104": {
+      "conceptId": "999002571000000104",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Default exclusion filter simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Default exclusion filter simple reference set",
+        "lang": "en"
+      },
+      "id": "999002571000000104"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    }
+  },
+  "totalElements": 21,
+  "totalPages": 1,
+  "last": true,
+  "numberOfElements": 21,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Perforation of large intestine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303078007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation of large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perforation of large intestine",
+          "lang": "en"
+        },
+        "id": "303078007"
+      }
+    },
+    {
+      "term": "Traumatic perforation of large intestine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50008003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic perforation of large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic perforation of large intestine",
+          "lang": "en"
+        },
+        "id": "50008003"
+      }
+    },
+    {
+      "term": "Non-traumatic perforation of large bowel",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405579008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nontraumatic perforation of large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nontraumatic perforation of large intestine",
+          "lang": "en"
+        },
+        "id": "405579008"
+      }
+    },
+    {
+      "term": "Perforation of large intestine (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "303078007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation of large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perforation of large intestine",
+          "lang": "en"
+        },
+        "id": "303078007"
+      }
+    },
+    {
+      "term": "Spontaneous perforation of large intestine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1197666004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Spontaneous perforation of large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Spontaneous perforation of large intestine",
+          "lang": "en"
+        },
+        "id": "1197666004"
+      }
+    },
+    {
+      "term": "Nontraumatic perforation of large intestine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405579008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nontraumatic perforation of large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nontraumatic perforation of large intestine",
+          "lang": "en"
+        },
+        "id": "405579008"
+      }
+    },
+    {
+      "term": "Traumatic perforation of large intestine (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "50008003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic perforation of large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic perforation of large intestine",
+          "lang": "en"
+        },
+        "id": "50008003"
+      }
+    },
+    {
+      "term": "Spontaneous perforation of large intestine (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1197666004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Spontaneous perforation of large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Spontaneous perforation of large intestine",
+          "lang": "en"
+        },
+        "id": "1197666004"
+      }
+    },
+    {
+      "term": "Nontraumatic perforation of large intestine (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "405579008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Nontraumatic perforation of large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Nontraumatic perforation of large intestine",
+          "lang": "en"
+        },
+        "id": "405579008"
+      }
+    },
+    {
+      "term": "Diverticulitis of small and large intestine with perforation",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1086441000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation of large and small intestine due to diverticulitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diverticulitis of small and large intestine with perforation",
+          "lang": "en"
+        },
+        "id": "1086441000119100"
+      }
+    },
+    {
+      "term": "Perforation of large and small intestine due to diverticulitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1086441000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation of large and small intestine due to diverticulitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diverticulitis of small and large intestine with perforation",
+          "lang": "en"
+        },
+        "id": "1086441000119100"
+      }
+    },
+    {
+      "term": "Perforation and abscess of large intestine due to diverticulitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722855007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation and abscess of large intestine co-occurrent and due to diverticulitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perforation and abscess of large intestine co-occurrent and due to diverticulitis",
+          "lang": "en"
+        },
+        "id": "722855007"
+      }
+    },
+    {
+      "term": "Perforation of large and small intestine due to diverticulitis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "1086441000119100",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation of large and small intestine due to diverticulitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diverticulitis of small and large intestine with perforation",
+          "lang": "en"
+        },
+        "id": "1086441000119100"
+      }
+    },
+    {
+      "term": "Perforation and abscess with diverticular disease of small and large intestine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "197112002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation and abscess co-occurrent and due to diverticular disease of both small and large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perforation and abscess with diverticular disease of small and large intestine",
+          "lang": "en"
+        },
+        "id": "197112002"
+      }
+    },
+    {
+      "term": "Perforation and abscess of large intestine co-occurrent and due to diverticulitis",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722855007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation and abscess of large intestine co-occurrent and due to diverticulitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perforation and abscess of large intestine co-occurrent and due to diverticulitis",
+          "lang": "en"
+        },
+        "id": "722855007"
+      }
+    },
+    {
+      "term": "Diverticular disease of both small and large intestine with perforation and abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "197112002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation and abscess co-occurrent and due to diverticular disease of both small and large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perforation and abscess with diverticular disease of small and large intestine",
+          "lang": "en"
+        },
+        "id": "197112002"
+      }
+    },
+    {
+      "term": "Diverticular disease of both small and large intestine without perforation or abscess",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "197091007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diverticular disease of both small and large intestine without perforation or abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diverticular disease of both small and large intestine without perforation or abscess",
+          "lang": "en"
+        },
+        "id": "197091007"
+      }
+    },
+    {
+      "term": "Perforation and abscess of large intestine co-occurrent and due to diverticulitis (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "722855007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation and abscess of large intestine co-occurrent and due to diverticulitis (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perforation and abscess of large intestine co-occurrent and due to diverticulitis",
+          "lang": "en"
+        },
+        "id": "722855007"
+      }
+    },
+    {
+      "term": "Diverticular disease of both small and large intestine without perforation or abscess (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "197091007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Diverticular disease of both small and large intestine without perforation or abscess (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Diverticular disease of both small and large intestine without perforation or abscess",
+          "lang": "en"
+        },
+        "id": "197091007"
+      }
+    },
+    {
+      "term": "Perforation and abscess co-occurrent and due to diverticular disease of both small and large intestine",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "197112002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation and abscess co-occurrent and due to diverticular disease of both small and large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perforation and abscess with diverticular disease of small and large intestine",
+          "lang": "en"
+        },
+        "id": "197112002"
+      }
+    },
+    {
+      "term": "Perforation and abscess co-occurrent and due to diverticular disease of both small and large intestine (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "197112002",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Perforation and abscess co-occurrent and due to diverticular disease of both small and large intestine (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Perforation and abscess with diverticular disease of small and large intestine",
+          "lang": "en"
+        },
+        "id": "197112002"
+      }
+    }
+  ]
+}

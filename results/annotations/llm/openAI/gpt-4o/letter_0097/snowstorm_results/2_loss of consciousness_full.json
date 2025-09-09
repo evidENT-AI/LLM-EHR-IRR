@@ -1,0 +1,1288 @@
+{
+  "buckets": {
+    "module": {
+      "999000011000000103": 6,
+      "999000041000000102": 1,
+      "900000000000207008": 114
+    },
+    "semanticTags": {
+      "disorder": 44,
+      "finding": 9,
+      "situation": 1
+    },
+    "language": {
+      "en": 121
+    },
+    "membership": {
+      "1322291000000109": 54,
+      "991411000000109": 3,
+      "1127601000000107": 54,
+      "1382531000000102": 40,
+      "900000000000497000": 52,
+      "991401000000107": 3,
+      "999002271000000101": 88,
+      "733073007": 54,
+      "2222191000000108": 1,
+      "999001751000000105": 1
+    }
+  },
+  "languageNames": {
+    "en": "english"
+  },
+  "bucketConcepts": {
+    "1322291000000109": {
+      "conceptId": "1322291000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "National Health Service Care Record Element association reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "NHS Care Record Element association reference set",
+        "lang": "en"
+      },
+      "id": "1322291000000109"
+    },
+    "991411000000109": {
+      "conceptId": "991411000000109",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "991411000000109"
+    },
+    "1127601000000107": {
+      "conceptId": "1127601000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Healthcare matters simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Healthcare matters simple reference set",
+        "lang": "en"
+      },
+      "id": "1127601000000107"
+    },
+    "1382531000000102": {
+      "conceptId": "1382531000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care diagnosis max simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care diagnosis max simple reference set",
+        "lang": "en"
+      },
+      "id": "1382531000000102"
+    },
+    "991401000000107": {
+      "conceptId": "991401000000107",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Emergency care presenting complaints or issues simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Emergency care presenting complaints or issues simple reference set",
+        "lang": "en"
+      },
+      "id": "991401000000107"
+    },
+    "2222191000000108": {
+      "conceptId": "2222191000000108",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurology, neurodevelopmental and neurodisability disorders simple reference set",
+        "lang": "en"
+      },
+      "id": "2222191000000108"
+    },
+    "999002271000000101": {
+      "conceptId": "999002271000000101",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000011000000103",
+      "fsn": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "International Classification of Diseases, Tenth Revision, Fifth Edition, five character code United Kingdom complex map reference set",
+        "lang": "en"
+      },
+      "id": "999002271000000101"
+    },
+    "999000011000000103": {
+      "conceptId": "999000011000000103",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom clinical extension module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT United Kingdom clinical extension module",
+        "lang": "en"
+      },
+      "id": "999000011000000103"
+    },
+    "900000000000207008": {
+      "conceptId": "900000000000207008",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "SNOMED CT core module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT core",
+        "lang": "en"
+      },
+      "id": "900000000000207008"
+    },
+    "900000000000497000": {
+      "conceptId": "900000000000497000",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "CTV3 to SNOMED CT simple map reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "CTV3 to SNOMED CT simple map",
+        "lang": "en"
+      },
+      "id": "900000000000497000"
+    },
+    "733073007": {
+      "conceptId": "733073007",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "900000000000012004",
+      "fsn": {
+        "term": "OWL axiom reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "OWL axiom reference set",
+        "lang": "en"
+      },
+      "id": "733073007"
+    },
+    "999000041000000102": {
+      "conceptId": "999000041000000102",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000041000000102",
+      "fsn": {
+        "term": "SNOMED CT United Kingdom Edition module (core metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "SNOMED CT UK Edition module",
+        "lang": "en"
+      },
+      "id": "999000041000000102"
+    },
+    "999001751000000105": {
+      "conceptId": "999001751000000105",
+      "active": true,
+      "definitionStatus": "PRIMITIVE",
+      "moduleId": "999000021000000109",
+      "fsn": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set (foundation metadata concept)",
+        "lang": "en"
+      },
+      "pt": {
+        "term": "Paediatric neurodisability outpatient diagnosis simple reference set",
+        "lang": "en"
+      },
+      "id": "999001751000000105"
+    }
+  },
+  "totalElements": 121,
+  "totalPages": 3,
+  "last": false,
+  "numberOfElements": 50,
+  "first": true,
+  "size": 50,
+  "number": 0,
+  "items": [
+    {
+      "term": "Loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419045004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Loss of consciousness",
+          "lang": "en"
+        },
+        "id": "419045004"
+      }
+    },
+    {
+      "term": "No loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428913001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No loss of consciousness (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No loss of consciousness",
+          "lang": "en"
+        },
+        "id": "428913001"
+      }
+    },
+    {
+      "term": "Brief loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "32834005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Brief loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Brief loss of consciousness",
+          "lang": "en"
+        },
+        "id": "32834005"
+      }
+    },
+    {
+      "term": "O/E - loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275946007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - loss of consciousness",
+          "lang": "en"
+        },
+        "id": "275946007"
+      }
+    },
+    {
+      "term": "Moderate loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40863000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Moderate duration loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Moderate loss of consciousness",
+          "lang": "en"
+        },
+        "id": "40863000"
+      }
+    },
+    {
+      "term": "Prolonged loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "7862002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Prolonged loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prolonged loss of consciousness",
+          "lang": "en"
+        },
+        "id": "7862002"
+      }
+    },
+    {
+      "term": "Loss of consciousness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "419045004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Loss of consciousness",
+          "lang": "en"
+        },
+        "id": "419045004"
+      }
+    },
+    {
+      "term": "Transient loss of consciousness.",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "271594007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Syncope (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Syncope",
+          "lang": "en"
+        },
+        "id": "271594007"
+      }
+    },
+    {
+      "term": "Collapse with loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1088091000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Collapse with loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Collapse with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "1088091000000107"
+      }
+    },
+    {
+      "term": "No loss of consciousness (situation)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "428913001",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "No loss of consciousness (situation)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "No loss of consciousness",
+          "lang": "en"
+        },
+        "id": "428913001"
+      }
+    },
+    {
+      "term": "Concussion with loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62564004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Concussion with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Concussion with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "62564004"
+      }
+    },
+    {
+      "term": "Brief loss of consciousness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "32834005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Brief loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Brief loss of consciousness",
+          "lang": "en"
+        },
+        "id": "32834005"
+      }
+    },
+    {
+      "term": "On examination - loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275946007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - loss of consciousness",
+          "lang": "en"
+        },
+        "id": "275946007"
+      }
+    },
+    {
+      "term": "Collapse without loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1088101000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Collapse without loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Collapse without loss of consciousness",
+          "lang": "en"
+        },
+        "id": "1088101000000104"
+      }
+    },
+    {
+      "term": "Moderate duration loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40863000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Moderate duration loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Moderate loss of consciousness",
+          "lang": "en"
+        },
+        "id": "40863000"
+      }
+    },
+    {
+      "term": "Concussion with no loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62106007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Concussion with no loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Concussion with no loss of consciousness",
+          "lang": "en"
+        },
+        "id": "62106007"
+      }
+    },
+    {
+      "term": "Near faint without loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000041000000102",
+      "concept": {
+        "conceptId": "427461000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Near syncope (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Near syncope",
+          "lang": "en"
+        },
+        "id": "427461000"
+      }
+    },
+    {
+      "term": "Prolonged loss of consciousness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "7862002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Prolonged loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Prolonged loss of consciousness",
+          "lang": "en"
+        },
+        "id": "7862002"
+      }
+    },
+    {
+      "term": "Collapse with LOC (loss of consciousness)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1088091000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Collapse with loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Collapse with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "1088091000000107"
+      }
+    },
+    {
+      "term": "Collapse without LOC (loss of consciousness)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1088101000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Collapse without loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Collapse without loss of consciousness",
+          "lang": "en"
+        },
+        "id": "1088101000000104"
+      }
+    },
+    {
+      "term": "Collapse with loss of consciousness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1088091000000107",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Collapse with loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Collapse with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "1088091000000107"
+      }
+    },
+    {
+      "term": "Intracranial injury with loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127297005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intracranial injury with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intracranial injury with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "127297005"
+      }
+    },
+    {
+      "term": "Concussion with loss of consciousness (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62564004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Concussion with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Concussion with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "62564004"
+      }
+    },
+    {
+      "term": "On examination - loss of consciousness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "275946007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000041000000102",
+        "fsn": {
+          "term": "On examination - loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "O/E - loss of consciousness",
+          "lang": "en"
+        },
+        "id": "275946007"
+      }
+    },
+    {
+      "term": "Incomplete loss of consciousness without amnesia",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "735662004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incomplete loss of consciousness without amnesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incomplete loss of consciousness without amnesia",
+          "lang": "en"
+        },
+        "id": "735662004"
+      }
+    },
+    {
+      "term": "Brain stem laceration with loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "874943000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Brain stem laceration with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Brain stem laceration with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "874943000"
+      }
+    },
+    {
+      "term": "Collapse without loss of consciousness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "999000011000000103",
+      "concept": {
+        "conceptId": "1088101000000104",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "999000011000000103",
+        "fsn": {
+          "term": "Collapse without loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Collapse without loss of consciousness",
+          "lang": "en"
+        },
+        "id": "1088101000000104"
+      }
+    },
+    {
+      "term": "Traumatic brain injury with loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127298000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic brain injury with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic brain injury with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "127298000"
+      }
+    },
+    {
+      "term": "Moderate duration loss of consciousness (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "40863000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Moderate duration loss of consciousness (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Moderate loss of consciousness",
+          "lang": "en"
+        },
+        "id": "40863000"
+      }
+    },
+    {
+      "term": "Concussion with no loss of consciousness (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "62106007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Concussion with no loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Concussion with no loss of consciousness",
+          "lang": "en"
+        },
+        "id": "62106007"
+      }
+    },
+    {
+      "term": "Traumatic brain injury with no loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127302008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic brain injury with no loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic brain injury with no loss of consciousness",
+          "lang": "en"
+        },
+        "id": "127302008"
+      }
+    },
+    {
+      "term": "Concussion with less than 1 hour loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "209827006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Concussion with less than 1 hour loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Concussion with less than 1 hour loss of consciousness",
+          "lang": "en"
+        },
+        "id": "209827006"
+      }
+    },
+    {
+      "term": "Traumatic brain injury with brief loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127299008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic brain injury with brief loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic brain injury with brief loss of consciousness",
+          "lang": "en"
+        },
+        "id": "127299008"
+      }
+    },
+    {
+      "term": "Intracranial injury with loss of consciousness (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127297005",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intracranial injury with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intracranial injury with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "127297005"
+      }
+    },
+    {
+      "term": "Traumatic brain injury with moderate loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127300000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic brain injury with moderate loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic brain injury with moderate loss of consciousness",
+          "lang": "en"
+        },
+        "id": "127300000"
+      }
+    },
+    {
+      "term": "Open fracture of vault of skull with loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "698618009",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Loss of consciousness co-occurrent and due to open fracture of vault of skull (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Open fracture of vault of skull with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "698618009"
+      }
+    },
+    {
+      "term": "Incomplete loss of consciousness without amnesia (finding)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "735662004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Incomplete loss of consciousness without amnesia (finding)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Incomplete loss of consciousness without amnesia",
+          "lang": "en"
+        },
+        "id": "735662004"
+      }
+    },
+    {
+      "term": "Traumatic brain injury with prolonged loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127301001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic brain injury with prolonged loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic brain injury with prolonged loss of consciousness",
+          "lang": "en"
+        },
+        "id": "127301001"
+      }
+    },
+    {
+      "term": "Closed fracture of base of skull with loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "698620007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Closed fracture of base of skull with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Closed fracture of base of skull with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "698620007"
+      }
+    },
+    {
+      "term": "Brain stem laceration with loss of consciousness (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "874943000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Brain stem laceration with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Brain stem laceration with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "874943000"
+      }
+    },
+    {
+      "term": "Traumatic brain injury with loss of consciousness (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127298000",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic brain injury with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic brain injury with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "127298000"
+      }
+    },
+    {
+      "term": "Closed fracture of vault of skull with loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "698616008",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Loss of consciousness co-occurrent and due to closed fracture of vault of skull (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Closed fracture of vault of skull with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "698616008"
+      }
+    },
+    {
+      "term": "Traumatic subarachnoid hemorrhage with loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "329671000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic subarachnoid hemorrhage with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic subarachnoid hemorrhage with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "329671000119106"
+      }
+    },
+    {
+      "term": "Traumatic subarachnoid haemorrhage with loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "329671000119106",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic subarachnoid hemorrhage with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic subarachnoid hemorrhage with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "329671000119106"
+      }
+    },
+    {
+      "term": "Traumatic brain injury with no loss of consciousness (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127302008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic brain injury with no loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic brain injury with no loss of consciousness",
+          "lang": "en"
+        },
+        "id": "127302008"
+      }
+    },
+    {
+      "term": "Concussion with less than 1 hour loss of consciousness (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "209827006",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Concussion with less than 1 hour loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Concussion with less than 1 hour loss of consciousness",
+          "lang": "en"
+        },
+        "id": "209827006"
+      }
+    },
+    {
+      "term": "Traumatic brain injury with brief loss of consciousness (disorder)",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127299008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Traumatic brain injury with brief loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Traumatic brain injury with brief loss of consciousness",
+          "lang": "en"
+        },
+        "id": "127299008"
+      }
+    },
+    {
+      "term": "Intracranial hemorrhage following injury with loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127308007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intracranial hemorrhage following injury with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intracranial hemorrhage following injury with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "127308007"
+      }
+    },
+    {
+      "term": "Brain injury with open intracranial wound AND loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "13752003",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Brain injury with open intracranial wound AND loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Brain injury with open intracranial wound AND loss of consciousness",
+          "lang": "en"
+        },
+        "id": "13752003"
+      }
+    },
+    {
+      "term": "Intracranial haemorrhage following injury with loss of consciousness",
+      "active": true,
+      "languageCode": "en",
+      "module": "900000000000207008",
+      "concept": {
+        "conceptId": "127308007",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+          "term": "Intracranial hemorrhage following injury with loss of consciousness (disorder)",
+          "lang": "en"
+        },
+        "pt": {
+          "term": "Intracranial hemorrhage following injury with loss of consciousness",
+          "lang": "en"
+        },
+        "id": "127308007"
+      }
+    }
+  ]
+}

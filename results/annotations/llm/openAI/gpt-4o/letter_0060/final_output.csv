@@ -1,0 +1,29 @@
+text,context,qualifier,laterality,presence,primary_secondary,experiencer,treatment_stage,snomed_ct
+fever,the patient is a 10-month-old male who was seen in the office 1 day prior to admission. he has had a 2-day history of fever that has gone up to as high as 103.6 degrees f.,symptoms,,confirmed,primary,patient,pre-treatment,386661006
+otitis media,admitting diagnoses: 1. fever. 2. otitis media. 3. possible sepsis.,diagnoses,bilateral,confirmed,primary,patient,pre-treatment,65363002
+possible sepsis,admitting diagnoses: 1. fever. 2. otitis media. 3. possible sepsis.,diagnoses,,suspected,secondary,patient,pre-treatment,
+10-month-old male,the patient is a 10-month-old male who was seen in the office 1 day prior to admission.,sociodemographics,,confirmed,,patient,,
+intermittent cough,"he has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",symptoms,,confirmed,secondary,patient,pre-treatment,
+nasal congestion,"he has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",symptoms,,confirmed,secondary,patient,pre-treatment,68235000
+rhinorrhea,"he has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",symptoms,,confirmed,secondary,patient,pre-treatment,
+no history of rashes,"he has also had intermittent cough, nasal congestion, and rhinorrhea and no history of rashes.",symptoms,,negated,,patient,pre-treatment,
+tylenol,"he has been taking tylenol and advil to help decrease the fevers, but the fever has continued to rise.",treatments,,confirmed,secondary,patient,pre-treatment,
+advil,"he has been taking tylenol and advil to help decrease the fevers, but the fever has continued to rise.",treatments,,confirmed,secondary,patient,pre-treatment,9558801000001106
+increased workup of breathing,he was noted to have some increased workup of breathing and parents returned to the office on the day of admission.,symptoms,,confirmed,primary,patient,pre-treatment,
+born at 33 weeks' gestation,significant for being born at 33 weeks' gestation with a birth weight of 5 pounds and 1 ounce.,risk factors,,confirmed,,patient,,
+birth weight of 5 pounds and 1 ounce,significant for being born at 33 weeks' gestation with a birth weight of 5 pounds and 1 ounce.,risk factors,,confirmed,,patient,,
+moderately ill appearing and lethargic,"on exam, he was moderately ill appearing and lethargic.",signs,,confirmed,primary,patient,pre-treatment,
+"tympanic membranes were red and yellow, and opaque bilaterally","tympanic membranes were red and yellow, and opaque bilaterally.",signs,bilateral,confirmed,primary,patient,pre-treatment,
+"increased workup of breathing, moderate tachypnea","lungs showed increased workup of breathing, moderate tachypnea.",signs,,confirmed,primary,patient,pre-treatment,
+"no rales, rhonchi or wheezes","no rales, rhonchi or wheezes were noted.",signs,,negated,,patient,pre-treatment,
+"electrolytes, bun and creatinine, and glucose all of which were within normal limits","he had electrolytes, bun and creatinine, and glucose all of which were within normal limits.",test results,,confirmed,,patient,,
+"white blood cell count was 8.6 with 61% neutrophils, 21% lymphocytes, 17% monocytes, suggestive of a viral infection","white blood cell count was 8.6 with 61% neutrophils, 21% lymphocytes, 17% monocytes, suggestive of a viral infection.",test results,,confirmed,,patient,,
+urinalysis was completely unremarkable,urinalysis was completely unremarkable.,test results,,negated,,patient,,
+"chest x-ray showed a suboptimal inspiration, but no evidence of an acute process in the chest","chest x-ray showed a suboptimal inspiration, but no evidence of an acute process in the chest.",test results,,negated,,patient,,
+ceftriaxone 500 mg iv once daily,"he was given ceftriaxone 500 mg iv once daily to treat otitis media and possible sepsis, and i will add tylenol and ibuprofen as needed for fevers.",treatments,,confirmed,primary,patient,post-treatment,
+tylenol and ibuprofen,"he was given ceftriaxone 500 mg iv once daily to treat otitis media and possible sepsis, and i will add tylenol and ibuprofen as needed for fevers.",treatments,,confirmed,secondary,patient,post-treatment,
+oxygen saturations drop,"overnight, he did have his oxygen saturations drop and went into oxygen overnight.",signs,,confirmed,primary,patient,post-treatment,
+albuterol aerosols every 6 hours,"his lungs remained clear, but because of the need for o2, we instituted albuterol aerosols every 6 hours to help maintain good lung function.",treatments,,confirmed,secondary,patient,post-treatment,
+afebrile,he has become afebrile and was having no further increased work of breathing.,signs,,negated,primary,patient,post-treatment,
+no further increased work of breathing,he has become afebrile and was having no further increased work of breathing.,signs,,negated,primary,patient,post-treatment,
+omnicef 125 mg/5 ml one teaspoon p.o. once daily,"he was continued omnicef 125 mg/5 ml one teaspoon p.o. once daily and instructed to follow up with dr. x, his primary doctor, on the following tuesday.",treatments,,confirmed,primary,patient,post-treatment,
